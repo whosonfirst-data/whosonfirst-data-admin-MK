@@ -1,0 +1,72 @@
+{
+  "id": 1276478785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51556,42.21667,21.51556,42.21667",
+    "geom:latitude":42.21667,
+    "geom:longitude":21.51556,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Durska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859255,
+    "gn:latitude":42.21667,
+    "gn:longitude":21.51556,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Durska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u0443\u0440\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Durska Mahala",
+        "Durska Maala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859255
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2c84e014b6d8f396647b140297203e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276478785,
+            "region_id":85674257
+        }
+    ],
+    "wof:id":1276478785,
+    "wof:lastmodified":1537664934,
+    "wof:name":"Durska Maala",
+    "wof:parent_id":85674257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51556,
+    42.21667,
+    21.51556,
+    42.21667
+],
+  "geometry": {"coordinates":[21.51556,42.21667],"type":"Point"}
+}

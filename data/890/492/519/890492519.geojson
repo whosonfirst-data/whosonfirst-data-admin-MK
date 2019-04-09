@@ -1,0 +1,70 @@
+{
+  "id": 890492519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03472,41.55194,21.03472,41.55194",
+    "geom:latitude":41.55194,
+    "geom:longitude":21.03472,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":179,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Premka"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0440\u0435\u043c\u043a\u0430"
+    ],
+    "qs:name":"Premka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786784,
+        "gp:id":482276,
+        "qs:id":553735
+    },
+    "wof:country":"MK",
+    "wof:created":1469054896,
+    "wof:geomhash":"746d7ca3745fd03bd97459b1f2980ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492519,
+            "region_id":85674407
+        }
+    ],
+    "wof:id":890492519,
+    "wof:lastmodified":1505343799,
+    "wof:name":"Premka",
+    "wof:parent_id":85674407,
+    "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03472,
+    41.55194,
+    21.03472,
+    41.55194
+],
+  "geometry": {"coordinates":[21.03472,41.55194],"type":"Point"}
+}

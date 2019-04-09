@@ -1,0 +1,71 @@
+{
+  "id": 1293818299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25607,42.23819,22.25607,42.23819",
+    "geom:latitude":42.23819,
+    "geom:longitude":22.25607,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Paskulina Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114176,
+    "gn:latitude":42.23819,
+    "gn:longitude":22.25607,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Pa\u0161kulina Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Pa\u0161kulina Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0430\u0448\u043a\u0443\u043b\u0438\u043d\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114176
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"145e76ffa8f3b2078c72a0b302299bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293818299,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1293818299,
+    "wof:lastmodified":1537664966,
+    "wof:name":"Paskulina Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25607,
+    42.23819,
+    22.25607,
+    42.23819
+],
+  "geometry": {"coordinates":[22.25607,42.23819],"type":"Point"}
+}

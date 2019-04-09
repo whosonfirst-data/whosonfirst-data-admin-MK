@@ -1,0 +1,72 @@
+{
+  "id": 1193047725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06209,42.2278,22.06209,42.2278",
+    "geom:latitude":42.2278,
+    "geom:longitude":22.06209,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Gulinci",
+    "gn:country_code":"MK",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":790096,
+    "gn:latitude":42.2278,
+    "gn:longitude":22.06209,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Gulinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u0443\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gulince",
+        "Gulinci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790096
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"8f4663fe9bb1e771cf0c2a63c9138d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1193047725,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":1193047725,
+    "wof:lastmodified":1537664888,
+    "wof:name":"Gulinci",
+    "wof:parent_id":85674503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06209,
+    42.2278,
+    22.06209,
+    42.2278
+],
+  "geometry": {"coordinates":[22.06209,42.2278],"type":"Point"}
+}

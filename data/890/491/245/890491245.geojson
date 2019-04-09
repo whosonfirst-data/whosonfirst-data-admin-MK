@@ -1,0 +1,107 @@
+{
+  "id": 890491245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7628,41.08399,21.7628,41.08399",
+    "geom:latitude":41.08399,
+    "geom:longitude":21.7628,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":687,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Gradeshnica"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:cze_x_preferred":[
+        "Grade\u0161nica"
+    ],
+    "name:dut_x_preferred":[
+        "Grade\u0161nica"
+    ],
+    "name:eng_x_preferred":[
+        "Grade\u0161nica"
+    ],
+    "name:fra_x_preferred":[
+        "Gradechnitsa"
+    ],
+    "name:fre_x_preferred":[
+        "Gradechnitsa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d3\u05e9\u05e0\u05d9\u05e6\u05d4"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Gradeshnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Grade\u0161nica"
+    ],
+    "qs:name":"Grade\u0161nica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"41.085",
+    "wd:longitude":"21.7633",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790242,
+        "qs:id":553924,
+        "wd:id":"Q2916581",
+        "wk:page":"Grade\u0161nica"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054846,
+    "wof:geomhash":"02f59dd24502f50043a350c4bc8362be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491245,
+            "region_id":85674373
+        }
+    ],
+    "wof:id":890491245,
+    "wof:lastmodified":1527736660,
+    "wof:name":"Grade\u0161nica",
+    "wof:parent_id":85674373,
+    "wof:placetype":"locality",
+    "wof:population":687,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7628,
+    41.08399,
+    21.7628,
+    41.08399
+],
+  "geometry": {"coordinates":[21.7628,41.08399],"type":"Point"}
+}

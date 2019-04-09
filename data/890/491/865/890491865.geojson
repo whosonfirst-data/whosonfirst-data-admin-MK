@@ -1,0 +1,91 @@
+{
+  "id": 890491865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19,41.31667,21.19,41.31667",
+    "geom:latitude":41.31667,
+    "geom:longitude":21.19,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":83,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:fre_x_preferred":[
+        "Rakitnitsa"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "Rakitnica"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "qs:name":"Rakitnica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":398,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786519,
+        "gp:id":482372,
+        "qs:id":553721,
+        "wd:id":"Q3074593",
+        "wk:page":"Rakitnica"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054868,
+    "wof:geomhash":"4bf6782681632db4bf6a9267a767c5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491865,
+            "region_id":85674161
+        }
+    ],
+    "wof:id":890491865,
+    "wof:lastmodified":1527736666,
+    "wof:name":"Rakitnica",
+    "wof:parent_id":85674161,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19,
+    41.31667,
+    21.19,
+    41.31667
+],
+  "geometry": {"coordinates":[21.19,41.31667],"type":"Point"}
+}

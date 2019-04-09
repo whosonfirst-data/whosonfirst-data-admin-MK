@@ -1,0 +1,71 @@
+{
+  "id": 1226284907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48741,41.67598,22.48741,41.67598",
+    "geom:latitude":41.67598,
+    "geom:longitude":22.48741,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Karalobosi",
+    "gn:country_code":"MK",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10310220,
+    "gn:latitude":41.67598,
+    "gn:longitude":22.48741,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Karalobosi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "Karalobosi"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043b\u043e\u0431\u043e\u0441\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310220
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2f97fd6c469e0c9a31713f335452fa96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226284907,
+            "region_id":85674191
+        }
+    ],
+    "wof:id":1226284907,
+    "wof:lastmodified":1537664982,
+    "wof:name":"Karalobosi",
+    "wof:parent_id":85674191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48741,
+    41.67598,
+    22.48741,
+    41.67598
+],
+  "geometry": {"coordinates":[22.48741,41.67598],"type":"Point"}
+}

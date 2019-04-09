@@ -1,0 +1,69 @@
+{
+  "id": 1260317443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61327,41.2418,22.61327,41.2418",
+    "geom:latitude":41.2418,
+    "geom:longitude":22.61327,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Furka",
+    "gn:country_code":"MK",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790810,
+    "gn:latitude":41.2418,
+    "gn:longitude":22.61327,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Furka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0424\u0443\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790810,
+        "wk:page":"Furka_%28Macedonia%29"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"e05600575e44579dd33b1e19fdeda0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260317443,
+            "region_id":85674473
+        }
+    ],
+    "wof:id":1260317443,
+    "wof:lastmodified":1537664895,
+    "wof:name":"Furka",
+    "wof:parent_id":85674473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61327,
+    41.2418,
+    22.61327,
+    41.2418
+],
+  "geometry": {"coordinates":[22.61327,41.2418],"type":"Point"}
+}

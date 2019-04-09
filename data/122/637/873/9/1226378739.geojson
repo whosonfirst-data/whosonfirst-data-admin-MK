@@ -1,0 +1,74 @@
+{
+  "id": 1226378739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.425,42.04,21.425,42.04",
+    "geom:latitude":42.04,
+    "geom:longitude":21.425,
+    "gn:admin1_code":"A3",
+    "gn:asciiname":"Suto Orizare",
+    "gn:country_code":"MK",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":833258,
+    "gn:latitude":42.04,
+    "gn:longitude":21.425,
+    "gn:modification_date":"2013-08-09",
+    "gn:name":"\u0160uto Orizare",
+    "gn:population":20800,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0428\u0443\u0442\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u0160uto Orizare"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833258
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"91ba0c7f597785bb68137a48504ffa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226378739,
+            "region_id":85674507
+        }
+    ],
+    "wof:id":1226378739,
+    "wof:lastmodified":1537664919,
+    "wof:name":"Suto Orizare",
+    "wof:parent_id":85674507,
+    "wof:placetype":"locality",
+    "wof:population":20800,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.425,
+    42.04,
+    21.425,
+    42.04
+],
+  "geometry": {"coordinates":[21.425,42.04],"type":"Point"}
+}

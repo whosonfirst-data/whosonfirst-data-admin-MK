@@ -1,0 +1,347 @@
+{
+  "id": 85674287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.025766,
+    "geom:area_square_m":236185344.28381,
+    "geom:bbox":"21.3023895,42.04261,21.5235385,42.2491905",
+    "geom:latitude":42.155249,
+    "geom:longitude":21.405166,
+    "gn:population":9711,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Cucer Sandevo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.154689,
+    "lbl:longitude":21.386753,
+    "meso:adm1_alt":"\u0427\u0443\u0447\u0435\u0440 - \u0421\u0430\u043d\u0434\u0435\u0432\u043e",
+    "meso:adm1_loc":"\u010cu\u010der Sandevo",
+    "meso:gadm_adm1":"\u010cu\u010der Sandevo",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":42.150229,
+    "mps:longitude":21.391529,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e \u00c7u\u00e7er-Sandev\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0648\u062a\u0634\u0631 \u0633\u0627\u0646\u062f\u064a\u0641\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Municipalid\u00e1 de \u010cu\u010der-Sandevo"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u099a\u09be\u09b0-\u09b8\u09be\u09a8\u09cd\u09a6\u09c7\u09ad\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u0447\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina \u010cu\u010der-Sandevo"
+    ],
+    "name:chi_x_preferred":[
+        "\u695a\u585e\u5c14\u6851\u5fb7\u6c83\u533a"
+    ],
+    "name:dan_x_preferred":[
+        "\u010cu\u010der-Sandevo Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:eng_x_preferred":[
+        "Cucer-Sandevo Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "\u010cu\u010der-Sandevon kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Tchoutcher Sandevo"
+    ],
+    "name:fre_x_preferred":[
+        "Tchoutcher Sandevo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e9\u10e3\u10e9\u10d4\u10e0-\u10e1\u10d0\u10dc\u10d3\u10d4\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina \u010cu\u010der-Sandevo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03c3\u03bf\u03cd\u03c4\u03c3\u03b5\u03c1 \u03a3\u03ac\u03bd\u03c4\u03c3\u03b5\u03b2\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac1\u0ab8\u0ac7\u0ab0-\u0ab8\u0ac7\u0aa8\u0aa1\u0ac7\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0938\u0947\u0930-\u0938\u0947\u0902\u0926\u0947\u0935\u094b \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u010cu\u010der-Sandevo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya \u010cu\u010der-Sandevo"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30c1\u30a7\u30eb\u30fb\u30b5\u30f3\u30c7\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0caf\u0cc1\u0c95\u0cb0\u0ccd-\u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0cc6\u0cb5\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10e9\u10d4\u10e0-\u10e1\u10d0\u10dc\u10d3\u10d4\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd94\uccb4\ub974\uc0b0\ub370\ubcf4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cu\u010der-Sandevo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cu\u010der-Sandevo savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u0941\u091a\u0947\u0930-\u0938\u0945\u0928\u0921\u0947\u0935\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Cucer-Sandevo Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0443\u0447\u0435\u0440 \u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e",
+        "\u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cu\u010der-Sandevo Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:nob_x_preferred":[
+        "Cucer-Sandevo kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Czuczer-Sandewo"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio Cucer-Sandevo"
+    ],
+    "name:rum_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd4\u0dc3\u0dbb\u0dca-\u0dc3\u0dd0\u0db1\u0dca\u0da9\u0dd9\u0dc0\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de \u010cu\u010der-Sandevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb8\u0bcd\u0bb0\u0bcd-\u0b9a\u0ba3\u0bcd\u0b9f\u0bc7\u0bb5\u0bcb  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c42\u0c38\u0c30\u0c4d-\u0c38\u0c3e\u0c02\u0c21\u0c47\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0427\u0443\u0447\u0435\u0440 \u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e39\u0e40\u0e0b\u0e2d-\u0e0b\u0e32\u0e19\u0e40\u0e14\u0e42\u0e27 \u0e21\u0e39\u0e19\u0e34\u0e0b\u0e34\u0e1e\u0e31\u0e25\u0e25\u0e34\u0e15\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Cucer-Sandevo Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:und_x_colloquial":[
+        "Cucer-Sandevo",
+        "Opstina Cucer-Sandevo"
+    ],
+    "name:und_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:und_x_variant":[
+        "Chucher - Sandevo",
+        "Opstina \u010cu\u010der-Sandevo"
+    ],
+    "name:unk_x_variant":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0686\u0648\u0686\u0631-\u0633\u0627\u0646\u062f\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Cucer-Sandevo"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2926",
+    "ne:adm1_code":"MKD-2926",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.CS",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2926",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK20",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.20",
+    "ne:gn_id":"863842",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Cucer-Sandevo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK20",
+    "ne:gns_id":"9075604",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Cucer-Sandevo, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"42.13530000000",
+    "ne:longitude":"21.38850000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Cucer Sandevo",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CS",
+    "ne:provnum_ne":"20004",
+    "ne:region":"Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550830,
+    "ne:woe_label":"Cucer-Sandevo Municipality, MK, Macedonia",
+    "ne:woe_name":"Cucer Sandevo",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Cucer Sandevo",
+    "qs:a1_lc":"MKD-2926",
+    "qs:a1r":"Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"215",
+    "statoids:area_mi":"83",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Cucer-Sandevo",
+    "statoids:country":"MK",
+    "statoids:gec":"MK20",
+    "statoids:hasc":"MK.CS",
+    "statoids:iso":"82",
+    "statoids:name":"Chucher Sandevo",
+    "statoids:population":"8493",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-82",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK20",
+        "gn:id":863842,
+        "gp:id":24550830,
+        "hasc:id":"MK.CS",
+        "iso:id":"MK-82",
+        "qs:id":1311349,
+        "unlc:id":"MK-82",
+        "wd:id":"Q629720",
+        "wk:page":"\u010cu\u010der-Sandevo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"27012eeeeb47945f53a3721fa8097295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674287
+        }
+    ],
+    "wof:id":85674287,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Cucer Sandevo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":8493,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"CS",
+    "wof:subdivision":"MK-82",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30238949999978,
+    42.04260999999985,
+    21.52353849999977,
+    42.24919049999986
+],
+  "geometry": {"coordinates":[[[21.44309199999978,42.23562249999986],[21.45994299999978,42.23945099999986],[21.46330149999977,42.23618499999986],[21.47064699999979,42.23838499999985],[21.47129399999977,42.23484299999984],[21.48811499999977,42.22397849999984],[21.50274749999977,42.22255299999986],[21.50782349999977,42.21318649999986],[21.52071899999979,42.20407499999985],[21.52353849999977,42.19670549999987],[21.51830099999978,42.19473499999984],[21.51539199999979,42.18524399999984],[21.51833349999978,42.17853349999984],[21.51492799999977,42.17906149999985],[21.51394199999979,42.17287899999985],[21.51059499999977,42.17066399999985],[21.49918999999977,42.17063599999986],[21.49613749999978,42.16302899999985],[21.48707499999978,42.16335749999985],[21.48915399999979,42.15671699999984],[21.48268249999978,42.15527349999985],[21.47740249999978,42.15775099999985],[21.47024499999978,42.15452999999985],[21.46683149999978,42.14810849999986],[21.46173949999977,42.14955099999986],[21.45956499999977,42.14315499999987],[21.44472049999979,42.13014199999986],[21.44472349999978,42.11407949999986],[21.43650899999977,42.09546549999985],[21.44265099999978,42.08479549999984],[21.44260249999977,42.07471399999986],[21.44662399999979,42.07257699999985],[21.44352399999977,42.06681849999984],[21.44535899999977,42.05416749999986],[21.45083299999979,42.05530649999986],[21.45091049999976,42.05393799999985],[21.44161249999979,42.04722099999984],[21.44232949999977,42.04500399999986],[21.43702149999979,42.04493499999984],[21.43733049999977,42.04260999999985],[21.42860699999977,42.04833549999987],[21.42797099999979,42.04665249999985],[21.42311149999978,42.05010899999985],[21.42357649999977,42.05383649999985],[21.42655199999979,42.05395599999986],[21.42595749999978,42.05799699999986],[21.41810399999977,42.05791549999987],[21.41795599999978,42.06062999999986],[21.41062149999979,42.06523649999986],[21.40733699999979,42.07074699999984],[21.40230699999978,42.06670549999984],[21.40058299999978,42.06053149999985],[21.39315249999979,42.06150749999986],[21.39254249999979,42.05868149999986],[21.39595049999977,42.05706399999985],[21.39215899999977,42.05684499999984],[21.39384849999979,42.04886749999986],[21.39091199999979,42.04850949999985],[21.38884549999977,42.04446949999985],[21.38334049999978,42.04516749999985],[21.37713099999979,42.04286549999986],[21.36916649999978,42.04514649999984],[21.36653249999978,42.05120099999985],[21.36817799999977,42.05352299999984],[21.36260199999978,42.06033199999985],[21.36452849999978,42.06898349999986],[21.35336149999978,42.07873899999984],[21.34176799999977,42.07881799999984],[21.33573149999978,42.08516149999986],[21.33572099999978,42.09140949999986],[21.32765249999977,42.10504949999986],[21.31832249999977,42.10885049999985],[21.31863149999978,42.11155349999984],[21.31438899999978,42.11805099999984],[21.31155799999979,42.12472149999985],[21.30724,42.13032749999985],[21.30393999999978,42.13582199999985],[21.30277299999977,42.14057399999984],[21.30238949999978,42.14130799999984],[21.30365249999977,42.14201599999984],[21.30513299999978,42.14361799999986],[21.30793749999978,42.14457399999986],[21.30882199999976,42.14617249999986],[21.30771499999977,42.14771749999986],[21.31073849999979,42.14929049999986],[21.31139399999978,42.15013349999984],[21.31491049999977,42.15523199999984],[21.31652049999977,42.15636249999986],[21.31668049999979,42.15715599999984],[21.31857249999979,42.16480049999984],[21.31778599999978,42.16887649999984],[21.31786149999976,42.17008949999985],[21.31886699999978,42.17242549999986],[21.32419499999978,42.17579899999984],[21.32653049999979,42.17701799999986],[21.32869749999978,42.17943349999985],[21.32969949999978,42.18180499999985],[21.33070149999978,42.18417599999984],[21.33428699999979,42.18870399999986],[21.33520249999978,42.19032449999986],[21.33548399999978,42.19125849999986],[21.33528249999978,42.19258449999984],[21.33468299999979,42.19338749999986],[21.33366549999977,42.19406799999985],[21.33257299999977,42.19522399999985],[21.33214049999978,42.19619949999986],[21.33106149999978,42.19907149999986],[21.33118449999978,42.20015399999986],[21.33199199999979,42.20190299999985],[21.33374249999977,42.20375899999985],[21.33719899999977,42.20566499999984],[21.34044599999979,42.20473549999986],[21.34576049999978,42.20557949999986],[21.34903399999979,42.20891299999985],[21.35110949999978,42.21205399999985],[21.35324499999979,42.21522849999985],[21.35742299999978,42.21929899999986],[21.36074449999978,42.22075249999986],[21.36418099999977,42.22180249999985],[21.36761499999977,42.22387899999984],[21.37107449999976,42.22660499999986],[21.37211749999977,42.22882949999985],[21.37424249999978,42.23266999999984],[21.37827499999977,42.23734099999984],[21.38333049999977,42.24297349999986],[21.38503249999977,42.24422249999986],[21.38833599999978,42.24531249999984],[21.39439449999978,42.2472],[21.39925099999977,42.24919049999986],[21.40129249999978,42.24915699999985],[21.40202099999979,42.24896499999986],[21.41102699999979,42.24541249999984],[21.41983249999979,42.24225999999985],[21.42116349999978,42.24246549999984],[21.42287149999979,42.24262699999986],[21.42465849999977,42.24096849999984],[21.42790649999978,42.24077199999985],[21.43384949999978,42.23713249999986],[21.43553249999977,42.23566499999984],[21.43558999999979,42.23482499999986],[21.43734499999977,42.23424499999985],[21.44031349999977,42.23417549999985],[21.44251749999978,42.23505199999985],[21.44309199999978,42.23562249999986]]],"type":"Polygon"}
+}

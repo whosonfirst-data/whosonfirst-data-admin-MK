@@ -1,0 +1,73 @@
+{
+  "id": 890492321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45167,41.50083,21.45167,41.50083",
+    "geom:latitude":41.50083,
+    "geom:longitude":21.45167,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":256,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Slep\u010de"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u043b\u0435\u043f\u0447\u0435"
+    ],
+    "qs:name":"Slep\u010de",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785791,
+        "gp:id":482783,
+        "qs:id":83591,
+        "wd:id":"Q3074701",
+        "wk:page":"Slep\u010de"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054885,
+    "wof:geomhash":"08c0ffd07b11a7ede4411cc848778ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492321,
+            "region_id":85674293
+        }
+    ],
+    "wof:id":890492321,
+    "wof:lastmodified":1527793031,
+    "wof:name":"Slep\u010de",
+    "wof:parent_id":85674293,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45167,
+    41.50083,
+    21.45167,
+    41.50083
+],
+  "geometry": {"coordinates":[21.45167,41.50083],"type":"Point"}
+}

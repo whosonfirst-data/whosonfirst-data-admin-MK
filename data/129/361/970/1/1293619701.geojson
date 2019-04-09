@@ -1,0 +1,71 @@
+{
+  "id": 1293619701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98983,41.02425,20.98983,41.02425",
+    "geom:latitude":41.02425,
+    "geom:longitude":20.98983,
+    "gn:admin1_code":"86",
+    "gn:asciiname":"Gorno Perovo",
+    "gn:country_code":"MK",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8412971,
+    "gn:latitude":41.02425,
+    "gn:longitude":20.98983,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Gorno Perovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Gorno Perovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u043e\u0440\u043d\u043e \u041f\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8412971
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"049534cb3a152f59f14bd577c4151339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293619701,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":1293619701,
+    "wof:lastmodified":1537664953,
+    "wof:name":"Gorno Perovo",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98983,
+    41.02425,
+    20.98983,
+    41.02425
+],
+  "geometry": {"coordinates":[20.98983,41.02425],"type":"Point"}
+}

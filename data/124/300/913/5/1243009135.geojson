@@ -1,0 +1,71 @@
+{
+  "id": 1243009135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83278,41.89607,20.83278,41.89607",
+    "geom:latitude":41.89607,
+    "geom:longitude":20.83278,
+    "gn:admin1_code":"B7",
+    "gn:asciiname":"Lomnica",
+    "gn:country_code":"MK",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788501,
+    "gn:latitude":41.89607,
+    "gn:longitude":20.83278,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Lomnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Lomnica"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u043e\u043c\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788501
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a729e4b1a511b8d286c0bf3f8e07fc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243009135,
+            "region_id":85674421
+        }
+    ],
+    "wof:id":1243009135,
+    "wof:lastmodified":1537664875,
+    "wof:name":"Lomnica",
+    "wof:parent_id":85674421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83278,
+    41.89607,
+    20.83278,
+    41.89607
+],
+  "geometry": {"coordinates":[20.83278,41.89607],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 890491353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32417,41.05306,21.32417,41.05306",
+    "geom:latitude":41.05306,
+    "geom:longitude":21.32417,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":167,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Rrashtani"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0449\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Ra\u0161tani"
+    ],
+    "name:eng_x_preferred":[
+        "Ra\u0161tani"
+    ],
+    "name:fre_x_preferred":[
+        "Rachtani"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Rasztani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rasjtani"
+    ],
+    "qs:name":"Ra\u0161tani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:elevation":662.0,
+    "wd:latitude":"41.0531",
+    "wd:longitude":"21.3242",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786443,
+        "gp:id":481746,
+        "qs:id":553709,
+        "wd:id":"Q3039772",
+        "wk:page":"Ra\u0161tani"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054849,
+    "wof:geomhash":"5e0db85b8e8e2f830f0392da78d666af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491353,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491353,
+    "wof:lastmodified":1553816419,
+    "wof:name":"Ra\u0161tani",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32417,
+    41.05306,
+    21.32417,
+    41.05306
+],
+  "geometry": {"coordinates":[21.32417,41.05306],"type":"Point"}
+}

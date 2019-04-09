@@ -1,0 +1,187 @@
+{
+  "id": 890491073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44028,41.34306,21.44028,41.34306",
+    "geom:latitude":41.34306,
+    "geom:longitude":21.44028,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":906,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Konjari i Madh"
+    ],
+    "name:bar_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e \u041a\u043e\u043d\u044f\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:cze_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:dan_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:dut_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:eng_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:epo_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:fin_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:fre_x_preferred":[
+        "Golemo Konyari"
+    ],
+    "name:ger_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:gla_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:glg_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:gsw_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:hrv_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:hun_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:ice_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:ind_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:ita_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:ltz_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e \u041a\u043e\u045a\u0430\u0440\u0438"
+    ],
+    "name:may_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:min_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e \u041a\u043e\u045a\u0430\u0440\u0438"
+    ],
+    "name:nds_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:nno_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:nob_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:pol_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:por_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:rum_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:slo_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:slv_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:spa_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u0438 \u041a\u043e\u045a\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Golemo Konjari"
+    ],
+    "name:unk_x_variant":[
+        "Golemo Kojnari"
+    ],
+    "qs:name":"Golemo Konjari",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Prilep",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":608.0,
+    "wd:latitude":"41.34305556",
+    "wd:longitude":"21.44027778",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790608,
+        "gp:id":482097,
+        "qs:id":269930,
+        "wd:id":"Q3110142",
+        "wk:page":"Golemo Konjari"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054839,
+    "wof:geomhash":"f64cfdad36ddbad10ca89ffedec5df71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491073,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890491073,
+    "wof:lastmodified":1527736665,
+    "wof:name":"Golemo Konjari",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":906,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44028,
+    41.34306,
+    21.44028,
+    41.34306
+],
+  "geometry": {"coordinates":[21.44028,41.34306],"type":"Point"}
+}

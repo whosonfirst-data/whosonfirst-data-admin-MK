@@ -1,0 +1,71 @@
+{
+  "id": 1326865127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94194,41.84917,20.94194,41.84917",
+    "geom:latitude":41.84917,
+    "geom:longitude":20.94194,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Tumceviste",
+    "gn:country_code":"MK",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784836,
+    "gn:latitude":41.84917,
+    "gn:longitude":20.94194,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Tum\u010devi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Tum\u010devi\u0161te"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0443\u043c\u0447\u0435\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784836
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"3dae106ed89e19789e9e19b8c06e17ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326865127,
+            "region_id":85674433
+        }
+    ],
+    "wof:id":1326865127,
+    "wof:lastmodified":1537664843,
+    "wof:name":"Tumceviste",
+    "wof:parent_id":85674433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94194,
+    41.84917,
+    20.94194,
+    41.84917
+],
+  "geometry": {"coordinates":[20.94194,41.84917],"type":"Point"}
+}

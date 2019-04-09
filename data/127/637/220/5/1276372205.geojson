@@ -1,0 +1,69 @@
+{
+  "id": 1276372205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5276,42.1058,22.5276,42.1058",
+    "geom:latitude":42.1058,
+    "geom:longitude":22.5276,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Sasa",
+    "gn:country_code":"MK",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":786067,
+    "gn:latitude":42.1058,
+    "gn:longitude":22.5276,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Sasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0441\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786067,
+        "wk:page":"Sasa%2C_Republic_of_Macedonia"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"dfd141a6dd5ddd4dd05174a12cc6687d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276372205,
+            "region_id":85674489
+        }
+    ],
+    "wof:id":1276372205,
+    "wof:lastmodified":1537664855,
+    "wof:name":"Sasa",
+    "wof:parent_id":85674489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5276,
+    42.1058,
+    22.5276,
+    42.1058
+],
+  "geometry": {"coordinates":[22.5276,42.1058],"type":"Point"}
+}

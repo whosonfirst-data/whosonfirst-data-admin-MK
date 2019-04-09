@@ -1,0 +1,339 @@
+{
+  "id": 85674315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.010504,
+    "geom:area_square_m":96530601.736243,
+    "geom:bbox":"21.529365,41.9369205,21.700763,42.058335",
+    "geom:latitude":41.996201,
+    "geom:longitude":21.627766,
+    "gn:population":16710,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Ilinden Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.003022,
+    "lbl:longitude":21.634907,
+    "meso:adm1_alt":"\u0418\u043b\u0438\u043d\u0434\u0435\u043d",
+    "meso:adm1_loc":"Ilinden",
+    "meso:gadm_adm1":"Ilinden",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":41.981616,
+    "mps:longitude":21.627698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Belimbegut"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0625\u0644\u064a\u0646\u062f\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b2\u09bf\u09a8\u09cd\u09a1\u09c7\u09a8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u043c\u0431\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Ilinden"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u6797\u767b\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Ilinden Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Ilinden"
+    ],
+    "name:eng_x_preferred":[
+        "Ilinden Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Ilinden"
+    ],
+    "name:fin_x_preferred":[
+        "Ilindenin kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Ilinden"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d8\u10da\u10d8\u10dc\u10d3\u10d4\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Ilinden"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u038a\u03bb\u03b9\u03bd\u03c4\u03b5\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a87\u0ab2\u0abf\u0aa8\u0acd\u0aa1\u0ac7\u0aa8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0932\u093f\u0928\u094d\u0921\u0947\u0928 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Ilinden"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Ilinden"
+    ],
+    "name:ita_x_preferred":[
+        "Ilinden"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ea\u30f3\u30c7\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c87\u0cb2\u0cbf\u0ca8\u0c82\u0ca1\u0cc6 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10da\u10d8\u10dc\u10d3\u10d4\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub9b0\ub374 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Ilindenas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Ilindeno savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0418\u043b\u0438\u043d\u0434\u0435\u043d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0907\u0932\u093f\u0928\u094d\u0921\u0947\u0928 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Ilinden Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "Ilinden"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0418\u043b\u0438\u043d\u0434\u0435\u043d",
+        "\u0418\u043b\u0438\u043d\u0434\u0435\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Ilinden Chh\u012b"
+    ],
+    "name:nob_x_preferred":[
+        "Ilinden Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ilinden"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Ilinden"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0438\u043d\u0434\u0435\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0db1\u0dca\u0da9\u0dd9\u0db1\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Ilinden"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Belimbegut"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0418\u043b\u0438\u043d\u0434\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ilinden"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c07\u0c32\u0c3f\u0c02\u0c21\u0c46\u0c28\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0418\u043b\u0438\u043d\u0434\u0435\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2d\u0e35\u0e25\u0e34\u0e19\u0e40\u0e14\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "IIinden Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0438\u043d\u0434\u0435\u043d"
+    ],
+    "name:und_x_preferred":[
+        "Ilinden"
+    ],
+    "name:und_x_variant":[
+        "Opstina Ilinden"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Ilinden"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644\u0646\u062f\u0646 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Ilinden"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6797\u767b\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2933",
+    "ne:adm1_code":"MKD-2933",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.IL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2933",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK36",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.36",
+    "ne:gn_id":"863856",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Ilinden",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK36",
+    "ne:gns_id":"9075621",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ilinden, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.97580000000",
+    "ne:longitude":"21.60930000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Ilinden",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"IL",
+    "ne:provnum_ne":"20048",
+    "ne:region":"Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550769,
+    "ne:woe_label":"Ilinden Municipality, MK, Macedonia",
+    "ne:woe_name":"Ilinden",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Ilinden",
+    "qs:a1_lc":"MKD-2933",
+    "qs:a1r":"Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"97",
+    "statoids:area_mi":"37",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Ilinden",
+    "statoids:country":"MK",
+    "statoids:gec":"MK36",
+    "statoids:hasc":"MK.IL",
+    "statoids:iso":"34",
+    "statoids:name":"Ilinden",
+    "statoids:population":"15894",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-34",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK36",
+        "gn:id":863856,
+        "gp:id":24550769,
+        "hasc:id":"MK.IL",
+        "iso:id":"MK-34",
+        "qs:id":231607,
+        "unlc:id":"MK-34",
+        "wd:id":"Q657754",
+        "wk:page":"Ilinden Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"594a0a45e54869a159f23882fea14b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674315
+        }
+    ],
+    "wof:id":85674315,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Ilinden",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":15894,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"IL",
+    "wof:subdivision":"MK-34",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52936499999979,
+    41.93692049999984,
+    21.70076299999977,
+    42.05833499999986
+],
+  "geometry": {"coordinates":[[[21.55049549999978,42.00766249999984],[21.55366499999977,42.00184149999984],[21.56453149999979,42.00719399999986],[21.57171849999978,42.01652349999986],[21.57640049999978,42.01470749999984],[21.57805049999979,42.01729649999984],[21.58619149999979,42.01903249999984],[21.59452899999977,42.01746149999985],[21.60068649999977,42.01915949999986],[21.60872399999977,42.03078349999984],[21.60989349999977,42.03756949999985],[21.61974549999977,42.04281499999985],[21.62068049999976,42.04697399999986],[21.62603499999977,42.04652099999984],[21.62563599999979,42.04245499999985],[21.62972599999978,42.04230999999984],[21.63161849999977,42.04482399999986],[21.62740849999977,42.05212299999985],[21.63821999999979,42.05833499999986],[21.65142449999979,42.04442],[21.65986549999977,42.04852399999984],[21.66462499999977,42.04716449999984],[21.66828949999979,42.04157949999984],[21.66822799999977,42.03506349999986],[21.67503099999979,42.03245149999984],[21.69122449999978,42.03363199999984],[21.70076299999977,42.03124699999984],[21.70003749999978,42.01696999999984],[21.69094549999977,42.00582499999985],[21.69435049999979,42.00102449999986],[21.68534449999979,41.99996349999986],[21.68281199999979,41.98369899999986],[21.67362699999978,41.98138049999986],[21.67966349999978,41.97770599999984],[21.67620799999978,41.97324399999985],[21.67724999999979,41.96917799999986],[21.68235049999979,41.96728349999984],[21.69114199999979,41.95590299999986],[21.68260149999978,41.95018499999986],[21.66962899999979,41.94996449999985],[21.66720699999979,41.95251499999986],[21.65729149999979,41.95062349999986],[21.65201149999979,41.95273749999984],[21.65327249999979,41.95654949999985],[21.64379549999978,41.96059699999986],[21.64128149999979,41.95939649999985],[21.64025299999977,41.96315549999986],[21.63352799999979,41.96572099999986],[21.62869749999979,41.96088349999985],[21.62990099999979,41.95319899999984],[21.62673299999977,41.94882749999985],[21.62465749999978,41.94823749999986],[21.62018649999979,41.95396999999986],[21.61739949999978,41.95379549999984],[21.60679249999978,41.94888649999984],[21.60873999999978,41.94476649999984],[21.60318449999977,41.94379099999986],[21.59623349999978,41.94635099999985],[21.59715299999976,41.93803999999986],[21.58983999999978,41.93692049999984],[21.58369449999978,41.94642249999984],[21.58831799999979,41.95044349999986],[21.58440499999978,41.95431149999985],[21.58700099999979,41.95720299999985],[21.58119849999977,41.95971449999985],[21.58575049999979,41.96247299999985],[21.57908199999977,41.97055999999986],[21.57034899999977,41.97252499999985],[21.57381599999977,41.97555649999984],[21.54790549999979,41.98056349999985],[21.52936499999979,41.99084949999985],[21.53505449999977,41.99122749999984],[21.53642699999978,41.99514349999984],[21.54787399999978,41.99840499999985],[21.54684599999979,42.00216099999986],[21.55021399999978,42.00343649999985],[21.54704499999977,42.00610299999985],[21.55049549999978,42.00766249999984]]],"type":"Polygon"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 890491499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40861,41.23694,21.40861,41.23694",
+    "geom:latitude":41.23694,
+    "geom:longitude":21.40861,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":203,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Trojk\u00ebrsti"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u043e\u0439\u043a\u044a\u0440\u0441\u0442\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Trojkrsti"
+    ],
+    "name:fre_x_preferred":[
+        "Troykrsti"
+    ],
+    "name:mac_x_preferred":[
+        "\u0422\u0440\u043e\u0458\u043a\u0440\u0441\u0442\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "Trojkrsti"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0440\u043e\u0458\u043a\u0440\u0441\u0442\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u043e\u0458\u043a\u0440\u0441\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Trojkrsti"
+    ],
+    "qs:name":"Trojkrsti",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784894,
+        "qs:id":83554,
+        "wd:id":"Q3074088",
+        "wk:page":"Trojkrsti"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054855,
+    "wof:geomhash":"93b06e28f4ecbc3b8e593bcbca911223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491499,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890491499,
+    "wof:lastmodified":1527736661,
+    "wof:name":"Trojkrsti",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40861,
+    41.23694,
+    21.40861,
+    41.23694
+],
+  "geometry": {"coordinates":[21.40861,41.23694],"type":"Point"}
+}

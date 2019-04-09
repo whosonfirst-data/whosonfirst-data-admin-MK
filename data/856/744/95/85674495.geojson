@@ -1,0 +1,339 @@
+{
+  "id": 85674495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.022509,
+    "geom:area_square_m":207556105.422008,
+    "geom:bbox":"22.782909,41.6906025,23.032498,41.877877",
+    "geom:latitude":41.779668,
+    "geom:longitude":22.907037,
+    "gn:population":5068,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Phecevo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.789283,
+    "lbl:longitude":22.898553,
+    "meso:adm1_alt":"\u041f\u0435\u0445\u0447\u0435\u0432\u043e",
+    "meso:adm1_loc":"Peh\u010devo",
+    "meso:gadm_adm1":"Peh\u010devo",
+    "meso:gaul_adm1":"Berovo",
+    "mps:latitude":41.779638,
+    "mps:longitude":22.878903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Pe\u00e7ev\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u064a\u062a\u0633\u064a\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u099a\u09c7\u09ad\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Peh\u010devo"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f69\u8d6b\u585e\u6c83\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Peh\u010devo Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Peh\u010devo"
+    ],
+    "name:eng_x_preferred":[
+        "Pehcevo Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Peh\u010devon kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Pehtchevo"
+    ],
+    "name:fre_x_preferred":[
+        "Pehtchevo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d4\u10ee\u10e9\u10d4\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Peh\u010devo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b5\u03c7\u03c4\u03c3\u03ad\u03b2\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac7\u0ab6\u0ac7\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u092f\u0938\u0940\u0935\u094b \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Peh\u010devo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Peh\u010devo"
+    ],
+    "name:ita_x_preferred":[
+        "Peh\u010devo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30d5\u30c1\u30a7\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cc6\u0cb9\u0cc6\u0cb8\u0cc6\u0cb5\u0cca \u0cae\u0cc1\u0ca8\u0ccd\u0cb8\u0cbf\u0caa\u0cbe\u0cb2\u0cbf\u0c9f\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10ee\u10e9\u10d4\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ud750\uccb4\ubcf4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Peh\u010devo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Pech\u010devo savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0947\u092f\u0947\u0935\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Pehcevo Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Pehtchevo"
+    ],
+    "name:nld_x_preferred":[
+        "Peh\u010devo"
+    ],
+    "name:nob_x_preferred":[
+        "Pehcevo kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Peh\u010devo"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Pehcevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd9\u0dc3\u0dd9\u0dc0\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Peh\u010devo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Peh\u010devo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0bb9\u0bb8\u0bcd\u0bb5\u0bcb  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c46\u0c39\u0c4d\u0c38\u0c47\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041f\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e1b\u0e04\u0e40\u0e0b\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Pehcevo Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_colloquial":[
+        "Opstina Pehcevo",
+        "Pehcevo"
+    ],
+    "name:und_x_preferred":[
+        "Peh\u010devo"
+    ],
+    "name:und_x_variant":[
+        "Opstina Peh\u010devo"
+    ],
+    "name:unk_x_variant":[
+        "Peh\u010devo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u067e\u06cc\u062e\u0686\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Pehcevo"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-3007",
+    "ne:adm1_code":"MKD-3007",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.PH",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"3007",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK78",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.78",
+    "ne:gn_id":"862938",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Pehcevo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK78",
+    "ne:gns_id":"9043196",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Pehcevo, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.79170000000",
+    "ne:longitude":"22.88330000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Phecevo",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PH",
+    "ne:provnum_ne":"20021",
+    "ne:region":"Eastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550854,
+    "ne:woe_label":"",
+    "ne:woe_name":"Pehcevo Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Phecevo",
+    "qs:a1_lc":"MKD-3007",
+    "qs:a1r":"Eastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"208",
+    "statoids:area_mi":"80",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Pehcevo",
+    "statoids:country":"MK",
+    "statoids:gec":"MK78",
+    "statoids:hasc":"MK.PH",
+    "statoids:iso":"60",
+    "statoids:name":"Pehchevo",
+    "statoids:population":"5517",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-60",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK78",
+        "gn:id":862938,
+        "gp:id":24550854,
+        "hasc:id":"MK.PH",
+        "iso:id":"MK-60",
+        "qs:id":999055,
+        "unlc:id":"MK-60",
+        "wd:id":"Q426114",
+        "wk:page":"Peh\u010devo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a471dfe2346aa25eb782b4afa5c8b212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674495
+        }
+    ],
+    "wof:id":85674495,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Phecevo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":5517,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"PH",
+    "wof:subdivision":"MK-60",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78290899999979,
+    41.69060249999984,
+    23.03249799999978,
+    41.87787699999984
+],
+  "geometry": {"coordinates":[[[22.78748049999979,41.80309849999986],[22.78382799999977,41.80931949999984],[22.78930599999978,41.81485599999985],[22.79595899999978,41.81225249999986],[22.80642849999978,41.81310399999984],[22.81166199999979,41.81886099999986],[22.84232599999979,41.82266599999986],[22.83564699999977,41.82693499999985],[22.84302749999978,41.83000549999986],[22.85478849999978,41.84172699999985],[22.85180299999979,41.85725299999984],[22.86084049999977,41.85850849999986],[22.86576699999978,41.86289999999985],[22.87586,41.86412149999984],[22.88670599999978,41.86877349999986],[22.89272049999977,41.87746249999987],[22.90162399999977,41.87755199999984],[22.90254349999978,41.87581749999984],[22.90491999999978,41.87585499999986],[22.90847649999978,41.87687199999985],[22.91106799999977,41.87787699999984],[22.91438849999977,41.87657199999984],[22.91620699999979,41.87569499999987],[22.91868449999978,41.87345699999986],[22.92220849999978,41.86910049999986],[22.92576399999979,41.86241499999986],[22.92903899999979,41.85653999999985],[22.93049249999979,41.85274399999986],[22.93376299999977,41.84782499999986],[22.93593949999979,41.84463649999987],[22.93797599999976,41.83845099999985],[22.94150549999978,41.83204999999984],[22.94366849999977,41.82791199999986],[22.94211049999979,41.82518249999984],[22.94088999999977,41.82346499999986],[22.94057099999978,41.82188799999986],[22.94067799999976,41.81711549999986],[22.94199099999977,41.81522049999984],[22.94651599999978,41.80855699999987],[22.95063499999978,41.80278049999984],[22.95378499999978,41.79834749999986],[22.95547049999979,41.79500949999985],[22.95873549999979,41.79091949999986],[22.96167999999977,41.78952299999986],[22.96472449999979,41.78725199999985],[22.96543699999978,41.78157149999984],[22.96269649999977,41.77671599999985],[22.96331099999978,41.77504549999986],[22.96477399999978,41.77321149999986],[22.96791749999977,41.77210799999986],[22.97883349999978,41.77037849999985],[22.98303899999976,41.76904299999984],[22.99369099999979,41.76834149999985],[22.99428599999979,41.76830249999986],[23.00187449999979,41.76941399999984],[23.00453999999976,41.76893249999986],[23.00934049999978,41.76639649999984],[23.01321099999979,41.75898899999984],[23.01558599999979,41.75321849999986],[23.01773749999978,41.74858349999985],[23.02326349999979,41.74223699999985],[23.02571349999977,41.73782449999985],[23.02971799999978,41.73059949999984],[23.03249799999978,41.72487999999984],[23.03233749999978,41.72064299999985],[23.03139149999978,41.71938749999984],[23.03115749999978,41.71710349999987],[23.03204449999978,41.71272749999986],[23.03239749999977,41.71209499999986],[23.03222349999979,41.70965149999986],[23.03121899999977,41.70729849999987],[23.02799249999978,41.70415099999985],[23.02233949999979,41.70281149999985],[23.02042949999978,41.70024899999984],[23.01610199999979,41.69433299999986],[23.01376049999979,41.69164899999984],[22.99324099999978,41.69060249999984],[22.98992349999978,41.69645099999985],[22.98456449999978,41.69607949999985],[22.98098249999978,41.70085099999986],[22.96808449999978,41.70456599999986],[22.96462749999978,41.70939949999985],[22.96615999999977,41.71195399999985],[22.95144499999978,41.71331699999985],[22.93727849999976,41.72045049999986],[22.92529949999977,41.71968149999987],[22.92009799999977,41.72277999999986],[22.90612899999977,41.71799499999986],[22.90560399999978,41.72800499999985],[22.89673549999978,41.73690499999987],[22.87992949999978,41.74115999999984],[22.87608949999978,41.74414799999985],[22.86249499999977,41.74535849999984],[22.85666449999977,41.74956949999986],[22.85021499999976,41.74865199999985],[22.84400749999978,41.75079949999986],[22.84230899999977,41.74757749999986],[22.83618449999977,41.75035849999986],[22.82769599999978,41.74266349999985],[22.82195599999977,41.74103199999985],[22.81844149999978,41.73564949999985],[22.81472149999976,41.73506349999985],[22.81029749999979,41.73955949999984],[22.80400749999978,41.74106249999986],[22.80104149999977,41.74637099999984],[22.80698149999978,41.74759249999985],[22.80629699999977,41.74943199999984],[22.81033399999978,41.75116699999984],[22.81170149999977,41.76080449999986],[22.80456299999977,41.76695649999985],[22.80111399999979,41.76251399999984],[22.79750149999978,41.76439649999986],[22.79779949999977,41.77780649999985],[22.78694099999979,41.78076499999986],[22.78290899999979,41.78507449999987],[22.78625699999978,41.78842199999985],[22.78494199999977,41.79465299999984],[22.78894999999977,41.80013799999986],[22.78748049999979,41.80309849999986]]],"type":"Polygon"}
+}

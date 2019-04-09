@@ -1,0 +1,71 @@
+{
+  "id": 1243299545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85006,41.33607,20.85006,41.33607",
+    "geom:latitude":41.33607,
+    "geom:longitude":20.85006,
+    "gn:admin1_code":"F5",
+    "gn:asciiname":"Slatinski Ciflik",
+    "gn:country_code":"MK",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659658,
+    "gn:latitude":41.33607,
+    "gn:longitude":20.85006,
+    "gn:modification_date":"2014-01-17",
+    "gn:name":"Slatinski \u010ciflik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Slatinski \u010ciflik"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0441\u043a\u0438 \u0427\u0438\u0444\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659658
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"229b199891136ce0b14477d0f879234b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243299545,
+            "region_id":85674169
+        }
+    ],
+    "wof:id":1243299545,
+    "wof:lastmodified":1537664959,
+    "wof:name":"Slatinski Ciflik",
+    "wof:parent_id":85674169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85006,
+    41.33607,
+    20.85006,
+    41.33607
+],
+  "geometry": {"coordinates":[20.85006,41.33607],"type":"Point"}
+}

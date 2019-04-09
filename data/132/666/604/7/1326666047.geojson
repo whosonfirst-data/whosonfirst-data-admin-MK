@@ -1,0 +1,71 @@
+{
+  "id": 1326666047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.89257,42.05866,20.89257,42.05866",
+    "geom:latitude":42.05866,
+    "geom:longitude":20.89257,
+    "gn:admin1_code":"E8",
+    "gn:asciiname":"Brodec",
+    "gn:country_code":"MK",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792250,
+    "gn:latitude":42.05866,
+    "gn:longitude":20.89257,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Brodec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Brodec"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u043e\u0434\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792250
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"987b84c69fd4cc410f9ad7ce629b3e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326666047,
+            "region_id":85674417
+        }
+    ],
+    "wof:id":1326666047,
+    "wof:lastmodified":1537664909,
+    "wof:name":"Brodec",
+    "wof:parent_id":85674417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89257000000001,
+    42.05866,
+    20.89257000000001,
+    42.05866
+],
+  "geometry": {"coordinates":[20.89257000000001,42.05866],"type":"Point"}
+}

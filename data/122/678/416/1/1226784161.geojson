@@ -1,0 +1,71 @@
+{
+  "id": 1226784161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99044,42.10604,21.99044,42.10604",
+    "geom:latitude":42.10604,
+    "geom:longitude":21.99044,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kulak",
+    "gn:country_code":"MK",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356792,
+    "gn:latitude":42.10604,
+    "gn:longitude":21.99044,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Kulak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Kulak"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356792
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"c684fea2d3cffa2a46829985ab7af8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226784161,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1226784161,
+    "wof:lastmodified":1537664983,
+    "wof:name":"Kulak",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99044,
+    42.10604,
+    21.99044,
+    42.10604
+],
+  "geometry": {"coordinates":[21.99044,42.10604],"type":"Point"}
+}

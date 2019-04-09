@@ -1,0 +1,71 @@
+{
+  "id": 1293718531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56654,41.97806,22.56654,41.97806",
+    "geom:latitude":41.97806,
+    "geom:longitude":22.56654,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Nevenska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274862,
+    "gn:latitude":41.97806,
+    "gn:longitude":22.56654,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Nevenska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Nevenska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u0435\u0432\u0435\u043d\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274862
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"628102cf68ca9070aa92d3f2c923aa92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293718531,
+            "region_id":85674489
+        }
+    ],
+    "wof:id":1293718531,
+    "wof:lastmodified":1537664969,
+    "wof:name":"Nevenska Maala",
+    "wof:parent_id":85674489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56654,
+    41.97806,
+    22.56654,
+    41.97806
+],
+  "geometry": {"coordinates":[22.56654,41.97806],"type":"Point"}
+}

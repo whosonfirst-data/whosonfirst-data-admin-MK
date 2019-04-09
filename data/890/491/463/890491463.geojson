@@ -1,0 +1,100 @@
+{
+  "id": 890491463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.68556,41.16528,21.68556,41.16528",
+    "geom:latitude":41.16528,
+    "geom:longitude":21.68556,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":348,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "\u00c7anishti"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u043d\u0438\u0449\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cani\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cani\u0161te"
+    ],
+    "name:fre_x_preferred":[
+        "Tchanicht\u00e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0427\u0430\u043d\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u010cani\u0161te"
+    ],
+    "name:mkd_x_variant":[
+        "\u0427\u0430\u043d\u0438\u0448\u0442\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u043d\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u010canisjte"
+    ],
+    "qs:name":"\u010cani\u0161te",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":595.0,
+    "wd:latitude":"41.1653",
+    "wd:longitude":"21.6856",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792057,
+        "gp:id":481746,
+        "qs:id":554046,
+        "wd:id":"Q3073934",
+        "wk:page":"\u010cani\u0161te"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054854,
+    "wof:geomhash":"e4e0d29bf56ad3f45e62adc33c7fc79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491463,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890491463,
+    "wof:lastmodified":1527736661,
+    "wof:name":"\u010cani\u0161te",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":348,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.68556,
+    41.16528,
+    21.68556,
+    41.16528
+],
+  "geometry": {"coordinates":[21.68556,41.16528],"type":"Point"}
+}

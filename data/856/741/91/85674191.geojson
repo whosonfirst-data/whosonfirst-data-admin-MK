@@ -1,0 +1,326 @@
+{
+  "id": 85674191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.053739,
+    "geom:area_square_m":496458862.350942,
+    "geom:bbox":"22.30922,41.514589,22.6613645,41.787294",
+    "geom:latitude":41.657995,
+    "geom:longitude":22.500055,
+    "gn:population":28870,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Radovis Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.668567,
+    "lbl:longitude":22.502663,
+    "meso:adm1_alt":"\u0420\u0430\u0434\u043e\u0432\u0438\u0448",
+    "meso:adm1_loc":"Radovi\u0161",
+    "meso:gadm_adm1":"Radovi\u0161",
+    "meso:gaul_adm1":"Radovic",
+    "mps:latitude":41.648099,
+    "mps:longitude":22.486792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Radovishtit"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0631\u0627\u062f\u0648\u0641\u064a\u062a\u0634"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09a1\u09cb\u09ad\u09bf\u09b8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u0438\u0448"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u591a\u7dad\u4ec0\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Radovi\u0161 Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Radovi\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Radovis Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Radovi\u0161in kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Radovich"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d0\u10d3\u10dd\u10d5\u10d8\u10e8\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Radovi\u0161"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03ac\u03bd\u03c4\u03bf\u03b2\u03b9\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abe\u0aa1\u0acb\u0ab5\u0ac0\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0926\u094b\u0935\u093f\u0938 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Radovi\u0161"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Radovi\u0161"
+    ],
+    "name:ita_x_preferred":[
+        "Comune di Radovi\u0161"
+    ],
+    "name:jpn_x_preferred":[
+        "\u00ad\u30e9\u30c9\u30f4\u30a3\u30b7\u30e5"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbe\u0ca1\u0ccb\u0cb5\u0cbf\u0cb8\u0ccd \u0cae\u0cc1\u0ca8\u0ccd\u0cb8\u0cbf\u0caa\u0cbe\u0cb2\u0cbf\u0c9f\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub3c4\ube44\uc2dc \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Radovi\u0161as pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Radovi\u0161o savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u0434\u043e\u0432\u0438\u0448"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u0945\u0921\u094b\u0935\u0940\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Radovis Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u0434\u043e\u0432\u0438\u0448"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0430\u0434\u043e\u0432\u0438\u0448"
+    ],
+    "name:nob_x_preferred":[
+        "Radovis kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Radovi\u0161"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Radovis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u0438\u0448"
+    ],
+    "name:sco_x_preferred":[
+        "Radovi\u0161 Municipality"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0da9\u0ddc\u0dc0\u0dd2\u0dc3\u0dca  \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Radovi\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u0434\u043e\u0432\u0438\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Radovisj"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbe\u0b9f\u0bcb\u0bb5\u0bbf\u0bb8\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3e\u0c21\u0c4b\u0c35\u0c3f\u0c38\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0420\u0430\u0434\u043e\u0432\u0438\u0448"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e23\u0e32\u0e42\u0e14\u0e27\u0e34\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Radovi\u015f Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u0438\u0448"
+    ],
+    "name:und_x_colloquial":[
+        "Opstina Radovis",
+        "Radovis"
+    ],
+    "name:und_x_preferred":[
+        "Radovi\u0161"
+    ],
+    "name:und_x_variant":[
+        "Opstina Radovi\u0161"
+    ],
+    "name:unk_x_variant":[
+        "Radovi\u0161"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u062f\u0648\u0648\u06cc\u0634 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Radovis"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2905",
+    "ne:adm1_code":"MKD-2905",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.RV",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2905",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK84",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.84",
+    "ne:gn_id":"863890",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Radovis",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK84",
+    "ne:gns_id":"9075754",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Radovis, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.63650000000",
+    "ne:longitude":"22.46790000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Radovis",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"RV",
+    "ne:provnum_ne":"20012",
+    "ne:region":"Eastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550865,
+    "ne:woe_label":"Radovis Municipality, MK, Macedonia",
+    "ne:woe_name":"Radovis",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Radovis",
+    "qs:a1_lc":"MKD-2905",
+    "qs:a1r":"Eastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"502",
+    "statoids:area_mi":"194",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Radovish",
+    "statoids:country":"MK",
+    "statoids:gec":"MK84",
+    "statoids:hasc":"MK.RV",
+    "statoids:iso":"64",
+    "statoids:name":"Radovish",
+    "statoids:population":"28244",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-64",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK84",
+        "gn:id":863890,
+        "gp:id":24550865,
+        "hasc:id":"MK.RV",
+        "iso:id":"MK-64",
+        "qs:id":1103591,
+        "unlc:id":"MK-64",
+        "wd:id":"Q2738284"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"fd1a7dd52e6a75266f5ef98f98d5ad61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674191
+        }
+    ],
+    "wof:id":85674191,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550449,
+    "wof:name":"Radovis",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":28244,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"RV",
+    "wof:subdivision":"MK-64",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30921999999978,
+    41.51458899999986,
+    22.66136449999976,
+    41.78729399999986
+],
+  "geometry": {"coordinates":[[[22.41562299999978,41.72903999999986],[22.42492349999978,41.73052349999986],[22.43510599999979,41.74444349999985],[22.43789949999979,41.75716599999984],[22.43184599999978,41.75697399999984],[22.43661899999978,41.76746649999984],[22.45089699999977,41.77446749999984],[22.46557549999977,41.78729399999986],[22.47144149999977,41.78128299999986],[22.48096749999976,41.77773749999986],[22.48772249999979,41.77805849999984],[22.49941149999978,41.76654049999985],[22.50534949999977,41.76697399999986],[22.50872499999977,41.76459399999985],[22.51338149999978,41.76614699999985],[22.51748449999977,41.76400549999985],[22.52067749999978,41.76554649999986],[22.52751249999977,41.76374649999985],[22.53573249999977,41.76702449999985],[22.54110999999978,41.76629149999985],[22.54794099999978,41.76997699999984],[22.55475899999979,41.76796799999985],[22.56406049999978,41.77110399999984],[22.59422999999978,41.76191799999984],[22.60296399999979,41.75241199999985],[22.61222499999977,41.74745499999986],[22.62635299999977,41.74977199999987],[22.62951449999977,41.73818249999985],[22.63719499999976,41.72784299999987],[22.64493649999977,41.69996149999986],[22.65308199999978,41.69986549999985],[22.65403649999979,41.69558099999986],[22.65710449999978,41.69555849999986],[22.66136449999976,41.68987749999985],[22.65301149999976,41.68369949999985],[22.64762749999977,41.68249199999985],[22.64678499999977,41.67155349999985],[22.63965999999976,41.66548549999985],[22.64388749999978,41.65633249999985],[22.64161049999979,41.64089249999986],[22.62765649999977,41.64009899999985],[22.62481849999978,41.63735249999985],[22.61418399999977,41.64020249999984],[22.59031899999977,41.61683649999986],[22.60081099999977,41.59956149999985],[22.60361549999979,41.59902149999985],[22.59550999999979,41.59004199999984],[22.60550499999977,41.58641899999986],[22.61705699999979,41.58646699999986],[22.61889349999979,41.58402949999984],[22.62074649999977,41.57710149999986],[22.61893049999978,41.57390099999986],[22.62547499999977,41.55755899999986],[22.61859399999977,41.54866299999986],[22.61740049999977,41.53644699999984],[22.60723099999979,41.53084699999985],[22.60377949999977,41.53200949999984],[22.58491899999979,41.54460049999986],[22.58535849999978,41.54745099999985],[22.58101749999977,41.55111999999986],[22.57055599999978,41.55227549999987],[22.56631349999978,41.55717949999985],[22.56020499999977,41.55889249999984],[22.55541399999979,41.56559099999984],[22.54326049999977,41.55826549999986],[22.53633849999977,41.54687849999985],[22.51960149999977,41.53724599999984],[22.51919349999977,41.52987599999986],[22.52516149999977,41.52272899999986],[22.52182249999979,41.51694099999986],[22.51677599999977,41.51458899999986],[22.51191999999978,41.51538349999984],[22.50961499999977,41.51903999999985],[22.48953449999976,41.52856349999985],[22.46631049999976,41.52703499999984],[22.47604549999977,41.53569899999985],[22.47943249999977,41.55010749999985],[22.46875449999979,41.56030399999986],[22.46693099999979,41.56583999999984],[22.45632549999976,41.56846049999984],[22.44839549999978,41.58501149999987],[22.44219549999977,41.59049249999984],[22.42077449999977,41.59164499999986],[22.39848699999979,41.59828149999984],[22.38237849999979,41.58602149999984],[22.37267699999978,41.59462199999984],[22.37217799999976,41.60020149999986],[22.36617999999979,41.60371899999984],[22.36265349999977,41.59987399999986],[22.35422999999977,41.60869049999985],[22.34129499999977,41.61088499999985],[22.33863449999978,41.61604549999984],[22.31674649999977,41.62428649999984],[22.31548349999977,41.62732949999986],[22.32733849999977,41.63520499999984],[22.32114599999977,41.64686399999985],[22.31390649999977,41.64936249999985],[22.31005649999977,41.65440999999984],[22.31257949999977,41.66151899999986],[22.30921999999978,41.67560449999985],[22.31579149999979,41.68050149999985],[22.31759749999978,41.68558049999984],[22.33299899999977,41.69475299999985],[22.34981299999978,41.69205799999986],[22.35406599999979,41.68548249999986],[22.38729949999978,41.68287549999985],[22.39441549999978,41.68940499999985],[22.39649999999978,41.70182849999986],[22.39772849999977,41.69943849999984],[22.40012749999977,41.70238199999986],[22.40644349999977,41.70364349999986],[22.41305799999978,41.71001949999985],[22.41562299999978,41.72903999999986]]],"type":"Polygon"}
+}

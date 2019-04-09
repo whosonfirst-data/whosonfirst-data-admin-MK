@@ -1,0 +1,74 @@
+{
+  "id": 1326467521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13306,41.67333,22.13306,41.67333",
+    "geom:latitude":41.67333,
+    "geom:longitude":22.13306,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Dragoevo",
+    "gn:country_code":"MK",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791111,
+    "gn:latitude":41.67333,
+    "gn:longitude":22.13306,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Dragoevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dragovo",
+        "Drava",
+        "Drogoevo",
+        "Dragoevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791111
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"0cf9aef16cf057b23fbbd7b139ce7927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326467521,
+            "region_id":85674219
+        }
+    ],
+    "wof:id":1326467521,
+    "wof:lastmodified":1537664899,
+    "wof:name":"Dragoevo",
+    "wof:parent_id":85674219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13306,
+    41.67333,
+    22.13306,
+    41.67333
+],
+  "geometry": {"coordinates":[22.13306,41.67333],"type":"Point"}
+}

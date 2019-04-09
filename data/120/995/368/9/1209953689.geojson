@@ -1,0 +1,74 @@
+{
+  "id": 1209953689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34998,42.17489,22.34998,42.17489",
+    "geom:latitude":42.17489,
+    "geom:longitude":22.34998,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Raciska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834572,
+    "gn:latitude":42.17489,
+    "gn:longitude":22.34998,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ra\u010di\u0161ka Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Ra\u010di\u0161ka Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0430\u0447\u0438\u0448\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ra\u010diska Maala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834572
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"f2ab493c2b9fb5c8c1bad009a263a2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1209953689,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1209953689,
+    "wof:lastmodified":1537664926,
+    "wof:name":"Raciska Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34998,
+    42.17489000000001,
+    22.34998,
+    42.17489000000001
+],
+  "geometry": {"coordinates":[22.34998,42.17489000000001],"type":"Point"}
+}

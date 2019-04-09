@@ -1,0 +1,71 @@
+{
+  "id": 1326663813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16481,41.47545,22.16481,41.47545",
+    "geom:latitude":41.47545,
+    "geom:longitude":22.16481,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Vojsanci",
+    "gn:country_code":"MK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784276,
+    "gn:latitude":41.47545,
+    "gn:longitude":22.16481,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Voj\u0161anci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Voj\u0161anci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u043e\u0458\u0448\u0430\u043d\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784276
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"6c19625c655038bbbfbb418045ef4953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326663813,
+            "region_id":85674369
+        }
+    ],
+    "wof:id":1326663813,
+    "wof:lastmodified":1537664839,
+    "wof:name":"Vojsanci",
+    "wof:parent_id":85674369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16481,
+    41.47545,
+    22.16481,
+    41.47545
+],
+  "geometry": {"coordinates":[22.16481,41.47545],"type":"Point"}
+}

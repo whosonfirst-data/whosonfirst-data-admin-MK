@@ -1,0 +1,72 @@
+{
+  "id": 890491111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20694,41.63389,21.20694,41.63389",
+    "geom:latitude":41.63389,
+    "geom:longitude":21.20694,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":23,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:mkd_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0430\u0440\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "qs:name":"Staro Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785512,
+        "gp:id":481793,
+        "qs:id":83571,
+        "wk:page":"Staro Selo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054841,
+    "wof:geomhash":"48648639332f7a16ceb0c95c80f31cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491111,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890491111,
+    "wof:lastmodified":1527736662,
+    "wof:name":"Staro Selo",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20694,
+    41.63389,
+    21.20694,
+    41.63389
+],
+  "geometry": {"coordinates":[21.20694,41.63389],"type":"Point"}
+}

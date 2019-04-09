@@ -1,0 +1,76 @@
+{
+  "id": 1310459405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17,41.32556,22.17,41.32556",
+    "geom:latitude":41.32556,
+    "geom:longitude":22.17,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Stramasevo",
+    "gn:country_code":"MK",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":785406,
+    "gn:latitude":41.32556,
+    "gn:longitude":22.17,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Strama\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "Strama\u0161evo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0440\u0430\u043c\u0430\u0448\u0435\u0432\u043e",
+        "\u0421\u0442\u0440\u043c\u0430\u0448\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Strma\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785406,
+        "wk:page":"Strma%C5%A1evo"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"8b47ccbfe2ce8d8a5c500ea8019e7e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310459405,
+            "region_id":85674289
+        }
+    ],
+    "wof:id":1310459405,
+    "wof:lastmodified":1537664849,
+    "wof:name":"Stramasevo",
+    "wof:parent_id":85674289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17,
+    41.32556,
+    22.17,
+    41.32556
+],
+  "geometry": {"coordinates":[22.17,41.32556],"type":"Point"}
+}

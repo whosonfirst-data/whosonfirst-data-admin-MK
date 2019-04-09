@@ -1,0 +1,73 @@
+{
+  "id": 890492555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77778,41.77333,21.77778,41.77333",
+    "geom:latitude":41.77333,
+    "geom:longitude":21.77778,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":250,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041e\u0442\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Otavica"
+    ],
+    "qs:name":"Otovica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787299,
+        "gp:id":483099,
+        "qs:id":553777,
+        "wd:id":"Q2088561",
+        "wk:page":"Veles Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054898,
+    "wof:geomhash":"d76f293a4842463c8d2c88180d63c187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492555,
+            "region_id":85674237
+        }
+    ],
+    "wof:id":890492555,
+    "wof:lastmodified":1527793025,
+    "wof:name":"Otovica",
+    "wof:parent_id":85674237,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77778,
+    41.77333,
+    21.77778,
+    41.77333
+],
+  "geometry": {"coordinates":[21.77778,41.77333],"type":"Point"}
+}

@@ -1,0 +1,262 @@
+{
+  "id": 85674297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012112,
+    "geom:area_square_m":111243576.086409,
+    "geom:bbox":"21.446632,41.9305005,21.58984,42.126163",
+    "geom:latitude":42.03221,
+    "geom:longitude":21.515059,
+    "gn:id":"",
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Gazi Baba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.036804,
+    "lbl:longitude":21.507993,
+    "meso:adm1_alt":"\u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430",
+    "meso:adm1_loc":"Gazi Baba",
+    "meso:gadm_adm1":"Gazi Baba",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":42.021463,
+    "mps:longitude":21.505313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Gazi Bab\u00ebs"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0437\u0438 \u0431\u0430\u0431\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u52a0\u9f4a\u5df4\u5df4\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Gazi Baba"
+    ],
+    "name:eng_x_preferred":[
+        "Gazi Baba Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Gazi Baba"
+    ],
+    "name:fre_x_preferred":[
+        "Gazi Baba"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10d0\u10d6\u10d8-\u10d1\u10d0\u10d1\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Gazi Baba"
+    ],
+    "name:glg_x_preferred":[
+        "Gazi Baba"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Gazi Baba"
+    ],
+    "name:ita_x_preferred":[
+        "Gazi Baba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10d6\u10d8-\u10d1\u10d0\u10d1\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\uc9c0\ubc14\ubc14 \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0437\u0438-\u0411\u0430\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Gazi Baba"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Gazi Bab\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Opsjtina Gazi Baba"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0437\u0438-\u0411\u0430\u0431\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Gazi Baba"
+    ],
+    "name:und_x_variant":[
+        "Opstina Gazi Baba"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Gazi Baba"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0627\u0632\u06cc \u0628\u0627\u0628\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u9f4a\u5df4\u5df4\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2929",
+    "ne:adm1_code":"MKD-2929",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.GB",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2929",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK32",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.32",
+    "ne:gn_id":"863853",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Gazi Baba",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK32",
+    "ne:gns_id":"9075618",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Gazi Baba, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-17",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"42.02590000000",
+    "ne:longitude":"21.51360000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Gazi Baba",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GB",
+    "ne:provnum_ne":"20066",
+    "ne:region":"Greater Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Municipality",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550766,
+    "ne:woe_label":"",
+    "ne:woe_name":"Gazi Baba Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Gazi Baba",
+    "qs:a1_lc":"MKD-2929",
+    "qs:a1r":"Greater Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"92",
+    "statoids:area_mi":"36",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Skopje",
+    "statoids:country":"MK",
+    "statoids:gec":"MK32",
+    "statoids:hasc":"MK.GB",
+    "statoids:iso":"17",
+    "statoids:name":"Gazi Baba",
+    "statoids:population":"72617",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-17",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK32",
+        "gn:id":863853,
+        "gp:id":24550766,
+        "hasc:id":"MK.GB",
+        "iso:id":"MK-17",
+        "qs:id":1191272,
+        "unlc:id":"MK-17",
+        "wd:id":"Q2019836"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"34b7b89ffc1167174eeaf5d4e6ca31b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674297
+        }
+    ],
+    "wof:id":85674297,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550453,
+    "wof:name":"Gazi Baba",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":72617,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"GB",
+    "wof:subdivision":"MK-17",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44663199999977,
+    41.93050049999985,
+    21.58983999999978,
+    42.12616299999985
+],
+  "geometry": {"coordinates":[[[21.45043899999979,42.01689199999984],[21.45968849999977,42.01865299999986],[21.45047699999978,42.02604849999986],[21.46740399999979,42.04628549999984],[21.46605699999978,42.05196199999986],[21.46936849999977,42.05354649999984],[21.47921499999978,42.07406799999984],[21.47636849999978,42.08022549999984],[21.48102499999979,42.09242399999985],[21.48553349999978,42.09494349999986],[21.49315699999977,42.10841249999984],[21.50344599999977,42.11600499999986],[21.50806249999977,42.11688199999986],[21.51224299999978,42.12616299999985],[21.52911499999979,42.10635549999986],[21.54603099999977,42.09621299999986],[21.54621899999978,42.08449499999986],[21.55123499999979,42.07539249999985],[21.55168249999977,42.07680699999986],[21.55702499999978,42.07387399999985],[21.55910099999977,42.06717799999984],[21.55625299999977,42.06161099999986],[21.55971149999976,42.05477899999985],[21.55255649999978,42.04998149999986],[21.55689049999978,42.04835599999984],[21.55956649999979,42.02943699999986],[21.54724499999978,42.02609049999984],[21.54985699999978,42.01885549999986],[21.54642749999977,42.01814349999984],[21.55049549999978,42.00766249999984],[21.54704499999977,42.00610299999985],[21.55021399999978,42.00343649999985],[21.54684599999979,42.00216099999986],[21.54787399999978,41.99840499999985],[21.53642699999978,41.99514349999984],[21.53505449999977,41.99122749999984],[21.52936499999979,41.99084949999985],[21.54790549999979,41.98056349999985],[21.57381599999977,41.97555649999984],[21.57034899999977,41.97252499999985],[21.57908199999977,41.97055999999986],[21.58575049999979,41.96247299999985],[21.58119849999977,41.95971449999985],[21.58700099999979,41.95720299999985],[21.58440499999978,41.95431149999985],[21.58831799999979,41.95044349999986],[21.58369449999978,41.94642249999984],[21.58983999999978,41.93692049999984],[21.58630149999979,41.93131549999984],[21.58162049999979,41.93050049999985],[21.57798199999976,41.93439699999985],[21.57045399999978,41.93311349999985],[21.56660249999979,41.93680799999984],[21.57296399999979,41.93965099999986],[21.57279049999977,41.94188349999985],[21.56196949999978,41.94694499999986],[21.56171799999979,41.95192899999986],[21.54951649999978,41.95705449999986],[21.54918,41.96183499999984],[21.54211399999977,41.96372699999986],[21.53878949999978,41.96906149999984],[21.53168199999979,41.97051149999984],[21.52661749999979,41.96816649999985],[21.52113249999977,41.97603949999984],[21.51955099999978,41.97236849999985],[21.51518849999977,41.97227599999985],[21.51283499999977,41.97384349999984],[21.51584099999977,41.97683699999985],[21.51358849999977,41.97879599999985],[21.51061949999979,41.97876099999985],[21.50953499999977,41.97624599999986],[21.50208199999977,41.97635049999985],[21.49734699999979,41.98283299999986],[21.48471399999977,41.98971149999986],[21.46505749999977,41.99477999999985],[21.45548249999979,41.99068149999985],[21.44982699999977,41.99473349999985],[21.45106049999978,41.99904699999985],[21.44663199999977,42.01324699999986],[21.45043899999979,42.01689199999984]]],"type":"Polygon"}
+}

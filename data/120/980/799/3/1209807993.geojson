@@ -1,0 +1,75 @@
+{
+  "id": 1209807993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35091,40.88191,21.35091,40.88191",
+    "geom:latitude":40.88191,
+    "geom:longitude":21.35091,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dragos",
+    "gn:country_code":"MK",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791104,
+    "gn:latitude":40.88191,
+    "gn:longitude":21.35091,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Drago\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03c1\u03ac\u03b3\u03bf\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0448"
+    ],
+    "name:und_x_variant":[
+        "Drago\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791104,
+        "wk:page":"Drago%C5%A1_%28Macedonia%29"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"351b53b1503ae48f94c059883c741ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1209807993,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":1209807993,
+    "wof:lastmodified":1537664899,
+    "wof:name":"Dragos",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35091,
+    40.88191,
+    21.35091,
+    40.88191
+],
+  "geometry": {"coordinates":[21.35091,40.88191],"type":"Point"}
+}

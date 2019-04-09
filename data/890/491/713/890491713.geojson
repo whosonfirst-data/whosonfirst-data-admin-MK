@@ -1,0 +1,75 @@
+{
+  "id": 890491713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95274,41.86956,21.95274,41.86956",
+    "geom:latitude":41.86956,
+    "geom:longitude":21.95274,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":13292,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sveti Nikole"
+    ],
+    "name:unk_x_variant":[
+        "Kilisseli"
+    ],
+    "qs:name":"Sveti Nikole",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:latitude":"41.865",
+    "wd:longitude":"21.9425",
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785201,
+        "gp:id":483067,
+        "qs:id":129398,
+        "wd:id":"Q366907",
+        "wk:page":"Sveti Nikole"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054863,
+    "wof:geomhash":"975475ce56d18c2640e9d077d7cf74bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491713,
+            "region_id":85674229
+        }
+    ],
+    "wof:id":890491713,
+    "wof:lastmodified":1527736662,
+    "wof:name":"Sveti Nikole",
+    "wof:parent_id":85674229,
+    "wof:placetype":"locality",
+    "wof:population":13292,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95274,
+    41.86956,
+    21.95274,
+    41.86956
+],
+  "geometry": {"coordinates":[21.95274,41.86956],"type":"Point"}
+}

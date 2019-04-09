@@ -1,0 +1,70 @@
+{
+  "id": 890492411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.23639,41.28417,21.23639,41.28417",
+    "geom:latitude":41.28417,
+    "geom:longitude":21.23639,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":527,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u017dur\u010de"
+    ],
+    "name:mkd_x_variant":[
+        "\u0416\u0443\u0440\u0447\u0435"
+    ],
+    "qs:name":"\u017dur\u010de",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783779,
+        "gp:id":482372,
+        "qs:id":553557
+    },
+    "wof:country":"MK",
+    "wof:created":1469054889,
+    "wof:geomhash":"a7ff95c5444faf7ae0686adacd73a4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492411,
+            "region_id":85674161
+        }
+    ],
+    "wof:id":890492411,
+    "wof:lastmodified":1505343798,
+    "wof:name":"\u017dur\u010de",
+    "wof:parent_id":85674161,
+    "wof:placetype":"locality",
+    "wof:population":527,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.23639,
+    41.28417,
+    21.23639,
+    41.28417
+],
+  "geometry": {"coordinates":[21.23639,41.28417],"type":"Point"}
+}

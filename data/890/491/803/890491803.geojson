@@ -1,0 +1,76 @@
+{
+  "id": 890491803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99472,41.81194,21.99472,41.81194",
+    "geom:latitude":41.81194,
+    "geom:longitude":21.99472,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":579,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0410\u043c\u0437\u0430\u0431\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Stepovac"
+    ],
+    "qs:name":"Amzabegovo",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Sveti Nikole",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793121,
+        "gp:id":481654,
+        "qs:id":195637
+    },
+    "wof:country":"MK",
+    "wof:created":1469054866,
+    "wof:geomhash":"d6f261002a8465e0864eb24dadc169d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491803,
+            "region_id":85674229
+        }
+    ],
+    "wof:id":890491803,
+    "wof:lastmodified":1505343795,
+    "wof:name":"Amzabegovo",
+    "wof:parent_id":85674229,
+    "wof:placetype":"locality",
+    "wof:population":579,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99472,
+    41.81194,
+    21.99472,
+    41.81194
+],
+  "geometry": {"coordinates":[21.99472,41.81194],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890491659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53056,41.91583,21.53056,41.91583",
+    "geom:latitude":41.91583,
+    "geom:longitude":21.53056,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":18219,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Studeni\u010dane"
+    ],
+    "qs:name":"\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785345,
+        "gp:id":483043,
+        "qs:id":275719,
+        "wd:id":"Q2088034",
+        "wk:page":"Studeni\u010dani Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054861,
+    "wof:geomhash":"a07bf40cb12f7ed04ed9baa63b8b0689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491659,
+            "region_id":85674223
+        }
+    ],
+    "wof:id":890491659,
+    "wof:lastmodified":1527736662,
+    "wof:name":"\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438",
+    "wof:parent_id":85674223,
+    "wof:placetype":"locality",
+    "wof:population":18219,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53056,
+    41.91583,
+    21.53056,
+    41.91583
+],
+  "geometry": {"coordinates":[21.53056,41.91583],"type":"Point"}
+}

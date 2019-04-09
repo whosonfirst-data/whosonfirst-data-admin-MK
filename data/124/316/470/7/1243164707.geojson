@@ -1,0 +1,72 @@
+{
+  "id": 1243164707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19056,41.09389,21.19056,41.09389",
+    "geom:latitude":41.09389,
+    "geom:longitude":21.19056,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gorna Maala",
+    "gn:country_code":"MK",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":838664,
+    "gn:latitude":41.09389,
+    "gn:longitude":21.19056,
+    "gn:modification_date":"2014-02-10",
+    "gn:name":"Gorna Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gorna Mala",
+        "Gorna Maala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838664
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4c05a9f1b2c2ab7056cc772050d917f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243164707,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":1243164707,
+    "wof:lastmodified":1537664933,
+    "wof:name":"Gorna Maala",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19056,
+    41.09389,
+    21.19056,
+    41.09389
+],
+  "geometry": {"coordinates":[21.19056,41.09389],"type":"Point"}
+}

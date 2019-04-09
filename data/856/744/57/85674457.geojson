@@ -1,0 +1,334 @@
+{
+  "id": 85674457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017431,
+    "geom:area_square_m":161477072.84715,
+    "geom:bbox":"22.6913155,41.390723,22.8754195,41.5718375",
+    "geom:latitude":41.479125,
+    "geom:longitude":22.780807,
+    "gn:population":14101,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Bosilovo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.481739,
+    "lbl:longitude":22.779412,
+    "meso:adm1_alt":"\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e",
+    "meso:adm1_loc":"Bosilovo",
+    "meso:gadm_adm1":"Bosilovo",
+    "meso:gaul_adm1":"Strumica",
+    "mps:latitude":41.479228,
+    "mps:longitude":22.764367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Bosilov\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u0633\u064a\u0644\u0648\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09b8\u09bf\u09b2\u09ad\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u897f\u6d1b\u6c83\u533a"
+    ],
+    "name:cze_x_preferred":[
+        "Op\u0161tina Bosilovo"
+    ],
+    "name:dan_x_preferred":[
+        "Bosilovo"
+    ],
+    "name:dut_x_preferred":[
+        "Bosilovo"
+    ],
+    "name:eng_x_preferred":[
+        "Bosilovo Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Bosilovo"
+    ],
+    "name:fin_x_preferred":[
+        "Bosilovon kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Bosilovo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10dd\u10e1\u10d8\u10da\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Bosilovo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03c0\u03bf\u03c3\u03b9\u03bb\u03cc\u03b2\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0ab8\u0abf\u0ab2\u0acb\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0938\u093f\u0932\u094b\u0935\u094b \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Bosilovo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Bosilovo"
+    ],
+    "name:ita_x_preferred":[
+        "Bosilovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u00ad\u30dc\u30b7\u30ed\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccb\u0cb8\u0cbf\u0cb2\u0ccb\u0cb5\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e1\u10d8\u10da\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uc2e4\ub85c\ubcf4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Bosilovo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Bosiolovo savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0949\u0938\u093f\u0932\u094b\u0935\u094a \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Perbandaran Bosilovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:nob_x_preferred":[
+        "Bosiovo kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bosi\u0142owo"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Bosilovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddc\u0dc3\u0dd2\u0dbd\u0ddc\u0dc0\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Bosilovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Bosilov\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0441\u0438\u0459\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bosilovo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0b9a\u0bbf\u0bb2\u0bcb\u0bb5\u0bcb  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c38\u0c3f\u0c32\u0c4b\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e1a\u0e35\u0e42\u0e0b\u0e42\u0e25\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Bosilovo Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Bosilovo"
+    ],
+    "name:und_x_variant":[
+        "Opstina Bosilovo"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Bosilovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0633\u06cc\u0644\u0648\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Bosilovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u897f\u6d1b\u6c83\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2997",
+    "ne:adm1_code":"MKD-2997",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MK.BS",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2997",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK11",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.11",
+    "ne:gn_id":"862946",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Bosilovo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK11",
+    "ne:gns_id":"9043527",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Bosilovo, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.46650000000",
+    "ne:longitude":"22.76650000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Bosilovo",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BS",
+    "ne:provnum_ne":"20014",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550750,
+    "ne:woe_label":"",
+    "ne:woe_name":"Bosilovo Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Bosilovo",
+    "qs:a1_lc":"MKD-2997",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"143",
+    "statoids:area_mi":"55",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Bosilovo",
+    "statoids:country":"MK",
+    "statoids:gec":"MK11",
+    "statoids:hasc":"MK.BS",
+    "statoids:iso":"07",
+    "statoids:name":"Bosilovo",
+    "statoids:population":"14260",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-07",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK11",
+        "gn:id":862946,
+        "gp:id":24550750,
+        "hasc:id":"MK.BS",
+        "iso:id":"MK-07",
+        "qs:id":934358,
+        "unlc:id":"MK-07",
+        "wd:id":"Q1779775",
+        "wk:page":"Bosilovo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a5aa62565d923ae8de21b755ff97b766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674457
+        }
+    ],
+    "wof:id":85674457,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550456,
+    "wof:name":"Bosilovo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":14260,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"BS",
+    "wof:subdivision":"MK-07",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69131549999977,
+    41.39072299999984,
+    22.87541949999977,
+    41.57183749999984
+],
+  "geometry": {"coordinates":[[[22.76748299999977,41.57183749999984],[22.76510649999977,41.55911499999985],[22.77166149999977,41.55474249999986],[22.78274449999978,41.55231399999985],[22.78647099999978,41.54640449999985],[22.79236749999978,41.54499899999985],[22.79305899999977,41.54100199999985],[22.79816849999978,41.54038649999984],[22.80011049999979,41.53769799999986],[22.80804349999977,41.53858549999984],[22.81310399999978,41.52796849999984],[22.82091449999979,41.52709549999986],[22.82547449999979,41.53300599999986],[22.83834399999978,41.53236649999985],[22.84088499999979,41.53498549999986],[22.84862999999979,41.53662649999984],[22.85543549999977,41.54334149999985],[22.86406549999978,41.54140999999984],[22.86683699999978,41.53815949999986],[22.86641199999977,41.53223899999986],[22.87393649999979,41.52732299999985],[22.87541949999977,41.52334249999984],[22.87513049999978,41.50029699999985],[22.86980299999976,41.49807499999986],[22.86505099999977,41.49886249999986],[22.86234499999978,41.49586249999984],[22.85921249999978,41.48182099999985],[22.84518949999978,41.47231049999985],[22.84538249999977,41.46362449999984],[22.84088899999978,41.45977749999986],[22.82547949999977,41.45938549999985],[22.81322099999977,41.44725599999984],[22.81017649999978,41.43242349999986],[22.81269499999976,41.42967499999986],[22.80755149999979,41.42119349999984],[22.81239899999977,41.41878249999985],[22.81288849999979,41.41389399999986],[22.81737649999977,41.41353599999985],[22.80224399999977,41.40788749999984],[22.79556399999979,41.41113549999986],[22.79675949999978,41.40537799999984],[22.79068499999977,41.40410799999987],[22.78681499999979,41.4027],[22.77829449999979,41.39233899999985],[22.77053999999978,41.39072299999984],[22.76728999999978,41.39573949999985],[22.74343099999979,41.40045499999985],[22.74453349999979,41.40554249999985],[22.74127799999977,41.40625849999986],[22.74262199999978,41.41090649999984],[22.73960149999976,41.41242299999985],[22.74260949999979,41.41664449999985],[22.73796949999976,41.42389599999984],[22.71885149999977,41.42763949999986],[22.71135049999978,41.42348949999985],[22.70276449999977,41.42777099999986],[22.69851799999978,41.42741249999986],[22.69452949999979,41.43348399999985],[22.70837699999979,41.44777299999984],[22.70939799999977,41.45416499999985],[22.70673299999979,41.45703149999986],[22.71854099999979,41.46276049999986],[22.71062799999979,41.46702149999984],[22.70729799999978,41.46536849999984],[22.70634299999978,41.46755299999984],[22.70005549999976,41.46829049999985],[22.69131549999977,41.48250549999986],[22.70291499999979,41.49021499999986],[22.70496999999978,41.48634599999986],[22.71830749999978,41.50226849999984],[22.72734299999976,41.50465399999985],[22.73122299999977,41.51171099999985],[22.73767449999977,41.51291849999984],[22.74531849999977,41.52111649999986],[22.74154299999978,41.52756449999984],[22.74327999999977,41.53521749999985],[22.73904499999978,41.53931999999986],[22.74012699999977,41.54513799999984],[22.75148649999977,41.55196649999985],[22.75409049999979,41.55706799999984],[22.76322799999977,41.56122999999985],[22.76748299999977,41.57183749999984]]],"type":"Polygon"}
+}

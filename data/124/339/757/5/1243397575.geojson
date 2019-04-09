@@ -1,0 +1,73 @@
+{
+  "id": 1243397575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57164,41.36782,20.57164,41.36782",
+    "geom:latitude":41.36782,
+    "geom:longitude":20.57164,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Modric",
+    "gn:country_code":"MK",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787880,
+    "gn:latitude":41.36782,
+    "gn:longitude":20.57164,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Modri\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0434\u0440\u0438\u0447"
+    ],
+    "name:und_x_variant":[
+        "Madri\u00e7",
+        "Modri\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787880,
+        "wk:page":"Modri%C4%8D%2C_Struga"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"bd416558321acae2f3bdb7170aa8c255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243397575,
+            "region_id":85674497
+        }
+    ],
+    "wof:id":1243397575,
+    "wof:lastmodified":1537664872,
+    "wof:name":"Modric",
+    "wof:parent_id":85674497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57164,
+    41.36782,
+    20.57164,
+    41.36782
+],
+  "geometry": {"coordinates":[20.57164,41.36782],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 890492655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60833,41.79861,21.60833,41.79861",
+    "geom:latitude":41.79861,
+    "geom:longitude":21.60833,
+    "gn:country":"MK",
+    "gn:fcode":"PPLL",
+    "gn:pop":178,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Dobrina"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u043d\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Dobrino"
+    ],
+    "name:fre_x_preferred":[
+        "Dobrino"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u043d\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "Dobrino"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u0431\u0440\u0438\u043d\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dobrino"
+    ],
+    "qs:name":"Dobrino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791435,
+        "gp:id":482940,
+        "qs:id":554005,
+        "wd:id":"Q3033353"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054902,
+    "wof:geomhash":"83f511347d2bdb05bebbf4104f20f833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492655,
+            "region_id":85674245
+        }
+    ],
+    "wof:id":890492655,
+    "wof:lastmodified":1514484693,
+    "wof:name":"Dobrino",
+    "wof:parent_id":85674245,
+    "wof:placetype":"locality",
+    "wof:population":178,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60833,
+    41.79861,
+    21.60833,
+    41.79861
+],
+  "geometry": {"coordinates":[21.60833,41.79861],"type":"Point"}
+}

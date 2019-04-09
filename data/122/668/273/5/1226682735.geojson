@@ -1,0 +1,71 @@
+{
+  "id": 1226682735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88245,42.28444,21.88245,42.28444",
+    "geom:latitude":42.28444,
+    "geom:longitude":21.88245,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Trnovska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":859489,
+    "gn:latitude":42.28444,
+    "gn:longitude":21.88245,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Trnovska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Trnovska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0440\u043d\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":859489
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"cafda999fd8ca09032e83240eec360eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226682735,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1226682735,
+    "wof:lastmodified":1537664934,
+    "wof:name":"Trnovska Maala",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88245,
+    42.28444,
+    21.88245,
+    42.28444
+],
+  "geometry": {"coordinates":[21.88245,42.28444],"type":"Point"}
+}

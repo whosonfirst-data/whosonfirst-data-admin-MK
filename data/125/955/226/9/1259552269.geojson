@@ -1,0 +1,71 @@
+{
+  "id": 1259552269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76456,41.99967,22.76456,41.99967",
+    "geom:latitude":41.99967,
+    "geom:longitude":22.76456,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Stamboliska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9504080,
+    "gn:latitude":41.99967,
+    "gn:longitude":22.76456,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Stamboliska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Stamboliska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u0438\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9504080
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"c0f621aafdf66652dc11ed0a857bbb86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259552269,
+            "region_id":85674485
+        }
+    ],
+    "wof:id":1259552269,
+    "wof:lastmodified":1537664973,
+    "wof:name":"Stamboliska Maala",
+    "wof:parent_id":85674485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76456,
+    41.99967,
+    22.76456,
+    41.99967
+],
+  "geometry": {"coordinates":[22.76456,41.99967],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327066243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35193,42.19388,22.35193,42.19388",
+    "geom:latitude":42.19388,
+    "geom:longitude":22.35193,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Kojdunska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114144,
+    "gn:latitude":42.19388,
+    "gn:longitude":22.35193,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Kojdunska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Kojdunska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u043e\u0458\u0434\u0443\u043d\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114144
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"b6753072ecfc8a3e522296784bf3da1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1327066243,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1327066243,
+    "wof:lastmodified":1537664965,
+    "wof:name":"Kojdunska Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35193,
+    42.19388,
+    22.35193,
+    42.19388
+],
+  "geometry": {"coordinates":[22.35193,42.19388],"type":"Point"}
+}

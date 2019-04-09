@@ -1,0 +1,242 @@
+{
+  "id": 85674489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.020689,
+    "geom:area_square_m":189933876.78899,
+    "geom:bbox":"22.451838,41.9554335,22.661196,42.1551585",
+    "geom:latitude":42.059521,
+    "geom:longitude":22.561336,
+    "gn:population":7729,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Makedonska Kamenica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.050723,
+    "lbl:longitude":22.571633,
+    "meso:adm1_alt":"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430",
+    "meso:adm1_loc":"Makedonska Kamenica",
+    "meso:gadm_adm1":"Makedonska Kamenica",
+    "meso:gaul_adm1":"Kocani",
+    "mps:latitude":42.051491,
+    "mps:longitude":22.54485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Makedonska Kamenica Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Makedonska Kamenica"
+    ],
+    "name:fra_x_preferred":[
+        "Makedonska Kamenitsa"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Staro Nagori\u010dane"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Staro Nagori\u010dane"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10e1\u10d9\u10d0-\u10d9\u10d0\u10db\u10d4\u10dc\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ucf00\ub3c8\uc2a4\uce74\uce74\uba54\ub2c8\ucc28 \uc2dc"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430-\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Makedonska Kamenica"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Kamenic\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0442\u0441\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u044c\u043a\u0430-\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Makedonska Kamenica"
+    ],
+    "name:und_x_variant":[
+        "Opstina Makedonska Kamenica"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Makedonska Kamenica"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06a9\u06cc\u062f\u0648\u0646\u0633\u06a9\u0627 \u06a9\u0627\u0645\u06cc\u0646\u06cc\u062a\u0633\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5176\u9813\u5361\u6885\u5c3c\u5bdf\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-3006",
+    "ne:adm1_code":"MKD-3006",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.MK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"3006",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK52",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.62",
+    "ne:gn_id":"862956",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Makedonska Kamenica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK62",
+    "ne:gns_id":"9043554",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Makedonska Kamenica, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"42.03940000000",
+    "ne:longitude":"22.52210000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Makedonska Kamenica",
+    "ne:name_alt":"",
+    "ne:name_len":19,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MK",
+    "ne:provnum_ne":"20020",
+    "ne:region":"Eastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550851,
+    "ne:woe_label":"Makedonska Kamenica Municipality, MK, Macedonia",
+    "ne:woe_name":"Makedonska Kamenica",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Makedonska Kamenica",
+    "qs:a1_lc":"MKD-3006",
+    "qs:a1r":"Eastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"189",
+    "statoids:area_mi":"73",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Makedonska Kamenica",
+    "statoids:country":"MK",
+    "statoids:gec":"MK62",
+    "statoids:hasc":"MK.MK",
+    "statoids:iso":"51",
+    "statoids:name":"Makedonska Kamenica",
+    "statoids:population":"8110",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-51",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK62",
+        "gn:id":862956,
+        "gp:id":24550851,
+        "hasc:id":"MK.MK",
+        "iso:id":"MK-51",
+        "qs:id":1016989,
+        "unlc:id":"MK-51",
+        "wd:id":"Q2041219",
+        "wk:page":"Makedonska Kamenica Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"55d84aba269e309b2eebaa36fec8b936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674489
+        }
+    ],
+    "wof:id":85674489,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550458,
+    "wof:name":"Makedonska Kamenica",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":8110,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"MK",
+    "wof:subdivision":"MK-51",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45183799999978,
+    41.95543349999986,
+    22.66119599999979,
+    42.15515849999986
+],
+  "geometry": {"coordinates":[[[22.51041199999977,42.15515849999986],[22.51119699999978,42.15382499999984],[22.51790199999976,42.14957949999985],[22.52441849999977,42.14487349999985],[22.52494249999978,42.14356349999986],[22.52744549999977,42.14024299999986],[22.52874099999977,42.13927199999986],[22.53945749999977,42.13601649999984],[22.54195699999977,42.13534099999984],[22.55133349999977,42.13111649999985],[22.55825349999978,42.12539699999985],[22.56422949999978,42.11954049999986],[22.56588649999978,42.11794349999985],[22.57429899999977,42.11379799999986],[22.57726599999978,42.11178499999986],[22.57873799999979,42.11084349999985],[22.58056899999977,42.11010799999985],[22.58330999999978,42.10921949999985],[22.58563349999977,42.10939149999984],[22.58996799999977,42.11005499999985],[22.59266799999978,42.10804449999986],[22.59410049999977,42.10590999999985],[22.59516099999979,42.10315749999984],[22.59909749999977,42.10000699999986],[22.60283449999977,42.09788949999984],[22.61062649999977,42.09573899999984],[22.61312449999977,42.09525649999986],[22.61783399999979,42.09588149999985],[22.62105299999979,42.09552799999986],[22.62684349999978,42.09421449999985],[22.63125649999978,42.09204399999985],[22.63671599999978,42.08871049999985],[22.64171349999978,42.08579699999984],[22.64452799999978,42.08359449999986],[22.64751449999977,42.08078549999985],[22.65026999999978,42.07734549999986],[22.65639649999977,42.07520199999985],[22.65730249999979,42.07481599999986],[22.66119599999979,42.07303399999986],[22.65259849999978,42.06382149999985],[22.65335449999978,42.02287949999985],[22.63550849999979,42.01930599999986],[22.62889649999977,42.01083699999984],[22.62689999999978,41.99955399999985],[22.61827049999977,41.99389349999984],[22.61821349999977,41.98883549999985],[22.60504949999978,41.98486349999985],[22.59524849999977,41.99158649999984],[22.59428749999978,41.98646199999985],[22.59774549999977,41.98207649999986],[22.58539399999978,41.98118349999984],[22.58395399999978,41.97797849999986],[22.58786399999977,41.97574449999985],[22.57738849999978,41.96988099999984],[22.57268249999979,41.96431049999984],[22.57410899999977,41.95814899999985],[22.55565699999977,41.95543349999986],[22.55636899999979,41.96000749999985],[22.55328649999979,41.96213749999984],[22.54967949999977,41.95869249999984],[22.54511749999978,41.95914199999984],[22.54597599999977,41.96195449999985],[22.54250499999978,41.96321999999986],[22.54050049999978,41.96778399999985],[22.54274699999976,41.97063299999985],[22.53860699999979,41.97811799999985],[22.54093949999978,41.98807049999985],[22.53747749999977,41.98972999999984],[22.53343149999978,42.00055049999986],[22.53512149999978,42.00426799999985],[22.52993049999978,42.00866499999984],[22.52289249999978,42.01006149999986],[22.52267599999979,42.02127549999986],[22.51727049999977,42.01970649999984],[22.50771849999978,42.02509299999986],[22.51166899999978,42.02691549999986],[22.51343099999977,42.04838499999985],[22.50663799999978,42.05265999999986],[22.49019949999979,42.05464399999985],[22.49301899999978,42.05743499999986],[22.48256499999977,42.06488149999984],[22.47945899999976,42.07033149999984],[22.47674799999979,42.08427349999985],[22.47952349999977,42.09133749999984],[22.48672999999977,42.09659899999986],[22.48696599999977,42.10441899999987],[22.46484599999977,42.12400099999985],[22.45183799999978,42.12580299999985],[22.45974699999977,42.12582899999984],[22.46520149999978,42.12826399999986],[22.47036299999976,42.13844899999984],[22.47783149999978,42.14074349999984],[22.48307299999979,42.14627049999984],[22.49225449999977,42.15044549999985],[22.49753899999979,42.14874099999986],[22.50392899999977,42.14995999999985],[22.51041199999977,42.15515849999986]]],"type":"Polygon"}
+}

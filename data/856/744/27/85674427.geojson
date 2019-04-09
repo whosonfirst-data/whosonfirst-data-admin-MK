@@ -1,0 +1,338 @@
+{
+  "id": 85674427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017889,
+    "geom:area_square_m":164693714.713267,
+    "geom:bbox":"20.944192,41.7921965,21.190852,41.9840065",
+    "geom:latitude":41.881608,
+    "geom:longitude":21.040954,
+    "gn:population":16464,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Brvenica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.894533,
+    "lbl:longitude":21.01199,
+    "meso:adm1_alt":"\u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430",
+    "meso:adm1_loc":"Brvenica",
+    "meso:gadm_adm1":"Brvenica",
+    "meso:gaul_adm1":"Tetovo",
+    "mps:latitude":41.883974,
+    "mps:longitude":21.017917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e B\u00ebrvenic\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u0631\u0641\u064a\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09ad\u09c7\u09a8\u09bf\u0995\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u044a\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Brvenica"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u5c14\u97e6\u5c3c\u5bdf\u533a"
+    ],
+    "name:dan_x_preferred":[
+        "Brvenica Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Brvenica"
+    ],
+    "name:eng_x_preferred":[
+        "Brvenica Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Brvenica"
+    ],
+    "name:fin_x_preferred":[
+        "Brvenican kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Brvenitsa"
+    ],
+    "name:fre_x_preferred":[
+        "Brvenitsa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e0\u10d5\u10d4\u10dc\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Brvenica"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03c0\u03c1\u03b5\u03b2\u03ad\u03bd\u03b9\u03c4\u03c3\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab0\u0ab5\u0ac7\u0aa8\u0abf\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u0935\u0947\u0928\u093f\u0915\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Brvenica"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Brvenica"
+    ],
+    "name:ita_x_preferred":[
+        "Brvenica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30f4\u30a7\u30cb\u30c4\u30a1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0cb0\u0cc6\u0cb5\u0ccd\u0ca8\u0cbf\u0c95\u0cbe \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d5\u10d4\u10dc\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub974\ubca0\ub2c8\ucc28 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Brvenicas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Brvenicos savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094d\u0930\u0935\u094d\u0939\u0947\u0928\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Brvenica Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:nob_x_preferred":[
+        "Brvenica Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Brwenica"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Brvenica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd9\u0db1\u0dd2\u0d9a\u0dcf \u0db1\u0d9c\u0dbb\u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Brvenica"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e B\u00ebrvenic\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Brvenica"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bb5\u0bc7\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c30\u0c46\u0c35\u0c46\u0c28\u0c3f\u0c15\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0440\u0432\u0435\u043d\u0438\u0442\u0441\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e1a\u0e23\u0e19\u0e34\u0e04\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Brevnica Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0432\u0435\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Brvenica"
+    ],
+    "name:und_x_variant":[
+        "Opstina Brvenica"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Brvenica"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0648\u06cc\u0646\u06cc\u0633\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Brvenica"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5c14\u97e6\u5c3c\u5bdf\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2961",
+    "ne:adm1_code":"MKD-2961",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.BN",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2961",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK12",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.12",
+    "ne:gn_id":"863835",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Brvenica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK12",
+    "ne:gns_id":"9075587",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Brvenica, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.84650000000",
+    "ne:longitude":"21.06600000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Brvenica",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BN",
+    "ne:provnum_ne":"20084",
+    "ne:region":"Polog",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550751,
+    "ne:woe_label":"Brvenica Municipality, MK, Macedonia",
+    "ne:woe_name":"Brvenica",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Brvenica",
+    "qs:a1_lc":"MKD-2961",
+    "qs:a1r":"Polog",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"164",
+    "statoids:area_mi":"63",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Brvenica",
+    "statoids:country":"MK",
+    "statoids:gec":"MK12",
+    "statoids:hasc":"MK.BN",
+    "statoids:iso":"08",
+    "statoids:name":"Brvenica",
+    "statoids:population":"15855",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-08",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK12",
+        "gn:id":863835,
+        "gp:id":24550751,
+        "hasc:id":"MK.BN",
+        "iso:id":"MK-08",
+        "qs:id":1025876,
+        "unlc:id":"MK-08",
+        "wd:id":"Q1057563",
+        "wk:page":"Brvenica Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"000b8a0eaa9e92746037e4511531bdcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674427
+        }
+    ],
+    "wof:id":85674427,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550455,
+    "wof:name":"Brvenica",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":15855,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"BN",
+    "wof:subdivision":"MK-08",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94419199999979,
+    41.79219649999985,
+    21.19085199999978,
+    41.98400649999985
+],
+  "geometry": {"coordinates":[[[20.94585699999979,41.88453949999985],[20.95477799999978,41.88444399999986],[20.95557499999978,41.89404599999986],[20.95157399999977,41.89430049999984],[20.95160599999977,41.89676799999984],[20.95600649999977,41.89890249999985],[20.95692649999978,41.90439249999986],[20.95297549999978,41.90830349999985],[20.96030599999978,41.91206299999985],[20.96627899999979,41.91179899999986],[20.96623499999978,41.91450299999985],[20.97283399999978,41.91442049999986],[20.97578449999978,41.92045099999984],[20.97869699999978,41.92091549999986],[20.97924199999977,41.92515999999986],[20.97627599999979,41.92542899999984],[20.97961249999977,41.92692149999985],[20.97662099999977,41.92746949999986],[20.98485349999979,41.93795949999986],[20.98027799999977,41.93780549999985],[20.97742899999977,41.94145149999986],[20.97290649999977,41.94148349999986],[20.97415099999978,41.94327449999986],[20.96979899999977,41.94437349999984],[20.97510449999979,41.94864449999986],[20.96632099999977,41.95170299999984],[20.95679299999978,41.94570499999986],[20.94928899999977,41.94432299999986],[20.95229949999978,41.95661349999986],[20.96340199999977,41.96263999999985],[20.97024049999979,41.97572099999985],[20.96696899999978,41.98318299999985],[20.97960099999978,41.98400649999985],[20.98043899999979,41.98016699999985],[20.99449049999978,41.97434099999984],[21.00544099999979,41.97245149999986],[21.01091199999979,41.96888749999985],[21.00843649999979,41.96594649999986],[21.01165949999978,41.96551799999986],[21.01162549999978,41.96104249999985],[21.04011149999977,41.94879749999984],[21.04279699999978,41.94467949999986],[21.04860799999977,41.94358099999985],[21.05332599999977,41.94581549999984],[21.05475599999977,41.94081349999985],[21.05059699999978,41.92910299999986],[21.05253799999977,41.92245349999985],[21.04686649999977,41.91851199999985],[21.06138749999977,41.91606199999984],[21.06651549999978,41.91015149999984],[21.07836099999977,41.91873499999986],[21.08778349999977,41.90490049999985],[21.09078949999977,41.89860349999987],[21.08170899999979,41.89729449999984],[21.07506449999977,41.89199249999984],[21.06768899999977,41.89374999999984],[21.06817749999979,41.88967549999984],[21.06491449999979,41.88890099999986],[21.06606399999978,41.88331899999986],[21.06253349999977,41.87937799999986],[21.06298899999979,41.87585599999986],[21.06772399999977,41.86965399999985],[21.07019099999977,41.87102499999986],[21.08342749999977,41.86911399999985],[21.09468849999979,41.86547899999985],[21.10747849999979,41.86760399999986],[21.12085049999979,41.85953549999985],[21.12665149999978,41.85956649999986],[21.13459849999978,41.85292199999986],[21.14738899999978,41.85242849999986],[21.15426599999978,41.85777599999986],[21.15688199999977,41.85614749999985],[21.16248949999977,41.85794349999986],[21.16046049999977,41.86990699999984],[21.16674349999977,41.86921099999986],[21.16817949999978,41.87220399999984],[21.17414599999978,41.87015499999984],[21.18055099999978,41.87393199999985],[21.18247249999979,41.87007199999985],[21.18774249999979,41.86966249999986],[21.19085199999978,41.86513549999984],[21.19064849999978,41.84765649999986],[21.15826849999979,41.84700549999985],[21.14262049999977,41.84241199999985],[21.13310599999977,41.82779249999984],[21.12291149999979,41.81978499999985],[21.11365599999979,41.81618699999984],[21.10868249999979,41.80344149999985],[21.10281449999977,41.79825199999985],[21.08803149999977,41.79219649999985],[21.05815799999979,41.81214799999987],[21.05246599999978,41.81830349999984],[21.03963649999977,41.82370199999986],[21.03417249999978,41.82897799999986],[21.02417899999978,41.83169649999985],[21.02870399999978,41.83977749999985],[21.02461899999977,41.85073499999984],[21.01788299999978,41.85172399999985],[20.99367799999979,41.84712399999984],[20.98607299999978,41.84839249999985],[20.96483849999979,41.85656799999984],[20.95986899999977,41.86460199999985],[20.94703149999978,41.86668899999984],[20.94847249999978,41.87760499999985],[20.94419199999979,41.87667399999984],[20.94585699999979,41.88453949999985]]],"type":"Polygon"}
+}

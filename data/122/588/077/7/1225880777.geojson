@@ -1,0 +1,71 @@
+{
+  "id": 1225880777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26962,42.17402,22.26962,42.17402",
+    "geom:latitude":42.17402,
+    "geom:longitude":22.26962,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Dijamadzaci",
+    "gn:country_code":"MK",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114115,
+    "gn:latitude":42.17402,
+    "gn:longitude":22.26962,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Dijamad\u017eaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dijamad\u017eaci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u0438\u0458\u0430\u043c\u0430\u045f\u0430\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114115
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1a6e5f7948b679771b096c51d71fa5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1225880777,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1225880777,
+    "wof:lastmodified":1537664965,
+    "wof:name":"Dijamadzaci",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26962,
+    42.17402,
+    22.26962,
+    42.17402
+],
+  "geometry": {"coordinates":[22.26962,42.17402],"type":"Point"}
+}

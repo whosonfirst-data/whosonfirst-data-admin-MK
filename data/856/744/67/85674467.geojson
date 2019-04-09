@@ -1,0 +1,323 @@
+{
+  "id": 85674467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.025606,
+    "geom:area_square_m":237422022.189287,
+    "geom:bbox":"22.790685,41.334342,22.9794775,41.5309345",
+    "geom:latitude":41.423122,
+    "geom:longitude":22.89153,
+    "gn:population":10985,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Novo Selo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.423193,
+    "lbl:longitude":22.89151,
+    "meso:adm1_alt":"\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e",
+    "meso:adm1_loc":"Novo Selo",
+    "meso:gadm_adm1":"Novo Selo",
+    "meso:gaul_adm1":"Strumica",
+    "mps:latitude":41.413339,
+    "mps:longitude":22.869672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Novosell\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0646\u0648\u0641\u0648 \u0633\u064a\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u09ad\u09cb \u09b8\u09c7\u09b2\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u8afe\u6c83\u585e\u6d1b\u5340"
+    ],
+    "name:cze_x_preferred":[
+        "Op\u0161tina Novo Selo"
+    ],
+    "name:dan_x_preferred":[
+        "Novo Selo Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Novo Selo Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Novo Selon kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10dd-\u10e1\u10d4\u10da\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Novo Selo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03cc\u03b2\u03bf \u03a3\u03ad\u03bb\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0acb\u0ab5\u0acb \u0ab8\u0ac7\u0ab2\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u0935\u094b \u0938\u0947\u0932\u094b \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Novo Selo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Novo Selo"
+    ],
+    "name:ita_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u00ad\u30ce\u30f4\u30a9\u30fb\u30bb\u30ed"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cca\u0cb5\u0cca \u0cb8\u0cc7\u0cb2\u0ccb \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ubcf4\uc140\ub85c \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Novo Selo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Novo Selo savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u094b\u0935\u094b \u0938\u0947\u0932\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Novo Selo Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:nob_x_preferred":[
+        "Novo Selo kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Novo Selo"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Novo Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0ddc\u0dc0\u0ddd \u0dc3\u0dd9\u0dbd\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Novo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bcb\u0bb5\u0bcb  \u0b9a\u0bc7\u0bb2\u0bcb \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c35\u0c4b \u0c38\u0c46\u0c32\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e19\u0e42\u0e27 \u0e40\u0e0b\u0e42\u0e25 \u0e21\u0e39\u0e19\u0e34\u0e0b\u0e34\u0e1e\u0e31\u0e25\u0e25\u0e34\u0e42\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Novo Selo Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:und_x_variant":[
+        "Opstina Novo Selo"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Novo Selo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0648 \u0633\u06cc\u0644\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Novo Selo"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2999",
+    "ne:adm1_code":"MKD-2999",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.NS",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2999",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK72",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.72",
+    "ne:gn_id":"862945",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Novo Selo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK72",
+    "ne:gns_id":"9043525",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Novo Selo, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.42780000000",
+    "ne:longitude":"22.87010000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Novo Selo",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"NS",
+    "ne:provnum_ne":"20031",
+    "ne:region":"Southeastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550853,
+    "ne:woe_label":"Novo Selo Municipality, MK, Macedonia",
+    "ne:woe_name":"Novo Selo",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Novo Selo",
+    "qs:a1_lc":"MKD-2999",
+    "qs:a1r":"Southeastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"257",
+    "statoids:area_mi":"99",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Novo Selo",
+    "statoids:country":"MK",
+    "statoids:gec":"MK72",
+    "statoids:hasc":"MK.NS",
+    "statoids:iso":"56",
+    "statoids:name":"Novo Selo",
+    "statoids:population":"11567",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-56",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK72",
+        "gn:id":862945,
+        "gp:id":24550853,
+        "hasc:id":"MK.NS",
+        "iso:id":"MK-56",
+        "qs:id":1016990,
+        "unlc:id":"MK-56",
+        "wd:id":"Q1946579",
+        "wk:page":"Novo Selo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"10e9f387e15b37fbe309bb42416feedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674467
+        }
+    ],
+    "wof:id":85674467,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550456,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":11567,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"NS",
+    "wof:subdivision":"MK-56",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79068499999977,
+    41.33434199999985,
+    22.97947749999977,
+    41.53093449999986
+],
+  "geometry": {"coordinates":[[[22.87541949999977,41.52334249999984],[22.87967249999977,41.52827849999986],[22.88819799999979,41.53093449999986],[22.90481949999977,41.52071149999986],[22.90892149999976,41.52315299999987],[22.91688649999978,41.52296149999984],[22.91844849999978,41.52492349999986],[22.93640749999977,41.52464899999984],[22.94583249999977,41.52745149999984],[22.96395099999978,41.51796049999984],[22.96832749999979,41.51983549999986],[22.97098099999977,41.51692299999985],[22.97127099999977,41.51499849999985],[22.97000449999979,41.50887599999984],[22.96565599999977,41.50127899999984],[22.96083049999979,41.49831349999985],[22.95824849999977,41.49506599999984],[22.95865449999977,41.49302399999985],[22.95993099999978,41.48962949999986],[22.96106699999979,41.48664849999986],[22.96186249999977,41.48055549999984],[22.96403949999979,41.47729299999986],[22.96743849999979,41.47404],[22.96618049999978,41.47004349999986],[22.96448999999978,41.46782449999986],[22.96406699999977,41.46484399999986],[22.96656749999977,41.46072699999985],[22.97294499999978,41.45586399999985],[22.97407949999979,41.45539249999985],[22.97710999999978,41.45262899999986],[22.97786949999977,41.45131499999985],[22.97947749999977,41.44687599999986],[22.97800749999979,41.44441999999987],[22.97499399999978,41.44078849999985],[22.97225999999978,41.43625749999984],[22.96631599999978,41.43082349999986],[22.96336099999976,41.43040749999986],[22.96153949999979,41.42924799999986],[22.95814599999977,41.42554949999985],[22.95644299999978,41.42335749999984],[22.95197949999977,41.41748749999985],[22.95512299999979,41.41219599999985],[22.95742449999977,41.41066699999985],[22.96184249999979,41.40397699999986],[22.96611499999977,41.39641849999984],[22.96655349999978,41.39353499999984],[22.96625699999979,41.39295849999985],[22.96434849999977,41.38977949999986],[22.96307299999978,41.38641499999986],[22.96201399999978,41.37880349999986],[22.96291899999977,41.37435599999986],[22.96428499999979,41.36825899999985],[22.96485149999978,41.36501749999985],[22.96550399999978,41.35707899999986],[22.96425099999976,41.35419099999984],[22.96267849999978,41.35221099999984],[22.95320849999979,41.35237799999985],[22.94607399999978,41.34797499999985],[22.94177899999977,41.34438599999984],[22.93870349999978,41.34191499999986],[22.93706799999978,41.34091249999986],[22.93528349999977,41.34054149999986],[22.93259849999978,41.34081699999984],[22.92826299999979,41.34124099999985],[22.92759149999978,41.33853949999985],[22.92499599999977,41.33861749999986],[22.92216299999978,41.33930349999986],[22.91822849999977,41.34059299999984],[22.91596849999976,41.34101949999985],[22.91361399999977,41.34136799999985],[22.91065299999977,41.34117649999985],[22.90815349999977,41.34083899999985],[22.90550399999978,41.34000049999986],[22.90344349999978,41.33929849999984],[22.90104649999978,41.33849199999986],[22.89682449999978,41.33794499999985],[22.89320049999978,41.3385],[22.88959399999979,41.33970399999984],[22.88559949999978,41.34023349999984],[22.88186899999977,41.34051049999985],[22.87074249999978,41.34082349999986],[22.86332799999977,41.34030149999984],[22.86160999999979,41.33970249999985],[22.85486949999978,41.33844399999984],[22.84846899999977,41.33777949999984],[22.84032549999978,41.33724949999984],[22.83299099999977,41.33614049999986],[22.82756599999976,41.33434199999985],[22.82297249999976,41.33440649999986],[22.82217649999978,41.33447699999985],[22.81942449999977,41.33550999999986],[22.81766249999978,41.33696899999984],[22.81674649999977,41.33804949999984],[22.80525199999977,41.34017699999984],[22.80210649999978,41.33828799999986],[22.79891799999979,41.34349949999987],[22.79276849999977,41.34677249999984],[22.80334299999978,41.35604599999985],[22.80066299999979,41.36451449999984],[22.80680849999979,41.36870099999985],[22.80591799999976,41.37238],[22.80849949999978,41.37497849999986],[22.79947649999977,41.39071499999986],[22.79840349999978,41.39970599999984],[22.79068499999977,41.40410799999987],[22.79675949999978,41.40537799999984],[22.79556399999979,41.41113549999986],[22.80224399999977,41.40788749999984],[22.81737649999977,41.41353599999985],[22.81288849999979,41.41389399999986],[22.81239899999977,41.41878249999985],[22.80755149999979,41.42119349999984],[22.81269499999976,41.42967499999986],[22.81017649999978,41.43242349999986],[22.81322099999977,41.44725599999984],[22.82547949999977,41.45938549999985],[22.84088899999978,41.45977749999986],[22.84538249999977,41.46362449999984],[22.84518949999978,41.47231049999985],[22.85921249999978,41.48182099999985],[22.86234499999978,41.49586249999984],[22.86505099999977,41.49886249999986],[22.86980299999976,41.49807499999986],[22.87513049999978,41.50029699999985],[22.87541949999977,41.52334249999984]]],"type":"Polygon"}
+}

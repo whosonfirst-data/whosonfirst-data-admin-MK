@@ -1,0 +1,71 @@
+{
+  "id": 1327168119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6322,41.30486,22.6322,41.30486",
+    "geom:latitude":41.30486,
+    "geom:longitude":22.6322,
+    "gn:admin1_code":"E9",
+    "gn:asciiname":"Tatarli",
+    "gn:country_code":"MK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":785119,
+    "gn:latitude":41.30486,
+    "gn:longitude":22.6322,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Tatarli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "Tatarli"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0430\u0442\u0430\u0440\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785119
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1eba17bab820ca8c79ff76443426de1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1327168119,
+            "region_id":85674443
+        }
+    ],
+    "wof:id":1327168119,
+    "wof:lastmodified":1537664845,
+    "wof:name":"Tatarli",
+    "wof:parent_id":85674443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6322,
+    41.30486,
+    22.6322,
+    41.30486
+],
+  "geometry": {"coordinates":[22.6322,41.30486],"type":"Point"}
+}

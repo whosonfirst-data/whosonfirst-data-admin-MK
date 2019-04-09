@@ -1,0 +1,73 @@
+{
+  "id": 1259910507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79144,42.21952,21.79144,42.21952",
+    "geom:latitude":42.21952,
+    "geom:longitude":21.79144,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Nikuljane",
+    "gn:country_code":"MK",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":787660,
+    "gn:latitude":42.21952,
+    "gn:longitude":21.79144,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Nikuljane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u043a\u0443\u0459\u0430\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mikuljane",
+        "Nikuljane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787660,
+        "wk:page":"Nikuljane"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"6ff517d19774feba6aac86134aa3e633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259910507,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1259910507,
+    "wof:lastmodified":1537664870,
+    "wof:name":"Nikuljane",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79144,
+    42.21952,
+    21.79144,
+    42.21952
+],
+  "geometry": {"coordinates":[21.79144,42.21952],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276152235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2784,41.64152,22.2784,41.64152",
+    "geom:latitude":41.64152,
+    "geom:longitude":22.2784,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Goracino",
+    "gn:country_code":"MK",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790548,
+    "gn:latitude":41.64152,
+    "gn:longitude":22.2784,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Gora\u010dino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Gora\u010dino"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u043e\u0440\u0430\u0447\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790548
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"9c7ad25ef1ac8f3929cf813e202af55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276152235,
+            "region_id":85674219
+        }
+    ],
+    "wof:id":1276152235,
+    "wof:lastmodified":1537664892,
+    "wof:name":"Goracino",
+    "wof:parent_id":85674219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2784,
+    41.64152,
+    22.2784,
+    41.64152
+],
+  "geometry": {"coordinates":[22.2784,41.64152],"type":"Point"}
+}

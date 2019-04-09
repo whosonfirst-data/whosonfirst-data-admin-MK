@@ -1,0 +1,71 @@
+{
+  "id": 1226081283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91192,42.16187,21.91192,42.16187",
+    "geom:latitude":42.16187,
+    "geom:longitude":21.91192,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Lukarci",
+    "gn:country_code":"MK",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833023,
+    "gn:latitude":42.16187,
+    "gn:longitude":21.91192,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Lukarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Lukarci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0443\u043a\u0430\u0440\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833023
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4f6fe23f26bf0197e665c3c294d0331d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226081283,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1226081283,
+    "wof:lastmodified":1537664918,
+    "wof:name":"Lukarci",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91192,
+    42.16187,
+    21.91192,
+    42.16187
+],
+  "geometry": {"coordinates":[21.91192,42.16187],"type":"Point"}
+}

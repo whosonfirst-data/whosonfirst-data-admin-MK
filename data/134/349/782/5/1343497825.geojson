@@ -1,0 +1,73 @@
+{
+  "id": 1343497825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19889,41.89194,22.19889,41.89194",
+    "geom:latitude":41.89194,
+    "geom:longitude":22.19889,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Gujnovci",
+    "gn:country_code":"MK",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790102,
+    "gn:latitude":41.89194,
+    "gn:longitude":22.19889,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Gujnovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u0443\u0458\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tujinovci",
+        "Gunjevci",
+        "Gujnovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790102
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"3786bfb9ab59714fec65bb65f70e1960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343497825,
+            "region_id":85674187
+        }
+    ],
+    "wof:id":1343497825,
+    "wof:lastmodified":1537664888,
+    "wof:name":"Gujnovci",
+    "wof:parent_id":85674187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19889,
+    41.89194000000001,
+    22.19889,
+    41.89194000000001
+],
+  "geometry": {"coordinates":[22.19889,41.89194000000001],"type":"Point"}
+}

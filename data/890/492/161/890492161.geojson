@@ -1,0 +1,102 @@
+{
+  "id": 890492161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.21889,41.12472,21.21889,41.12472",
+    "geom:latitude":41.12472,
+    "geom:longitude":21.21889,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":95,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Obllakova"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u043b\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Oblakovo"
+    ],
+    "name:eng_x_preferred":[
+        "Oblakovo"
+    ],
+    "name:fre_x_preferred":[
+        "Oblakovo"
+    ],
+    "name:hun_x_preferred":[
+        "Oblakovo"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u0431\u043b\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "Oblakovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u0431\u043b\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Ob\u0142akowo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u043b\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "qs:name":"Oblakovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"41.1167",
+    "wd:longitude":"21.2167",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787528,
+        "gp:id":481746,
+        "qs:id":83625,
+        "wd:id":"Q3086075",
+        "wk:page":"Oblakovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054879,
+    "wof:geomhash":"7bc8aae508e0bbc71d70b1e8bf1fb014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492161,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890492161,
+    "wof:lastmodified":1527793021,
+    "wof:name":"Oblakovo",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21889,
+    41.12472,
+    21.21889,
+    41.12472
+],
+  "geometry": {"coordinates":[21.21889,41.12472],"type":"Point"}
+}

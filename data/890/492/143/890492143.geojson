@@ -1,0 +1,70 @@
+{
+  "id": 890492143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90399,41.37496,22.90399,41.37496",
+    "geom:latitude":41.37496,
+    "geom:longitude":22.90399,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":913,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0430\u0440\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Smolare"
+    ],
+    "qs:name":"Smolari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785733,
+        "gp:id":483041,
+        "qs:id":83580
+    },
+    "wof:country":"MK",
+    "wof:created":1469054879,
+    "wof:geomhash":"7b34dfc75b9102944deb7c58b3a65994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492143,
+            "region_id":85674467
+        }
+    ],
+    "wof:id":890492143,
+    "wof:lastmodified":1505343796,
+    "wof:name":"Smolari",
+    "wof:parent_id":85674467,
+    "wof:placetype":"locality",
+    "wof:population":913,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90399,
+    41.37496,
+    22.90399,
+    41.37496
+],
+  "geometry": {"coordinates":[22.90399,41.37496],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343490721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.82599,41.37877,22.82599,41.37877",
+    "geom:latitude":41.37877,
+    "geom:longitude":22.82599,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Borisovo",
+    "gn:country_code":"MK",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792444,
+    "gn:latitude":41.37877,
+    "gn:longitude":22.82599,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Borisovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Borisovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792444
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1529fc44da2278a608acf11c5965c6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343490721,
+            "region_id":85674467
+        }
+    ],
+    "wof:id":1343490721,
+    "wof:lastmodified":1537664910,
+    "wof:name":"Borisovo",
+    "wof:parent_id":85674467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82599,
+    41.37877,
+    22.82599,
+    41.37877
+],
+  "geometry": {"coordinates":[22.82599,41.37877],"type":"Point"}
+}

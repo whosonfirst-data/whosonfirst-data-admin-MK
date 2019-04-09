@@ -1,0 +1,72 @@
+{
+  "id": 890491903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12306,41.46722,21.12306,41.46722",
+    "geom:latitude":41.46722,
+    "geom:longitude":21.12306,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":4574,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Plasnica"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043b\u0430\u0441\u043d\u0438\u0446\u0430"
+    ],
+    "qs:name":"\u041f\u043b\u0430\u0441\u043d\u0438\u0446\u0430",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787016,
+        "qs:id":1029002,
+        "wd:id":"Q2018921",
+        "wk:page":"Plasnica Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054869,
+    "wof:geomhash":"4b5caa8d54c964aaa62e3331cf100d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491903,
+            "region_id":85674179
+        }
+    ],
+    "wof:id":890491903,
+    "wof:lastmodified":1527736664,
+    "wof:name":"\u041f\u043b\u0430\u0441\u043d\u0438\u0446\u0430",
+    "wof:parent_id":85674179,
+    "wof:placetype":"locality",
+    "wof:population":4574,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12306,
+    41.46722,
+    21.12306,
+    41.46722
+],
+  "geometry": {"coordinates":[21.12306,41.46722],"type":"Point"}
+}

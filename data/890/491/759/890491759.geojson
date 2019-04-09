@@ -1,0 +1,109 @@
+{
+  "id": 890491759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82861,42.19806,21.82861,42.19806",
+    "geom:latitude":42.19806,
+    "geom:longitude":21.82861,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":4112,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Nagori\u00e7i i Vjet\u00ebr"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Staro Nagori\u010dane"
+    ],
+    "name:eng_x_preferred":[
+        "Staro Nagori\u010dane"
+    ],
+    "name:fre_x_preferred":[
+        "Staro Nagoritchan\u00e9"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10e2\u10d0\u10e0\u10dd-\u10dc\u10d0\u10d2\u10dd\u10e0\u10d8\u10e9\u10d0\u10dc\u10d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Staro Nagori\u010dane"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud0c0\ub85c\ub098\uace0\ub9ac\ucc28\ub124"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Staro Nagori\u010dane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Staro Nagori\u010dane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e-\u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Nagori\u00e7an i Vjet\u00ebr"
+    ],
+    "qs:name":"\u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785515,
+        "gp:id":483008,
+        "qs:id":1028967,
+        "wd:id":"Q2731411",
+        "wk:page":"Staro Nagori\u010dane Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054864,
+    "wof:geomhash":"a6746196e4d6d9cc2d9456b929d57ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491759,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":890491759,
+    "wof:lastmodified":1553816419,
+    "wof:name":"\u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:population":4112,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82861,
+    42.19806,
+    21.82861,
+    42.19806
+],
+  "geometry": {"coordinates":[21.82861,42.19806],"type":"Point"}
+}

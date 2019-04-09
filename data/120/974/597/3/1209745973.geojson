@@ -1,0 +1,71 @@
+{
+  "id": 1209745973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88521,42.15156,21.88521,42.15156",
+    "geom:latitude":42.15156,
+    "geom:longitude":21.88521,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Suklenci",
+    "gn:country_code":"MK",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10306723,
+    "gn:latitude":42.15156,
+    "gn:longitude":21.88521,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u0160uklenci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0160uklenci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0428\u0443\u043a\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10306723
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"f9d7a4dc9a13685f5172dd3db595b95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1209745973,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1209745973,
+    "wof:lastmodified":1537664979,
+    "wof:name":"Suklenci",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88521,
+    42.15156,
+    21.88521,
+    42.15156
+],
+  "geometry": {"coordinates":[21.88521,42.15156],"type":"Point"}
+}

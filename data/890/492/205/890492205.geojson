@@ -1,0 +1,74 @@
+{
+  "id": 890492205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02861,41.4725,21.02861,41.4725",
+    "geom:latitude":41.4725,
+    "geom:longitude":21.02861,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":414,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u010celopeci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u0446\u0438"
+    ],
+    "qs:name":"\u010celopeci",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Vrane\u0161tica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792008,
+        "gp:id":481843,
+        "qs:id":293257
+    },
+    "wof:country":"MK",
+    "wof:created":1469054881,
+    "wof:geomhash":"8138f8fcf6a6953c9a7e95b03acca2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492205,
+            "region_id":85674241
+        }
+    ],
+    "wof:id":890492205,
+    "wof:lastmodified":1505343797,
+    "wof:name":"\u010celopeci",
+    "wof:parent_id":85674241,
+    "wof:placetype":"locality",
+    "wof:population":414,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02861,
+    41.4725,
+    21.02861,
+    41.4725
+],
+  "geometry": {"coordinates":[21.02861,41.4725],"type":"Point"}
+}

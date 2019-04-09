@@ -1,0 +1,71 @@
+{
+  "id": 1293166457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.24444,41.90972,22.24444,41.90972",
+    "geom:latitude":41.90972,
+    "geom:longitude":22.24444,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Vrbica",
+    "gn:country_code":"MK",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784194,
+    "gn:latitude":41.90972,
+    "gn:longitude":22.24444,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Vrbica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Vrbica"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784194
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"5232972d90e92c51c93e93b56fad5314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293166457,
+            "region_id":85674279
+        }
+    ],
+    "wof:id":1293166457,
+    "wof:lastmodified":1537664838,
+    "wof:name":"Vrbica",
+    "wof:parent_id":85674279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.24444,
+    41.90972,
+    22.24444,
+    41.90972
+],
+  "geometry": {"coordinates":[22.24444,41.90972],"type":"Point"}
+}

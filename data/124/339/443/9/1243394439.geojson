@@ -1,0 +1,71 @@
+{
+  "id": 1243394439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98858,42.26077,21.98858,42.26077",
+    "geom:latitude":42.26077,
+    "geom:longitude":21.98858,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Skender",
+    "gn:country_code":"MK",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860475,
+    "gn:latitude":42.26077,
+    "gn:longitude":21.98858,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Skender",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Skender"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u043a\u0435\u043d\u0434\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860475
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"64b00791a7cef5f11ab4e3ccb97ce4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243394439,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1243394439,
+    "wof:lastmodified":1537664938,
+    "wof:name":"Skender",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98858,
+    42.26077,
+    21.98858,
+    42.26077
+],
+  "geometry": {"coordinates":[21.98858,42.26077],"type":"Point"}
+}

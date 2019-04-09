@@ -1,0 +1,74 @@
+{
+  "id": 1226477297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17294,42.28049,22.17294,42.28049",
+    "geom:latitude":42.28049,
+    "geom:longitude":22.17294,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Vukavice",
+    "gn:country_code":"MK",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861302,
+    "gn:latitude":42.28049,
+    "gn:longitude":22.17294,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Vu\u1e31avice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Vu\u1e31avice"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0443\u045c\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "Vu\u0107avice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861302
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"de5ba005dca2f10b9205a8e637040766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226477297,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1226477297,
+    "wof:lastmodified":1537664940,
+    "wof:name":"Vukavice",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17294,
+    42.28049,
+    22.17294,
+    42.28049
+],
+  "geometry": {"coordinates":[22.17294,42.28049],"type":"Point"}
+}

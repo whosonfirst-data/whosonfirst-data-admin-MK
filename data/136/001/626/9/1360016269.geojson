@@ -1,0 +1,71 @@
+{
+  "id": 1360016269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27052,42.09761,22.27052,42.09761",
+    "geom:latitude":42.09761,
+    "geom:longitude":22.27052,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Staro Muskovo",
+    "gn:country_code":"MK",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834538,
+    "gn:latitude":42.09761,
+    "gn:longitude":22.27052,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Staro Mu\u0161kovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Staro Mu\u0161kovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0430\u0440\u043e \u041c\u0443\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834538
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"bffe99665f08d670216d6d57eba486e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1360016269,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1360016269,
+    "wof:lastmodified":1537664925,
+    "wof:name":"Staro Muskovo",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27052,
+    42.09761,
+    22.27052,
+    42.09761
+],
+  "geometry": {"coordinates":[22.27052,42.09761],"type":"Point"}
+}

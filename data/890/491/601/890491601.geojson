@@ -1,0 +1,80 @@
+{
+  "id": 890491601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62528,41.945,21.62528,41.945",
+    "geom:latitude":41.945,
+    "geom:longitude":21.62528,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":482,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u040c\u043e\u0458\u043b\u0438\u0458\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u1e30ojlija"
+    ],
+    "name:unk_x_variant":[
+        "Kjojlija"
+    ],
+    "qs:name":"\u0106ojlija",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674315,
+        85674173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791902,
+        "gp:id":482940,
+        "qs:id":83759
+    },
+    "wof:country":"MK",
+    "wof:created":1469054858,
+    "wof:geomhash":"24faa6e1b44124a1ecc3102f957af59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491601,
+            "region_id":85674315
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491601,
+            "region_id":85674173
+        }
+    ],
+    "wof:id":890491601,
+    "wof:lastmodified":1505343793,
+    "wof:name":"\u0106ojlija",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":482,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62528,
+    41.945,
+    21.62528,
+    41.945
+],
+  "geometry": {"coordinates":[21.62528,41.945],"type":"Point"}
+}

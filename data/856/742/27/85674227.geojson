@@ -1,0 +1,263 @@
+{
+  "id": 85674227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000379,
+    "geom:area_square_m":3477667.566506,
+    "geom:bbox":"21.4267195,41.998744,21.4510605,42.022545",
+    "geom:latitude":42.011631,
+    "geom:longitude":21.439538,
+    "gn:id":"",
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Cair Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.011727,
+    "lbl:longitude":21.43977,
+    "meso:adm1_alt":"\u0427\u0430\u0438\u0440",
+    "meso:adm1_loc":"\u010cair",
+    "meso:gadm_adm1":"Karpo\u0161",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":41.994362,
+    "mps:longitude":21.436445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e \u00c7airit"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0438\u0440"
+    ],
+    "name:chi_x_preferred":[
+        "\u67e5\u4f0a\u5c14\u533a"
+    ],
+    "name:dut_x_preferred":[
+        "\u010cair"
+    ],
+    "name:eng_x_preferred":[
+        "Cair Municipality"
+    ],
+    "name:eng_x_variant":[
+        "\u010cair",
+        "Municipality of \u010cair",
+        "Chair",
+        "\u010cair Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Tcha\u00efr"
+    ],
+    "name:fre_x_preferred":[
+        "Tcha\u00efr"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e9\u10d0\u10d8\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina \u010cair"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u010cair"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cair"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc28\uc774\ub974 \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u0438\u0440"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u0438\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de \u010cair"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e \u00c7airit"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cair"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0427\u0430\u0438\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0457\u0440"
+    ],
+    "name:und_x_colloquial":[
+        "Cair",
+        "Opstina Cair"
+    ],
+    "name:und_x_preferred":[
+        "\u010cair"
+    ],
+    "name:und_x_variant":[
+        "Opstina \u010cair"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina \u010cair"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0686\u0627\u0626\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u4f0a\u5c14\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2913",
+    "ne:adm1_code":"MKD-2913",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.CI",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2913",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MKA3",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.C8",
+    "ne:gn_id":"863836",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Cair",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-79",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.99460000000",
+    "ne:longitude":"21.43670000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Cair",
+    "ne:name_alt":"",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CI",
+    "ne:provnum_ne":"20077",
+    "ne:region":"Greater Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Municipality",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550752,
+    "ne:woe_label":"",
+    "ne:woe_name":"Cair Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Cair",
+    "qs:a1_lc":"MKD-2913",
+    "qs:a1r":"Greater Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"53",
+    "statoids:area_mi":"20",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Skopje",
+    "statoids:country":"MK",
+    "statoids:gec":"MKC8",
+    "statoids:hasc":"MK.CI",
+    "statoids:iso":"79",
+    "statoids:name":"Chair",
+    "statoids:population":"64773",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-79",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKC8",
+        "gn:id":863836,
+        "gp:id":24550752,
+        "hasc:id":"MK.CI",
+        "iso:id":"MK-79",
+        "qs:id":1191262,
+        "unlc:id":"MK-79",
+        "wd:id":"Q1419314"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4f446070c212fb7f9af5f409e1b2fa9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674227
+        }
+    ],
+    "wof:id":85674227,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550451,
+    "wof:name":"Cair",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":64773,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"CI",
+    "wof:subdivision":"MK-79",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42671949999979,
+    41.99874399999985,
+    21.45106049999978,
+    42.02254499999984
+],
+  "geometry": {"coordinates":[[[21.43037749999976,42.02254499999984],[21.44902899999977,42.02121599999984],[21.44708299999976,42.01660049999984],[21.45043899999979,42.01689199999984],[21.44663199999977,42.01324699999986],[21.45106049999978,41.99904699999985],[21.44482499999978,42.00184099999984],[21.44041199999978,41.99874399999985],[21.43560049999977,41.99913999999984],[21.43367099999978,42.00854749999985],[21.42671949999979,42.01177449999986],[21.42982099999978,42.01174899999984],[21.42799799999977,42.02008749999985],[21.43037749999976,42.02254499999984]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1343889393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9683,42.05252,20.9683,42.05252",
+    "geom:latitude":42.05252,
+    "geom:longitude":20.9683,
+    "gn:admin1_code":"E8",
+    "gn:asciiname":"Germo",
+    "gn:country_code":"MK",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790745,
+    "gn:latitude":42.05252,
+    "gn:longitude":20.9683,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"\u01f4ermo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u01f4ermo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0403\u0435\u0440\u043c\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Germ\u00eb"
+    ],
+    "name:und_x_variant":[
+        "Derma",
+        "Germol",
+        "\u00d0ermo",
+        "\u00d0ermol",
+        "Djermo",
+        "Gerno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790745
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"c72ea1ee10b1f68aa97f223f7edb1a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343889393,
+            "region_id":85674417
+        }
+    ],
+    "wof:id":1343889393,
+    "wof:lastmodified":1537664894,
+    "wof:name":"Germo",
+    "wof:parent_id":85674417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9683,
+    42.05252,
+    20.9683,
+    42.05252
+],
+  "geometry": {"coordinates":[20.9683,42.05252],"type":"Point"}
+}

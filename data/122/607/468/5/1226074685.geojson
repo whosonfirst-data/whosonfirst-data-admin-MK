@@ -1,0 +1,74 @@
+{
+  "id": 1226074685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67207,41.34935,20.67207,41.34935",
+    "geom:latitude":41.34935,
+    "geom:longitude":20.67207,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Zbazdi",
+    "gn:country_code":"MK",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783976,
+    "gn:latitude":41.34935,
+    "gn:longitude":20.67207,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Zba\u017edi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0417\u0431\u0430\u0436\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zba\u017ede",
+        "Zbadzha",
+        "Zba\u017eda",
+        "Zba\u017edi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783976
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"ab2b68df8744251d2c8dd7d6f16f486c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226074685,
+            "region_id":85674497
+        }
+    ],
+    "wof:id":1226074685,
+    "wof:lastmodified":1537664837,
+    "wof:name":"Zbazdi",
+    "wof:parent_id":85674497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67207,
+    41.34935,
+    20.67207,
+    41.34935
+],
+  "geometry": {"coordinates":[20.67207,41.34935],"type":"Point"}
+}

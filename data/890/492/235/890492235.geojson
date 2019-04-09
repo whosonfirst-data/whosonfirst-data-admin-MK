@@ -1,0 +1,77 @@
+{
+  "id": 890492235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92333,41.48417,20.92333,41.48417",
+    "geom:latitude":41.48417,
+    "geom:longitude":20.92333,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":3149,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Drugovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "qs:name":"Drugovo",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Drugovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791009,
+        "gp:id":482016,
+        "qs:id":1213576,
+        "wd:id":"Q3298739",
+        "wk:page":"Drugovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054882,
+    "wof:geomhash":"c005cbf0a89ff0c7f968ee13169e2fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492235,
+            "region_id":85674395
+        }
+    ],
+    "wof:id":890492235,
+    "wof:lastmodified":1527793023,
+    "wof:name":"Drugovo",
+    "wof:parent_id":85674395,
+    "wof:placetype":"locality",
+    "wof:population":3149,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92333,
+    41.48417,
+    20.92333,
+    41.48417
+],
+  "geometry": {"coordinates":[20.92333,41.48417],"type":"Point"}
+}

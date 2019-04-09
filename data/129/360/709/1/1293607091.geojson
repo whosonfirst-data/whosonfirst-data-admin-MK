@@ -1,0 +1,71 @@
+{
+  "id": 1293607091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21611,42.19417,22.21611,42.19417",
+    "geom:latitude":42.19417,
+    "geom:longitude":22.21611,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Radueva Maala",
+    "gn:country_code":"MK",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834590,
+    "gn:latitude":42.19417,
+    "gn:longitude":22.21611,
+    "gn:modification_date":"2008-02-29",
+    "gn:name":"\u0420\u0430\u0434\u0443\u0435\u0432\u0430 \u041c\u0430\u0430\u043b\u0430",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Radueva Maala"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0434\u0443\u0435\u0432\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834590
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4fbf9e7ac3a9c100dbf075a0ac52e5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293607091,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":1293607091,
+    "wof:lastmodified":1537664927,
+    "wof:name":"Radueva Maala",
+    "wof:parent_id":85674503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21611,
+    42.19417,
+    22.21611,
+    42.19417
+],
+  "geometry": {"coordinates":[22.21611,42.19417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259419647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55871,41.95459,22.55871,41.95459",
+    "geom:latitude":41.95459,
+    "geom:longitude":22.55871,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Klincarite",
+    "gn:country_code":"MK",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274916,
+    "gn:latitude":41.95459,
+    "gn:longitude":22.55871,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Klin\u010darite",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Klin\u010darite"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u043b\u0438\u043d\u0447\u0430\u0440\u0438\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274916
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"7264e4903cc52b80eef72d768292ebeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259419647,
+            "region_id":85674475
+        }
+    ],
+    "wof:id":1259419647,
+    "wof:lastmodified":1537664969,
+    "wof:name":"Klincarite",
+    "wof:parent_id":85674475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55871,
+    41.95459,
+    22.55871,
+    41.95459
+],
+  "geometry": {"coordinates":[22.55871,41.95459],"type":"Point"}
+}

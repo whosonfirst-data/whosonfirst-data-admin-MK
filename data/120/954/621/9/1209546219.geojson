@@ -1,0 +1,67 @@
+{
+  "id": 1209546219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30141,42.26659,22.30141,42.26659",
+    "geom:latitude":42.26659,
+    "geom:longitude":22.30141,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Glincarci",
+    "gn:country_code":"MK",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862001,
+    "gn:latitude":42.26659,
+    "gn:longitude":22.30141,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Glin\u010darci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Glin\u010darci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u043b\u0438\u043d\u0447\u0430\u0440\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862001
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"ecc4ac2c3b62d3fed7d4e32169d2cd28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209546219
+        }
+    ],
+    "wof:id":1209546219,
+    "wof:lastmodified":1537664943,
+    "wof:name":"Glincarci",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30141,
+    42.26659,
+    22.30141,
+    42.26659
+],
+  "geometry": {"coordinates":[22.30141,42.26659],"type":"Point"}
+}

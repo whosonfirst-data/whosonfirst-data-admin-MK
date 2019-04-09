@@ -1,0 +1,73 @@
+{
+  "id": 1326964251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86587,41.41395,20.86587,41.41395",
+    "geom:latitude":41.41395,
+    "geom:longitude":20.86587,
+    "gn:admin1_code":"F5",
+    "gn:asciiname":"Turje",
+    "gn:country_code":"MK",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784811,
+    "gn:latitude":41.41395,
+    "gn:longitude":20.86587,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Turje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u0440\u0458\u0435"
+    ],
+    "name:und_x_variant":[
+        "Turie",
+        "Turije",
+        "Turje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784811
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"0e77fc00d2feb47267c3309eccb9b64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326964251,
+            "region_id":85674169
+        }
+    ],
+    "wof:id":1326964251,
+    "wof:lastmodified":1537664842,
+    "wof:name":"Turje",
+    "wof:parent_id":85674169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86587,
+    41.41395,
+    20.86587,
+    41.41395
+],
+  "geometry": {"coordinates":[20.86587,41.41395],"type":"Point"}
+}

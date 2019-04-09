@@ -1,0 +1,69 @@
+{
+  "id": 1326745211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57139,42.0475,21.57139,42.0475",
+    "geom:latitude":42.0475,
+    "geom:longitude":21.57139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mojance",
+    "gn:cc2":"MK",
+    "gn:country_code":"MK",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787870,
+    "gn:latitude":42.0475,
+    "gn:longitude":21.57139,
+    "gn:modification_date":"2007-06-13",
+    "gn:name":"\u041c\u043e\u0458\u0430\u043d\u0446\u0435",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0458\u0430\u043d\u0446\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787870
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2d0c4aa8d37d02e8f77d847523a7c615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326745211,
+            "region_id":85674253
+        }
+    ],
+    "wof:id":1326745211,
+    "wof:lastmodified":1537552744,
+    "wof:name":"Mojance",
+    "wof:parent_id":85674253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57139,
+    42.0475,
+    21.57139,
+    42.0475
+],
+  "geometry": {"coordinates":[21.57139,42.0475],"type":"Point"}
+}

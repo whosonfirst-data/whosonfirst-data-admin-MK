@@ -1,0 +1,70 @@
+{
+  "id": 890491863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25991,41.96717,21.25991,41.96717",
+    "geom:latitude":41.96717,
+    "geom:longitude":21.25991,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":408,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Semeni\u0161te"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0435\u043c\u0435\u043d\u0438\u0448\u0442\u0435"
+    ],
+    "qs:name":"Semeni\u0161te",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785984,
+        "gp:id":481814,
+        "qs:id":553680
+    },
+    "wof:country":"MK",
+    "wof:created":1469054868,
+    "wof:geomhash":"2804dc97010a9559015d6cdab6697109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491863,
+            "region_id":85674205
+        }
+    ],
+    "wof:id":890491863,
+    "wof:lastmodified":1505343795,
+    "wof:name":"Semeni\u0161te",
+    "wof:parent_id":85674205,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25991,
+    41.96717,
+    21.25991,
+    41.96717
+],
+  "geometry": {"coordinates":[21.25991,41.96717],"type":"Point"}
+}

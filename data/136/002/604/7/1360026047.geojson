@@ -1,0 +1,71 @@
+{
+  "id": 1360026047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95604,41.64675,21.95604,41.64675",
+    "geom:latitude":41.64675,
+    "geom:longitude":21.95604,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Hadzijusufli",
+    "gn:country_code":"MK",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8991826,
+    "gn:latitude":41.64675,
+    "gn:longitude":21.95604,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Had\u017eijusufli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "Had\u017eijusufli"
+    ],
+    "name:mkd_x_variant":[
+        "\u0425\u0430\u045f\u0438\u0458\u0443\u0441\u0443\u0444\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991826
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"f0186b225198e4a113f58c1239ed4ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1360026047,
+            "region_id":85674301
+        }
+    ],
+    "wof:id":1360026047,
+    "wof:lastmodified":1537664960,
+    "wof:name":"Hadzijusufli",
+    "wof:parent_id":85674301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95604,
+    41.64675,
+    21.95604,
+    41.64675
+],
+  "geometry": {"coordinates":[21.95604,41.64675],"type":"Point"}
+}

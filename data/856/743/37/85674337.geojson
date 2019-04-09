@@ -1,0 +1,139 @@
+{
+  "id": 85674337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003663,
+    "geom:area_square_m":33689386.881482,
+    "geom:bbox":"21.42642,41.9111395,21.5533965,41.988608",
+    "geom:latitude":41.948212,
+    "geom:longitude":21.486257,
+    "gn:id":"",
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Kisela Voda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.94394,
+    "lbl:longitude":21.491547,
+    "meso:adm1_alt":"\u041a\u0438\u0441\u0435\u043b\u0430 \u0412\u043e\u0434\u0430",
+    "meso:adm1_loc":"Kisela Voda",
+    "meso:gadm_adm1":"Kisela Voda",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":41.91966,
+    "mps:longitude":21.50387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:eng_x_preferred":[
+        "Centar Municipality"
+    ],
+    "name:und_x_preferred":[
+        "Centar"
+    ],
+    "name:und_x_variant":[
+        "Opstina Centar"
+    ],
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Kisela Voda",
+    "qs:a1_lc":"MKD-2938",
+    "qs:a1r":"Greater Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:name":"Kisela Voda",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Kisela Voda",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"43",
+    "statoids:area_mi":"17",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Skopje",
+    "statoids:country":"MK",
+    "statoids:gec":"MK44",
+    "statoids:hasc":"MK.VD",
+    "statoids:iso":"39",
+    "statoids:name":"Kisela Voda",
+    "statoids:population":"57236",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-39",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK44",
+        "gp:id":24550866,
+        "hasc:id":"MK.VD",
+        "iso:id":"MK-39",
+        "qs:id":83487,
+        "unlc:id":"MK-39",
+        "wd:id":"Q1386136",
+        "wk:page":"Kisela Voda Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4aaf036a9fbcedd040ad0ee559b3d882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674337
+        }
+    ],
+    "wof:id":85674337,
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550455,
+    "wof:name":"Kisela Voda",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":57236,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"VD",
+    "wof:subdivision":"MK-39",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42642,
+    41.91113949999985,
+    21.55339649999979,
+    41.98860799999986
+],
+  "geometry": {"coordinates":[[[21.44182799999979,41.98732449999986],[21.44413149999977,41.98267049999984],[21.50678599999978,41.95426099999986],[21.51138199999977,41.95527449999986],[21.52233899999979,41.95203899999984],[21.52192849999977,41.95021349999985],[21.53339599999978,41.94582399999985],[21.53519849999978,41.94742049999985],[21.54282399999977,41.94666999999984],[21.54493049999977,41.94900949999985],[21.54934399999979,41.94479699999985],[21.55339649999979,41.94426399999986],[21.55234199999978,41.94133449999984],[21.54534949999979,41.93321],[21.54005649999979,41.93653049999986],[21.53400549999978,41.93335649999986],[21.53028599999979,41.92605949999984],[21.51812049999978,41.91520599999984],[21.50854599999977,41.91542449999986],[21.50749249999978,41.91338899999985],[21.50374549999978,41.91727349999985],[21.49401099999977,41.91113949999985],[21.49197399999977,41.91288449999985],[21.49544299999977,41.91607099999985],[21.49691849999977,41.92758149999986],[21.48721499999976,41.92600699999986],[21.47744699999978,41.93660049999986],[21.46268149999977,41.93595549999986],[21.45592849999977,41.93979249999984],[21.45208899999977,41.93936299999984],[21.45146499999979,41.94581049999985],[21.44538449999979,41.95139399999985],[21.45063949999977,41.95497649999984],[21.44326099999978,41.95489649999985],[21.43869749999979,41.95774749999984],[21.43431149999978,41.95670349999986],[21.43698049999978,41.95980499999985],[21.43507449999979,41.96587299999985],[21.44049199999978,41.96900699999986],[21.42642,41.97798249999985],[21.42754849999977,41.98591449999986],[21.43297049999978,41.98860799999986],[21.43863449999978,41.98640749999984],[21.44182799999979,41.98732449999986]]],"type":"Polygon"}
+}

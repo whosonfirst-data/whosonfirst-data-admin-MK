@@ -1,0 +1,99 @@
+{
+  "id": 890492621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3175,41.36861,21.3175,41.36861",
+    "geom:latitude":41.36861,
+    "geom:longitude":21.3175,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":297,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Godivja"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u0432\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Godivje"
+    ],
+    "name:fre_x_preferred":[
+        "Godivy\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Godivje"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u0432\u0458\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u0432\u0458\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u0432\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Godivje"
+    ],
+    "name:unk_x_variant":[
+        "Godivle"
+    ],
+    "qs:name":"Godivje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":627.0,
+    "wd:latitude":"41.3686",
+    "wd:longitude":"21.3175",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790663,
+        "qs:id":553956,
+        "wd:id":"Q3074779",
+        "wk:page":"Godivje"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054900,
+    "wof:geomhash":"fbbd8bacf60d9f5f0f8a3efb4750782a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492621,
+            "region_id":85674349
+        }
+    ],
+    "wof:id":890492621,
+    "wof:lastmodified":1553816420,
+    "wof:name":"Godivje",
+    "wof:parent_id":85674349,
+    "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3175,
+    41.36861,
+    21.3175,
+    41.36861
+],
+  "geometry": {"coordinates":[21.3175,41.36861],"type":"Point"}
+}

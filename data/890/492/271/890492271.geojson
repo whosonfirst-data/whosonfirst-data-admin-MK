@@ -1,0 +1,114 @@
+{
+  "id": 890492271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90611,41.78611,20.90611,41.78611",
+    "geom:latitude":41.78611,
+    "geom:longitude":20.90611,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":10147,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Banjica e Poshtme"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0627 \u0628\u0627\u0646\u062c\u064a\u0643\u0627\u060c \u0645\u0648\u0633\u0643\u0648\u0641\u0633\u0643\u0627\u062c\u0627 \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0411\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Dolna Banjica"
+    ],
+    "name:eng_x_preferred":[
+        "Dolna Banjica"
+    ],
+    "name:fre_x_preferred":[
+        "Dolna Banyitsa"
+    ],
+    "name:hun_x_preferred":[
+        "Dolna Banyica"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0411\u0430\u045a\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0411\u0430\u045a\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142na Ba\u0144ica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0411\u0430\u045a\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dolna Banjica"
+    ],
+    "qs:name":"Dolna Banjica",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Gostivar",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:elevation":540.0,
+    "wd:latitude":"41.78333333",
+    "wd:longitude":"20.9",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791371,
+        "gp:id":481936,
+        "qs:id":900221,
+        "wd:id":"Q3034185",
+        "wk:page":"Dolna Banjica"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054883,
+    "wof:geomhash":"65e7773ee2cdf0438f3702baf8e9dfbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492271,
+            "region_id":85674433
+        }
+    ],
+    "wof:id":890492271,
+    "wof:lastmodified":1527793027,
+    "wof:name":"Dolna Banjica",
+    "wof:parent_id":85674433,
+    "wof:placetype":"locality",
+    "wof:population":10147,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90611,
+    41.78611,
+    20.90611,
+    41.78611
+],
+  "geometry": {"coordinates":[20.90611,41.78611],"type":"Point"}
+}

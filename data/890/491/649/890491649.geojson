@@ -1,0 +1,106 @@
+{
+  "id": 890491649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11617,42.16964,22.11617,42.16964",
+    "geom:latitude":42.16964,
+    "geom:longitude":22.11617,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":4071,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Rankoci"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Rankovce"
+    ],
+    "name:eng_x_preferred":[
+        "Rankovce"
+    ],
+    "name:fre_x_preferred":[
+        "Rankovts\u00e9"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d0\u10dc\u10d9\u10dd\u10d5\u10ea\u10d4"
+    ],
+    "name:ita_x_preferred":[
+        "Rankovce"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Rankovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "qs:name":"\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786477,
+        "gp:id":482837,
+        "qs:id":129462,
+        "wd:id":"Q2990795",
+        "wk:page":"Rankovce Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054860,
+    "wof:geomhash":"2d427b6181598c4028d64f344afe1624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491649,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":890491649,
+    "wof:lastmodified":1527736665,
+    "wof:name":"\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435",
+    "wof:parent_id":85674503,
+    "wof:placetype":"locality",
+    "wof:population":4071,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11617,
+    42.16964,
+    22.11617,
+    42.16964
+],
+  "geometry": {"coordinates":[22.11617,42.16964],"type":"Point"}
+}

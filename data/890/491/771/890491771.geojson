@@ -1,0 +1,100 @@
+{
+  "id": 890491771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01333,41.93167,21.01333,41.93167",
+    "geom:latitude":41.93167,
+    "geom:longitude":21.01333,
+    "gn:country":"MK",
+    "gn:fcode":"PPLL",
+    "gn:pop":4731,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "\u00c7ellopeku"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "\u010celopek"
+    ],
+    "name:eng_x_preferred":[
+        "\u010celopek"
+    ],
+    "name:fre_x_preferred":[
+        "Tchelopek"
+    ],
+    "name:hun_x_preferred":[
+        "Cselopek"
+    ],
+    "name:mac_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Cze\u0142opek"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7allapek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "qs:name":"\u010celopek",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792007,
+        "gp:id":481844,
+        "qs:id":1029140,
+        "wd:id":"Q3039464",
+        "wk:page":"\u010celopek"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054865,
+    "wof:geomhash":"d3ef5b4faa96418f72e30d5d4ffe6e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491771,
+            "region_id":85674427
+        }
+    ],
+    "wof:id":890491771,
+    "wof:lastmodified":1527736663,
+    "wof:name":"\u010celopek",
+    "wof:parent_id":85674427,
+    "wof:placetype":"locality",
+    "wof:population":4731,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01333,
+    41.93167,
+    21.01333,
+    41.93167
+],
+  "geometry": {"coordinates":[21.01333,41.93167],"type":"Point"}
+}

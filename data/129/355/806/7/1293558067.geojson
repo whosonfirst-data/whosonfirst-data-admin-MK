@@ -1,0 +1,71 @@
+{
+  "id": 1293558067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84846,41.90934,22.84846,41.90934",
+    "geom:latitude":41.90934,
+    "geom:longitude":22.84846,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Virce",
+    "gn:country_code":"MK",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784413,
+    "gn:latitude":41.90934,
+    "gn:longitude":22.84846,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Vir\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Vir\u010de"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0438\u0440\u0447\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784413
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"88cf7e019726af1fe832f6db53a5d287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293558067,
+            "region_id":85674485
+        }
+    ],
+    "wof:id":1293558067,
+    "wof:lastmodified":1537664840,
+    "wof:name":"Virce",
+    "wof:parent_id":85674485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84846,
+    41.90934,
+    22.84846,
+    41.90934
+],
+  "geometry": {"coordinates":[22.84846,41.90934],"type":"Point"}
+}

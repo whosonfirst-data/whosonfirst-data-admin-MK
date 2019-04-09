@@ -1,0 +1,69 @@
+{
+  "id": 890492495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44139,41.11833,21.44139,41.11833",
+    "geom:latitude":41.11833,
+    "geom:longitude":21.44139,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":415,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0431\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Radobar"
+    ],
+    "qs:name":"Radobor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786585,
+        "qs:id":553726
+    },
+    "wof:country":"MK",
+    "wof:created":1469054892,
+    "wof:geomhash":"b6d4352139495825ff99c0920fd7f520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492495,
+            "region_id":85674365
+        }
+    ],
+    "wof:id":890492495,
+    "wof:lastmodified":1505343798,
+    "wof:name":"Radobor",
+    "wof:parent_id":85674365,
+    "wof:placetype":"locality",
+    "wof:population":415,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44139,
+    41.11833,
+    21.44139,
+    41.11833
+],
+  "geometry": {"coordinates":[21.44139,41.11833],"type":"Point"}
+}

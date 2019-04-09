@@ -1,0 +1,71 @@
+{
+  "id": 1310235725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57775,42.07901,22.57775,42.07901",
+    "geom:latitude":42.07901,
+    "geom:longitude":22.57775,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Dalevska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512425,
+    "gn:latitude":42.07901,
+    "gn:longitude":22.57775,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Dalevska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dalevska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u0430\u043b\u0435\u0432\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512425
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"9ebd2293058e1bd3c26cc8538afe34bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310235725,
+            "region_id":85674489
+        }
+    ],
+    "wof:id":1310235725,
+    "wof:lastmodified":1537664958,
+    "wof:name":"Dalevska Maala",
+    "wof:parent_id":85674489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57775,
+    42.07901,
+    22.57775,
+    42.07901
+],
+  "geometry": {"coordinates":[22.57775,42.07901],"type":"Point"}
+}

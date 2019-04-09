@@ -1,0 +1,72 @@
+{
+  "id": 890492191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96417,41.81722,21.96417,41.81722",
+    "geom:latitude":41.81722,
+    "geom:longitude":21.96417,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":116,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0426\u0440\u043d\u0438\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Malo Crnili\u0161te"
+    ],
+    "qs:name":"Dolno Crnili\u0161te",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791353,
+        "qs:id":83742,
+        "wd:id":"Q2308277",
+        "wk:page":"Sveti Nikole Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054880,
+    "wof:geomhash":"7636abc56d7e2754cc77263aeba05f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492191,
+            "region_id":85674229
+        }
+    ],
+    "wof:id":890492191,
+    "wof:lastmodified":1527793025,
+    "wof:name":"Dolno Crnili\u0161te",
+    "wof:parent_id":85674229,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96417,
+    41.81722,
+    21.96417,
+    41.81722
+],
+  "geometry": {"coordinates":[21.96417,41.81722],"type":"Point"}
+}

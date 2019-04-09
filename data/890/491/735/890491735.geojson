@@ -1,0 +1,69 @@
+{
+  "id": 890491735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19306,42.0,21.19306,42.0",
+    "geom:latitude":42.0,
+    "geom:longitude":21.19306,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1579,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0458\u0430\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Bojana"
+    ],
+    "qs:name":"Bojane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792489,
+        "qs:id":129663
+    },
+    "wof:country":"MK",
+    "wof:created":1469054863,
+    "wof:geomhash":"533249b93abb271360195437a34fe7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491735,
+            "region_id":85674205
+        }
+    ],
+    "wof:id":890491735,
+    "wof:lastmodified":1505343794,
+    "wof:name":"Bojane",
+    "wof:parent_id":85674205,
+    "wof:placetype":"locality",
+    "wof:population":1579,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19306,
+    42.0,
+    21.19306,
+    42.0
+],
+  "geometry": {"coordinates":[21.19306,42.0],"type":"Point"}
+}

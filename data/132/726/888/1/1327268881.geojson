@@ -1,0 +1,71 @@
+{
+  "id": 1327268881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78812,41.32757,20.78812,41.32757",
+    "geom:latitude":41.32757,
+    "geom:longitude":20.78812,
+    "gn:admin1_code":"F5",
+    "gn:asciiname":"Pesocani",
+    "gn:country_code":"MK",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787113,
+    "gn:latitude":41.32757,
+    "gn:longitude":20.78812,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Peso\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Peso\u010dani"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0435\u0441\u043e\u0447\u0430\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787113
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"bf7b466c8c03da58e54c2a1f10d1f069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1327268881,
+            "region_id":85674169
+        }
+    ],
+    "wof:id":1327268881,
+    "wof:lastmodified":1537664864,
+    "wof:name":"Pesocani",
+    "wof:parent_id":85674169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78812000000001,
+    41.32757,
+    20.78812000000001,
+    41.32757
+],
+  "geometry": {"coordinates":[20.78812000000001,41.32757],"type":"Point"}
+}

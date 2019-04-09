@@ -1,0 +1,70 @@
+{
+  "id": 890492423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19611,41.18806,21.19611,41.18806",
+    "geom:latitude":41.18806,
+    "geom:longitude":21.19611,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":299,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Zagori\u010de"
+    ],
+    "name:mkd_x_variant":[
+        "\u0417\u0430\u0433\u043e\u0440\u0438\u0447\u0435"
+    ],
+    "qs:name":"Zagori\u010de",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784040,
+        "gp:id":481746,
+        "qs:id":553566
+    },
+    "wof:country":"MK",
+    "wof:created":1469054889,
+    "wof:geomhash":"6768686853d19c8e1cea890c711d2582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492423,
+            "region_id":85674161
+        }
+    ],
+    "wof:id":890492423,
+    "wof:lastmodified":1505343798,
+    "wof:name":"Zagori\u010de",
+    "wof:parent_id":85674161,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19611,
+    41.18806,
+    21.19611,
+    41.18806
+],
+  "geometry": {"coordinates":[21.19611,41.18806],"type":"Point"}
+}

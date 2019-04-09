@@ -1,0 +1,80 @@
+{
+  "id": 890491719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44694,41.92278,22.44694,41.92278",
+    "geom:latitude":41.92278,
+    "geom:longitude":22.44694,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":4292,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0438\u0437\u0430\u0440\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Orizare"
+    ],
+    "qs:name":"Orizari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674341,
+        85674475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787416,
+        "gp:id":482666,
+        "qs:id":129484,
+        "wd:id":"Q1170655",
+        "wk:page":"Orizari"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054863,
+    "wof:geomhash":"3093a607a8a92a010cff63da34aaeff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491719,
+            "region_id":85674341
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491719,
+            "region_id":85674475
+        }
+    ],
+    "wof:id":890491719,
+    "wof:lastmodified":1527736667,
+    "wof:name":"Orizari",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":4292,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44694,
+    41.92278,
+    22.44694,
+    41.92278
+],
+  "geometry": {"coordinates":[22.44694,41.92278],"type":"Point"}
+}

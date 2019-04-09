@@ -1,0 +1,73 @@
+{
+  "id": 890491597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94111,41.75861,21.94111,41.75861",
+    "geom:latitude":41.75861,
+    "geom:longitude":21.94111,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":191,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u040c\u043e\u0441\u0435\u043b\u0430\u0440\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u1e30oselari"
+    ],
+    "name:unk_x_variant":[
+        "Kjoselari"
+    ],
+    "qs:name":"\u0106oselari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791889,
+        "gp:id":483067,
+        "qs:id":83757
+    },
+    "wof:country":"MK",
+    "wof:created":1469054858,
+    "wof:geomhash":"b0bfcd340937dde1184fe8953949252a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491597,
+            "region_id":85674307
+        }
+    ],
+    "wof:id":890491597,
+    "wof:lastmodified":1505343793,
+    "wof:name":"\u0106oselari",
+    "wof:parent_id":85674307,
+    "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94111,
+    41.75861,
+    21.94111,
+    41.75861
+],
+  "geometry": {"coordinates":[21.94111,41.75861],"type":"Point"}
+}

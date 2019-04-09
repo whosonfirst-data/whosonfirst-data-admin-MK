@@ -1,0 +1,102 @@
+{
+  "id": 890491843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33944,41.28361,21.33944,41.28361",
+    "geom:latitude":41.28361,
+    "geom:longitude":21.33944,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":554,
+    "gp:adm0":23424833,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bogjani"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0433\u044f\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Vogjani"
+    ],
+    "name:eng_x_preferred":[
+        "Vogjani"
+    ],
+    "name:fre_x_preferred":[
+        "Vo\u01f5ani"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u043e\u0453\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u043e\u0453\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "Vo\u01f5ani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0452\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vo\u01f5ani"
+    ],
+    "name:unk_x_variant":[
+        "Vogjani"
+    ],
+    "qs:name":"Votani",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Epirus and Western Macedonia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784309,
+        "gp:id":964818,
+        "qs:id":1285450,
+        "wd:id":"Q3136266"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054867,
+    "wof:geomhash":"e8ca7004bacf5914d524ab6af167df6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491843,
+            "region_id":85674349
+        }
+    ],
+    "wof:id":890491843,
+    "wof:lastmodified":1514484761,
+    "wof:name":"Votani",
+    "wof:parent_id":85674349,
+    "wof:placetype":"locality",
+    "wof:population":554,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33944,
+    41.28361,
+    21.33944,
+    41.28361
+],
+  "geometry": {"coordinates":[21.33944,41.28361],"type":"Point"}
+}

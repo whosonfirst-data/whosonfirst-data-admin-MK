@@ -1,0 +1,71 @@
+{
+  "id": 1243397401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28226,42.16967,22.28226,42.16967",
+    "geom:latitude":42.16967,
+    "geom:longitude":22.28226,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Prtljanci",
+    "gn:country_code":"MK",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114116,
+    "gn:latitude":42.16967,
+    "gn:longitude":22.28226,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Prtljanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Prtljanci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0440\u0442\u0459\u0430\u043d\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114116
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"98996758d343dbd08de9bfb15139f46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243397401,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1243397401,
+    "wof:lastmodified":1537664965,
+    "wof:name":"Prtljanci",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28226,
+    42.16967,
+    22.28226,
+    42.16967
+],
+  "geometry": {"coordinates":[22.28226,42.16967],"type":"Point"}
+}

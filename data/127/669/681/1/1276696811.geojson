@@ -1,0 +1,71 @@
+{
+  "id": 1276696811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94935,41.1643,21.94935,41.1643",
+    "geom:latitude":41.1643,
+    "geom:longitude":21.94935,
+    "gn:admin1_code":"D6",
+    "gn:asciiname":"Culovci",
+    "gn:country_code":"MK",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":838614,
+    "gn:latitude":41.1643,
+    "gn:longitude":21.94935,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u010culovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u010culovci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0427\u0443\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838614
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"c2e32c2436ece06df0c0eef575801fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276696811,
+            "region_id":85674327
+        }
+    ],
+    "wof:id":1276696811,
+    "wof:lastmodified":1537664933,
+    "wof:name":"Culovci",
+    "wof:parent_id":85674327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94935,
+    41.1643,
+    21.94935,
+    41.1643
+],
+  "geometry": {"coordinates":[21.94935,41.1643],"type":"Point"}
+}

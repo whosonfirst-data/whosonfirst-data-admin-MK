@@ -1,0 +1,71 @@
+{
+  "id": 1226578369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17566,42.19655,22.17566,42.19655",
+    "geom:latitude":42.19655,
+    "geom:longitude":22.17566,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Speginci",
+    "gn:country_code":"MK",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410472,
+    "gn:latitude":42.19655,
+    "gn:longitude":22.17566,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Spe\u01f5inci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Spe\u01f5inci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u043f\u0435\u0453\u0438\u043d\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410472
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"c453bcbe2417cfcd8b609411ef2fca05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226578369,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":1226578369,
+    "wof:lastmodified":1537664990,
+    "wof:name":"Speginci",
+    "wof:parent_id":85674503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17566,
+    42.19655,
+    22.17566,
+    42.19655
+],
+  "geometry": {"coordinates":[22.17566,42.19655],"type":"Point"}
+}

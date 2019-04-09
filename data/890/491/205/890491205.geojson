@@ -1,0 +1,70 @@
+{
+  "id": 890491205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77861,41.49639,21.77861,41.49639",
+    "geom:latitude":41.49639,
+    "geom:longitude":21.77861,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":13,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Popadija"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u043e\u043f\u0430\u0434\u0438\u0458\u0430"
+    ],
+    "qs:name":"Popadija",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786888,
+        "gp:id":483099,
+        "qs:id":553748
+    },
+    "wof:country":"MK",
+    "wof:created":1469054845,
+    "wof:geomhash":"0fa3c5671731a5870e482a9040d4c7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491205,
+            "region_id":85674265
+        }
+    ],
+    "wof:id":890491205,
+    "wof:lastmodified":1505343791,
+    "wof:name":"Popadija",
+    "wof:parent_id":85674265,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77861,
+    41.49639,
+    21.77861,
+    41.49639
+],
+  "geometry": {"coordinates":[21.77861,41.49639],"type":"Point"}
+}

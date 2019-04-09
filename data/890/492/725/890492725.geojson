@@ -1,0 +1,75 @@
+{
+  "id": 890492725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48111,41.25889,21.48111,41.25889",
+    "geom:latitude":41.25889,
+    "geom:longitude":21.48111,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":449,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Alince"
+    ],
+    "qs:name":"Alinci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"41.1511",
+    "wd:longitude":"21.5053",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793127,
+        "gp:id":482783,
+        "qs:id":554121,
+        "wd:id":"Q2837078",
+        "wk:page":"Alinci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054904,
+    "wof:geomhash":"0d7e917204345f324c59be482650a3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492725,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890492725,
+    "wof:lastmodified":1527793024,
+    "wof:name":"Alinci",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":449,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48111,
+    41.25889,
+    21.48111,
+    41.25889
+],
+  "geometry": {"coordinates":[21.48111,41.25889],"type":"Point"}
+}

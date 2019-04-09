@@ -1,0 +1,71 @@
+{
+  "id": 1293717835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33472,42.26,22.33472,42.26",
+    "geom:latitude":42.26,
+    "geom:longitude":22.33472,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Porecanska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862078,
+    "gn:latitude":42.26,
+    "gn:longitude":22.33472,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Pore\u010danska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Pore\u010danska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u043e\u0440\u0435\u0447\u0430\u043d\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862078
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"74656bc9d090b53bcf90882009f75e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293717835,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1293717835,
+    "wof:lastmodified":1537664944,
+    "wof:name":"Porecanska Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33472,
+    42.26,
+    22.33472,
+    42.26
+],
+  "geometry": {"coordinates":[22.33472,42.26],"type":"Point"}
+}

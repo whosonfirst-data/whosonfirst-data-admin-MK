@@ -1,0 +1,71 @@
+{
+  "id": 1260218365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97877,42.10492,21.97877,42.10492",
+    "geom:latitude":42.10492,
+    "geom:longitude":21.97877,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kurlevci",
+    "gn:country_code":"MK",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356791,
+    "gn:latitude":42.10492,
+    "gn:longitude":21.97877,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Kurlevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Kurlevci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0443\u0440\u043b\u0435\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356791
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"adef841ea486d65b546b5a180e2266c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260218365,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1260218365,
+    "wof:lastmodified":1537664983,
+    "wof:name":"Kurlevci",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97877,
+    42.10492,
+    21.97877,
+    42.10492
+],
+  "geometry": {"coordinates":[21.97877,42.10492],"type":"Point"}
+}

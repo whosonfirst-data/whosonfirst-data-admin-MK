@@ -1,0 +1,104 @@
+{
+  "id": 890491695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57556,41.96083,21.57556,41.96083",
+    "geom:latitude":41.96083,
+    "geom:longitude":21.57556,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":2292,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Idrizova"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Idrizovo"
+    ],
+    "name:eng_x_preferred":[
+        "Idrizovo"
+    ],
+    "name:fre_x_preferred":[
+        "Idrizovo"
+    ],
+    "name:ger_x_preferred":[
+        "Idrizovo"
+    ],
+    "name:mac_x_preferred":[
+        "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Idrizovo"
+    ],
+    "name:unk_x_variant":[
+        "Idrizovo"
+    ],
+    "qs:name":"\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674315,
+        85674297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790034,
+        "qs:id":129595,
+        "wd:id":"Q1027709"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054862,
+    "wof:geomhash":"ce9ccd6fa5353851f257be6943b6de26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491695,
+            "region_id":85674315
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491695,
+            "region_id":85674297
+        }
+    ],
+    "wof:id":890491695,
+    "wof:lastmodified":1514484769,
+    "wof:name":"\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":2292,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57556,
+    41.96083,
+    21.57556,
+    41.96083
+],
+  "geometry": {"coordinates":[21.57556,41.96083],"type":"Point"}
+}

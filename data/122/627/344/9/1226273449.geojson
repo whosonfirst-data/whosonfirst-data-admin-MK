@@ -1,0 +1,71 @@
+{
+  "id": 1226273449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90298,42.28865,21.90298,42.28865",
+    "geom:latitude":42.28865,
+    "geom:longitude":21.90298,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Kozjak",
+    "gn:country_code":"MK",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":860510,
+    "gn:latitude":42.28865,
+    "gn:longitude":21.90298,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kozjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Kozjak"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u043e\u0437\u0458\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":860510
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4eab3517f4107ea5f5ad55b20af49e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226273449,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1226273449,
+    "wof:lastmodified":1537664938,
+    "wof:name":"Kozjak",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90298,
+    42.28865,
+    21.90298,
+    42.28865
+],
+  "geometry": {"coordinates":[21.90298,42.28865],"type":"Point"}
+}

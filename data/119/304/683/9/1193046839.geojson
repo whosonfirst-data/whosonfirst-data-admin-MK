@@ -1,0 +1,71 @@
+{
+  "id": 1193046839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23075,42.01403,22.23075,42.01403",
+    "geom:latitude":42.01403,
+    "geom:longitude":22.23075,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Lesnovo",
+    "gn:country_code":"MK",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788689,
+    "gn:latitude":42.01403,
+    "gn:longitude":22.23075,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Lesnovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Lesnovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0435\u0441\u043d\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788689
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"011f1b3be93497101818701f7fe2f6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1193046839,
+            "region_id":85674187
+        }
+    ],
+    "wof:id":1193046839,
+    "wof:lastmodified":1537664876,
+    "wof:name":"Lesnovo",
+    "wof:parent_id":85674187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23075,
+    42.01403,
+    22.23075,
+    42.01403
+],
+  "geometry": {"coordinates":[22.23075,42.01403],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890492343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48583,41.7225,21.48583,41.7225",
+    "geom:latitude":41.7225,
+    "geom:longitude":21.48583,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":977,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gorno Jabolciste"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u0408\u0430\u0431\u043e\u043b\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Gornje Jabol\u010di\u0161te"
+    ],
+    "qs:name":"\u0413\u043e\u0440\u043d\u043e \u0408\u0430\u0431\u043e\u043b\u0447\u0438\u0448\u0442\u0435",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790334,
+        "gp:id":483099,
+        "qs:id":553934,
+        "wd:id":"Q1994547",
+        "wk:page":"\u010ca\u0161ka Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054886,
+    "wof:geomhash":"98052fdb6bf201428b5d245648841679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492343,
+            "region_id":85674265
+        }
+    ],
+    "wof:id":890492343,
+    "wof:lastmodified":1527793031,
+    "wof:name":"\u0413\u043e\u0440\u043d\u043e \u0408\u0430\u0431\u043e\u043b\u0447\u0438\u0448\u0442\u0435",
+    "wof:parent_id":85674265,
+    "wof:placetype":"locality",
+    "wof:population":977,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48583,
+    41.7225,
+    21.48583,
+    41.7225
+],
+  "geometry": {"coordinates":[21.48583,41.7225],"type":"Point"}
+}

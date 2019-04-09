@@ -1,0 +1,94 @@
+{
+  "id": 890491917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.385,41.49583,22.385,41.49583",
+    "geom:latitude":41.49583,
+    "geom:longitude":22.385,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":3475,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Kontch\u00e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10e9\u10d4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Kon\u00e7e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Kon\u00e7e"
+    ],
+    "name:unk_x_variant":[
+        "Kon\u010da"
+    ],
+    "qs:name":"Kon\u010de",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:elevation":525.0,
+    "wd:latitude":"41.5",
+    "wd:longitude":"22.38333333",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789342,
+        "gp:id":482818,
+        "qs:id":1029057,
+        "wd:id":"Q3040677",
+        "wk:page":"Kon\u010de"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054870,
+    "wof:geomhash":"23f9e1f9b0eb18e6e8db8ec7e9d0881c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491917,
+            "region_id":85674311
+        }
+    ],
+    "wof:id":890491917,
+    "wof:lastmodified":1527736668,
+    "wof:name":"Kon\u010de",
+    "wof:parent_id":85674311,
+    "wof:placetype":"locality",
+    "wof:population":3475,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.385,
+    41.49583,
+    22.385,
+    41.49583
+],
+  "geometry": {"coordinates":[22.385,41.49583],"type":"Point"}
+}

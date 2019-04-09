@@ -1,0 +1,68 @@
+{
+  "id": 1209533655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47167,42.0975,21.47167,42.0975",
+    "geom:latitude":42.0975,
+    "geom:longitude":21.47167,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ljuboten",
+    "gn:cc2":"MK",
+    "gn:country_code":"MK",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788550,
+    "gn:latitude":42.0975,
+    "gn:longitude":21.47167,
+    "gn:modification_date":"2006-10-17",
+    "gn:name":"\u0409\u0443\u0431\u043e\u0442\u0435\u043d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Luboten"
+    ],
+    "name:mkd_x_variant":[
+        "Ljuboten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788550
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"325b3ccbff6a9242c8e28e538ecf8a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209533655
+        }
+    ],
+    "wof:id":1209533655,
+    "wof:lastmodified":1537664875,
+    "wof:name":"Ljuboten",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47167,
+    42.0975,
+    21.47167,
+    42.0975
+],
+  "geometry": {"coordinates":[21.47167,42.0975],"type":"Point"}
+}

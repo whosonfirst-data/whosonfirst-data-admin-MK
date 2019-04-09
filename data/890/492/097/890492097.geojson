@@ -1,0 +1,108 @@
+{
+  "id": 890492097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37333,41.97889,21.37333,41.97889",
+    "geom:latitude":41.97889,
+    "geom:longitude":21.37333,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Nerezi i Ep\u00ebrm"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041d\u0435\u0440\u0435\u0437\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Gorno Nerezi"
+    ],
+    "name:eng_x_preferred":[
+        "Gorno Nerezi"
+    ],
+    "name:fre_x_preferred":[
+        "Gorno Nerezi"
+    ],
+    "name:ger_x_preferred":[
+        "Gorno Nerezi"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041d\u0435\u0440\u0435\u0437\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041d\u0435\u0440\u0435\u0437\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u041d\u0435\u0440\u0435\u0437\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "Nerezi i Ep\u00ebrm"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041d\u0435\u0440\u0435\u0437\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Gorni Nerezi"
+    ],
+    "qs:name":"Rakotnici",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Sopi\u0161te",
+    "qs:photos":79,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":79,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790321,
+        "gp:id":55856831,
+        "qs:id":985801,
+        "wd:id":"Q3134331"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054877,
+    "wof:geomhash":"07e31a5e35cca02ed7b10591c5718dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492097,
+            "region_id":85674323
+        }
+    ],
+    "wof:id":890492097,
+    "wof:lastmodified":1514484739,
+    "wof:name":"Rakotnici",
+    "wof:parent_id":85674323,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37333,
+    41.97889,
+    21.37333,
+    41.97889
+],
+  "geometry": {"coordinates":[21.37333,41.97889],"type":"Point"}
+}

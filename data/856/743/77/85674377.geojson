@@ -1,0 +1,269 @@
+{
+  "id": 85674377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007303,
+    "geom:area_square_m":67048851.683041,
+    "geom:bbox":"21.247652,41.9970995,21.377208,42.1088505",
+    "geom:latitude":42.058755,
+    "geom:longitude":21.319481,
+    "gn:id":"",
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Gjorce Petrov Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.07287,
+    "lbl:longitude":21.308684,
+    "meso:adm1_alt":"\u0403\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432",
+    "meso:adm1_loc":"Gjor\u010de Petrov",
+    "meso:gadm_adm1":"Gjor\u010de Petrov",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":42.045532,
+    "mps:longitude":21.323852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Gjor\u00e7e Petrovit"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u044c\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Opstina Gjorce Petrov"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f50\u585e\u5f7c\u5f97\u7f85\u592b\u5340"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina Gjor\u010de Petrov"
+    ],
+    "name:dut_x_preferred":[
+        "Gor\u010de Petrov"
+    ],
+    "name:eng_x_preferred":[
+        "Gjorce Petrov Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Opstina Gjorce Petrov",
+        "Gjorche Petrov",
+        "Gjor\u010de Petrov Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Guiortch\u00e9 P\u00e9trov"
+    ],
+    "name:fre_x_preferred":[
+        "Guiortch\u00e9 P\u00e9trov"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10e0\u10e9\u10d4-\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Gjor\u010de Petrov"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Gjor\u010de Petrov"
+    ],
+    "name:ita_x_preferred":[
+        "Gor\u010de Petrov"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10e0\u10e9\u10d4-\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uad50\ub974\uccb4\ud398\ud2b8\ub85c\ube0c \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0403\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0403\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
+    ],
+    "name:nan_x_preferred":[
+        "Guiortch\u00e9 P\u00e9trov"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Gjor\u010de Petrov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0402\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Opsjtina \u01f4or\u010de Petrov"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0413\u0439\u043e\u0440\u0447\u0435 \u043f\u0435\u0442\u0440\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0447\u0435-\u041f\u0435\u0442\u0440\u043e\u0432"
+    ],
+    "name:und_x_colloquial":[
+        "Gjorce Petrov",
+        "Opstina Gjorce Petrov"
+    ],
+    "name:und_x_preferred":[
+        "Gjor\u010de Petrov"
+    ],
+    "name:und_x_variant":[
+        "Dorce Petrov",
+        "Opstina Gjor\u010de Petrov"
+    ],
+    "name:unk_x_variant":[
+        "\u00d0or\u010de Petrov"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0648\u0631\u0686\u06c1 \u067e\u06cc\u062a\u0631\u0648\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2948",
+    "ne:adm1_code":"MKD-2948",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.GP",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2948",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.29",
+    "ne:gn_id":"863850",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Gjorce Petrov",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK29",
+    "ne:gns_id":"9075615",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Dorce Petrov, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-29",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"42.06400000000",
+    "ne:longitude":"21.30020000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Gjorce Petrov",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GP",
+    "ne:provnum_ne":"20003",
+    "ne:region":"Greater Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Municipality",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550839,
+    "ne:woe_label":"",
+    "ne:woe_name":"Gjorce Petrov Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Gjorce Petrov",
+    "qs:a1_lc":"MKD-2948",
+    "qs:a1r":"Greater Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"63",
+    "statoids:area_mi":"24",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Skopje",
+    "statoids:country":"MK",
+    "statoids:gec":"MK29",
+    "statoids:hasc":"MK.GP",
+    "statoids:iso":"29",
+    "statoids:name":"Gjorche Petrov",
+    "statoids:population":"41634",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-29",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK29",
+        "gn:id":863850,
+        "gp:id":24550839,
+        "hasc:id":"MK.GP",
+        "iso:id":"MK-29",
+        "qs:id":502097,
+        "unlc:id":"MK-29",
+        "wd:id":"Q924278"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2f443db585c7403f66d3a2b86b309f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674377
+        }
+    ],
+    "wof:id":85674377,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Gjorce Petrov",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":41634,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"GP",
+    "wof:subdivision":"MK-29",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24765199999979,
+    41.99709949999985,
+    21.37720799999977,
+    42.10885049999985
+],
+  "geometry": {"coordinates":[[[21.24894399999977,42.09075249999984],[21.25091249999977,42.09229749999986],[21.25592199999977,42.09311599999984],[21.26585449999979,42.09431449999985],[21.26835749999978,42.09467699999985],[21.27261149999978,42.09593149999986],[21.27401749999979,42.09696699999986],[21.27498249999977,42.09783649999986],[21.28236599999977,42.10125549999984],[21.28869449999979,42.10409899999985],[21.29339849999977,42.10788099999985],[21.30027099999978,42.10851299999985],[21.30150799999979,42.10712399999986],[21.30239599999979,42.10626099999985],[21.30346299999977,42.10522749999984],[21.30599149999978,42.10549599999985],[21.31501999999978,42.10691749999984],[21.31832249999977,42.10885049999985],[21.32765249999977,42.10504949999986],[21.33572099999978,42.09140949999986],[21.33573149999978,42.08516149999986],[21.34176799999977,42.07881799999984],[21.35336149999978,42.07873899999984],[21.36452849999978,42.06898349999986],[21.36260199999978,42.06033199999985],[21.36817799999977,42.05352299999984],[21.36653249999978,42.05120099999985],[21.36916649999978,42.04514649999984],[21.36771749999977,42.03053449999985],[21.36363749999978,42.02528199999986],[21.37000549999979,42.01633949999984],[21.37436749999978,42.01417249999986],[21.36755049999977,42.00689549999984],[21.37720799999977,42.00135349999985],[21.37050649999978,41.99709949999985],[21.36843699999977,41.99802799999986],[21.36208049999979,42.00110849999984],[21.35456449999978,41.99822049999986],[21.33577699999978,42.00625649999986],[21.32707499999978,42.00511549999985],[21.32116799999977,42.00730849999985],[21.32513349999977,42.01025199999984],[21.32465649999978,42.01485249999985],[21.31501949999978,42.02335749999986],[21.31347849999977,42.03070449999984],[21.31618599999979,42.03135549999985],[21.32077599999977,42.02786899999984],[21.32265649999977,42.03032149999984],[21.32441149999977,42.02869699999985],[21.32318949999978,42.03339249999985],[21.31792249999978,42.03449399999985],[21.31335599999977,42.04054399999984],[21.30432699999977,42.03914499999985],[21.29757499999977,42.04498549999985],[21.29209149999977,42.04370449999985],[21.28193,42.05192349999984],[21.27885749999979,42.06004399999986],[21.27299799999977,42.06428849999986],[21.26351499999979,42.06965749999986],[21.24967549999977,42.07165549999985],[21.25174499999977,42.07448749999986],[21.24765199999979,42.08112299999985],[21.24894399999977,42.09075249999984]]],"type":"Polygon"}
+}

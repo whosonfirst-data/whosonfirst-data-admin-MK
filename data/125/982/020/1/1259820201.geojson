@@ -1,0 +1,71 @@
+{
+  "id": 1259820201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26556,42.29417,22.26556,42.29417",
+    "geom:latitude":42.29417,
+    "geom:longitude":22.26556,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Sindarci",
+    "gn:country_code":"MK",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861993,
+    "gn:latitude":42.29417,
+    "gn:longitude":22.26556,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u0160indarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0160indarci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0428\u0438\u043d\u0434\u0430\u0440\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861993
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"b6cc5c03f470431d5b6b5217405fc19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259820201,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1259820201,
+    "wof:lastmodified":1537664942,
+    "wof:name":"Sindarci",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26556,
+    42.29417,
+    22.26556,
+    42.29417
+],
+  "geometry": {"coordinates":[22.26556,42.29417],"type":"Point"}
+}

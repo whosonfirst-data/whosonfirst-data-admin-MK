@@ -1,0 +1,113 @@
+{
+  "id": 890491997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37944,41.05028,21.37944,41.05028",
+    "geom:latitude":41.05028,
+    "geom:longitude":21.37944,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1236,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Orizari Posht\u00ebm"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Dolno Orizari"
+    ],
+    "name:eng_x_preferred":[
+        "Dolno Orizari"
+    ],
+    "name:fre_x_preferred":[
+        "Dolno Orizari"
+    ],
+    "name:ger_x_preferred":[
+        "Dolno Orizari"
+    ],
+    "name:hun_x_preferred":[
+        "Dolno Orizari"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142no Orizari"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dolno Orizari"
+    ],
+    "qs:name":"Dolno Orizari",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Bitola",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"wk",
+    "wd:elevation":582.0,
+    "wd:latitude":"41.0503",
+    "wd:longitude":"21.3794",
+    "wd:population":1834,
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791334,
+        "gp:id":481971,
+        "qs:id":129630,
+        "wd:id":"Q3034238",
+        "wk:page":"Dolno Orizari"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054873,
+    "wof:geomhash":"611ba7fde7a39a5935c53a146059a692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491997,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491997,
+    "wof:lastmodified":1553816420,
+    "wof:name":"Dolno Orizari",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":1834,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37944,
+    41.05028,
+    21.37944,
+    41.05028
+],
+  "geometry": {"coordinates":[21.37944,41.05028],"type":"Point"}
+}

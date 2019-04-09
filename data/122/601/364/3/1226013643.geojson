@@ -1,0 +1,71 @@
+{
+  "id": 1226013643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67072,42.05054,22.67072,42.05054",
+    "geom:latitude":42.05054,
+    "geom:longitude":22.67072,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Iliovska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10418940,
+    "gn:latitude":42.05054,
+    "gn:longitude":22.67072,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Iliovska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Iliovska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0418\u043b\u0438\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10418940
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d28be3a829d10e5c85239a6fc5aeb454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226013643,
+            "region_id":85674485
+        }
+    ],
+    "wof:id":1226013643,
+    "wof:lastmodified":1537664993,
+    "wof:name":"Iliovska Maala",
+    "wof:parent_id":85674485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67072000000001,
+    42.05054000000001,
+    22.67072000000001,
+    42.05054000000001
+],
+  "geometry": {"coordinates":[22.67072000000001,42.05054000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890491559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96556,41.60611,20.96556,41.60611",
+    "geom:latitude":41.60611,
+    "geom:longitude":20.96556,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":915,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u0421\u0442\u0440\u043e\u0433\u043e\u043c\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u043e\u0440\u043d\u043e \u0421\u0442\u0440\u043e\u0433\u043e\u043c\u0438\u0448\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Gorno Strogomi\u0161ta"
+    ],
+    "qs:name":"Gorna Strogomi\u0161ta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790312,
+        "gp:id":482276,
+        "qs:id":83728
+    },
+    "wof:country":"MK",
+    "wof:created":1469054857,
+    "wof:geomhash":"9b4928c0742560f158f3f5775d089e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491559,
+            "region_id":85674381
+        }
+    ],
+    "wof:id":890491559,
+    "wof:lastmodified":1505343793,
+    "wof:name":"Gorna Strogomi\u0161ta",
+    "wof:parent_id":85674381,
+    "wof:placetype":"locality",
+    "wof:population":915,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96556,
+    41.60611,
+    20.96556,
+    41.60611
+],
+  "geometry": {"coordinates":[20.96556,41.60611],"type":"Point"}
+}

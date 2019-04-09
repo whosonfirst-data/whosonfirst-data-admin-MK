@@ -1,0 +1,77 @@
+{
+  "id": 890491289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20361,41.78167,22.20361,41.78167",
+    "geom:latitude":41.78167,
+    "geom:longitude":22.20361,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":611,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440 \u041a\u0430\u0440\u0430\u043e\u0440\u043c\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Star Karaorman"
+    ],
+    "qs:name":"Stari Karaorman",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674319,
+        85674219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796071,
+        "gp:id":483020,
+        "qs:id":554132
+    },
+    "wof:country":"MK",
+    "wof:created":1469054848,
+    "wof:geomhash":"e17dca8b60c9dd31663f94b675c4e92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491289,
+            "region_id":85674319
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491289,
+            "region_id":85674219
+        }
+    ],
+    "wof:id":890491289,
+    "wof:lastmodified":1505343792,
+    "wof:name":"Stari Karaorman",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":611,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20361,
+    41.78167,
+    22.20361,
+    41.78167
+],
+  "geometry": {"coordinates":[22.20361,41.78167],"type":"Point"}
+}

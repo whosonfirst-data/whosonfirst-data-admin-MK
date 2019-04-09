@@ -1,0 +1,88 @@
+{
+  "id": 890492257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88389,41.87861,20.88389,41.87861",
+    "geom:latitude":41.87861,
+    "geom:longitude":20.88389,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":17518,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Negotino"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0442\u0438\u043d\u043e-\u041f\u043e\u043b\u043e\u0448\u043a\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u0435\u0433\u043e\u0442\u0438\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Negotin"
+    ],
+    "qs:name":"Negotino",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Vrap\u010di\u0161te",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"wk",
+    "wd:latitude":"41.483888888",
+    "wd:longitude":"22.089166666",
+    "wd:population":13284,
+    "wd:wordcount":255,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787715,
+        "gp:id":482573,
+        "qs:id":195656,
+        "wd:id":"Q164954",
+        "wk:page":"Negotino"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054883,
+    "wof:geomhash":"12a89875364774f0a4880da0604da3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492257,
+            "region_id":85674421
+        }
+    ],
+    "wof:id":890492257,
+    "wof:lastmodified":1527793023,
+    "wof:name":"Negotino",
+    "wof:parent_id":85674421,
+    "wof:placetype":"locality",
+    "wof:population":13284,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88389,
+    41.87861,
+    20.88389,
+    41.87861
+],
+  "geometry": {"coordinates":[20.88389,41.87861],"type":"Point"}
+}

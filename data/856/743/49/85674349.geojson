@@ -1,0 +1,336 @@
+{
+  "id": 85674349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009576,
+    "geom:area_square_m":88924330.760314,
+    "geom:bbox":"21.3047,41.2507375,21.4320745,41.3967215",
+    "geom:latitude":41.320218,
+    "geom:longitude":21.363692,
+    "gn:population":5723,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Krivoga\u0161tani Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.312664,
+    "lbl:longitude":21.375271,
+    "meso:adm1_alt":"\u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438",
+    "meso:adm1_loc":"Krivoga\u0161tani",
+    "meso:gadm_adm1":"Krivoga\u0161tani",
+    "meso:gaul_adm1":"Prilep",
+    "mps:latitude":41.304899,
+    "mps:longitude":21.369181,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Krivogashtanit"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0643\u0631\u064a\u0641\u0648\u063a\u0627\u0634\u062a\u0627\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09bf\u09ad\u09cb\u0997\u09be\u09b8\u09cd\u099f\u09be\u09a8\u09bf \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0449\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Krivoga\u0161tani"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u91cc\u6c83\u52a0\u4ec0\u5854\u5c3c\u533a"
+    ],
+    "name:dan_x_preferred":[
+        "Krivoga\u0161tani Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Krivoga\u0161tani"
+    ],
+    "name:eng_x_preferred":[
+        "Krivogastani Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Krivoga\u0161tanin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Krivogachtani"
+    ],
+    "name:fre_x_preferred":[
+        "Krivogachtani"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10e0\u10d8\u10d5\u10dd\u10d2\u10d0\u10e8\u10e2\u10d0\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Krivoga\u0161tani"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03c1\u03b9\u03b2\u03bf\u03ba\u03ac\u03c3\u03c4\u03b1\u03bd\u03b7\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab0\u0ac0\u0ab5\u0acb\u0a97\u0abe\u0ab8\u0acd\u0aa4\u0abe\u0aa8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093f\u0935\u094b\u0917\u0938\u094d\u0924\u093e\u0928\u0940 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Krivoga\u0161tani"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Krivoga\u0161tani"
+    ],
+    "name:ita_x_preferred":[
+        "Krivoga\u0161tani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30f4\u30a9\u30ac\u30b7\u30e5\u30bf\u30cb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0ccb\u0cb5\u0cbe\u0cb8\u0ccd\u0c9f\u0cbe\u0ca8\u0cbf \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d8\u10d5\u10dd\u10d2\u10d0\u10e8\u10e2\u10d0\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub9ac\ubcf4\uac00\uc288\ud0c0\ub2c8 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Krivoga\u0161tanu pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Krivoga\u0161tanio savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u093f\u0913\u0917\u0938\u094d\u091f\u093e\u0928\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Krivogastani Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Krivoga\u0161tani"
+    ],
+    "name:nob_x_preferred":[
+        "Krivogasjtani kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kriwogasztani"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Krivogachtani"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0ddd\u0d9c\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dd2 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Krivoga\u0161tani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Krivogasjtani"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcd\u0bb0\u0bbf\u0bb5\u0bcb\u0b95\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c30\u0c3f\u0c35\u0c4b\u0c17\u0c3e\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e04\u0e23\u0e34\u0e42\u0e27\u0e01\u0e32\u0e2a\u0e15\u0e32\u0e19\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Krivogastani Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Krivogastani",
+        "Opstina Krivogastani"
+    ],
+    "name:und_x_preferred":[
+        "Krivoga\u0161tani"
+    ],
+    "name:und_x_variant":[
+        "Opstina Krivoga\u0161tani"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Krivoga\u0161tani"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u06a9\u0631\u06cc\u0648\u0648\u06af\u0627\u0634\u062a\u0627\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Krivogastani"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2941",
+    "ne:adm1_code":"MKD-2941",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.KG",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2941",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK53",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.53",
+    "ne:gn_id":"863870",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Krivogastani",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK53",
+    "ne:gns_id":"9075635",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Krivogastani, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.30120000000",
+    "ne:longitude":"21.36820000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Krivoga\u0161tani",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"KG",
+    "ne:provnum_ne":"20073",
+    "ne:region":"Pelagonia",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550781,
+    "ne:woe_label":"",
+    "ne:woe_name":"Krivogastani Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Krivoga\u0161tani",
+    "qs:a1_lc":"MKD-2941",
+    "qs:a1r":"Pelagonia",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"88",
+    "statoids:area_mi":"34",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Krivogastani",
+    "statoids:country":"MK",
+    "statoids:gec":"MK53",
+    "statoids:hasc":"MK.KG",
+    "statoids:iso":"45",
+    "statoids:name":"Krivogashtani",
+    "statoids:population":"6150",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-45",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK53",
+        "gn:id":863870,
+        "gp:id":24550781,
+        "hasc:id":"MK.KG",
+        "iso:id":"MK-45",
+        "qs:id":59736,
+        "unlc:id":"MK-45",
+        "wd:id":"Q2018930",
+        "wk:page":"Krivoga\u0161tani Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a0d7777495b163b73ab3959ab9895541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674349
+        }
+    ],
+    "wof:id":85674349,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550455,
+    "wof:name":"Krivoga\u0161tani",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":6150,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"KG",
+    "wof:subdivision":"MK-45",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30469999999977,
+    41.25073749999984,
+    21.43207449999977,
+    41.39672149999984
+],
+  "geometry": {"coordinates":[[[21.30477549999978,41.38861499999985],[21.32697449999978,41.39672149999984],[21.34632099999979,41.39496549999984],[21.34995449999977,41.38796149999985],[21.34606299999979,41.38093399999985],[21.34999399999978,41.36669149999986],[21.36213299999977,41.36516899999984],[21.36560799999978,41.35959749999986],[21.37088099999977,41.34818849999985],[21.38672749999978,41.34951149999986],[21.39691149999979,41.34693249999984],[21.40094949999977,41.34146199999986],[21.41173249999977,41.34059949999985],[21.41239399999978,41.32338249999987],[21.41933599999979,41.32084899999984],[21.43033899999978,41.32537949999985],[21.42866299999977,41.32278599999987],[21.43207449999977,41.31673849999984],[21.43011449999977,41.31218549999986],[21.41213499999978,41.31236299999986],[21.41206099999977,41.30868149999986],[21.41805499999978,41.30860199999987],[21.41823199999979,41.29915699999987],[21.42275299999977,41.29651249999986],[21.41651449999978,41.29148949999984],[21.41763499999979,41.28879249999986],[21.42558749999978,41.28431399999985],[21.41761549999978,41.27499999999986],[21.41229949999979,41.27748249999985],[21.40637899999979,41.27424899999986],[21.40219899999977,41.27583699999985],[21.39643149999978,41.27088249999986],[21.39932149999979,41.26785699999985],[21.39910449999977,41.26474499999986],[21.39697299999978,41.26477399999985],[21.39952949999977,41.26014049999986],[21.38782649999979,41.26001949999986],[21.37592,41.25547399999985],[21.37709249999978,41.25372399999986],[21.36650199999977,41.25307949999984],[21.36563299999978,41.25073749999984],[21.36069249999977,41.25160599999984],[21.35353349999977,41.25777149999985],[21.35412249999979,41.26091699999986],[21.34867749999978,41.26398349999985],[21.34736049999978,41.26751749999985],[21.33637549999978,41.26861349999984],[21.33721799999978,41.27259099999986],[21.33532199999979,41.27850549999985],[21.33005849999978,41.27889649999986],[21.32869699999978,41.28308899999985],[21.33173199999979,41.28346599999986],[21.33029799999977,41.28493499999985],[21.33514149999976,41.29138099999986],[21.33199549999978,41.29986499999984],[21.33583749999977,41.30235699999986],[21.33558149999979,41.30534049999986],[21.34029399999977,41.30665999999985],[21.33476249999978,41.32279299999985],[21.32560949999979,41.32806199999985],[21.31691499999977,41.34020499999986],[21.30469999999977,41.34989749999986],[21.30489199999977,41.35271849999984],[21.31244699999979,41.35652199999984],[21.30759249999977,41.35949999999985],[21.30956649999979,41.37999649999986],[21.30477549999978,41.38861499999985]]],"type":"Polygon"}
+}

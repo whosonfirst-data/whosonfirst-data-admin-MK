@@ -1,0 +1,72 @@
+{
+  "id": 1260316893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97222,41.10944,20.97222,41.10944",
+    "geom:latitude":41.10944,
+    "geom:longitude":20.97222,
+    "gn:admin1_code":"86",
+    "gn:asciiname":"Bolno",
+    "gn:country_code":"MK",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792464,
+    "gn:latitude":41.10944,
+    "gn:longitude":20.97222,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bolno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Bolno"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u043b\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792464,
+        "wk:page":"Bolno"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"c5f093df436f958667e1a4fac6e94acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260316893,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":1260316893,
+    "wof:lastmodified":1537664911,
+    "wof:name":"Bolno",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97222,
+    41.10944,
+    20.97222,
+    41.10944
+],
+  "geometry": {"coordinates":[20.97222,41.10944],"type":"Point"}
+}

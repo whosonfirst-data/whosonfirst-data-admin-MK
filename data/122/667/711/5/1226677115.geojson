@@ -1,0 +1,71 @@
+{
+  "id": 1226677115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33139,42.27333,22.33139,42.27333",
+    "geom:latitude":42.27333,
+    "geom:longitude":22.33139,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Srbinovska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834674,
+    "gn:latitude":42.27333,
+    "gn:longitude":22.33139,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Srbinovska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Srbinovska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0440\u0431\u0438\u043d\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834674
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"bcf8ae63a14918094525bfe4cc226809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226677115,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1226677115,
+    "wof:lastmodified":1537664929,
+    "wof:name":"Srbinovska Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33139,
+    42.27333,
+    22.33139,
+    42.27333
+],
+  "geometry": {"coordinates":[22.33139,42.27333],"type":"Point"}
+}

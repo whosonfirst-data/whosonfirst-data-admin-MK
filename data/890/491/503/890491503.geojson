@@ -1,0 +1,72 @@
+{
+  "id": 890491503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33028,41.25139,21.33028,41.25139",
+    "geom:latitude":41.25139,
+    "geom:longitude":21.33028,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":736,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Trnovce"
+    ],
+    "qs:name":"Trnovci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784906,
+        "gp:id":482783,
+        "qs:id":83557,
+        "wk:page":"Trnovci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054855,
+    "wof:geomhash":"84cd41dbb172df098896ad9ba737b086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491503,
+            "region_id":85674365
+        }
+    ],
+    "wof:id":890491503,
+    "wof:lastmodified":1527736659,
+    "wof:name":"Trnovci",
+    "wof:parent_id":85674365,
+    "wof:placetype":"locality",
+    "wof:population":736,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33028,
+    41.25139,
+    21.33028,
+    41.25139
+],
+  "geometry": {"coordinates":[21.33028,41.25139],"type":"Point"}
+}

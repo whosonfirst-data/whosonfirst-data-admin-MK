@@ -1,0 +1,74 @@
+{
+  "id": 1327372039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.42417,41.61028,22.42417,41.61028",
+    "geom:latitude":41.61028,
+    "geom:longitude":22.42417,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Injevo",
+    "gn:country_code":"MK",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790011,
+    "gn:latitude":41.61028,
+    "gn:longitude":22.42417,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Injevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0418\u045a\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Inovo",
+        "Injevo",
+        "Inevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790011,
+        "wk:page":"Injevo"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"bfeb4a4794f90d4010ed5cd9a1c1f325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1327372039,
+            "region_id":85674191
+        }
+    ],
+    "wof:id":1327372039,
+    "wof:lastmodified":1537664887,
+    "wof:name":"Injevo",
+    "wof:parent_id":85674191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.42417,
+    41.61028,
+    22.42417,
+    41.61028
+],
+  "geometry": {"coordinates":[22.42417,41.61028],"type":"Point"}
+}

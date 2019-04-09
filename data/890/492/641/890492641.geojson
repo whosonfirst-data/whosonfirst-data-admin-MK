@@ -1,0 +1,95 @@
+{
+  "id": 890492641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37778,41.94,21.37778,41.94",
+    "geom:latitude":41.94,
+    "geom:longitude":21.37778,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":617,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Sollnja e Poshtme"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0421\u044a\u043b\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Dolno Sonje"
+    ],
+    "name:eng_x_preferred":[
+        "Dolno Sonje"
+    ],
+    "name:fre_x_preferred":[
+        "Dolno Sony\u00e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0421\u043e\u045a\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0421\u043e\u043b\u045a\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0435 \u0421\u043e\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dolno Solnje"
+    ],
+    "name:unk_x_variant":[
+        "Dolno Sonje"
+    ],
+    "qs:name":"Dolno Solnje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791330,
+        "gp:id":482940,
+        "qs:id":553990,
+        "wd:id":"Q3034235"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054901,
+    "wof:geomhash":"9e6092513ddd7ebf35874c57d5e5ebd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492641,
+            "region_id":85674209
+        }
+    ],
+    "wof:id":890492641,
+    "wof:lastmodified":1514484697,
+    "wof:name":"Dolno Solnje",
+    "wof:parent_id":85674209,
+    "wof:placetype":"locality",
+    "wof:population":617,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37778,
+    41.94,
+    21.37778,
+    41.94
+],
+  "geometry": {"coordinates":[21.37778,41.94],"type":"Point"}
+}

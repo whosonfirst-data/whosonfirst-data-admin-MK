@@ -1,0 +1,73 @@
+{
+  "id": 890491139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33112,41.89526,21.33112,41.89526",
+    "geom:latitude":41.89526,
+    "geom:longitude":21.33112,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":180,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u0431\u043e\u043b\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Jabolce"
+    ],
+    "qs:name":"Jabolci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789941,
+        "gp:id":482940,
+        "qs:id":83709,
+        "wd:id":"Q2282240",
+        "wk:page":"Sopi\u0161te Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054842,
+    "wof:geomhash":"8eaf69cb94dacccfc00d1cd3a1176806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491139,
+            "region_id":85674209
+        }
+    ],
+    "wof:id":890491139,
+    "wof:lastmodified":1527736664,
+    "wof:name":"Jabolci",
+    "wof:parent_id":85674209,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33112,
+    41.89526,
+    21.33112,
+    41.89526
+],
+  "geometry": {"coordinates":[21.33112,41.89526],"type":"Point"}
+}

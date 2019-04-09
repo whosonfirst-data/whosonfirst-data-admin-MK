@@ -1,0 +1,99 @@
+{
+  "id": 890491767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41556,41.53083,21.41556,41.53083",
+    "geom:latitude":41.53083,
+    "geom:longitude":21.41556,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1303,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "C\u00ebnilishti"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u044a\u0440\u043d\u0438\u043b\u0438\u0449\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Crnili\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "Crnili\u0161te"
+    ],
+    "name:fre_x_preferred":[
+        "Tsrnilicht\u00e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0426\u0440\u043d\u0438\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "Crnili\u0161te"
+    ],
+    "name:mkd_x_variant":[
+        "\u0426\u0440\u043d\u0438\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Tsrnilicht\u00e9"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u043d\u0438\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Crnili\u0161te"
+    ],
+    "qs:name":"Crnili\u0161te",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791819,
+        "qs:id":1029121,
+        "wd:id":"Q339762",
+        "wk:page":"Crnili\u0161te"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054864,
+    "wof:geomhash":"ab23e23ce581a6f663a7d3b934c1b773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491767,
+            "region_id":85674293
+        }
+    ],
+    "wof:id":890491767,
+    "wof:lastmodified":1527736664,
+    "wof:name":"Crnili\u0161te",
+    "wof:parent_id":85674293,
+    "wof:placetype":"locality",
+    "wof:population":1303,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41556,
+    41.53083,
+    21.41556,
+    41.53083
+],
+  "geometry": {"coordinates":[21.41556,41.53083],"type":"Point"}
+}

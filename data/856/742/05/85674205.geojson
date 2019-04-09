@@ -1,0 +1,275 @@
+{
+  "id": 85674205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.024931,
+    "geom:area_square_m":229100401.442692,
+    "geom:bbox":"21.1498735,41.8941675,21.368437,42.110915",
+    "geom:latitude":41.998523,
+    "geom:longitude":21.245046,
+    "gn:id":"",
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Saraj Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.992067,
+    "lbl:longitude":21.255809,
+    "meso:adm1_alt":"\u0421\u0430\u0440\u0430\u0458",
+    "meso:adm1_loc":"Saraj",
+    "meso:gadm_adm1":"Saraj",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":41.983709,
+    "mps:longitude":21.25301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Sarajit"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Sarai"
+    ],
+    "name:chi_x_preferred":[
+        "\u85a9\u62c9\u4f0a\u5340"
+    ],
+    "name:deu_x_preferred":[
+        "Sarai"
+    ],
+    "name:dut_x_preferred":[
+        "Saraj"
+    ],
+    "name:eng_x_preferred":[
+        "Saraj Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Saraj"
+    ],
+    "name:fra_x_preferred":[
+        "Sara\u00ef"
+    ],
+    "name:fre_x_preferred":[
+        "Sara\u00ef"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Saraj"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Saraj"
+    ],
+    "name:ind_x_preferred":[
+        "Sarai"
+    ],
+    "name:ita_x_preferred":[
+        "Saraj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e9\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub77c\uc774 \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0440\u0430\u0458"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0440\u0430\u0458"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Saraj"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Sarajit"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0440\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Saraj"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0430\u0440\u0430\u0439"
+    ],
+    "name:tgl_x_preferred":[
+        "Sarai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439"
+    ],
+    "name:und_x_preferred":[
+        "Saraj"
+    ],
+    "name:und_x_variant":[
+        "Opstina Saraj"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Saraj"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u06cc \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u62c9\u4f0a\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2908",
+    "ne:adm1_code":"MKD-2908",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.AJ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2908",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK90",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.90",
+    "ne:gn_id":"863894",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Saraj",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK90",
+    "ne:gns_id":"9075758",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saraj, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-68",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.97500000000",
+    "ne:longitude":"21.24910000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Saraj",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AJ",
+    "ne:provnum_ne":"20005",
+    "ne:region":"Greater Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Municipality",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550803,
+    "ne:woe_label":"Skopje, Saraj Municipality, Macedonia",
+    "ne:woe_name":"Saraj",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Saraj",
+    "qs:a1_lc":"MKD-2908",
+    "qs:a1r":"Greater Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"230",
+    "statoids:area_mi":"89",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Skopje",
+    "statoids:country":"MK",
+    "statoids:gec":"MK90",
+    "statoids:hasc":"MK.AJ",
+    "statoids:iso":"68",
+    "statoids:name":"Saraj",
+    "statoids:population":"35408",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-68",
+    "wd:wordcount":296,
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK90",
+        "gn:id":863894,
+        "gp:id":24550803,
+        "hasc:id":"MK.AJ",
+        "iso:id":"MK-68",
+        "qs:id":1191297,
+        "unlc:id":"MK-68",
+        "wd:id":"Q1309481"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"7c93d7ef691183e5838ba333ca9e75da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674205
+        }
+    ],
+    "wof:id":85674205,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550450,
+    "wof:name":"Saraj",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":35408,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"AJ",
+    "wof:subdivision":"MK-68",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14987349999979,
+    41.89416749999984,
+    21.36843699999977,
+    42.11091499999986
+],
+  "geometry": {"coordinates":[[[21.21374149999977,42.11091499999986],[21.21531499999978,42.10677649999985],[21.21842149999978,42.10276599999986],[21.22174649999977,42.09684949999985],[21.22584549999979,42.09606749999986],[21.22887749999978,42.09695249999984],[21.23362399999979,42.09786649999984],[21.23744499999978,42.09468899999985],[21.23913449999978,42.09389199999984],[21.24030149999979,42.09446549999984],[21.24454299999977,42.09465849999984],[21.24544399999976,42.09404449999985],[21.24605149999977,42.09181699999985],[21.24894399999977,42.09075249999984],[21.24765199999979,42.08112299999985],[21.25174499999977,42.07448749999986],[21.24967549999977,42.07165549999985],[21.26351499999979,42.06965749999986],[21.27299799999977,42.06428849999986],[21.27885749999979,42.06004399999986],[21.28193,42.05192349999984],[21.29209149999977,42.04370449999985],[21.29757499999977,42.04498549999985],[21.30432699999977,42.03914499999985],[21.31335599999977,42.04054399999984],[21.31792249999978,42.03449399999985],[21.32318949999978,42.03339249999985],[21.32441149999977,42.02869699999985],[21.32265649999977,42.03032149999984],[21.32077599999977,42.02786899999984],[21.31618599999979,42.03135549999985],[21.31347849999977,42.03070449999984],[21.31501949999978,42.02335749999986],[21.32465649999978,42.01485249999985],[21.32513349999977,42.01025199999984],[21.32116799999977,42.00730849999985],[21.32707499999978,42.00511549999985],[21.33577699999978,42.00625649999986],[21.35456449999978,41.99822049999986],[21.36208049999979,42.00110849999984],[21.36843699999977,41.99802799999986],[21.35794199999978,41.98284249999986],[21.35972599999977,41.97077999999985],[21.36389199999977,41.96362549999986],[21.34774799999977,41.96065699999986],[21.32280349999976,41.95989799999984],[21.31997199999978,41.95233749999986],[21.30280449999978,41.94730699999985],[21.30643149999977,41.94165899999985],[21.30493049999978,41.93694499999984],[21.28114049999976,41.92670799999985],[21.28194449999978,41.91995499999985],[21.26965999999979,41.91839099999984],[21.25972849999977,41.91368549999984],[21.24343049999979,41.91235199999986],[21.22344799999979,41.90151449999985],[21.21675399999978,41.89416749999984],[21.19153099999977,41.90406949999985],[21.18913199999977,41.90766899999986],[21.17665549999978,41.91431699999984],[21.18722849999978,41.92036299999984],[21.18259649999979,41.93018399999985],[21.18641549999978,41.93495899999985],[21.18229299999979,41.93708749999985],[21.18701549999977,41.93998949999985],[21.18350749999979,41.94390299999986],[21.18783449999978,41.94588499999986],[21.18281349999978,41.94831399999984],[21.18848999999977,41.95934549999984],[21.18761549999977,41.97706649999986],[21.19461999999979,41.97996649999985],[21.18399699999978,41.97977099999986],[21.17684399999979,41.98476799999986],[21.17312549999977,41.98469999999986],[21.16561349999978,41.99372749999986],[21.15649549999978,41.99961599999986],[21.14987349999979,42.01281549999985],[21.16694299999978,42.02315399999986],[21.17803499999977,42.03460999999984],[21.17176549999976,42.03921749999986],[21.17026899999979,42.04604849999984],[21.16649899999979,42.04866149999984],[21.19739499999977,42.06747149999984],[21.19266399999978,42.06985449999985],[21.19429699999978,42.07625949999985],[21.18996549999977,42.07719999999986],[21.18627949999978,42.09101999999984],[21.18282699999978,42.09324099999986],[21.17530149999979,42.08808249999984],[21.17539699999978,42.08445849999984],[21.15825699999979,42.07682599999984],[21.15820499999978,42.08235549999986],[21.16260599999978,42.08705249999986],[21.16185399999978,42.09629299999986],[21.15418199999979,42.09792799999985],[21.15818149999978,42.10023999999984],[21.16962649999977,42.09999749999986],[21.17863049999977,42.10303599999986],[21.19289399999977,42.10222999999985],[21.19872449999977,42.10579149999984],[21.20705999999979,42.10653749999986],[21.21374149999977,42.11091499999986]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226572157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94184,41.21348,20.94184,41.21348",
+    "geom:latitude":41.21348,
+    "geom:longitude":20.94184,
+    "gn:admin1_code":"E2",
+    "gn:asciiname":"Recica",
+    "gn:country_code":"MK",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786374,
+    "gn:latitude":41.21348,
+    "gn:longitude":20.94184,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Re\u010dica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Re\u010dica"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0435\u0447\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786374
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"7e32df2d4053e3b78ccfc62d292f8705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226572157,
+            "region_id":85674165
+        }
+    ],
+    "wof:id":1226572157,
+    "wof:lastmodified":1537664857,
+    "wof:name":"Recica",
+    "wof:parent_id":85674165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94184,
+    41.21348,
+    20.94184,
+    41.21348
+],
+  "geometry": {"coordinates":[20.94184,41.21348],"type":"Point"}
+}

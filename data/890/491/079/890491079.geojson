@@ -1,0 +1,103 @@
+{
+  "id": 890491079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39167,41.01611,21.39167,41.01611",
+    "geom:latitude":41.01611,
+    "geom:longitude":21.39167,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":389,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Poesheva"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Poe\u0161evo"
+    ],
+    "name:eng_x_preferred":[
+        "Poe\u0161evo"
+    ],
+    "name:fre_x_preferred":[
+        "Poechevo"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u043e\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Poeszewo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pojesjevo"
+    ],
+    "name:unk_x_variant":[
+        "Poje\u0161evo"
+    ],
+    "qs:name":"Poe\u0161evo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":580.0,
+    "wd:latitude":"41.0161",
+    "wd:longitude":"21.3917",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786943,
+        "gp:id":481746,
+        "qs:id":553752,
+        "wd:id":"Q3039766",
+        "wk:page":"Poe\u0161evo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054840,
+    "wof:geomhash":"abe38555c64aeb979353679092b313db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491079,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491079,
+    "wof:lastmodified":1527736660,
+    "wof:name":"Poe\u0161evo",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":389,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39167,
+    41.01611,
+    21.39167,
+    41.01611
+],
+  "geometry": {"coordinates":[21.39167,41.01611],"type":"Point"}
+}

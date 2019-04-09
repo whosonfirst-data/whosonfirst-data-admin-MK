@@ -1,0 +1,74 @@
+{
+  "id": 1276165907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51333,41.67472,22.51333,41.67472",
+    "geom:latitude":41.67472,
+    "geom:longitude":22.51333,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Drzani",
+    "gn:country_code":"MK",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":791001,
+    "gn:latitude":41.67472,
+    "gn:longitude":22.51333,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dr\u017eani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "Dr\u017eani"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u0440\u0436\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dr\u017eanci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791001
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a064e4507d3336bf5db4a2f50f39304d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276165907,
+            "region_id":85674191
+        }
+    ],
+    "wof:id":1276165907,
+    "wof:lastmodified":1537664898,
+    "wof:name":"Drzani",
+    "wof:parent_id":85674191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51333,
+    41.67472,
+    22.51333,
+    41.67472
+],
+  "geometry": {"coordinates":[22.51333,41.67472],"type":"Point"}
+}

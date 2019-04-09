@@ -1,0 +1,72 @@
+{
+  "id": 1260240031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6695,42.04989,22.6695,42.04989",
+    "geom:latitude":42.04989,
+    "geom:longitude":22.6695,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Vratislavci",
+    "gn:country_code":"MK",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792349,
+    "gn:latitude":42.04989,
+    "gn:longitude":22.6695,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Vratislavci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0430\u0442\u0438\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bratislavca",
+        "Bratislavci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792349
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"6667d5041001f4c8ba8607584ca98fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260240031,
+            "region_id":85674485
+        }
+    ],
+    "wof:id":1260240031,
+    "wof:lastmodified":1537664910,
+    "wof:name":"Vratislavci",
+    "wof:parent_id":85674485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6695,
+    42.04989000000001,
+    22.6695,
+    42.04989000000001
+],
+  "geometry": {"coordinates":[22.6695,42.04989000000001],"type":"Point"}
+}

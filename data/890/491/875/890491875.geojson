@@ -1,0 +1,77 @@
+{
+  "id": 890491875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72167,41.97583,21.72167,41.97583",
+    "geom:latitude":41.97583,
+    "geom:longitude":21.72167,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":237,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u043e\u045a\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Jokari"
+    ],
+    "qs:name":"Gorno Konjari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674355,
+        85674173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790330,
+        "gp:id":482728,
+        "qs:id":553931
+    },
+    "wof:country":"MK",
+    "wof:created":1469054868,
+    "wof:geomhash":"e495575501136110bc9c09a631cdc969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491875,
+            "region_id":85674355
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491875,
+            "region_id":85674173
+        }
+    ],
+    "wof:id":890491875,
+    "wof:lastmodified":1505343795,
+    "wof:name":"Gorno Konjari",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72167,
+    41.97583,
+    21.72167,
+    41.97583
+],
+  "geometry": {"coordinates":[21.72167,41.97583],"type":"Point"}
+}

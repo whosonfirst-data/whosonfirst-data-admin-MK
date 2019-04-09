@@ -1,0 +1,80 @@
+{
+  "id": 890492601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82944,41.78861,21.82944,41.78861",
+    "geom:latitude":41.78861,
+    "geom:longitude":21.82944,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":410,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043c\u0443\u0442\u0447\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Mamu\u010dilar"
+    ],
+    "qs:name":"Mamut\u010devo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674237,
+        85674307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788186,
+        "gp:id":483099,
+        "qs:id":553830,
+        "wd:id":"Q2088561",
+        "wk:page":"Veles Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054900,
+    "wof:geomhash":"9daf2a9ce0060e91cf408dbda02a8d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492601,
+            "region_id":85674237
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492601,
+            "region_id":85674307
+        }
+    ],
+    "wof:id":890492601,
+    "wof:lastmodified":1527793028,
+    "wof:name":"Mamut\u010devo",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":410,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82944,
+    41.78861,
+    21.82944,
+    41.78861
+],
+  "geometry": {"coordinates":[21.82944,41.78861],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327164965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52831,41.98113,21.52831,41.98113",
+    "geom:latitude":41.98113,
+    "geom:longitude":21.52831,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Trubarevo",
+    "gn:country_code":"MK",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549215,
+    "gn:latitude":41.98113,
+    "gn:longitude":21.52831,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Trubarevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Trubarevo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0440\u0443\u0431\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549215
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"afa3588c66669b65b6d65ef292bbc33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1327164965,
+            "region_id":85674297
+        }
+    ],
+    "wof:id":1327164965,
+    "wof:lastmodified":1537664959,
+    "wof:name":"Trubarevo",
+    "wof:parent_id":85674297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52831,
+    41.98113,
+    21.52831,
+    41.98113
+],
+  "geometry": {"coordinates":[21.52831,41.98113],"type":"Point"}
+}

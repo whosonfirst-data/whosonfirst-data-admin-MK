@@ -1,0 +1,320 @@
+{
+  "id": 85674361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.096216,
+    "geom:area_square_m":888936972.751754,
+    "geom:bbox":"21.0108565,41.4351085,21.3974495,41.8531535",
+    "geom:latitude":41.6533,
+    "geom:longitude":21.209625,
+    "gn:population":6440,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Brod Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.640745,
+    "lbl:longitude":21.232545,
+    "meso:adm1_alt":"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434",
+    "meso:adm1_loc":"Makedonski Brod",
+    "meso:gadm_adm1":"Makedonski Brod",
+    "meso:gaul_adm1":"Brod",
+    "mps:latitude":41.63953,
+    "mps:longitude":21.226224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Brodit"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0645\u0627\u0643\u064a\u062f\u0648\u0646\u0633\u0643\u064a \u0628\u0631\u0648\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u0995\u09be\u09a1\u09a8\u09b8\u09cd\u0995\u09bf \u09ac\u09cd\u09b0\u09a1 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u043e\u0434"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u5176\u9813\u5e03\u7f85\u5fb7\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Makedonski Brod Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:eng_x_preferred":[
+        "Makedonski Brod Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Makedonski Brodin kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10e1\u10d9\u10d8-\u10d1\u10e0\u10dd\u10d3\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Makedonski Brod"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03b1\u03ba\u03b5\u03bd\u03c4\u03cc\u03c3\u03ba\u03b9 \u039c\u03c0\u03c1\u03bf\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0a95\u0ac7\u0aa1\u0acb\u0aa8\u0acd\u0ab8\u0acd\u0a95\u0ac0 \u0aac\u0acd\u0ab0\u0acb\u0aa1 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0915\u0947\u0921\u094b\u0902\u0938\u0915\u0940 \u092c\u094d\u0930\u094b\u0921 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Gostivar"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Makedonski Brod"
+    ],
+    "name:ita_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b1\u30c9\u30f3\u30b9\u30ad\u30fb\u30d6\u30ed\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccd\u0caf\u0cbe\u0c95\u0ccd\u0ca1\u0cca\u0ca8\u0ccd\u0cb8\u0ccd\u0c95\u0cbf \u0cac\u0ccd\u0cb0\u0cbe\u0ca1\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ucf00\ub3c8\uc2a4\ud0a4\ube0c\ub85c\ub4dc \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Makedonskij-Brodas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Makedonijos Brodo savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0945\u0915\u094d\u0921\u094b\u0902\u0938\u094d\u0915\u0940 \u092c\u094d\u0930\u0949\u0921 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Perbandaran Makedonski Brod"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434"
+    ],
+    "name:nob_x_preferred":[
+        "Makedoniske Brod kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Makedonski Brod"
+    ],
+    "name:por_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438-\u0411\u0440\u043e\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0d9a\u0dd9\u0daf\u0ddc\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dd2 \u0db6\u0dca\u200d\u0dbb\u0ddc\u0da9\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Makedonski Brod"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0b95\u0bc6\u0ba8\u0bcd\u0ba4\u0bcb\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf  \u0baa\u0bcd\u0bb0\u0bcb\u0b9f\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c15\u0c46\u0c21\u0c4b\u0c28\u0c4d\u0c38\u0c4d\u0c15\u0c40 \u0c2c\u0c4d\u0c30\u0c4b\u0c21\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e21\u0e40\u0e01\u0e14\u0e2d\u0e19\u0e2a\u0e01\u0e34\u0e1a\u0e23\u0e2d\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Makedonski Brod Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u0411\u0440\u043e\u0434"
+    ],
+    "name:und_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:und_x_variant":[
+        "Opstina Makedonski Brod"
+    ],
+    "name:unk_x_variant":[
+        "Makedonski Brod"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06a9\u06cc\u062f\u0648\u0646\u0633\u06a9\u06cc \u0628\u0631\u0648\u062f \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Makedonski Brod"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2944",
+    "ne:adm1_code":"MKD-2944",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.MD",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2944",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK63",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.D8",
+    "ne:gn_id":"863877",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Makedonski Brod",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK59",
+    "ne:gns_id":"9075648",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Makedonski Brod, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.63030000000",
+    "ne:longitude":"21.21330000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Brod",
+    "ne:name_alt":"",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MD",
+    "ne:provnum_ne":"20082",
+    "ne:region":"Polog",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550786,
+    "ne:woe_label":"Makedonski Brod Municipality, MK, Macedonia",
+    "ne:woe_name":"Brod",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Brod",
+    "qs:a1_lc":"MKD-2944",
+    "qs:a1r":"Polog",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"875",
+    "statoids:area_mi":"338",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Makedonski Brod",
+    "statoids:country":"MK",
+    "statoids:gec":"MKD8",
+    "statoids:hasc":"MK.MD",
+    "statoids:iso":"52",
+    "statoids:name":"Makedonski Brod",
+    "statoids:population":"7141",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-52",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKD8",
+        "gn:id":863877,
+        "gp:id":24550786,
+        "hasc:id":"MK.MD",
+        "iso:id":"MK-52",
+        "qs:id":1193167,
+        "unlc:id":"MK-52",
+        "wd:id":"Q2364199",
+        "wk:page":"Makedonski Brod Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1681b44155730757138c7096c85d1415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":85674361,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Brod",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":7141,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"MD",
+    "wof:subdivision":"MK-52",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01085649999979,
+    41.43510849999984,
+    21.39744949999977,
+    41.85315349999985
+],
+  "geometry": {"coordinates":[[[21.08803149999977,41.79219649999985],[21.10281449999977,41.79825199999985],[21.10868249999979,41.80344149999985],[21.11365599999979,41.81618699999984],[21.12291149999979,41.81978499999985],[21.13310599999977,41.82779249999984],[21.14262049999977,41.84241199999985],[21.15826849999979,41.84700549999985],[21.19064849999978,41.84765649999986],[21.19534349999978,41.84729699999986],[21.20446199999978,41.85315349999985],[21.21535649999979,41.83554999999984],[21.23788599999978,41.83000199999987],[21.23999949999978,41.82621149999986],[21.25613249999978,41.82148199999986],[21.26085299999977,41.80656749999986],[21.27845099999979,41.78689149999985],[21.28312949999977,41.77813349999985],[21.29048299999977,41.77293699999984],[21.29638299999979,41.75858149999985],[21.31027649999979,41.75539049999986],[21.31744999999978,41.74813099999986],[21.32689849999977,41.74386449999986],[21.34281499999977,41.73128999999986],[21.35842249999979,41.73886599999986],[21.36739749999978,41.74065749999986],[21.37689599999979,41.73600799999986],[21.38146249999977,41.72437899999986],[21.39313649999977,41.72113949999985],[21.39349099999978,41.71796599999985],[21.38344799999979,41.71083399999986],[21.39239949999978,41.69038449999985],[21.38968749999978,41.68520249999986],[21.39079549999977,41.67724449999986],[21.39744949999977,41.66623849999985],[21.38967599999978,41.65850849999984],[21.39049449999979,41.65497549999986],[21.36940749999977,41.64953749999984],[21.37710549999977,41.63814099999985],[21.37997949999979,41.62480399999984],[21.37290049999979,41.61255099999985],[21.37388049999979,41.60552099999984],[21.36638399999978,41.57608999999985],[21.35832299999979,41.56814599999984],[21.35363149999978,41.55822599999985],[21.34642149999979,41.55671799999985],[21.34223799999978,41.55298799999986],[21.34020849999979,41.53813949999986],[21.34271799999979,41.53275099999985],[21.33265299999977,41.51635299999984],[21.33665999999977,41.50167749999986],[21.33383749999979,41.49875699999984],[21.33114899999978,41.49935349999984],[21.31258699999978,41.50998399999986],[21.29661649999977,41.51217149999985],[21.28902199999979,41.50858549999984],[21.28466599999979,41.49566499999986],[21.27458349999978,41.49917199999985],[21.27491549999979,41.49590349999986],[21.27042199999977,41.49207099999984],[21.26282549999979,41.49423049999984],[21.26086299999977,41.49265649999984],[21.25581149999977,41.48298799999986],[21.26442899999978,41.47209799999985],[21.25355599999978,41.47354149999984],[21.25252899999978,41.46267499999985],[21.24161749999979,41.45217599999984],[21.22852299999977,41.44928399999986],[21.22814449999979,41.44204899999986],[21.20224099999979,41.43510849999984],[21.18738399999978,41.43816549999985],[21.18706199999977,41.44903799999986],[21.17700099999979,41.44884699999986],[21.16159949999977,41.45587699999984],[21.14139299999977,41.47514199999986],[21.14458549999978,41.49095049999985],[21.13086799999977,41.48594299999985],[21.10762699999978,41.48406949999986],[21.09807349999977,41.47463599999986],[21.07883149999978,41.47429549999984],[21.07921549999978,41.48126649999986],[21.07380299999977,41.48408799999984],[21.07643649999977,41.49222349999985],[21.07443049999978,41.49502549999985],[21.09632549999978,41.50452999999985],[21.11045099999978,41.51623099999986],[21.11984249999978,41.51859049999985],[21.12154399999977,41.52323299999986],[21.13594749999979,41.53646349999985],[21.13391799999977,41.54376399999984],[21.12758899999977,41.54845399999985],[21.12893899999978,41.55049399999984],[21.11343849999977,41.56115099999985],[21.10486449999979,41.56219399999986],[21.10126999999977,41.57348949999985],[21.10267299999978,41.58455449999985],[21.10611949999978,41.58906599999986],[21.10114099999979,41.60238049999984],[21.10152649999978,41.63043399999984],[21.09409449999978,41.63777849999985],[21.07520349999979,41.64110349999984],[21.06829449999978,41.64596099999986],[21.06282999999979,41.65447199999986],[21.05209049999979,41.66056399999985],[21.05207649999977,41.66822399999984],[21.05529849999976,41.66954299999986],[21.05573699999977,41.67264749999984],[21.05366,41.69562099999985],[21.03924249999977,41.70197099999984],[21.03670149999977,41.72743549999984],[21.02906099999979,41.73407449999985],[21.02827349999978,41.74754799999985],[21.01848349999977,41.75992899999986],[21.01620699999978,41.76964149999986],[21.01085649999979,41.77734899999984],[21.01610899999977,41.78652699999986],[21.02304999999978,41.79010599999984],[21.03350799999978,41.78995099999986],[21.04768899999979,41.78594899999985],[21.06691499999977,41.79138299999985],[21.08803149999977,41.79219649999985]]],"type":"Polygon"}
+}

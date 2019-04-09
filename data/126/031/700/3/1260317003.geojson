@@ -1,0 +1,72 @@
+{
+  "id": 1260317003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09314,42.01629,21.09314,42.01629",
+    "geom:latitude":42.01629,
+    "geom:longitude":21.09314,
+    "gn:admin1_code":"D5",
+    "gn:asciiname":"Siricino",
+    "gn:country_code":"MK",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785873,
+    "gn:latitude":42.01629,
+    "gn:longitude":21.09314,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Siri\u010dino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u0440\u0438\u0447\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Siri\u00e7ina",
+        "Siri\u010dino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785873
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"60ddbf51303312a94b45e3ddd7076efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260317003,
+            "region_id":85674437
+        }
+    ],
+    "wof:id":1260317003,
+    "wof:lastmodified":1537664853,
+    "wof:name":"Siricino",
+    "wof:parent_id":85674437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09314,
+    42.01629000000001,
+    21.09314,
+    42.01629000000001
+],
+  "geometry": {"coordinates":[21.09314,42.01629000000001],"type":"Point"}
+}

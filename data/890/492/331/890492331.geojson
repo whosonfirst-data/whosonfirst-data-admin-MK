@@ -1,0 +1,73 @@
+{
+  "id": 890492331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.715,41.95778,21.715,41.95778",
+    "geom:latitude":41.95778,
+    "geom:longitude":21.715,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1089,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u043d\u043e \u041a\u043e\u045a\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Sredno Konjare"
+    ],
+    "qs:name":"Sredno Konjari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":146,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785620,
+        "gp:id":482940,
+        "qs:id":129429,
+        "wd:id":"Q1018191",
+        "wk:page":"Petrovec Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054885,
+    "wof:geomhash":"23ce8c28d89f5a84fad9c840ea294c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492331,
+            "region_id":85674173
+        }
+    ],
+    "wof:id":890492331,
+    "wof:lastmodified":1527793021,
+    "wof:name":"Sredno Konjari",
+    "wof:parent_id":85674173,
+    "wof:placetype":"locality",
+    "wof:population":1089,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.715,
+    41.95778,
+    21.715,
+    41.95778
+],
+  "geometry": {"coordinates":[21.715,41.95778],"type":"Point"}
+}

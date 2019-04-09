@@ -1,0 +1,67 @@
+{
+  "id": 1209041151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1419,42.15868,22.1419,42.15868",
+    "geom:latitude":42.15868,
+    "geom:longitude":22.1419,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Kavaklija",
+    "gn:country_code":"MK",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410550,
+    "gn:latitude":42.15868,
+    "gn:longitude":22.1419,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Kavaklija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Kavaklija"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u0432\u0430\u043a\u043b\u0438\u0458\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410550
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"f5d5a6be8da0d17e4feab42d8e2e05e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209041151
+        }
+    ],
+    "wof:id":1209041151,
+    "wof:lastmodified":1537664991,
+    "wof:name":"Kavaklija",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1419,
+    42.15868,
+    22.1419,
+    42.15868
+],
+  "geometry": {"coordinates":[22.1419,42.15868],"type":"Point"}
+}

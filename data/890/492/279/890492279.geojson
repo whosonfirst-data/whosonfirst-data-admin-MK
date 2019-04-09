@@ -1,0 +1,85 @@
+{
+  "id": 890492279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58528,42.15639,21.58528,42.15639",
+    "geom:latitude":42.15639,
+    "geom:longitude":21.58528,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":28102,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lipkovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u043f\u043a\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Lipkov\u00eb"
+    ],
+    "qs:name":"Lipkovo",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Lipkovo",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:elevation":441.0,
+    "wd:latitude":"42.15",
+    "wd:longitude":"21.58333333",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788654,
+        "gp:id":482441,
+        "qs:id":215391,
+        "wd:id":"Q3044293",
+        "wk:page":"Lipkovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054884,
+    "wof:geomhash":"f2d3d3849273a32be4d06f37e6e97a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492279,
+            "region_id":85674257
+        }
+    ],
+    "wof:id":890492279,
+    "wof:lastmodified":1527793027,
+    "wof:name":"Lipkovo",
+    "wof:parent_id":85674257,
+    "wof:placetype":"locality",
+    "wof:population":28102,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58528,
+    42.15639,
+    21.58528,
+    42.15639
+],
+  "geometry": {"coordinates":[21.58528,42.15639],"type":"Point"}
+}

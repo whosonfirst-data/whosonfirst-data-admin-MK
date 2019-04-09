@@ -1,0 +1,75 @@
+{
+  "id": 890492709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12722,41.34222,21.12722,41.34222",
+    "geom:latitude":41.34222,
+    "geom:longitude":21.12722,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":197,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:mkd_x_preferred":[
+        "Brezovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u0435\u0437\u043e\u0432\u043e"
+    ],
+    "qs:name":"Brezovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:elevation":233.0,
+    "wd:latitude":"42.35",
+    "wd:longitude":"25.083333333",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792274,
+        "gp:id":482563,
+        "qs:id":554068,
+        "wk:page":"Brezovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054904,
+    "wof:geomhash":"de9ff66a6d269d5462aa013cf8e22107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492709,
+            "region_id":85674161
+        }
+    ],
+    "wof:id":890492709,
+    "wof:lastmodified":1527793021,
+    "wof:name":"Brezovo",
+    "wof:parent_id":85674161,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12722,
+    41.34222,
+    21.12722,
+    41.34222
+],
+  "geometry": {"coordinates":[21.12722,41.34222],"type":"Point"}
+}

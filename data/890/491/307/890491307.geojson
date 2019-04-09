@@ -1,0 +1,69 @@
+{
+  "id": 890491307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84694,41.42417,21.84694,41.42417",
+    "geom:latitude":41.42417,
+    "geom:longitude":21.84694,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":205,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Rajec"
+    ],
+    "qs:name":"Raec",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786551,
+        "qs:id":553723
+    },
+    "wof:country":"MK",
+    "wof:created":1469054848,
+    "wof:geomhash":"47f10cff108347668c789d1dce871dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491307,
+            "region_id":85674327
+        }
+    ],
+    "wof:id":890491307,
+    "wof:lastmodified":1505343792,
+    "wof:name":"Raec",
+    "wof:parent_id":85674327,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84694,
+    41.42417,
+    21.84694,
+    41.42417
+],
+  "geometry": {"coordinates":[21.84694,41.42417],"type":"Point"}
+}

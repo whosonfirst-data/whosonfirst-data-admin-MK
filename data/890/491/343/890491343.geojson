@@ -1,0 +1,72 @@
+{
+  "id": 890491343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46806,41.01778,21.46806,41.01778",
+    "geom:latitude":41.01778,
+    "geom:longitude":21.46806,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":235,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Ribarci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0438\u0431\u0430\u0440\u0446\u0438"
+    ],
+    "qs:name":"Ribarci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786316,
+        "qs:id":553696,
+        "wd:id":"Q2256280",
+        "wk:page":"Ribarci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054849,
+    "wof:geomhash":"c7604279d1a89927737cdb2c4a38cc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491343,
+            "region_id":85674373
+        }
+    ],
+    "wof:id":890491343,
+    "wof:lastmodified":1527736668,
+    "wof:name":"Ribarci",
+    "wof:parent_id":85674373,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46806,
+    41.01778,
+    21.46806,
+    41.01778
+],
+  "geometry": {"coordinates":[21.46806,41.01778],"type":"Point"}
+}

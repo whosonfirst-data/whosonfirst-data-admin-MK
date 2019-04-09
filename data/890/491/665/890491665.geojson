@@ -1,0 +1,101 @@
+{
+  "id": 890491665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62333,41.16417,20.62333,41.16417",
+    "geom:latitude":41.16417,
+    "geom:longitude":20.62333,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":2814,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ladorishti"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043b\u0438\u0449\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Radoli\u0161ta"
+    ],
+    "name:eng_x_preferred":[
+        "Radolista"
+    ],
+    "name:fre_x_preferred":[
+        "Radolichta"
+    ],
+    "name:ger_x_preferred":[
+        "Radoli\u0161ta"
+    ],
+    "name:hun_x_preferred":[
+        "Radolista"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043b\u0438\u0448\u0442\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043b\u0438\u0448\u0442\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043b\u0438\u0448\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Radolisjta"
+    ],
+    "name:unk_x_variant":[
+        "Radoli\u0161te"
+    ],
+    "qs:name":"\u0420\u0430\u0434\u043e\u043b\u0438\u0448\u0442\u0430",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786582,
+        "gp:id":482816,
+        "qs:id":275734,
+        "wd:id":"Q1021618"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054861,
+    "wof:geomhash":"68b2b76415758107347d6184a9213c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491665,
+            "region_id":85674497
+        }
+    ],
+    "wof:id":890491665,
+    "wof:lastmodified":1514484771,
+    "wof:name":"\u0420\u0430\u0434\u043e\u043b\u0438\u0448\u0442\u0430",
+    "wof:parent_id":85674497,
+    "wof:placetype":"locality",
+    "wof:population":2814,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62333,
+    41.16417,
+    20.62333,
+    41.16417
+],
+  "geometry": {"coordinates":[20.62333,41.16417],"type":"Point"}
+}

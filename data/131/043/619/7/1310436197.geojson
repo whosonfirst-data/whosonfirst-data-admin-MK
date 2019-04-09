@@ -1,0 +1,71 @@
+{
+  "id": 1310436197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23599,41.63853,22.23599,41.63853",
+    "geom:latitude":41.63853,
+    "geom:longitude":22.23599,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Lakavica",
+    "gn:country_code":"MK",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788809,
+    "gn:latitude":41.63853,
+    "gn:longitude":22.23599,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Lakavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Lakavica"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0430\u043a\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788809
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1d702961efc0f7941ae2403c20661b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310436197,
+            "region_id":85674219
+        }
+    ],
+    "wof:id":1310436197,
+    "wof:lastmodified":1537664878,
+    "wof:name":"Lakavica",
+    "wof:parent_id":85674219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23599,
+    41.63853,
+    22.23599,
+    41.63853
+],
+  "geometry": {"coordinates":[22.23599,41.63853],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 890491789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45639,41.95611,21.45639,41.95611",
+    "geom:latitude":41.95611,
+    "geom:longitude":21.45639,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1054,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Usje"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0441\u0438\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Usje"
+    ],
+    "name:fre_x_preferred":[
+        "Oussy\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Usje"
+    ],
+    "name:mac_x_preferred":[
+        "\u0423\u0441\u0458\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u0441\u0458\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0441\u0458\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Usija"
+    ],
+    "qs:name":"Usje",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784747,
+        "gp:id":482940,
+        "qs:id":1028946,
+        "wd:id":"Q1528294"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054865,
+    "wof:geomhash":"bf8fcb1c3c3375023b51beb0e806a048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491789,
+            "region_id":85674337
+        }
+    ],
+    "wof:id":890491789,
+    "wof:lastmodified":1514484755,
+    "wof:name":"Usje",
+    "wof:parent_id":85674337,
+    "wof:placetype":"locality",
+    "wof:population":1054,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45639,
+    41.95611,
+    21.45639,
+    41.95611
+],
+  "geometry": {"coordinates":[21.45639,41.95611],"type":"Point"}
+}

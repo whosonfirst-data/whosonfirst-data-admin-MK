@@ -1,0 +1,73 @@
+{
+  "id": 890491063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48556,41.88639,21.48556,41.88639",
+    "geom:latitude":41.88639,
+    "geom:longitude":21.48556,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1276,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041a\u043e\u043b\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Dolno Koli\u010dane"
+    ],
+    "qs:name":"Dolno Koli\u010dani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791343,
+        "gp:id":482940,
+        "qs:id":129631,
+        "wd:id":"Q2088034",
+        "wk:page":"Studeni\u010dani Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054839,
+    "wof:geomhash":"cac84dc267d5d09cb652b6879f845536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491063,
+            "region_id":85674223
+        }
+    ],
+    "wof:id":890491063,
+    "wof:lastmodified":1527736662,
+    "wof:name":"Dolno Koli\u010dani",
+    "wof:parent_id":85674223,
+    "wof:placetype":"locality",
+    "wof:population":1276,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48556,
+    41.88639,
+    21.48556,
+    41.88639
+],
+  "geometry": {"coordinates":[21.48556,41.88639],"type":"Point"}
+}

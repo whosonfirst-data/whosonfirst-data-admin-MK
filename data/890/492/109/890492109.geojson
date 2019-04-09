@@ -1,0 +1,64 @@
+{
+  "id": 890492109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4274,42.115757,21.4274,42.115757",
+    "geom:latitude":42.115757,
+    "geom:longitude":21.4274,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "qs:name":"Ku\u010devi\u0161te",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"\u010cu\u010der-Sandevo",
+    "qs:photos":182,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":182,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":482378,
+        "qs:id":1055700
+    },
+    "wof:country":"MK",
+    "wof:created":1469054878,
+    "wof:geomhash":"f5acec880220b8d9b1d59488aef3bf55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492109,
+            "region_id":85674287
+        }
+    ],
+    "wof:id":890492109,
+    "wof:lastmodified":1469054878,
+    "wof:name":"Ku\u010devi\u0161te",
+    "wof:parent_id":85674287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4274,
+    42.115757,
+    21.4274,
+    42.115757
+],
+  "geometry": {"coordinates":[21.4274,42.115757],"type":"Point"}
+}

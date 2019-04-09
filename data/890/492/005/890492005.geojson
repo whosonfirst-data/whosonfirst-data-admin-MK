@@ -1,0 +1,81 @@
+{
+  "id": 890492005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57556,41.20306,22.57556,41.20306",
+    "geom:latitude":41.20306,
+    "geom:longitude":22.57556,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":8636,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "qs:name":"Bogdanci",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Bogdanci",
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":88,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"41.203055555",
+    "wd:longitude":"22.572777777",
+    "wd:wordcount":1039,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792523,
+        "gp:id":481755,
+        "qs:id":129664,
+        "wd:id":"Q751948",
+        "wk:page":"Bogdanci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054874,
+    "wof:geomhash":"5537f9a00aeeb4e4826dc372be258556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492005,
+            "region_id":85674453
+        }
+    ],
+    "wof:id":890492005,
+    "wof:lastmodified":1527793029,
+    "wof:name":"Bogdanci",
+    "wof:parent_id":85674453,
+    "wof:placetype":"locality",
+    "wof:population":8636,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57556,
+    41.20306,
+    22.57556,
+    41.20306
+],
+  "geometry": {"coordinates":[22.57556,41.20306],"type":"Point"}
+}

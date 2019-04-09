@@ -1,0 +1,71 @@
+{
+  "id": 1360221089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61483,41.47773,22.61483,41.47773",
+    "geom:latitude":41.47773,
+    "geom:longitude":22.61483,
+    "gn:admin1_code":"A9",
+    "gn:asciiname":"Angelci",
+    "gn:country_code":"MK",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":793116,
+    "gn:latitude":41.47773,
+    "gn:longitude":22.61483,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Angelci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Angelci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0410\u043d\u0433\u0435\u043b\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793116
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"230ba1ff0f478ffe43dd3c335bb3de2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1360221089,
+            "region_id":85674449
+        }
+    ],
+    "wof:id":1360221089,
+    "wof:lastmodified":1537664915,
+    "wof:name":"Angelci",
+    "wof:parent_id":85674449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61483,
+    41.47773,
+    22.61483,
+    41.47773
+],
+  "geometry": {"coordinates":[22.61483,41.47773],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209128123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35142,40.92904,21.35142,40.92904",
+    "geom:latitude":40.92904,
+    "geom:longitude":21.35142,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Velusina",
+    "gn:country_code":"MK",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784500,
+    "gn:latitude":40.92904,
+    "gn:longitude":21.35142,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Velu\u0161ina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0443\u0448\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Velu\u0161ino",
+        "Velju\u0161ino",
+        "Velu\u0161ina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784500,
+        "wk:page":"Velu%C5%A1ina"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"511450d8ffff81ba8394a572844cf1c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209128123
+        }
+    ],
+    "wof:id":1209128123,
+    "wof:lastmodified":1537664841,
+    "wof:name":"Velusina",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35142,
+    40.92904,
+    21.35142,
+    40.92904
+],
+  "geometry": {"coordinates":[21.35142,40.92904],"type":"Point"}
+}

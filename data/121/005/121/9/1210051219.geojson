@@ -1,0 +1,72 @@
+{
+  "id": 1210051219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94675,41.10357,20.94675,41.10357",
+    "geom:latitude":41.10357,
+    "geom:longitude":20.94675,
+    "gn:admin1_code":"86",
+    "gn:asciiname":"Petrino",
+    "gn:country_code":"MK",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":787087,
+    "gn:latitude":41.10357,
+    "gn:longitude":20.94675,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Petrino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pe\u0161rino",
+        "Petrino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787087
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a17c841b48ef6a60f70e7e9fe4d981c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1210051219,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":1210051219,
+    "wof:lastmodified":1537664864,
+    "wof:name":"Petrino",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94675,
+    41.10357,
+    20.94675,
+    41.10357
+],
+  "geometry": {"coordinates":[20.94675,41.10357],"type":"Point"}
+}

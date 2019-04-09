@@ -1,0 +1,94 @@
+{
+  "id": 890491571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48306,41.21278,21.48306,41.21278",
+    "geom:latitude":41.21278,
+    "geom:longitude":21.48306,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":684,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Erekoci"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0440\u0435\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Erekovci"
+    ],
+    "name:eng_x_preferred":[
+        "Erekovci"
+    ],
+    "name:fre_x_preferred":[
+        "Erekovtsi"
+    ],
+    "name:mac_x_preferred":[
+        "\u0415\u0440\u0435\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "Erekovci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0415\u0440\u0435\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0440\u0435\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "qs:name":"Erekovci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790830,
+        "gp:id":482260,
+        "qs:id":83735,
+        "wd:id":"Q3056083",
+        "wk:page":"Erekovci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054858,
+    "wof:geomhash":"a943909887bf21636c1ab8588942ccd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491571,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890491571,
+    "wof:lastmodified":1527736667,
+    "wof:name":"Erekovci",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":684,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48306,
+    41.21278,
+    21.48306,
+    41.21278
+],
+  "geometry": {"coordinates":[21.48306,41.21278],"type":"Point"}
+}

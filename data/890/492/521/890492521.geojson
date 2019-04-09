@@ -1,0 +1,69 @@
+{
+  "id": 890492521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12083,41.46361,21.12083,41.46361",
+    "geom:latitude":41.46361,
+    "geom:longitude":21.12083,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":967,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0435\u0433\u043b\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Preglevo"
+    ],
+    "qs:name":"Preglovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786801,
+        "qs:id":553739
+    },
+    "wof:country":"MK",
+    "wof:created":1469054896,
+    "wof:geomhash":"1a42468b6a953aa1d9e2c982d63d921b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492521,
+            "region_id":85674179
+        }
+    ],
+    "wof:id":890492521,
+    "wof:lastmodified":1505343799,
+    "wof:name":"Preglovo",
+    "wof:parent_id":85674179,
+    "wof:placetype":"locality",
+    "wof:population":967,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12083,
+    41.46361,
+    21.12083,
+    41.46361
+],
+  "geometry": {"coordinates":[21.12083,41.46361],"type":"Point"}
+}

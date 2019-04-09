@@ -1,0 +1,73 @@
+{
+  "id": 890491487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87917,41.58222,21.87917,41.58222",
+    "geom:latitude":41.58222,
+    "geom:longitude":21.87917,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":399,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u043e\u0434\u043e\u0432\u0440\u0430\u0442\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Vodovrat"
+    ],
+    "qs:name":"Vodovrati",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784298,
+        "gp:id":483099,
+        "qs:id":83536,
+        "wd:id":"Q1992701",
+        "wk:page":"Gradsko Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054854,
+    "wof:geomhash":"d12b828a685d995eb77671245a044f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491487,
+            "region_id":85674301
+        }
+    ],
+    "wof:id":890491487,
+    "wof:lastmodified":1527736666,
+    "wof:name":"Vodovrati",
+    "wof:parent_id":85674301,
+    "wof:placetype":"locality",
+    "wof:population":399,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87917,
+    41.58222,
+    21.87917,
+    41.58222
+],
+  "geometry": {"coordinates":[21.87917,41.58222],"type":"Point"}
+}

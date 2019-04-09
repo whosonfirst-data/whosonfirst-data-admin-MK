@@ -1,0 +1,69 @@
+{
+  "id": 890491645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19028,41.56194,21.19028,41.56194",
+    "geom:latitude":41.56194,
+    "geom:longitude":21.19028,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":105,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Gre\u0161nica"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "qs:name":"Gre\u0161nica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790164,
+        "qs:id":553920
+    },
+    "wof:country":"MK",
+    "wof:created":1469054860,
+    "wof:geomhash":"e5f88d5b2425283ac4918316bb917ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491645,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890491645,
+    "wof:lastmodified":1505343794,
+    "wof:name":"Gre\u0161nica",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19028,
+    41.56194,
+    21.19028,
+    41.56194
+],
+  "geometry": {"coordinates":[21.19028,41.56194],"type":"Point"}
+}

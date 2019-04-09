@@ -1,0 +1,92 @@
+{
+  "id": 890491911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55,41.91111,21.55,41.91111",
+    "geom:latitude":41.91111,
+    "geom:longitude":21.55,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1099,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Morana"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Morani"
+    ],
+    "name:eng_x_preferred":[
+        "Morani"
+    ],
+    "name:fre_x_preferred":[
+        "Morani"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Morane"
+    ],
+    "qs:name":"Morani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787853,
+        "gp:id":482940,
+        "qs:id":1029035,
+        "wd:id":"Q2742498"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054870,
+    "wof:geomhash":"b161129d9ec516e102238e865402371f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491911,
+            "region_id":85674223
+        }
+    ],
+    "wof:id":890491911,
+    "wof:lastmodified":1514484724,
+    "wof:name":"Morani",
+    "wof:parent_id":85674223,
+    "wof:placetype":"locality",
+    "wof:population":1099,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55,
+    41.91111,
+    21.55,
+    41.91111
+],
+  "geometry": {"coordinates":[21.55,41.91111],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326766831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18034,41.75173,21.18034,41.75173",
+    "geom:latitude":41.75173,
+    "geom:longitude":21.18034,
+    "gn:admin1_code":"D8",
+    "gn:asciiname":"Sapatoec",
+    "gn:country_code":"MK",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863648,
+    "gn:latitude":41.75173,
+    "gn:longitude":21.18034,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Sapatoec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Sapatoec"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0430\u043f\u0430\u0442\u043e\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863648
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"41f61e3859993bc7375db066a3f02763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326766831,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":1326766831,
+    "wof:lastmodified":1537664948,
+    "wof:name":"Sapatoec",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18034,
+    41.75173,
+    21.18034,
+    41.75173
+],
+  "geometry": {"coordinates":[21.18034,41.75173],"type":"Point"}
+}

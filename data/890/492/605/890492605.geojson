@@ -1,0 +1,103 @@
+{
+  "id": 890492605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13056,41.03306,21.13056,41.03306",
+    "geom:latitude":41.03306,
+    "geom:longitude":21.13056,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":257,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Mallovishti"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Malovicht\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Malovi\u0161te"
+    ],
+    "name:epo_x_preferred":[
+        "Malovi\u015dte"
+    ],
+    "name:fre_x_preferred":[
+        "Malovicht\u00e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u0142owiszte"
+    ],
+    "name:rup_x_preferred":[
+        "Molovishci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Malovisjte"
+    ],
+    "name:unk_x_variant":[
+        "Malovi\u0161ta"
+    ],
+    "qs:name":"Malovi\u0161te",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788192,
+        "qs:id":553833,
+        "wd:id":"Q2742143"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054900,
+    "wof:geomhash":"ae274d34db4663b054a00fa9b032f377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492605,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890492605,
+    "wof:lastmodified":1514484722,
+    "wof:name":"Malovi\u0161te",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":257,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13056,
+    41.03306,
+    21.13056,
+    41.03306
+],
+  "geometry": {"coordinates":[21.13056,41.03306],"type":"Point"}
+}

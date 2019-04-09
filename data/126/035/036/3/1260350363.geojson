@@ -1,0 +1,73 @@
+{
+  "id": 1260350363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31716,41.47953,21.31716,41.47953",
+    "geom:latitude":41.47953,
+    "geom:longitude":21.31716,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Debreste",
+    "gn:country_code":"MK",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791583,
+    "gn:latitude":41.47953,
+    "gn:longitude":21.31716,
+    "gn:modification_date":"2014-02-10",
+    "gn:name":"Debre\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u0448\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Debri\u0161te",
+        "Debre\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791583,
+        "wk:page":"Debre%C5%A1te"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"3cec459dcf21dfa6ce18ec096b383ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260350363,
+            "region_id":85674293
+        }
+    ],
+    "wof:id":1260350363,
+    "wof:lastmodified":1537664905,
+    "wof:name":"Debreste",
+    "wof:parent_id":85674293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31716,
+    41.47953,
+    21.31716,
+    41.47953
+],
+  "geometry": {"coordinates":[21.31716,41.47953],"type":"Point"}
+}

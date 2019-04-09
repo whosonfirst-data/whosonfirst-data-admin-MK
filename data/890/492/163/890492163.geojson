@@ -1,0 +1,100 @@
+{
+  "id": 890492163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10722,40.89333,21.10722,40.89333",
+    "geom:latitude":40.89333,
+    "geom:longitude":21.10722,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":626,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Nakoleci"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u043a\u043e\u043b\u0435\u0446"
+    ],
+    "name:dut_x_preferred":[
+        "Nakolec"
+    ],
+    "name:eng_x_preferred":[
+        "Nakolec"
+    ],
+    "name:fre_x_preferred":[
+        "Nakolets"
+    ],
+    "name:mac_x_preferred":[
+        "\u041d\u0430\u043a\u043e\u043b\u0435\u0446"
+    ],
+    "name:mkd_x_preferred":[
+        "Nakolec"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u0430\u043a\u043e\u043b\u0435\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u043a\u043e\u043b\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Nakolec"
+    ],
+    "qs:name":"Nakolec",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":855.0,
+    "wd:latitude":"40.9",
+    "wd:longitude":"21.1",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787744,
+        "gp:id":482863,
+        "qs:id":83645,
+        "wd:id":"Q3074442",
+        "wk:page":"Nakolec"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054879,
+    "wof:geomhash":"f122ac4cbc38ce2f5700bf41770b570c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492163,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":890492163,
+    "wof:lastmodified":1553816420,
+    "wof:name":"Nakolec",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:population":626,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10722,
+    40.89333,
+    21.10722,
+    40.89333
+],
+  "geometry": {"coordinates":[21.10722,40.89333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209750425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65539,41.89828,22.65539,41.89828",
+    "geom:latitude":41.89828,
+    "geom:longitude":22.65539,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Maksimci",
+    "gn:country_code":"MK",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":835283,
+    "gn:latitude":41.89828,
+    "gn:longitude":22.65539,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Maksimci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Maksimci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0430\u043a\u0441\u0438\u043c\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":835283
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4ce0ec40eb35497edfc662f9bbe2b9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1209750425,
+            "region_id":85674475
+        }
+    ],
+    "wof:id":1209750425,
+    "wof:lastmodified":1537664931,
+    "wof:name":"Maksimci",
+    "wof:parent_id":85674475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65539,
+    41.89828,
+    22.65539,
+    41.89828
+],
+  "geometry": {"coordinates":[22.65539,41.89828],"type":"Point"}
+}

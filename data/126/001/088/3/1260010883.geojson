@@ -1,0 +1,72 @@
+{
+  "id": 1260010883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.37287,42.26715,22.37287,42.26715",
+    "geom:latitude":42.26715,
+    "geom:longitude":22.37287,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Rulevci Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862017,
+    "gn:latitude":42.26715,
+    "gn:longitude":22.37287,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Rulevci Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Rulevci Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0443\u043b\u0435\u0432\u0446\u0438 \u041c\u0430\u0430\u043b\u0430",
+        "Rulevci-Maala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862017
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a62ec2b180f5ea7b164d6568e579e2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260010883,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1260010883,
+    "wof:lastmodified":1537664944,
+    "wof:name":"Rulevci Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37287,
+    42.26715,
+    22.37287,
+    42.26715
+],
+  "geometry": {"coordinates":[22.37287,42.26715],"type":"Point"}
+}

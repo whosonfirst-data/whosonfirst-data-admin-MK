@@ -1,0 +1,71 @@
+{
+  "id": 1277113249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8887,42.01318,20.8887,42.01318",
+    "geom:latitude":42.01318,
+    "geom:longitude":20.8887,
+    "gn:admin1_code":"E8",
+    "gn:asciiname":"Popova Sapka",
+    "gn:country_code":"MK",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9516192,
+    "gn:latitude":42.01318,
+    "gn:longitude":20.8887,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Popova \u0160apka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Popova \u0160apka"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u043e\u043f\u043e\u0432\u0430 \u0428\u0430\u043f\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9516192
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"91021836585530f39abe98d780af6e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1277113249,
+            "region_id":85674417
+        }
+    ],
+    "wof:id":1277113249,
+    "wof:lastmodified":1537664973,
+    "wof:name":"Popova Sapka",
+    "wof:parent_id":85674417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8887,
+    42.01318,
+    20.8887,
+    42.01318
+],
+  "geometry": {"coordinates":[20.8887,42.01318],"type":"Point"}
+}

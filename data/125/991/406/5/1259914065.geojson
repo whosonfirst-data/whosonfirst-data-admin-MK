@@ -1,0 +1,73 @@
+{
+  "id": 1259914065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9563,41.01767,20.9563,41.01767",
+    "geom:latitude":41.01767,
+    "geom:longitude":20.9563,
+    "gn:admin1_code":"86",
+    "gn:asciiname":"Volkoderi",
+    "gn:country_code":"MK",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784263,
+    "gn:latitude":41.01767,
+    "gn:longitude":20.9563,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Volkoderi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0434\u0435\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vukoderi",
+        "Volkoderi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784263,
+        "wk:page":"Volkoderi"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"baaf8589221b63b1f1803aa420b05932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259914065,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":1259914065,
+    "wof:lastmodified":1537664839,
+    "wof:name":"Volkoderi",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9563,
+    41.01767,
+    20.9563,
+    41.01767
+],
+  "geometry": {"coordinates":[20.9563,41.01767],"type":"Point"}
+}

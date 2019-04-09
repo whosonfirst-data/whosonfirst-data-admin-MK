@@ -1,0 +1,107 @@
+{
+  "id": 890491683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36667,40.98333,21.36667,40.98333",
+    "geom:latitude":40.98333,
+    "geom:longitude":21.36667,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":4798,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bistrica"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0633\u062a\u0631\u064a\u0643\u0627\u060c \u0628\u064a\u062a\u0648\u0644\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Bistrica"
+    ],
+    "name:eng_x_preferred":[
+        "Bistrica"
+    ],
+    "name:fre_x_preferred":[
+        "Bistritsa"
+    ],
+    "name:hun_x_preferred":[
+        "Bisztrica"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Bistritsa"
+    ],
+    "name:pol_x_preferred":[
+        "Bistrica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bistrica"
+    ],
+    "name:unk_x_variant":[
+        "Feistritz"
+    ],
+    "qs:name":"\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792592,
+        "gp:id":481746,
+        "qs:id":275779,
+        "wd:id":"Q804083"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054862,
+    "wof:geomhash":"991d0601989345a79eb4e4be081a53df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491683,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491683,
+    "wof:lastmodified":1553816419,
+    "wof:name":"\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":4798,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36667,
+    40.98333,
+    21.36667,
+    40.98333
+],
+  "geometry": {"coordinates":[21.36667,40.98333],"type":"Point"}
+}

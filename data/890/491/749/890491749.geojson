@@ -1,0 +1,69 @@
+{
+  "id": 890491749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08778,41.95417,21.08778,41.95417",
+    "geom:latitude":41.95417,
+    "geom:longitude":21.08778,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1306,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dobarce"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u0431\u0430\u0440\u0446\u0435"
+    ],
+    "qs:name":"Dobarce",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796096,
+        "qs:id":1029168
+    },
+    "wof:country":"MK",
+    "wof:created":1469054864,
+    "wof:geomhash":"ed4fc6a34389542fefa776b11b7f694d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491749,
+            "region_id":85674251
+        }
+    ],
+    "wof:id":890491749,
+    "wof:lastmodified":1505343794,
+    "wof:name":"Dobarce",
+    "wof:parent_id":85674251,
+    "wof:placetype":"locality",
+    "wof:population":1306,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08778,
+    41.95417,
+    21.08778,
+    41.95417
+],
+  "geometry": {"coordinates":[21.08778,41.95417],"type":"Point"}
+}

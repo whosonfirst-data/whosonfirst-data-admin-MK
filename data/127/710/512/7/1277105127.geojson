@@ -1,0 +1,71 @@
+{
+  "id": 1277105127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2625,42.25389,22.2625,42.25389",
+    "geom:latitude":42.25389,
+    "geom:longitude":22.2625,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Gabar",
+    "gn:country_code":"MK",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":862088,
+    "gn:latitude":42.25389,
+    "gn:longitude":22.2625,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Gabar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Gabar"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0430\u0431\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862088
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"bc287057513f181dec16ceb756c5d351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1277105127,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1277105127,
+    "wof:lastmodified":1537664945,
+    "wof:name":"Gabar",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2625,
+    42.25389000000001,
+    22.2625,
+    42.25389000000001
+],
+  "geometry": {"coordinates":[22.2625,42.25389000000001],"type":"Point"}
+}

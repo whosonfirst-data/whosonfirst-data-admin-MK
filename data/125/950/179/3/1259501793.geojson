@@ -1,0 +1,71 @@
+{
+  "id": 1259501793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20333,42.16639,22.20333,42.16639",
+    "geom:latitude":42.16639,
+    "geom:longitude":22.20333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Psacha",
+    "gn:country_code":"MK",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786657,
+    "gn:latitude":42.16639,
+    "gn:longitude":22.20333,
+    "gn:modification_date":"2008-02-29",
+    "gn:name":"\u041f\u0441\u0430\u0447\u0430",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Psaca"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0441\u0430\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786657
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"afec010751da9da356cab2d129248f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259501793,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":1259501793,
+    "wof:lastmodified":1537664860,
+    "wof:name":"Psacha",
+    "wof:parent_id":85674503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20333,
+    42.16639,
+    22.20333,
+    42.16639
+],
+  "geometry": {"coordinates":[22.20333,42.16639],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260350755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30723,42.14102,21.30723,42.14102",
+    "geom:latitude":42.14102,
+    "geom:longitude":21.30723,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Bardovska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833460,
+    "gn:latitude":42.14102,
+    "gn:longitude":21.30723,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Bardovska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0440\u0434\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bardovska Mala",
+        "Bardovska Maala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833460
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"ee862c29a0dbbdcb812c4dbbd833c735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260350755,
+            "region_id":85674287
+        }
+    ],
+    "wof:id":1260350755,
+    "wof:lastmodified":1537664922,
+    "wof:name":"Bardovska Maala",
+    "wof:parent_id":85674287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30723,
+    42.14102000000001,
+    21.30723,
+    42.14102000000001
+],
+  "geometry": {"coordinates":[21.30723,42.14102000000001],"type":"Point"}
+}

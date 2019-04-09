@@ -1,0 +1,93 @@
+{
+  "id": 890491165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22361,41.65083,21.22361,41.65083",
+    "geom:latitude":41.65083,
+    "geom:longitude":21.22361,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":114,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Mogillci"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Mogilec"
+    ],
+    "name:fre_x_preferred":[
+        "Moguilets"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0435\u0446"
+    ],
+    "name:mkd_x_preferred":[
+        "Mogilec"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u043e\u0433\u0438\u043b\u0435\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0435\u0446\u044c"
+    ],
+    "qs:name":"Mogilec",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787874,
+        "qs:id":83653,
+        "wd:id":"Q3139533",
+        "wk:page":"Makedonski Brod Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054843,
+    "wof:geomhash":"afefe04705910c3d17a625bb04022c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491165,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890491165,
+    "wof:lastmodified":1527736664,
+    "wof:name":"Mogilec",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22361,
+    41.65083,
+    21.22361,
+    41.65083
+],
+  "geometry": {"coordinates":[21.22361,41.65083],"type":"Point"}
+}

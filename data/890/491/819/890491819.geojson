@@ -1,0 +1,77 @@
+{
+  "id": 890491819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16083,41.80972,21.16083,41.80972",
+    "geom:latitude":41.80972,
+    "geom:longitude":21.16083,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":88,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Zdunje"
+    ],
+    "name:mkd_x_variant":[
+        "\u0417\u0434\u0443\u045a\u0435"
+    ],
+    "qs:name":"Zdunje",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Makedonski Brod",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783959,
+        "gp:id":483258,
+        "qs:id":1213629,
+        "wd:id":"Q521112",
+        "wk:page":"Gostivar Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054866,
+    "wof:geomhash":"4c566c6335c3b2587ad55b709b2cce17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491819,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890491819,
+    "wof:lastmodified":1527736661,
+    "wof:name":"Zdunje",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16083,
+    41.80972,
+    21.16083,
+    41.80972
+],
+  "geometry": {"coordinates":[21.16083,41.80972],"type":"Point"}
+}

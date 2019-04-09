@@ -1,0 +1,69 @@
+{
+  "id": 890491105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12556,41.93472,21.12556,41.93472",
+    "geom:latitude":41.93472,
+    "geom:longitude":21.12556,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1489,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0440\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Lirce"
+    ],
+    "qs:name":"Larce",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788790,
+        "qs:id":1029055
+    },
+    "wof:country":"MK",
+    "wof:created":1469054841,
+    "wof:geomhash":"f01b18eeb843c897d4b024f8bc7deda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491105,
+            "region_id":85674251
+        }
+    ],
+    "wof:id":890491105,
+    "wof:lastmodified":1505343791,
+    "wof:name":"Larce",
+    "wof:parent_id":85674251,
+    "wof:placetype":"locality",
+    "wof:population":1489,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12556,
+    41.93472,
+    21.12556,
+    41.93472
+],
+  "geometry": {"coordinates":[21.12556,41.93472],"type":"Point"}
+}

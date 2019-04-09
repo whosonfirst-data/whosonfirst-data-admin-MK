@@ -1,0 +1,73 @@
+{
+  "id": 1344249781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1453,41.13824,21.1453,41.13824",
+    "geom:latitude":41.13824,
+    "geom:longitude":21.1453,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Metimir",
+    "gn:country_code":"MK",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788011,
+    "gn:latitude":41.13824,
+    "gn:longitude":21.1453,
+    "gn:modification_date":"2014-02-10",
+    "gn:name":"Metimir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0442\u0438\u043c\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Metimer",
+        "Metimir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788011,
+        "wk:page":"Metimir"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"3eb2f475095433ab583d1406f1a5d626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1344249781,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":1344249781,
+    "wof:lastmodified":1537664873,
+    "wof:name":"Metimir",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1453,
+    41.13824,
+    21.1453,
+    41.13824
+],
+  "geometry": {"coordinates":[21.1453,41.13824],"type":"Point"}
+}

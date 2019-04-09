@@ -1,0 +1,106 @@
+{
+  "id": 890492041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00722,41.61444,21.00722,41.61444",
+    "geom:latitude":41.61444,
+    "geom:longitude":21.00722,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":293,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Popojani"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u044f\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Popovjani"
+    ],
+    "name:eng_x_preferred":[
+        "Popovjani"
+    ],
+    "name:fre_x_preferred":[
+        "Popovyani"
+    ],
+    "name:hun_x_preferred":[
+        "Popovjani"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0458\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0458\u0430\u043d\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Popowjani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0458\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Popovjani"
+    ],
+    "name:unk_x_variant":[
+        "Popovljani"
+    ],
+    "qs:name":"Popovjani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":739.0,
+    "wd:latitude":"41.6144",
+    "wd:longitude":"21.0722",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786864,
+        "gp:id":482276,
+        "qs:id":553747,
+        "wd:id":"Q3084350",
+        "wk:page":"Popovjani"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054875,
+    "wof:geomhash":"64dc42cb59a04582948b18dbb2cb2a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492041,
+            "region_id":85674407
+        }
+    ],
+    "wof:id":890492041,
+    "wof:lastmodified":1527793022,
+    "wof:name":"Popovjani",
+    "wof:parent_id":85674407,
+    "wof:placetype":"locality",
+    "wof:population":293,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00722,
+    41.61444,
+    21.00722,
+    41.61444
+],
+  "geometry": {"coordinates":[21.00722,41.61444],"type":"Point"}
+}

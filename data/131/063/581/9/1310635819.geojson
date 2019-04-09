@@ -1,0 +1,71 @@
+{
+  "id": 1310635819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93687,41.39639,21.93687,41.39639",
+    "geom:latitude":41.39639,
+    "geom:longitude":21.93687,
+    "gn:admin1_code":"D6",
+    "gn:asciiname":"Goles",
+    "gn:country_code":"MK",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8544379,
+    "gn:latitude":41.39639,
+    "gn:longitude":21.93687,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Gole\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Gole\u0161"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u043e\u043b\u0435\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8544379
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"5f66a45172134ea6e88a689d502fdd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310635819,
+            "region_id":85674327
+        }
+    ],
+    "wof:id":1310635819,
+    "wof:lastmodified":1537664959,
+    "wof:name":"Goles",
+    "wof:parent_id":85674327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93687000000001,
+    41.39639,
+    21.93687000000001,
+    41.39639
+],
+  "geometry": {"coordinates":[21.93687000000001,41.39639],"type":"Point"}
+}

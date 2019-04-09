@@ -1,0 +1,71 @@
+{
+  "id": 1209849233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0593,42.13813,22.0593,42.13813",
+    "geom:latitude":42.13813,
+    "geom:longitude":22.0593,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Krpuzovci",
+    "gn:country_code":"MK",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409211,
+    "gn:latitude":42.13813,
+    "gn:longitude":22.0593,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Krpuzovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Krpuzovci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0440\u043f\u0443\u0437\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409211
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"576e13d3e798c6ec4f05071639a07a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1209849233,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1209849233,
+    "wof:lastmodified":1537664985,
+    "wof:name":"Krpuzovci",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0593,
+    42.13813,
+    22.0593,
+    42.13813
+],
+  "geometry": {"coordinates":[22.0593,42.13813],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890491747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03472,41.9675,21.03472,41.9675",
+    "geom:latitude":41.9675,
+    "geom:longitude":21.03472,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1831,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Strimnica"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0440\u0438\u043c\u043d\u0438\u0446\u0430"
+    ],
+    "qs:name":"Strimnica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674251,
+        85674417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796095,
+        "qs:id":1029167
+    },
+    "wof:country":"MK",
+    "wof:created":1469054864,
+    "wof:geomhash":"83eb8df2d800c592502f7f9375c42f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491747,
+            "region_id":85674251
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491747,
+            "region_id":85674417
+        }
+    ],
+    "wof:id":890491747,
+    "wof:lastmodified":1505343794,
+    "wof:name":"Strimnica",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:population":1831,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03472,
+    41.9675,
+    21.03472,
+    41.9675
+],
+  "geometry": {"coordinates":[21.03472,41.9675],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 890491337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4125,41.47889,21.4125,41.47889",
+    "geom:latitude":41.47889,
+    "geom:longitude":21.4125,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":423,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Sekirca"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u0446\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Sekirci"
+    ],
+    "name:eng_x_preferred":[
+        "Sekirci"
+    ],
+    "name:fre_x_preferred":[
+        "Sekirtsi"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u0446\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "Sekirci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0435\u043a\u0438\u0440\u0446\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sekirci"
+    ],
+    "qs:name":"Sekirci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786015,
+        "gp:id":482783,
+        "qs:id":553684,
+        "wd:id":"Q3074616",
+        "wk:page":"Sekirci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054849,
+    "wof:geomhash":"ace6ee15f2478d717ae3cbaf397f49c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491337,
+            "region_id":85674293
+        }
+    ],
+    "wof:id":890491337,
+    "wof:lastmodified":1527736659,
+    "wof:name":"Sekirci",
+    "wof:parent_id":85674293,
+    "wof:placetype":"locality",
+    "wof:population":423,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4125,
+    41.47889,
+    21.4125,
+    41.47889
+],
+  "geometry": {"coordinates":[21.4125,41.47889],"type":"Point"}
+}

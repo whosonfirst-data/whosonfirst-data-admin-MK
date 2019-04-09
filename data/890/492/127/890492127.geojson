@@ -1,0 +1,82 @@
+{
+  "id": 890492127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.24889,42.06972,22.24889,42.06972",
+    "geom:latitude":42.06972,
+    "geom:longitude":22.24889,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Kunovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "qs:name":"Kumanovo",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Kumanovo",
+    "qs:photos":308,
+    "qs:photos_1k":62,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":308,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:latitude":"42.140277777",
+    "wd:longitude":"21.713611111",
+    "wd:wordcount":3107,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788874,
+        "gp:id":482389,
+        "qs:id":1082817,
+        "wd:id":"Q54452",
+        "wk:page":"Kumanovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054878,
+    "wof:geomhash":"2944e4f2ac6908eaed7d9d487cc38777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492127,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":890492127,
+    "wof:lastmodified":1527793025,
+    "wof:name":"Kumanovo",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.24889,
+    42.06972,
+    22.24889,
+    42.06972
+],
+  "geometry": {"coordinates":[22.24889,42.06972],"type":"Point"}
+}

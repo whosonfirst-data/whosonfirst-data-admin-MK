@@ -1,0 +1,71 @@
+{
+  "id": 1326464529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94026,42.11425,21.94026,42.11425",
+    "geom:latitude":42.11425,
+    "geom:longitude":21.94026,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Beljakovce",
+    "gn:country_code":"MK",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792726,
+    "gn:latitude":42.11425,
+    "gn:longitude":21.94026,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Beljakovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Beljakovce"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0435\u0459\u0430\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792726
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d95b618acb3ec61938dd615261e7d8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326464529,
+            "region_id":85674355
+        }
+    ],
+    "wof:id":1326464529,
+    "wof:lastmodified":1537664912,
+    "wof:name":"Beljakovce",
+    "wof:parent_id":85674355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94026,
+    42.11425,
+    21.94026,
+    42.11425
+],
+  "geometry": {"coordinates":[21.94026,42.11425],"type":"Point"}
+}

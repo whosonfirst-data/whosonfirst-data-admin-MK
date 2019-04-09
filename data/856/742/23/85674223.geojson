@@ -1,0 +1,336 @@
+{
+  "id": 85674223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.029879,
+    "geom:area_square_m":275264908.303638,
+    "geom:bbox":"21.337523,41.703782,21.594323,41.946945",
+    "geom:latitude":41.836128,
+    "geom:longitude":21.438314,
+    "gn:population":20252,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Sveti Nikole Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.817245,
+    "lbl:longitude":21.414912,
+    "meso:adm1_alt":"\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438",
+    "meso:adm1_loc":"Sveti Nikole",
+    "meso:gadm_adm1":"Studeni\u010dani",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":41.79698,
+    "mps:longitude":21.409126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Studeni\u00e7anit"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0633\u062a\u0648\u062f\u0646\u064a\u062a\u0634\u0627\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09c1\u09a1\u09c7\u09a8\u09bf\u0995\u09be\u09a8\u09bf \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Studeni\u010dani"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u5716\u767b\u5c3c\u67e5\u5c3c\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Studeni\u010dani Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Studeni\u010dani"
+    ],
+    "name:eng_x_preferred":[
+        "Studenicani Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Studeni\u010danin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Stoudenitchani"
+    ],
+    "name:fre_x_preferred":[
+        "Stoudenitchani"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10e2\u10e3\u10d3\u10d4\u10dc\u10d8\u10e9\u10d0\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Studeni\u010dani"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03c4\u03bf\u03c5\u03bd\u03c4\u03b5\u03bd\u03af\u03c4\u03c3\u03b1\u03bd\u03b7\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0a9f\u0ac1\u0aa1\u0ac7\u0aa8\u0ac0\u0a95\u0abe\u0aa8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u0941\u0926\u0947\u0928\u0940\u0915\u093e\u0928\u0940 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Studeni\u010dani"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Studeni\u010dani"
+    ],
+    "name:ita_x_preferred":[
+        "Studeni\u010dani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30a5\u30c7\u30cb\u30c1\u30e3\u30cb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0c9f\u0ca1\u0cc0\u0ca8\u0cbf\u0c95\u0cbe\u0ca8\u0cbf \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10e3\u10d3\u10d4\u10dc\u10d8\u10e9\u10d0\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud22c\ub370\ub2c8\ucc28\ub2c8 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Studeni\u010danu pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Studeni\u010danio savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u091f\u0942\u0921\u0947\u0902\u0928\u0940\u0915\u093e\u0928\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Studenicani Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Studeni\u010dani"
+    ],
+    "name:nob_x_preferred":[
+        "Studenicani Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Studeni\u010dani"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Studenicani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0da7\u0dd4\u0daf\u0dd9\u0db1\u0dd2\u0d9a\u0dab\u0dd2 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Studeni\u010dani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Studenicani"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0b9f\u0bc1\u0b9f\u0bc6\u0ba9\u0bbf\u0b9a\u0ba9\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c1f\u0c42\u0c21\u0c46\u0c28\u0c3f\u0c15\u0c28\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e15\u0e34\u0e27\u0e40\u0e14\u0e19\u0e34\u0e04\u0e32\u0e19\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Studenicani Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Opstina Studenicani",
+        "Studenicani"
+    ],
+    "name:und_x_preferred":[
+        "Studeni\u010dani"
+    ],
+    "name:und_x_variant":[
+        "Opstina Studeni\u010dani"
+    ],
+    "name:unk_x_variant":[
+        "Studeni\u010dani"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0633\u062a\u0648\u062f\u06cc\u0646\u06cc\u0686\u0627\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Studenicani"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2912",
+    "ne:adm1_code":"MKD-2912",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.SU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2912",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MKA2",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.A2",
+    "ne:gn_id":"863903",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Studenicani",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK98",
+    "ne:gns_id":"9075770",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Studenicani, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.83170000000",
+    "ne:longitude":"21.45920000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Studenicani",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SU",
+    "ne:provnum_ne":"20061",
+    "ne:region":"Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550809,
+    "ne:woe_label":"Studenicani Municipality, MK, Macedonia",
+    "ne:woe_name":"Studenicani",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Studenicani",
+    "qs:a1_lc":"MKD-2912",
+    "qs:a1r":"Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"276",
+    "statoids:area_mi":"107",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Studenicani",
+    "statoids:country":"MK",
+    "statoids:gec":"MKA2",
+    "statoids:hasc":"MK.SU",
+    "statoids:iso":"74",
+    "statoids:name":"Studenichani",
+    "statoids:population":"17246",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-74",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKA2",
+        "gn:id":863903,
+        "gp:id":24550809,
+        "hasc:id":"MK.SU",
+        "iso:id":"MK-74",
+        "qs:id":1193175,
+        "unlc:id":"MK-74",
+        "wd:id":"Q2088034",
+        "wk:page":"Studeni\u010dani Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"f8e96388cb6b294358abbae3c0d04c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674223
+        }
+    ],
+    "wof:id":85674223,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550450,
+    "wof:name":"Sveti Nikole",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":17246,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"SU",
+    "wof:subdivision":"MK-74",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33752299999978,
+    41.70378199999985,
+    21.59432299999978,
+    41.94694499999986
+],
+  "geometry": {"coordinates":[[[21.46268149999977,41.93595549999986],[21.47744699999978,41.93660049999986],[21.48721499999976,41.92600699999986],[21.49691849999977,41.92758149999986],[21.49544299999977,41.91607099999985],[21.49197399999977,41.91288449999985],[21.49401099999977,41.91113949999985],[21.50374549999978,41.91727349999985],[21.50749249999978,41.91338899999985],[21.50854599999977,41.91542449999986],[21.51812049999978,41.91520599999984],[21.53028599999979,41.92605949999984],[21.53400549999978,41.93335649999986],[21.54005649999979,41.93653049999986],[21.54534949999979,41.93321],[21.55234199999978,41.94133449999984],[21.56196949999978,41.94694499999986],[21.57279049999977,41.94188349999985],[21.57296399999979,41.93965099999986],[21.56660249999979,41.93680799999984],[21.57045399999978,41.93311349999985],[21.57234049999977,41.92497849999984],[21.56987249999978,41.92177249999986],[21.58403699999977,41.91371249999986],[21.58740099999977,41.91513899999984],[21.58801199999976,41.91940749999986],[21.59267699999978,41.91940849999986],[21.59432299999978,41.90983749999984],[21.57858899999977,41.89948649999985],[21.57221599999977,41.89956149999986],[21.56693199999978,41.89563449999986],[21.55183999999977,41.89283699999984],[21.53783699999977,41.87393349999985],[21.53756049999978,41.86480549999985],[21.52465799999979,41.85525799999985],[21.52018849999979,41.84838549999986],[21.52090549999977,41.84091299999986],[21.51423549999978,41.83564699999985],[21.50732899999977,41.83612949999986],[21.49659399999979,41.84678699999986],[21.49148949999977,41.83642149999986],[21.46850849999979,41.82444699999985],[21.46858549999979,41.81243949999984],[21.48030149999977,41.79987449999985],[21.47283549999977,41.78818949999985],[21.47752949999978,41.78642699999986],[21.48051899999979,41.77974599999985],[21.48527649999977,41.77878749999985],[21.49264599999978,41.77167399999985],[21.49300699999978,41.76034099999984],[21.48459499999979,41.75932],[21.47114999999977,41.76228649999985],[21.45260849999977,41.75645349999985],[21.44193749999977,41.72783999999984],[21.43514849999977,41.72798299999985],[21.43046999999979,41.71731699999984],[21.42032849999978,41.71476249999986],[21.40402549999979,41.70378199999985],[21.39349099999978,41.71796599999985],[21.39313649999977,41.72113949999985],[21.38146249999977,41.72437899999986],[21.37689599999979,41.73600799999986],[21.36739749999978,41.74065749999986],[21.35842249999979,41.73886599999986],[21.34281499999977,41.73128999999986],[21.33929699999979,41.73666849999987],[21.34053799999978,41.74420949999984],[21.33752299999978,41.74835749999986],[21.34123849999978,41.75840149999985],[21.33918499999979,41.76973599999985],[21.34129449999978,41.77471649999984],[21.34672949999978,41.77590849999984],[21.35348649999978,41.79605599999985],[21.35140199999978,41.80575849999985],[21.34398999999979,41.81498699999986],[21.34709699999979,41.81397899999985],[21.35107199999979,41.82350899999986],[21.35490199999978,41.84625549999984],[21.35867049999979,41.84868599999984],[21.36038249999979,41.86055749999986],[21.36403699999977,41.86330999999984],[21.38305799999978,41.86384549999985],[21.38543449999977,41.86940749999985],[21.37803649999978,41.87899549999986],[21.37911549999978,41.87652349999985],[21.36722199999977,41.87398699999986],[21.35777849999977,41.87770049999986],[21.35933099999977,41.87989599999986],[21.35572449999978,41.88190399999985],[21.34920099999977,41.88348549999986],[21.34343799999976,41.89367599999986],[21.34722699999978,41.90234449999986],[21.35749299999978,41.90969149999984],[21.37892049999977,41.91385849999986],[21.39997199999979,41.90670849999984],[21.40567099999978,41.90821649999984],[21.40705949999978,41.91170899999986],[21.41266649999977,41.91035449999984],[21.41521449999979,41.91188499999984],[21.41865249999978,41.90719099999984],[21.42274199999977,41.90632099999985],[21.42282499999979,41.90130849999986],[21.42708399999978,41.90470649999986],[21.43501199999977,41.90563749999984],[21.43906099999978,41.90198049999987],[21.44225449999979,41.90698649999985],[21.44892849999977,41.90855549999986],[21.44888399999977,41.91397749999985],[21.45286749999977,41.91382399999986],[21.45101899999977,41.91841649999986],[21.45494399999978,41.91870499999985],[21.45254649999978,41.92236249999985],[21.45531949999977,41.93074649999986],[21.45326399999979,41.93286049999986],[21.46268149999977,41.93595549999986]]],"type":"Polygon"}
+}

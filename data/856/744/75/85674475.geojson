@@ -1,0 +1,320 @@
+{
+  "id": 85674475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.046929,
+    "geom:area_square_m":432190864.161827,
+    "geom:bbox":"22.4518595,41.727843,22.7349335,41.9915865",
+    "geom:latitude":41.859346,
+    "geom:longitude":22.58956,
+    "gn:population":19521,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Vinitsa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.861585,
+    "lbl:longitude":22.586864,
+    "meso:adm1_alt":"\u0412\u0438\u043d\u0438\u0446\u0430",
+    "meso:adm1_loc":"Vinitsa",
+    "meso:gadm_adm1":"Vinitsa",
+    "meso:gaul_adm1":"Vinica",
+    "mps:latitude":41.849008,
+    "mps:longitude":22.567611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Vinic\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0641\u064a\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09a8\u09bf\u0995\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u7ef4\u5c3c\u5bdf\u533a"
+    ],
+    "name:dan_x_preferred":[
+        "Vinica Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Vinica"
+    ],
+    "name:eng_x_preferred":[
+        "Vinica Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Vinican kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Municipalit\u00e9 de Vinitsa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10dc\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Vinica"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03af\u03bd\u03b9\u03c4\u03c3\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0aa8\u0ac0\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0928\u093f\u0915\u093e \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Vinica"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Vinica"
+    ],
+    "name:ita_x_preferred":[
+        "Comune di Vinica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30cb\u30c4\u30a1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0ca8\u0cbf\u0c95 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ub2c8\ucc28 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Vinicas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Vinicos savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u093f\u0928\u0940\u091a\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Vinica Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:nob_x_preferred":[
+        "Vinica Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Winica"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Vinica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dcf \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Vinica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vinica"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c28\u0c3f\u0c15\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0438\u043d\u0438\u0442\u0441\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e27\u0e34\u0e19\u0e34\u0e01\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Vinica Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Vinica"
+    ],
+    "name:und_x_variant":[
+        "Opstina Vinica"
+    ],
+    "name:unk_x_variant":[
+        "Vinica"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0646\u06cc\u062a\u0633\u0627 \u0628\u0644\u062f\u06cc\u06c1\u060c \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Vinica"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-3003",
+    "ne:adm1_code":"MKD-3003",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.NI",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"3003",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MKB4",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.B4",
+    "ne:gn_id":"863912",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Vinica",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK98",
+    "ne:gns_id":"9075784",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Vinica, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.86520000000",
+    "ne:longitude":"22.57420000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Vinitsa",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"NI",
+    "ne:provnum_ne":"20016",
+    "ne:region":"Eastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550817,
+    "ne:woe_label":"",
+    "ne:woe_name":"Vinica Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Vinitsa",
+    "qs:a1_lc":"MKD-3003",
+    "qs:a1r":"Eastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"432",
+    "statoids:area_mi":"167",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Vinitsa",
+    "statoids:country":"MK",
+    "statoids:gec":"MKF2",
+    "statoids:hasc":"MK.NI",
+    "statoids:iso":"14",
+    "statoids:name":"Vinitsa",
+    "statoids:population":"19938",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-14",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKF2",
+        "gn:id":863912,
+        "gp:id":24550817,
+        "hasc:id":"MK.NI",
+        "iso:id":"MK-14",
+        "qs:id":999053,
+        "unlc:id":"MK-14",
+        "wd:id":"Q2479526",
+        "wk:page":"Vinica Municipality, Macedonia"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"eb43e83f157b0769e05fb3d98d6c4917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674475
+        }
+    ],
+    "wof:id":85674475,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Vinitsa",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":19938,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"NI",
+    "wof:subdivision":"MK-14",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45185949999978,
+    41.72784299999987,
+    22.73493349999978,
+    41.99158649999984
+],
+  "geometry": {"coordinates":[[[22.54967949999977,41.95869249999984],[22.55328649999979,41.96213749999984],[22.55636899999979,41.96000749999985],[22.55565699999977,41.95543349999986],[22.57410899999977,41.95814899999985],[22.57268249999979,41.96431049999984],[22.57738849999978,41.96988099999984],[22.58786399999977,41.97574449999985],[22.58395399999978,41.97797849999986],[22.58539399999978,41.98118349999984],[22.59774549999977,41.98207649999986],[22.59428749999978,41.98646199999985],[22.59524849999977,41.99158649999984],[22.60504949999978,41.98486349999985],[22.61821349999977,41.98883549999985],[22.62626549999979,41.97846349999986],[22.63083249999977,41.97828999999984],[22.63081849999978,41.97509449999984],[22.64373899999978,41.96583599999985],[22.64226749999978,41.96253799999985],[22.63507049999978,41.96135799999985],[22.63052249999978,41.95609099999984],[22.64379299999979,41.93768299999985],[22.66115949999977,41.92942999999985],[22.67015799999979,41.93108649999985],[22.68479449999978,41.92761449999986],[22.68877149999977,41.92866699999985],[22.69964399999978,41.92394549999986],[22.70701449999979,41.91611149999986],[22.71865299999979,41.91424399999985],[22.73093599999979,41.90927749999986],[22.73493349999978,41.90392049999986],[22.72389549999977,41.89260349999986],[22.72487849999979,41.88727899999986],[22.72207149999977,41.88428599999986],[22.72485199999977,41.87912349999985],[22.71644649999979,41.87348899999986],[22.71828299999979,41.86715349999986],[22.71174149999979,41.84585999999985],[22.70098299999978,41.83983149999986],[22.70070199999978,41.83294499999985],[22.69662849999978,41.82826049999986],[22.69670899999977,41.81745249999986],[22.69954449999977,41.81307649999985],[22.69776599999977,41.80621099999985],[22.70266549999977,41.80505549999984],[22.70113149999978,41.79763649999984],[22.70330199999978,41.79433049999986],[22.69859299999979,41.78440849999984],[22.69289199999977,41.77972599999984],[22.69717449999979,41.77184049999985],[22.69662199999976,41.76683899999986],[22.68091099999978,41.75328599999986],[22.68098849999978,41.74746449999986],[22.67306049999976,41.73675599999984],[22.66909199999978,41.73709849999986],[22.66810799999979,41.74634799999984],[22.65370749999977,41.74177849999984],[22.64830399999977,41.74222349999985],[22.64002549999978,41.73542199999986],[22.63719499999976,41.72784299999987],[22.62951449999977,41.73818249999985],[22.62635299999977,41.74977199999987],[22.61222499999977,41.74745499999986],[22.60296399999979,41.75241199999985],[22.59422999999978,41.76191799999984],[22.56406049999978,41.77110399999984],[22.55475899999979,41.76796799999985],[22.54794099999978,41.76997699999984],[22.54110999999978,41.76629149999985],[22.53573249999977,41.76702449999985],[22.52751249999977,41.76374649999985],[22.52067749999978,41.76554649999986],[22.51748449999977,41.76400549999985],[22.51338149999978,41.76614699999985],[22.50872499999977,41.76459399999985],[22.50534949999977,41.76697399999986],[22.49941149999978,41.76654049999985],[22.48772249999979,41.77805849999984],[22.48096749999976,41.77773749999986],[22.47144149999977,41.78128299999986],[22.46557549999977,41.78729399999986],[22.46982099999977,41.79376349999984],[22.47526699999977,41.79918049999986],[22.47523499999977,41.80592449999986],[22.46840949999978,41.81889249999986],[22.47314949999978,41.82115899999985],[22.47679649999978,41.83968849999985],[22.46547549999977,41.85895849999986],[22.46937249999976,41.85959599999984],[22.47016549999978,41.86437749999985],[22.47560649999977,41.86619299999984],[22.46780249999978,41.87674499999986],[22.45891849999978,41.87640649999986],[22.45270749999978,41.88065999999986],[22.45185949999978,41.88376999999986],[22.45632249999977,41.89036099999984],[22.46616449999976,41.89464299999986],[22.46223399999977,41.89719099999985],[22.46743299999977,41.90399299999984],[22.46136499999977,41.91215299999985],[22.46916249999978,41.92323349999984],[22.46662199999977,41.93074299999986],[22.47085799999977,41.93278449999985],[22.47420499999978,41.95655549999987],[22.48760799999977,41.96262599999986],[22.48759649999977,41.96546949999984],[22.49189649999977,41.96824849999985],[22.49880749999977,41.96648399999984],[22.51056099999977,41.95848349999986],[22.51352349999976,41.94294349999984],[22.52125649999977,41.93917599999986],[22.52944199999979,41.94072899999986],[22.53905449999976,41.94621349999986],[22.53755599999977,41.95636799999986],[22.54967949999977,41.95869249999984]]],"type":"Polygon"}
+}

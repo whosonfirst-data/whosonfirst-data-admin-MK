@@ -1,0 +1,71 @@
+{
+  "id": 1226079933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7729,41.75826,20.7729,41.75826",
+    "geom:latitude":41.75826,
+    "geom:longitude":20.7729,
+    "gn:admin1_code":"E4",
+    "gn:asciiname":"Duf",
+    "gn:country_code":"MK",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":790956,
+    "gn:latitude":41.75826,
+    "gn:longitude":20.7729,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Duf",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Duf"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u0443\u0444"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790956
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"79fe75d3524bed9e3f8838169e81f7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226079933,
+            "region_id":85674403
+        }
+    ],
+    "wof:id":1226079933,
+    "wof:lastmodified":1537664898,
+    "wof:name":"Duf",
+    "wof:parent_id":85674403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7729,
+    41.75826,
+    20.7729,
+    41.75826
+],
+  "geometry": {"coordinates":[20.7729,41.75826],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 890492323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37056,41.27444,21.37056,41.27444",
+    "geom:latitude":41.27444,
+    "geom:longitude":21.37056,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":979,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Pashino Ruvci"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0448\u0438\u043d\u043e \u0420\u0443\u0432\u0446\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Pa\u0161ino Ruvci"
+    ],
+    "name:fre_x_preferred":[
+        "Pachino Rouvtsi"
+    ],
+    "name:hun_x_preferred":[
+        "Pasino Ruvci"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0430\u0448\u0438\u043d\u043e \u0420\u0443\u0432\u0446\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0448\u0438\u043d\u043e \u0420\u0443\u0432\u0446\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0448\u0438\u043d\u0438 \u0420\u0443\u0432\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Pa\u0161ini Ruvci"
+    ],
+    "qs:name":"Pa\u0161ino Ruvci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787190,
+        "gp:id":482639,
+        "qs:id":83622,
+        "wd:id":"Q3075192",
+        "wk:page":"Pa\u0161ino Ruvci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054885,
+    "wof:geomhash":"b274ca672ecdb9b873781033233b3d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492323,
+            "region_id":85674349
+        }
+    ],
+    "wof:id":890492323,
+    "wof:lastmodified":1527793025,
+    "wof:name":"Pa\u0161ino Ruvci",
+    "wof:parent_id":85674349,
+    "wof:placetype":"locality",
+    "wof:population":979,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37056,
+    41.27444,
+    21.37056,
+    41.27444
+],
+  "geometry": {"coordinates":[21.37056,41.27444],"type":"Point"}
+}

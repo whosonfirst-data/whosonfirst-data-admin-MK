@@ -1,0 +1,72 @@
+{
+  "id": 1343490529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65284,41.59423,20.65284,41.59423",
+    "geom:latitude":41.59423,
+    "geom:longitude":20.65284,
+    "gn:admin1_code":"E4",
+    "gn:asciiname":"Galicnik",
+    "gn:country_code":"MK",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790780,
+    "gn:latitude":41.59423,
+    "gn:longitude":20.65284,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Gali\u010dnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u043b\u0438\u0447\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Gali\u010dnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790780,
+        "wk:page":"Gali%C4%8Dnik"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"7da73ea788add87f377a3a1a1600ddba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343490529,
+            "region_id":85674403
+        }
+    ],
+    "wof:id":1343490529,
+    "wof:lastmodified":1537664894,
+    "wof:name":"Galicnik",
+    "wof:parent_id":85674403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65284,
+    41.59423,
+    20.65284,
+    41.59423
+],
+  "geometry": {"coordinates":[20.65284,41.59423],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 890492011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4825,41.16861,21.4825,41.16861",
+    "geom:latitude":41.16861,
+    "geom:longitude":21.4825,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":2103,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Dobrusheva"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0633\u064a\u0641\u0648\u060c \u0648\u0644\u0633\u064a\u0646\u062c"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0443\u0448\u0435\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Dobrusevo"
+    ],
+    "name:eng_x_preferred":[
+        "Dobrusevo"
+    ],
+    "name:fre_x_preferred":[
+        "Dobrouchevo"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0443\u0448\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0443\u0448\u0435\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0443\u0448\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dobrusjevo"
+    ],
+    "qs:name":"Dobru\u0161evo",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Mogila",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:elevation":596.0,
+    "wd:latitude":"41.1686",
+    "wd:longitude":"21.4825",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791407,
+        "gp:id":481930,
+        "qs:id":1064874,
+        "wd:id":"Q3033415",
+        "wk:page":"Dobrusevo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054874,
+    "wof:geomhash":"34dfae98c84eb9312bb6d56dede5cff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492011,
+            "region_id":85674365
+        }
+    ],
+    "wof:id":890492011,
+    "wof:lastmodified":1527793027,
+    "wof:name":"Dobru\u0161evo",
+    "wof:parent_id":85674365,
+    "wof:placetype":"locality",
+    "wof:population":2103,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4825,
+    41.16861,
+    21.4825,
+    41.16861
+],
+  "geometry": {"coordinates":[21.4825,41.16861],"type":"Point"}
+}

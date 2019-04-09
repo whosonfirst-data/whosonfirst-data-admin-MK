@@ -1,0 +1,69 @@
+{
+  "id": 890491531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31389,41.12139,21.31389,41.12139",
+    "geom:latitude":41.12139,
+    "geom:longitude":21.31389,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":164,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0417\u043c\u0438\u0440\u043d\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Smirnovo"
+    ],
+    "qs:name":"Novo Zmirnevo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787540,
+        "qs:id":83627
+    },
+    "wof:country":"MK",
+    "wof:created":1469054856,
+    "wof:geomhash":"e5ae8627240e5f31812da695615c61b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491531,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491531,
+    "wof:lastmodified":1505343793,
+    "wof:name":"Novo Zmirnevo",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31389,
+    41.12139,
+    21.31389,
+    41.12139
+],
+  "geometry": {"coordinates":[21.31389,41.12139],"type":"Point"}
+}

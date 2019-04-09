@@ -1,0 +1,72 @@
+{
+  "id": 890491065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32667,41.39278,21.32667,41.39278",
+    "geom:latitude":41.39278,
+    "geom:longitude":21.32667,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":232,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0438\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Tursko"
+    ],
+    "qs:name":"Podvis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838566,
+        "qs:id":554513,
+        "wd:id":"Q2728002",
+        "wk:page":"Podvis"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054839,
+    "wof:geomhash":"bc02f1841c4d49f661cd4a121f50d430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491065,
+            "region_id":85674349
+        }
+    ],
+    "wof:id":890491065,
+    "wof:lastmodified":1527736661,
+    "wof:name":"Podvis",
+    "wof:parent_id":85674349,
+    "wof:placetype":"locality",
+    "wof:population":232,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32667,
+    41.39278,
+    21.32667,
+    41.39278
+],
+  "geometry": {"coordinates":[21.32667,41.39278],"type":"Point"}
+}

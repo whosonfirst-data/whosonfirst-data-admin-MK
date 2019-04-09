@@ -1,0 +1,71 @@
+{
+  "id": 1292940895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57003,42.04098,22.57003,42.04098",
+    "geom:latitude":42.04098,
+    "geom:longitude":22.57003,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Vidisevci",
+    "gn:country_code":"MK",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512403,
+    "gn:latitude":42.04098,
+    "gn:longitude":22.57003,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Vidi\u0161evci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Vidi\u0161evci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0438\u0434\u0438\u0448\u0435\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512403
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d631ff1f92f34cc1809f33a7046f19aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1292940895,
+            "region_id":85674489
+        }
+    ],
+    "wof:id":1292940895,
+    "wof:lastmodified":1537664957,
+    "wof:name":"Vidisevci",
+    "wof:parent_id":85674489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57003,
+    42.04098,
+    22.57003,
+    42.04098
+],
+  "geometry": {"coordinates":[22.57003,42.04098],"type":"Point"}
+}

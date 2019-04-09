@@ -1,0 +1,71 @@
+{
+  "id": 1276159569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00629,42.21028,22.00629,42.21028",
+    "geom:latitude":42.21028,
+    "geom:longitude":22.00629,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Jabucka Maala",
+    "gn:country_code":"MK",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409292,
+    "gn:latitude":42.21028,
+    "gn:longitude":22.00629,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Jabu\u010dka Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Jabu\u010dka Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0408\u0430\u0431\u0443\u0447\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409292
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2d24ebe4e490c5f0b15c4675d7cd875d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276159569,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1276159569,
+    "wof:lastmodified":1537664987,
+    "wof:name":"Jabucka Maala",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00629,
+    42.21028,
+    22.00629,
+    42.21028
+],
+  "geometry": {"coordinates":[22.00629,42.21028],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193093545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83582,41.85284,22.83582,41.85284",
+    "geom:latitude":41.85284,
+    "geom:longitude":22.83582,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Karakostovci",
+    "gn:country_code":"MK",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642022,
+    "gn:latitude":41.85284,
+    "gn:longitude":22.83582,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Karakostovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Karakostovci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u0441\u0442\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642022
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"70ffc317f2f7b95bc306bcbb608e97a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1193093545,
+            "region_id":85674485
+        }
+    ],
+    "wof:id":1193093545,
+    "wof:lastmodified":1537664995,
+    "wof:name":"Karakostovci",
+    "wof:parent_id":85674485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83582,
+    41.85284,
+    22.83582,
+    41.85284
+],
+  "geometry": {"coordinates":[22.83582,41.85284],"type":"Point"}
+}

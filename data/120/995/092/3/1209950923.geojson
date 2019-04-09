@@ -1,0 +1,71 @@
+{
+  "id": 1209950923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88305,42.11455,21.88305,42.11455",
+    "geom:latitude":42.11455,
+    "geom:longitude":21.88305,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Dolno Jacince",
+    "gn:country_code":"MK",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10356854,
+    "gn:latitude":42.11455,
+    "gn:longitude":21.88305,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Dolno Ja\u010dince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "Dolno Ja\u010dince"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u043b\u043d\u043e \u0408\u0430\u0447\u0438\u043d\u0446\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356854
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"8ce269ff2fef71f722e4f933e94e0ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1209950923,
+            "region_id":85674355
+        }
+    ],
+    "wof:id":1209950923,
+    "wof:lastmodified":1537664984,
+    "wof:name":"Dolno Jacince",
+    "wof:parent_id":85674355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88305,
+    42.11455,
+    21.88305,
+    42.11455
+],
+  "geometry": {"coordinates":[21.88305,42.11455],"type":"Point"}
+}

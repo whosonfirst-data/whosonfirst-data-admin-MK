@@ -1,0 +1,89 @@
+{
+  "id": 890491425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45972,41.30667,21.45972,41.30667",
+    "geom:latitude":41.30667,
+    "geom:longitude":21.45972,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":418,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Kadino Sella"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0434\u0438\u043d\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Kadino Selo"
+    ],
+    "name:fre_x_preferred":[
+        "Kadino Selo"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u0434\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "Kadino Selo"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u0434\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0434\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "qs:name":"Kadino Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789702,
+        "gp:id":482783,
+        "qs:id":553915,
+        "wd:id":"Q3073953"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054852,
+    "wof:geomhash":"bc7458cd3607699d7a8deca0c289418f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491425,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890491425,
+    "wof:lastmodified":1553816419,
+    "wof:name":"Kadino Selo",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45972,
+    41.30667,
+    21.45972,
+    41.30667
+],
+  "geometry": {"coordinates":[21.45972,41.30667],"type":"Point"}
+}

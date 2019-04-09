@@ -1,0 +1,71 @@
+{
+  "id": 1293136729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51325,42.00795,22.51325,42.00795",
+    "geom:latitude":42.00795,
+    "geom:longitude":22.51325,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Trgovska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512252,
+    "gn:latitude":42.00795,
+    "gn:longitude":22.51325,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Trgovska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Trgovska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0440\u0433\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512252
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1548e550026e0f59aa2024cc8cb956e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293136729,
+            "region_id":85674341
+        }
+    ],
+    "wof:id":1293136729,
+    "wof:lastmodified":1537664954,
+    "wof:name":"Trgovska Maala",
+    "wof:parent_id":85674341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51325,
+    42.00795,
+    22.51325,
+    42.00795
+],
+  "geometry": {"coordinates":[22.51325,42.00795],"type":"Point"}
+}

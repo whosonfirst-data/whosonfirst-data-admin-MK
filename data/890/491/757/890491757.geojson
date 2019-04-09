@@ -1,0 +1,73 @@
+{
+  "id": 890491757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80278,41.68083,21.80278,41.68083",
+    "geom:latitude":41.68083,
+    "geom:longitude":21.80278,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":16,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Babuna"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0430\u0431\u0443\u043d\u0430"
+    ],
+    "qs:name":"Babuna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793039,
+        "gp:id":483099,
+        "qs:id":83791,
+        "wd:id":"Q5426049",
+        "wk:page":"FK Babuna"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054864,
+    "wof:geomhash":"8d6c4aa786537070242035e65ed4f2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491757,
+            "region_id":85674237
+        }
+    ],
+    "wof:id":890491757,
+    "wof:lastmodified":1527736664,
+    "wof:name":"Babuna",
+    "wof:parent_id":85674237,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80278,
+    41.68083,
+    21.80278,
+    41.68083
+],
+  "geometry": {"coordinates":[21.80278,41.68083],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343295843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78197,41.74692,20.78197,41.74692",
+    "geom:latitude":41.74692,
+    "geom:longitude":20.78197,
+    "gn:admin1_code":"E4",
+    "gn:asciiname":"Balaban",
+    "gn:country_code":"MK",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833857,
+    "gn:latitude":41.74692,
+    "gn:longitude":20.78197,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Balaban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Balaban"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833857
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"09cd5f8af436727eba202a67c44d0ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343295843,
+            "region_id":85674403
+        }
+    ],
+    "wof:id":1343295843,
+    "wof:lastmodified":1537664923,
+    "wof:name":"Balaban",
+    "wof:parent_id":85674403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78197,
+    41.74692,
+    20.78197,
+    41.74692
+],
+  "geometry": {"coordinates":[20.78197,41.74692],"type":"Point"}
+}

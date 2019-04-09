@@ -1,0 +1,70 @@
+{
+  "id": 890491081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87056,41.805,21.87056,41.805",
+    "geom:latitude":41.805,
+    "geom:longitude":21.87056,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":458,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Milina"
+    ],
+    "qs:name":"Milino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787963,
+        "gp:id":483099,
+        "qs:id":553810
+    },
+    "wof:country":"MK",
+    "wof:created":1469054840,
+    "wof:geomhash":"695de50660f5aabec21f3cd218924c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491081,
+            "region_id":85674307
+        }
+    ],
+    "wof:id":890491081,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Milino",
+    "wof:parent_id":85674307,
+    "wof:placetype":"locality",
+    "wof:population":458,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87056,
+    41.805,
+    21.87056,
+    41.805
+],
+  "geometry": {"coordinates":[21.87056,41.805],"type":"Point"}
+}

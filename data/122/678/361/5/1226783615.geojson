@@ -1,0 +1,71 @@
+{
+  "id": 1226783615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9463,42.17539,21.9463,42.17539",
+    "geom:latitude":42.17539,
+    "geom:longitude":21.9463,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Suljevac",
+    "gn:country_code":"MK",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10306871,
+    "gn:latitude":42.17539,
+    "gn:longitude":21.9463,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Suljevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Suljevac"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0443\u0459\u0435\u0432\u0430\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10306871
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"06f6f7b6f7ed10abfe0047a75b663071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226783615,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1226783615,
+    "wof:lastmodified":1537664980,
+    "wof:name":"Suljevac",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9463,
+    42.17539,
+    21.9463,
+    42.17539
+],
+  "geometry": {"coordinates":[21.9463,42.17539],"type":"Point"}
+}

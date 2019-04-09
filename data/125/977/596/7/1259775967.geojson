@@ -1,0 +1,69 @@
+{
+  "id": 1259775967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35893,40.9614,21.35893,40.9614",
+    "geom:latitude":40.9614,
+    "geom:longitude":21.35893,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oleveni",
+    "gn:country_code":"MK",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787474,
+    "gn:latitude":40.9614,
+    "gn:longitude":21.35893,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Oleveni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041e\u043b\u0435\u0432\u0435\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787474,
+        "wk:page":"Oleveni"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"6c648d11e57c58c97b5f540301fa341f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259775967,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":1259775967,
+    "wof:lastmodified":1537664867,
+    "wof:name":"Oleveni",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35893,
+    40.9614,
+    21.35893,
+    40.9614
+],
+  "geometry": {"coordinates":[21.35893,40.9614],"type":"Point"}
+}

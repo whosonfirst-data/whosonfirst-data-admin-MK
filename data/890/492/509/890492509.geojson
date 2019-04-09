@@ -1,0 +1,72 @@
+{
+  "id": 890492509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19944,41.27139,21.19944,41.27139",
+    "geom:latitude":41.27139,
+    "geom:longitude":21.19944,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":362,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Pribilci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0440\u0438\u0431\u0438\u043b\u0446\u0438"
+    ],
+    "qs:name":"Pribilci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786753,
+        "qs:id":553730,
+        "wd:id":"Q856278",
+        "wk:page":"Demir Hisar Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054896,
+    "wof:geomhash":"471d8779351869151745f50013e23135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492509,
+            "region_id":85674161
+        }
+    ],
+    "wof:id":890492509,
+    "wof:lastmodified":1527793026,
+    "wof:name":"Pribilci",
+    "wof:parent_id":85674161,
+    "wof:placetype":"locality",
+    "wof:population":362,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19944,
+    41.27139,
+    21.19944,
+    41.27139
+],
+  "geometry": {"coordinates":[21.19944,41.27139],"type":"Point"}
+}

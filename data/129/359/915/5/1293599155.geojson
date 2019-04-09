@@ -1,0 +1,65 @@
+{
+  "id": 1293599155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61516,41.5524,20.61516,41.5524",
+    "geom:latitude":41.5524,
+    "geom:longitude":20.61516,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boskov Most",
+    "gn:country_code":"MK",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833977,
+    "gn:latitude":41.5524,
+    "gn:longitude":20.61516,
+    "gn:modification_date":"2006-12-31",
+    "gn:name":"Bo\u0161kov Most",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833977
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"cf03473c5624dd6d3e1eb9f89ff1b71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293599155,
+            "region_id":85674389
+        }
+    ],
+    "wof:id":1293599155,
+    "wof:lastmodified":1536624054,
+    "wof:name":"Boskov Most",
+    "wof:parent_id":85674389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61516,
+    41.5524,
+    20.61516,
+    41.5524
+],
+  "geometry": {"coordinates":[20.61516,41.5524],"type":"Point"}
+}

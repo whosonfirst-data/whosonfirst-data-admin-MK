@@ -1,0 +1,77 @@
+{
+  "id": 1326959733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90251,41.71713,20.90251,41.71713",
+    "geom:latitude":41.71713,
+    "geom:longitude":20.90251,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Dolna Gonovica",
+    "gn:country_code":"MK",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791367,
+    "gn:latitude":41.71713,
+    "gn:longitude":20.90251,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Dolna \u01f4onovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dolna \u0110onovica"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0403\u043e\u043d\u043e\u0432\u0438\u0446\u0430",
+        "Dolna \u01f4onovica"
+    ],
+    "name:und_x_variant":[
+        "Dolna Djonovica",
+        "Dolna Gjonovica",
+        "Dolna Gonovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791367
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"79988143711aee5e6cca07bd25da9140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326959733,
+            "region_id":85674433
+        }
+    ],
+    "wof:id":1326959733,
+    "wof:lastmodified":1537664903,
+    "wof:name":"Dolna Gonovica",
+    "wof:parent_id":85674433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90251,
+    41.71713,
+    20.90251,
+    41.71713
+],
+  "geometry": {"coordinates":[20.90251,41.71713],"type":"Point"}
+}

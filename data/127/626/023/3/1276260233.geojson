@@ -1,0 +1,72 @@
+{
+  "id": 1276260233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67023,41.28838,20.67023,41.28838",
+    "geom:latitude":41.28838,
+    "geom:longitude":20.67023,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Bogojci",
+    "gn:country_code":"MK",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8623785,
+    "gn:latitude":41.28838,
+    "gn:longitude":20.67023,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Bogojci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Bogojci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u0433\u043e\u0458\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8623785,
+        "wk:page":"Bogojci"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"3b5ac6dcf31894e132f2e79db57170f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276260233,
+            "region_id":85674497
+        }
+    ],
+    "wof:id":1276260233,
+    "wof:lastmodified":1537664959,
+    "wof:name":"Bogojci",
+    "wof:parent_id":85674497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67023,
+    41.28838,
+    20.67023,
+    41.28838
+],
+  "geometry": {"coordinates":[20.67023,41.28838],"type":"Point"}
+}

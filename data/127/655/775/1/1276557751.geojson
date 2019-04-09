@@ -1,0 +1,70 @@
+{
+  "id": 1276557751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64972,42.00389,21.64972,42.00389",
+    "geom:latitude":42.00389,
+    "geom:longitude":21.64972,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bujkovci",
+    "gn:cc2":"MK",
+    "gn:country_code":"MK",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792169,
+    "gn:latitude":42.00389,
+    "gn:longitude":21.64972,
+    "gn:modification_date":"2008-12-05",
+    "gn:name":"\u0411\u0443\u0458\u043a\u043e\u0432\u0446\u0438",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0458\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792169,
+        "wk:page":"Bujkovci"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d72ed91f56cb404a153fddae3e7c0813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276557751,
+            "region_id":85674315
+        }
+    ],
+    "wof:id":1276557751,
+    "wof:lastmodified":1537664908,
+    "wof:name":"Bujkovci",
+    "wof:parent_id":85674315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64972,
+    42.00389000000001,
+    21.64972,
+    42.00389000000001
+],
+  "geometry": {"coordinates":[21.64972,42.00389000000001],"type":"Point"}
+}

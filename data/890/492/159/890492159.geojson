@@ -1,0 +1,76 @@
+{
+  "id": 890492159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31694,41.8,21.31694,41.8",
+    "geom:latitude":41.8,
+    "geom:longitude":21.31694,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":619,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0442\u0438\u0448\u043a\u0430 \u0420\u0435\u043a\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Patishka Rek\u00eb"
+    ],
+    "name:unk_x_variant":[
+        "Pati\u0161ka"
+    ],
+    "qs:name":"Pati\u0161ka Reka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787172,
+        "gp:id":482940,
+        "qs:id":83620,
+        "wd:id":"Q2282240",
+        "wk:page":"Sopi\u0161te Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054879,
+    "wof:geomhash":"2f2fdb5b11ef9567d393b229e9a0d1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492159,
+            "region_id":85674209
+        }
+    ],
+    "wof:id":890492159,
+    "wof:lastmodified":1527793021,
+    "wof:name":"Pati\u0161ka Reka",
+    "wof:parent_id":85674209,
+    "wof:placetype":"locality",
+    "wof:population":619,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31694,
+    41.8,
+    21.31694,
+    41.8
+],
+  "geometry": {"coordinates":[21.31694,41.8],"type":"Point"}
+}

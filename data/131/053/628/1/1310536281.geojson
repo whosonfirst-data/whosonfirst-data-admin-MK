@@ -1,0 +1,71 @@
+{
+  "id": 1310536281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01722,42.0625,21.01722,42.0625",
+    "geom:latitude":42.0625,
+    "geom:longitude":21.01722,
+    "gn:admin1_code":"A5",
+    "gn:asciiname":"Varvara",
+    "gn:country_code":"MK",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784706,
+    "gn:latitude":42.0625,
+    "gn:longitude":21.01722,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Varvara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Varvara"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0430\u0440\u0432\u0430\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784706
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"dadb0cd6e6afa3ee8f24a1560e445ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310536281,
+            "region_id":85674413
+        }
+    ],
+    "wof:id":1310536281,
+    "wof:lastmodified":1537664841,
+    "wof:name":"Varvara",
+    "wof:parent_id":85674413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01722,
+    42.0625,
+    21.01722,
+    42.0625
+],
+  "geometry": {"coordinates":[21.01722,42.0625],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276718053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72287,42.03943,22.72287,42.03943",
+    "geom:latitude":42.03943,
+    "geom:longitude":22.72287,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Selnik",
+    "gn:country_code":"MK",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":785990,
+    "gn:latitude":42.03943,
+    "gn:longitude":22.72287,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Selnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u043b\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785990,
+        "wk:page":"Selnik%2C_Macedonia"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"72e7963e0a2b373bacddf11966db3707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276718053,
+            "region_id":85674485
+        }
+    ],
+    "wof:id":1276718053,
+    "wof:lastmodified":1537664854,
+    "wof:name":"Selnik",
+    "wof:parent_id":85674485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72287,
+    42.03943,
+    22.72287,
+    42.03943
+],
+  "geometry": {"coordinates":[22.72287,42.03943],"type":"Point"}
+}

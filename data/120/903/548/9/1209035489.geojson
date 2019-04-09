@@ -1,0 +1,68 @@
+{
+  "id": 1209035489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.054,42.11506,22.054,42.11506",
+    "geom:latitude":42.11506,
+    "geom:longitude":22.054,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Gavci",
+    "gn:country_code":"MK",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112543,
+    "gn:latitude":42.11506,
+    "gn:longitude":22.054,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"\u01f4avci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0110avci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0403\u0430\u0432\u0446\u0438",
+        "\u01f4avci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112543
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"6648ded5552952520929742406357208",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209035489
+        }
+    ],
+    "wof:id":1209035489,
+    "wof:lastmodified":1537664963,
+    "wof:name":"Gavci",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.054,
+    42.11506,
+    22.054,
+    42.11506
+],
+  "geometry": {"coordinates":[22.054,42.11506],"type":"Point"}
+}

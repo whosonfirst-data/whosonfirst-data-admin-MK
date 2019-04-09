@@ -1,0 +1,74 @@
+{
+  "id": 1310439313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72306,41.56111,20.72306,41.56111",
+    "geom:latitude":41.56111,
+    "geom:longitude":20.72306,
+    "gn:admin1_code":"E4",
+    "gn:asciiname":"Tresonce",
+    "gn:country_code":"MK",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784951,
+    "gn:latitude":41.56111,
+    "gn:longitude":20.72306,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Treson\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u0435\u0441\u043e\u043d\u0447\u0435"
+    ],
+    "name:und_x_variant":[
+        "Treson\u010da",
+        "Tre\u0161ance",
+        "Treson\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784951,
+        "wk:page":"Treson%C4%8De"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"e1d0d46725b8423fb94666fea6f6ea86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310439313,
+            "region_id":85674403
+        }
+    ],
+    "wof:id":1310439313,
+    "wof:lastmodified":1537664844,
+    "wof:name":"Tresonce",
+    "wof:parent_id":85674403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72306,
+    41.56111,
+    20.72306,
+    41.56111
+],
+  "geometry": {"coordinates":[20.72306,41.56111],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 890491693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83556,41.17444,20.83556,41.17444",
+    "geom:latitude":41.17444,
+    "geom:longitude":20.83556,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1281,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0441\u0435\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Kosel"
+    ],
+    "name:eng_x_preferred":[
+        "Kosel"
+    ],
+    "name:fre_x_preferred":[
+        "Kosel"
+    ],
+    "name:hun_x_preferred":[
+        "Koszel"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u043e\u0441\u0435\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0441\u0435\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Kose\u0142"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Kosel"
+    ],
+    "name:unk_x_variant":[
+        "Koselj"
+    ],
+    "qs:name":"Kosel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789247,
+        "gp:id":482326,
+        "qs:id":129574,
+        "wd:id":"Q3136230",
+        "wk:page":"Kosel"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054862,
+    "wof:geomhash":"3da8d9ea43fb2682429da3674f587334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491693,
+            "region_id":85674165
+        }
+    ],
+    "wof:id":890491693,
+    "wof:lastmodified":1553816419,
+    "wof:name":"Kosel",
+    "wof:parent_id":85674165,
+    "wof:placetype":"locality",
+    "wof:population":1281,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83556,
+    41.17444,
+    20.83556,
+    41.17444
+],
+  "geometry": {"coordinates":[20.83556,41.17444],"type":"Point"}
+}

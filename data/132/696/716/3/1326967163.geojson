@@ -1,0 +1,73 @@
+{
+  "id": 1326967163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94383,41.20261,20.94383,41.20261",
+    "geom:latitude":41.20261,
+    "geom:longitude":20.94383,
+    "gn:admin1_code":"E2",
+    "gn:asciiname":"Svinista",
+    "gn:country_code":"MK",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785182,
+    "gn:latitude":41.20261,
+    "gn:longitude":20.94383,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Svini\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0432\u0438\u043d\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Svini\u0161te",
+        "Svinji\u0161te",
+        "Svini\u0161ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785182
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"049a4ab9e9fee737d8c0f3cac45020a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326967163,
+            "region_id":85674165
+        }
+    ],
+    "wof:id":1326967163,
+    "wof:lastmodified":1537664847,
+    "wof:name":"Svinista",
+    "wof:parent_id":85674165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94383,
+    41.20261,
+    20.94383,
+    41.20261
+],
+  "geometry": {"coordinates":[20.94383,41.20261],"type":"Point"}
+}

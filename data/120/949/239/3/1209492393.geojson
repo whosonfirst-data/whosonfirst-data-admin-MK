@@ -1,0 +1,70 @@
+{
+  "id": 1209492393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96314,41.90603,20.96314,41.90603",
+    "geom:latitude":41.90603,
+    "geom:longitude":20.96314,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Radiovce",
+    "gn:country_code":"MK",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786596,
+    "gn:latitude":41.90603,
+    "gn:longitude":20.96314,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Radiovce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u043e\u0432\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Radijovci",
+        "Radijovce",
+        "Radiovce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786596,
+        "wk:page":"Radiovce"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"650ba87cb358c5107bda903e408f58fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209492393
+        }
+    ],
+    "wof:id":1209492393,
+    "wof:lastmodified":1537664859,
+    "wof:name":"Radiovce",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96314,
+    41.90603,
+    20.96314,
+    41.90603
+],
+  "geometry": {"coordinates":[20.96314,41.90603],"type":"Point"}
+}

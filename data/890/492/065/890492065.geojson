@@ -1,0 +1,103 @@
+{
+  "id": 890492065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91083,42.2625,21.91083,42.2625",
+    "geom:latitude":42.2625,
+    "geom:longitude":21.91083,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Zhelani"
+    ],
+    "name:bul_x_preferred":[
+        "\u0416\u0435\u0433\u043b\u044f\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "\u017degljane"
+    ],
+    "name:eng_x_preferred":[
+        "\u017degljane"
+    ],
+    "name:fre_x_preferred":[
+        "Jeglyan\u00e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0416\u0435\u0433\u0459\u0430\u043d\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0416\u0435\u0433\u0459\u0430\u043d\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u0433\u0459\u0430\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "\u017degnjane"
+    ],
+    "qs:name":"\u017degljane",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Staro Nagori\u010dane",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:latitude":"42.266388888",
+    "wd:longitude":"21.901388888",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783948,
+        "gp:id":483260,
+        "qs:id":495908,
+        "wd:id":"Q3087557",
+        "wk:page":"\u017degljane"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054876,
+    "wof:geomhash":"28c46e46afd79a6e9fb9e967e778428a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492065,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":890492065,
+    "wof:lastmodified":1527793023,
+    "wof:name":"\u017degljane",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91083,
+    42.2625,
+    21.91083,
+    42.2625
+],
+  "geometry": {"coordinates":[21.91083,42.2625],"type":"Point"}
+}

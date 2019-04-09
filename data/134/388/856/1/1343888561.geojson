@@ -1,0 +1,71 @@
+{
+  "id": 1343888561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06555,41.87931,22.06555,41.87931",
+    "geom:latitude":41.87931,
+    "geom:longitude":22.06555,
+    "gn:admin1_code":"A4",
+    "gn:asciiname":"Burilovci",
+    "gn:country_code":"MK",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792109,
+    "gn:latitude":41.87931,
+    "gn:longitude":22.06555,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Burilovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Burilovci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0443\u0440\u0438\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792109
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d0f88ab30f1e63a142e628518b347fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343888561,
+            "region_id":85674229
+        }
+    ],
+    "wof:id":1343888561,
+    "wof:lastmodified":1537664908,
+    "wof:name":"Burilovci",
+    "wof:parent_id":85674229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06555,
+    41.87931,
+    22.06555,
+    41.87931
+],
+  "geometry": {"coordinates":[22.06555,41.87931],"type":"Point"}
+}

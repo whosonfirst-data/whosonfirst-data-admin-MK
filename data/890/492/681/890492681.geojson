@@ -1,0 +1,93 @@
+{
+  "id": 890492681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39556,41.24778,21.39556,41.24778",
+    "geom:latitude":41.24778,
+    "geom:longitude":21.39556,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":218,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "\u00c7epigova"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cepigovo"
+    ],
+    "name:fre_x_preferred":[
+        "Tchepigovo"
+    ],
+    "name:mac_x_preferred":[
+        "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u010cepigovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cepigovo"
+    ],
+    "qs:name":"\u010cepigovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791995,
+        "qs:id":554044,
+        "wd:id":"Q2371860",
+        "wk:page":"\u010cepigovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054903,
+    "wof:geomhash":"e2cad34d46c1b1bd6975c68908449e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492681,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890492681,
+    "wof:lastmodified":1553816420,
+    "wof:name":"\u010cepigovo",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39556,
+    41.24778,
+    21.39556,
+    41.24778
+],
+  "geometry": {"coordinates":[21.39556,41.24778],"type":"Point"}
+}

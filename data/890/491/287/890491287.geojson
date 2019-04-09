@@ -1,0 +1,72 @@
+{
+  "id": 890491287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18222,41.58611,21.18222,41.58611",
+    "geom:latitude":41.58611,
+    "geom:longitude":21.18222,
+    "gn:country":"MK",
+    "gn:fcode":"PPLL",
+    "gn:pop":130,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Slatino"
+    ],
+    "qs:name":"Slatina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":542,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796070,
+        "qs:id":554131,
+        "wd:id":"Q1289460",
+        "wk:page":"Slatina"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054847,
+    "wof:geomhash":"c1e67a5fce4a6c42d08f88882c1d736e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491287,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890491287,
+    "wof:lastmodified":1527736660,
+    "wof:name":"Slatina",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18222,
+    41.58611,
+    21.18222,
+    41.58611
+],
+  "geometry": {"coordinates":[21.18222,41.58611],"type":"Point"}
+}

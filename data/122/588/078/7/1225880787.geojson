@@ -1,0 +1,71 @@
+{
+  "id": 1225880787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54493,41.43414,22.54493,41.43414",
+    "geom:latitude":41.43414,
+    "geom:longitude":22.54493,
+    "gn:admin1_code":"E7",
+    "gn:asciiname":"Belotino",
+    "gn:country_code":"MK",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792694,
+    "gn:latitude":41.43414,
+    "gn:longitude":22.54493,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Belotino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Belotino"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0435\u043b\u043e\u0442\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792694
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"019f822365e6c42a048ab85f9231dbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1225880787,
+            "region_id":85674439
+        }
+    ],
+    "wof:id":1225880787,
+    "wof:lastmodified":1537664912,
+    "wof:name":"Belotino",
+    "wof:parent_id":85674439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54493,
+    41.43414,
+    22.54493,
+    41.43414
+],
+  "geometry": {"coordinates":[22.54493,41.43414],"type":"Point"}
+}

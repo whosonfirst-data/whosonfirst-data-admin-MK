@@ -1,0 +1,98 @@
+{
+  "id": 890492439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2425,41.23583,21.2425,41.23583",
+    "geom:latitude":41.23583,
+    "geom:longitude":21.2425,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":419,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Vardina"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0438\u043d\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Vardino"
+    ],
+    "name:fre_x_preferred":[
+        "Vardino"
+    ],
+    "name:hun_x_preferred":[
+        "Vardino"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0438\u043d\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Wardino"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vardino"
+    ],
+    "name:unk_x_variant":[
+        "Bardina"
+    ],
+    "qs:name":"Vardino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784717,
+        "gp:id":481746,
+        "qs:id":553606,
+        "wd:id":"Q3135676"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054890,
+    "wof:geomhash":"d82eb929249a02e5ff61388ea1a4596a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492439,
+            "region_id":85674161
+        }
+    ],
+    "wof:id":890492439,
+    "wof:lastmodified":1514484756,
+    "wof:name":"Vardino",
+    "wof:parent_id":85674161,
+    "wof:placetype":"locality",
+    "wof:population":419,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2425,
+    41.23583,
+    21.2425,
+    41.23583
+],
+  "geometry": {"coordinates":[21.2425,41.23583],"type":"Point"}
+}

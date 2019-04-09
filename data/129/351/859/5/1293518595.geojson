@@ -1,0 +1,72 @@
+{
+  "id": 1293518595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69663,41.89987,21.69663,41.89987",
+    "geom:latitude":41.89987,
+    "geom:longitude":21.69663,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Katlanovska Banja",
+    "gn:country_code":"MK",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":796089,
+    "gn:latitude":41.89987,
+    "gn:longitude":21.69663,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Katlanovska Banja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0442\u043b\u0430\u043d\u043e\u0432\u0441\u043a\u0430 \u0411\u0430\u045a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Banja",
+        "Katlanovska Banja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796089
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"37e40701e19ab728adea238fdaba6a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293518595,
+            "region_id":85674173
+        }
+    ],
+    "wof:id":1293518595,
+    "wof:lastmodified":1537664917,
+    "wof:name":"Katlanovska Banja",
+    "wof:parent_id":85674173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69663,
+    41.89987,
+    21.69663,
+    41.89987
+],
+  "geometry": {"coordinates":[21.69663,41.89987],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260015839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14479,42.3148,22.14479,42.3148",
+    "geom:latitude":42.3148,
+    "geom:longitude":22.14479,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Balabanska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861313,
+    "gn:latitude":42.3148,
+    "gn:longitude":22.14479,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Balabanska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Balabanska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861313
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"85af6f8de9fe8df606e2e68bfd8f9b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260015839,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1260015839,
+    "wof:lastmodified":1537664941,
+    "wof:name":"Balabanska Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14479,
+    42.3148,
+    22.14479,
+    42.3148
+],
+  "geometry": {"coordinates":[22.14479,42.3148],"type":"Point"}
+}

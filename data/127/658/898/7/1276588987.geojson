@@ -1,0 +1,71 @@
+{
+  "id": 1276588987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80264,42.22301,21.80264,42.22301",
+    "geom:latitude":42.22301,
+    "geom:longitude":21.80264,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Zabarovci",
+    "gn:country_code":"MK",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10306624,
+    "gn:latitude":42.22301,
+    "gn:longitude":21.80264,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u017dabarovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u017dabarovci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0416\u0430\u0431\u0430\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10306624
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"30cda218f310497be16613a76459d0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276588987,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1276588987,
+    "wof:lastmodified":1537664978,
+    "wof:name":"Zabarovci",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80264,
+    42.22301,
+    21.80264,
+    42.22301
+],
+  "geometry": {"coordinates":[21.80264,42.22301],"type":"Point"}
+}

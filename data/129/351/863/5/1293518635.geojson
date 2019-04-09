@@ -1,0 +1,72 @@
+{
+  "id": 1293518635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67284,41.29769,20.67284,41.29769",
+    "geom:latitude":41.29769,
+    "geom:longitude":20.67284,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Brcevo",
+    "gn:country_code":"MK",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792341,
+    "gn:latitude":41.29769,
+    "gn:longitude":20.67284,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Br\u010devo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Br\u010devo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792341,
+        "wk:page":"Br%C4%8Devo"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"b8f11e9accaeb79da93742276d20f64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293518635,
+            "region_id":85674497
+        }
+    ],
+    "wof:id":1293518635,
+    "wof:lastmodified":1537664910,
+    "wof:name":"Brcevo",
+    "wof:parent_id":85674497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67284,
+    41.29769,
+    20.67284,
+    41.29769
+],
+  "geometry": {"coordinates":[20.67284,41.29769],"type":"Point"}
+}

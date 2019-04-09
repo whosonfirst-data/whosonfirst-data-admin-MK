@@ -1,0 +1,103 @@
+{
+  "id": 890491871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55889,41.44889,21.55889,41.44889",
+    "geom:latitude":41.44889,
+    "geom:longitude":21.55889,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":217,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Nebregova"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0431\u0440\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Nebregovo"
+    ],
+    "name:eng_x_preferred":[
+        "Nebregovo"
+    ],
+    "name:fre_x_preferred":[
+        "Nebregovo"
+    ],
+    "name:ger_x_preferred":[
+        "Nebregovo"
+    ],
+    "name:mac_x_preferred":[
+        "\u041d\u0435\u0431\u0440\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "Nebregovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u0435\u0431\u0440\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Nebregowo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0431\u0440\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Nebregovo"
+    ],
+    "qs:name":"Nebregovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787725,
+        "gp:id":482783,
+        "qs:id":553805,
+        "wd:id":"Q3084662",
+        "wk:page":"Nebregovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054868,
+    "wof:geomhash":"558ef7bdf41991e9d42feb1f2295ac8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491871,
+            "region_id":85674293
+        }
+    ],
+    "wof:id":890491871,
+    "wof:lastmodified":1527736665,
+    "wof:name":"Nebregovo",
+    "wof:parent_id":85674293,
+    "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55889,
+    41.44889,
+    21.55889,
+    41.44889
+],
+  "geometry": {"coordinates":[21.55889,41.44889],"type":"Point"}
+}

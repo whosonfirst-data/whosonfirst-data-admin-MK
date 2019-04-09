@@ -1,0 +1,71 @@
+{
+  "id": 1243394791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.24502,41.70642,22.24502,41.70642",
+    "geom:latitude":41.70642,
+    "geom:longitude":22.24502,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Lipov Dol",
+    "gn:country_code":"MK",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788636,
+    "gn:latitude":41.70642,
+    "gn:longitude":22.24502,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Lipov Dol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Lipov Dol"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0438\u043f\u043e\u0432 \u0414\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788636
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"25eed933e22b313a69558df3c2986a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243394791,
+            "region_id":85674219
+        }
+    ],
+    "wof:id":1243394791,
+    "wof:lastmodified":1537664876,
+    "wof:name":"Lipov Dol",
+    "wof:parent_id":85674219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.24502,
+    41.70642,
+    22.24502,
+    41.70642
+],
+  "geometry": {"coordinates":[22.24502,41.70642],"type":"Point"}
+}

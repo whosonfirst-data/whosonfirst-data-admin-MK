@@ -1,0 +1,329 @@
+{
+  "id": 85674381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017483,
+    "geom:area_square_m":161625696.138554,
+    "geom:bbox":"20.778336,41.530048,20.9867545,41.6753275",
+    "geom:latitude":41.613055,
+    "geom:longitude":20.896966,
+    "gn:population":11887,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Zajas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.611718,
+    "lbl:longitude":20.907229,
+    "meso:adm1_alt":"\u0417\u0430\u0458\u0430\u0441",
+    "meso:adm1_loc":"Zajas",
+    "meso:gadm_adm1":"Zajas",
+    "meso:gaul_adm1":"Kicevo",
+    "mps:latitude":41.600265,
+    "mps:longitude":20.911957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Zajazit"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0632\u0627\u062c\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u099c\u09be\u09b8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u044f\u0441"
+    ],
+    "name:chi_x_preferred":[
+        "\u624e\u4e9e\u65af\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Zajas Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Zajas"
+    ],
+    "name:eng_x_preferred":[
+        "Zajas Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Zajas"
+    ],
+    "name:fin_x_preferred":[
+        "Zajasin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Za\u00efas"
+    ],
+    "name:fre_x_preferred":[
+        "Za\u00efas"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d6\u10d0\u10d8\u10d0\u10e1\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Zajas"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0396\u03ac\u03b9\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0abe\u0a9c\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u091c\u093e\u0938 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Zajas"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Zajas"
+    ],
+    "name:ita_x_preferred":[
+        "Zajas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30e4\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9d\u0c9c\u0cbe\u0cb8\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\uc57c\uc2a4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Zajas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Zad\u017eos savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0417\u0430\u0458\u0430\u0441"
+    ],
+    "name:mar_x_preferred":[
+        "\u091d\u092e\u093e\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Perbandaran Zajas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0417\u0430\u0458\u0430\u0441"
+    ],
+    "name:nob_x_preferred":[
+        "Zajas kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Zajas"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Zajas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u044f\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0da2\u0dcf\u0dc3\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Zajas"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Zajazit"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0417\u0430\u0458\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Opsjtina Zajas"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0b9c\u0bbe\u0bb8\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3e\u0c1c\u0c38\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0417\u0430\u0439\u0430\u0441"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e0b\u0e32\u0e22\u0e32\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Zajas Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u044f\u0446\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Zajas"
+    ],
+    "name:und_x_variant":[
+        "Opstina Zajas"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Zajas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u06cc\u0627\u0633 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Zajas"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u4e9e\u65af\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2950",
+    "ne:adm1_code":"MKD-2950",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.ZA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2950",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MKC1",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.C1",
+    "ne:gn_id":"863917",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Zajas",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK98",
+    "ne:gns_id":"9075789",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Zajas, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.60120000000",
+    "ne:longitude":"20.88490000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Zajas",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"ZA",
+    "ne:provnum_ne":"20075",
+    "ne:region":"Southwestern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550864,
+    "ne:woe_label":"Zajas Municipality, MK, Macedonia",
+    "ne:woe_name":"Zajas",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Zajas",
+    "qs:a1_lc":"MKD-2950",
+    "qs:a1r":"Southwestern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"161",
+    "statoids:area_mi":"62",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Zajas",
+    "statoids:country":"MK",
+    "statoids:gec":"MKC1",
+    "statoids:hasc":"MK.ZA",
+    "statoids:iso":"31",
+    "statoids:name":"Zajas",
+    "statoids:population":"11605",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-31",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKC1",
+        "gn:id":863917,
+        "gp:id":24550864,
+        "hasc:id":"MK.ZA",
+        "iso:id":"MK-31",
+        "qs:id":483524,
+        "unlc:id":"MK-31",
+        "wd:id":"Q2018939",
+        "wk:page":"Zajas Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"abfd0ba40353f08195bc32de71caab00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674381
+        }
+    ],
+    "wof:id":85674381,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550458,
+    "wof:name":"Zajas",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":11605,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"ZA",
+    "wof:subdivision":"MK-31",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77833599999977,
+    41.53004799999985,
+    20.98675449999979,
+    41.67532749999984
+],
+  "geometry": {"coordinates":[[[20.90199449999977,41.67532749999984],[20.92340099999979,41.67038799999986],[20.93208549999977,41.66467349999985],[20.95308749999978,41.65780999999984],[20.95820899999978,41.65357249999985],[20.96127099999978,41.64319799999984],[20.97639249999978,41.64155199999985],[20.97118099999977,41.63463599999986],[20.98066099999977,41.63532299999986],[20.97899849999979,41.63222999999985],[20.98258149999978,41.62249249999985],[20.98063899999977,41.61065449999984],[20.98431799999977,41.60661449999986],[20.98675449999979,41.59597549999984],[20.98484249999979,41.58771099999984],[20.97641349999978,41.58234399999986],[20.98095749999979,41.57469499999985],[20.97619449999979,41.57409399999986],[20.97804349999979,41.57120849999984],[20.97201049999978,41.56279449999985],[20.96655199999978,41.56191149999987],[20.95389349999977,41.56425899999985],[20.94631849999979,41.55770699999985],[20.93254949999977,41.55109149999984],[20.92113549999979,41.54795949999985],[20.91154299999977,41.55044599999985],[20.90006149999977,41.54744199999985],[20.90400699999978,41.54412899999986],[20.89877799999977,41.53872649999985],[20.89906999999977,41.53542499999986],[20.88834449999979,41.53004799999985],[20.87754899999979,41.54142449999986],[20.87750949999977,41.54936499999985],[20.86108799999977,41.56615599999986],[20.85793799999979,41.58038999999985],[20.84005699999977,41.58722949999986],[20.83497299999979,41.59193649999986],[20.82423349999979,41.59480399999984],[20.82039749999979,41.61127799999986],[20.81655199999977,41.61230249999986],[20.81729249999978,41.61989699999984],[20.81140449999978,41.62683599999986],[20.78835449999977,41.62658649999986],[20.77833599999977,41.62894349999985],[20.78165299999978,41.63449299999985],[20.80056199999979,41.65203849999986],[20.81445749999978,41.64675949999986],[20.83076699999978,41.66783349999986],[20.83514599999978,41.66995649999984],[20.85398899999979,41.67170149999984],[20.86174949999977,41.66786499999986],[20.86824299999978,41.67144099999985],[20.87432949999979,41.66959249999985],[20.88962299999977,41.67448199999984],[20.90199449999977,41.67532749999984]]],"type":"Polygon"}
+}

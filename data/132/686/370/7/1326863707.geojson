@@ -1,0 +1,78 @@
+{
+  "id": 1326863707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97306,41.59278,20.97306,41.59278",
+    "geom:latitude":41.59278,
+    "geom:longitude":20.97306,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dolno Strogomiste",
+    "gn:country_code":"MK",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791328,
+    "gn:latitude":41.59278,
+    "gn:longitude":20.97306,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Dolno Strogomi\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0421\u0442\u0440\u043e\u0433\u043e\u043c\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "Dolno Stragomi\u0161te",
+        "Dolno Strogomi\u0161ta",
+        "\u0414\u043e\u043b\u043d\u043e \u0421\u0442\u0440\u043e\u0433\u043e\u043c\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dolno Strogomi\u0161te",
+        "Dolno Stragoli\u0161te",
+        "Dolna Strogomi\u0161ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791328
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"768bb2fe798deb4849b0c6afa0c66f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326863707,
+            "region_id":85674381
+        }
+    ],
+    "wof:id":1326863707,
+    "wof:lastmodified":1537664901,
+    "wof:name":"Dolno Strogomiste",
+    "wof:parent_id":85674381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97306,
+    41.59278,
+    20.97306,
+    41.59278
+],
+  "geometry": {"coordinates":[20.97306,41.59278],"type":"Point"}
+}

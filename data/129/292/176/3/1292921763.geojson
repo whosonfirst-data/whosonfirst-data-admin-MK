@@ -1,0 +1,69 @@
+{
+  "id": 1292921763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64083,42.03333,21.64083,42.03333",
+    "geom:latitude":42.03333,
+    "geom:longitude":21.64083,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Buchinci",
+    "gn:cc2":"MK",
+    "gn:country_code":"MK",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792195,
+    "gn:latitude":42.03333,
+    "gn:longitude":21.64083,
+    "gn:modification_date":"2006-10-17",
+    "gn:name":"\u0411\u0443\u0447\u0438\u043d\u0446\u0438",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0447\u0438\u043d\u0446\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792195
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"f4a0199e53283aff04514cedaf94974f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1292921763,
+            "region_id":85674315
+        }
+    ],
+    "wof:id":1292921763,
+    "wof:lastmodified":1537664908,
+    "wof:name":"Buchinci",
+    "wof:parent_id":85674315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64083,
+    42.03333,
+    21.64083,
+    42.03333
+],
+  "geometry": {"coordinates":[21.64083,42.03333],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 890491673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41139,41.02972,21.41139,41.02972",
+    "geom:latitude":41.02972,
+    "geom:longitude":21.41139,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1272,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Llogovardi"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0433\u043e\u0432\u0430\u0440\u0434\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Logovardi"
+    ],
+    "name:eng_x_preferred":[
+        "Logovardi"
+    ],
+    "name:fre_x_preferred":[
+        "Logovardi"
+    ],
+    "name:hun_x_preferred":[
+        "Logovardi"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u043e\u0433\u043e\u0432\u0430\u0440\u0434\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u0433\u043e\u0432\u0430\u0440\u0434\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141ogowardi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0433\u043e\u0432\u0430\u0440\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Logovardi"
+    ],
+    "name:unk_x_variant":[
+        "\u010cekrkci"
+    ],
+    "qs:name":"Logovardi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:elevation":576.0,
+    "wd:latitude":"41.0297",
+    "wd:longitude":"21.4114",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788517,
+        "gp:id":481746,
+        "qs:id":275757,
+        "wd:id":"Q3039706",
+        "wk:page":"Logovardi"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054861,
+    "wof:geomhash":"16e423f1c665bb84a08489917702c6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491673,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491673,
+    "wof:lastmodified":1527736661,
+    "wof:name":"Logovardi",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":1272,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41139,
+    41.02972,
+    21.41139,
+    41.02972
+],
+  "geometry": {"coordinates":[21.41139,41.02972],"type":"Point"}
+}

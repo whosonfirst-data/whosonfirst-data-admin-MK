@@ -1,0 +1,76 @@
+{
+  "id": 1326761715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63306,41.10389,20.63306,41.10389",
+    "geom:latitude":41.10389,
+    "geom:longitude":20.63306,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Radozda",
+    "gn:country_code":"MK",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786560,
+    "gn:latitude":41.10389,
+    "gn:longitude":20.63306,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Rado\u017eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0441\u043e\u0436\u0434\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "Rado\u017eda",
+        "\u0420\u0430\u0434\u043e\u0436\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rado\u017eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786560,
+        "wk:page":"Rado%C5%BEda"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"39510703aa7f312c6cacb8e1e164c1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326761715,
+            "region_id":85674497
+        }
+    ],
+    "wof:id":1326761715,
+    "wof:lastmodified":1537664859,
+    "wof:name":"Radozda",
+    "wof:parent_id":85674497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63306,
+    41.10389,
+    20.63306,
+    41.10389
+],
+  "geometry": {"coordinates":[20.63306,41.10389],"type":"Point"}
+}

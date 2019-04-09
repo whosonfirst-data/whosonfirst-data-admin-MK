@@ -1,0 +1,72 @@
+{
+  "id": 1327462723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88194,42.28611,21.88194,42.28611",
+    "geom:latitude":42.28611,
+    "geom:longitude":21.88194,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Vragoturce",
+    "gn:country_code":"MK",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":784245,
+    "gn:latitude":42.28611,
+    "gn:longitude":21.88194,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Vragoturce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0430\u0433\u043e\u0442\u0443\u0440\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vragoturci",
+        "Vragoturce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784245
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"93e1bb0a56e8afa02a23d23967b8f9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1327462723,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1327462723,
+    "wof:lastmodified":1537664839,
+    "wof:name":"Vragoturce",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88194,
+    42.28611,
+    21.88194,
+    42.28611
+],
+  "geometry": {"coordinates":[21.88194,42.28611],"type":"Point"}
+}

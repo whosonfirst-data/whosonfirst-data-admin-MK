@@ -1,0 +1,72 @@
+{
+  "id": 890491117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95624,41.36749,22.95624,41.36749",
+    "geom:latitude":41.36749,
+    "geom:longitude":22.95624,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":887,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Staro Konjarevo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0430\u0440\u043e \u041a\u043e\u045a\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "qs:name":"Staro Konjarevo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1594,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785519,
+        "qs:id":83573,
+        "wd:id":"Q1946579",
+        "wk:page":"Novo Selo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054841,
+    "wof:geomhash":"a3af32a3a3c81c236730f2e52cefe3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491117,
+            "region_id":85674467
+        }
+    ],
+    "wof:id":890491117,
+    "wof:lastmodified":1527736663,
+    "wof:name":"Staro Konjarevo",
+    "wof:parent_id":85674467,
+    "wof:placetype":"locality",
+    "wof:population":887,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95624,
+    41.36749,
+    22.95624,
+    41.36749
+],
+  "geometry": {"coordinates":[22.95624,41.36749],"type":"Point"}
+}

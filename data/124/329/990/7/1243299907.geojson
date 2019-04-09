@@ -1,0 +1,72 @@
+{
+  "id": 1243299907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95528,41.56833,20.95528,41.56833",
+    "geom:latitude":41.56833,
+    "geom:longitude":20.95528,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dolni Dlapkin Dol",
+    "gn:country_code":"MK",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833704,
+    "gn:latitude":41.56833,
+    "gn:longitude":20.95528,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Dolni Dlapkin Dol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dolni Dlapkin Dol"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u043b\u043d\u0438 \u0414\u043b\u0430\u043f\u043a\u0438\u043d \u0414\u043e\u043b",
+        "Dolni Dlapin Dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833704
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"37d4d70683f32f4bdae0876bd93dece3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243299907,
+            "region_id":85674381
+        }
+    ],
+    "wof:id":1243299907,
+    "wof:lastmodified":1537664923,
+    "wof:name":"Dolni Dlapkin Dol",
+    "wof:parent_id":85674381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95528,
+    41.56833,
+    20.95528,
+    41.56833
+],
+  "geometry": {"coordinates":[20.95528,41.56833],"type":"Point"}
+}

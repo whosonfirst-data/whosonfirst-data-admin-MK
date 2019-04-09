@@ -1,0 +1,71 @@
+{
+  "id": 1242708405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09291,42.2347,22.09291,42.2347",
+    "geom:latitude":42.2347,
+    "geom:longitude":22.09291,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Mitrenci",
+    "gn:country_code":"MK",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409317,
+    "gn:latitude":42.2347,
+    "gn:longitude":22.09291,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Mitrenci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Mitrenci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0438\u0442\u0440\u0435\u043d\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409317
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"78e842a5ce4f1a20dc483913c2fde331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1242708405,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":1242708405,
+    "wof:lastmodified":1537664987,
+    "wof:name":"Mitrenci",
+    "wof:parent_id":85674503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09291,
+    42.2347,
+    22.09291,
+    42.2347
+],
+  "geometry": {"coordinates":[22.09291,42.2347],"type":"Point"}
+}

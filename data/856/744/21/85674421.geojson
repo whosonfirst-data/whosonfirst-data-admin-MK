@@ -1,0 +1,269 @@
+{
+  "id": 85674421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017188,
+    "geom:area_square_m":158261675.260392,
+    "geom:bbox":"20.7279725,41.815133,20.9484725,41.9344325",
+    "geom:latitude":41.872585,
+    "geom:longitude":20.842017,
+    "gn:population":27182,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Polog Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.871817,
+    "lbl:longitude":20.850949,
+    "meso:adm1_alt":"\u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435",
+    "meso:adm1_loc":"Vrap\u010di\u0161te",
+    "meso:gadm_adm1":"Vrap\u010di\u0161te",
+    "meso:gaul_adm1":"Gostivar",
+    "mps:latitude":41.857387,
+    "mps:longitude":20.841104,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Vrap\u00e7ishtit"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0430\u0431\u0447\u0438\u0449\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Vrap\u010di\u0161te"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f17\u62c9\u666e\u5951\u4ec0\u6cf0\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Vrap\u010di\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "Vrapciste Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Vraptchicht\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Vraptchicht\u00e9"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10e0\u10d0\u10de\u10e9\u10d8\u10e8\u10e2\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Vrap\u010di\u0161te"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Vrap\u010di\u0161te"
+    ],
+    "name:ita_x_preferred":[
+        "Vrap\u010di\u0161te"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30e9\u30d7\u30c1\u30b7\u30e5\u30c6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10e0\u10d0\u10de\u10e9\u10d8\u10e8\u10e2\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub78d\uce58\uc288\ud14c \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Vrap\u010di\u0161te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Vrap\u010di\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vrapcisjte"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Vrap\u00e7i\u015fte Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:und_x_colloquial":[
+        "Opstina Vrapciste",
+        "Vrapciste"
+    ],
+    "name:und_x_preferred":[
+        "Vrap\u010di\u0161te"
+    ],
+    "name:und_x_variant":[
+        "Opstina Vrap\u010di\u0161te"
+    ],
+    "name:unk_x_variant":[
+        "Vrap\u010di\u0161te"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0648\u0631\u0627\u067e\u0686\u06cc\u0634\u062a\u06d2"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2959",
+    "ne:adm1_code":"MKD-2959",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MK.VH",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2959",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MKB7",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.B7",
+    "ne:gn_id":"863914",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Vrapciste",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK98",
+    "ne:gns_id":"9075786",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Vrapciste, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.85840000000",
+    "ne:longitude":"20.83490000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Polog",
+    "ne:name_alt":"Vrapci\u0161te",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"VH",
+    "ne:provnum_ne":"20007",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550819,
+    "ne:woe_label":"Vrapciste Municipality, MK, Macedonia",
+    "ne:woe_name":"Polog",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Polog",
+    "qs:a1_lc":"MKD-2959",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"157",
+    "statoids:area_mi":"61",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Vrapchishte",
+    "statoids:country":"MK",
+    "statoids:gec":"MKB7",
+    "statoids:hasc":"MK.VH",
+    "statoids:iso":"16",
+    "statoids:name":"Vrapchishte",
+    "statoids:population":"25399",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKB7",
+        "gn:id":863914,
+        "gp:id":24550819,
+        "hasc:id":"MK.VH",
+        "iso:id":"MK-16",
+        "qs:id":1193219,
+        "wd:id":"Q1996740",
+        "wk:page":"Vrap\u010di\u0161te Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"baa7b925242dc0638ef24afbc95e0020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674421
+        }
+    ],
+    "wof:id":85674421,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550454,
+    "wof:name":"Polog",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":25399,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"VH",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72797249999977,
+    41.81513299999986,
+    20.94847249999978,
+    41.93443249999984
+],
+  "geometry": {"coordinates":[[[20.77003799999977,41.92608699999985],[20.78173099999978,41.93330949999987],[20.79834749999978,41.93443249999984],[20.80320249999977,41.93159199999985],[20.80607399999977,41.92416849999987],[20.81337499999978,41.92671599999986],[20.84094049999979,41.91835349999985],[20.85187599999978,41.92129949999986],[20.86409249999977,41.92034149999986],[20.87971499999978,41.91431849999987],[20.88952449999977,41.90686249999985],[20.89290149999977,41.90879849999985],[20.90741649999978,41.90237849999986],[20.91392749999977,41.90217199999987],[20.91382599999977,41.90043249999985],[20.91733199999979,41.90054199999986],[20.92064699999978,41.89765549999984],[20.94410949999977,41.89306449999984],[20.94551449999977,41.89077349999985],[20.94283899999976,41.88939],[20.94718849999978,41.88927749999985],[20.94585699999979,41.88453949999985],[20.94419199999979,41.87667399999984],[20.94847249999978,41.87760499999985],[20.94703149999978,41.86668899999984],[20.94372449999977,41.86715599999985],[20.94352749999979,41.86189649999986],[20.93865999999977,41.86132249999986],[20.94209399999977,41.85704999999984],[20.93451199999978,41.85603149999986],[20.93330549999979,41.84797899999984],[20.92945549999979,41.84698],[20.93553749999978,41.84418049999985],[20.93671549999979,41.83572299999986],[20.94046149999977,41.83549399999984],[20.93201399999978,41.82354149999986],[20.91850549999978,41.82403049999985],[20.89753949999977,41.82124449999986],[20.88329449999978,41.82167549999986],[20.87596099999979,41.82401299999984],[20.87616849999978,41.82208599999984],[20.85082199999977,41.82258749999986],[20.84765299999978,41.82117049999985],[20.84945449999978,41.81902849999986],[20.84696699999978,41.81750149999985],[20.84929999999977,41.81673799999984],[20.84719249999978,41.81513299999986],[20.83318049999977,41.81845949999985],[20.82203799999979,41.82395649999984],[20.81102249999978,41.82374999999985],[20.80248199999977,41.83127849999985],[20.79385549999978,41.83387699999986],[20.76985149999979,41.85247849999985],[20.74537149999978,41.85292799999985],[20.72797249999977,41.86427699999984],[20.73562899999979,41.87685149999984],[20.73657399999979,41.87976599999985],[20.73684799999978,41.88175699999985],[20.73660199999978,41.88389049999986],[20.73634599999977,41.88646849999986],[20.73807349999979,41.88936149999986],[20.74046599999977,41.89279949999985],[20.74113099999977,41.89345549999985],[20.74528449999977,41.89415449999984],[20.74970549999978,41.89486299999984],[20.75148999999979,41.89649149999985],[20.75308949999979,41.90052949999986],[20.75415949999979,41.90394249999986],[20.75483299999979,41.90488799999986],[20.75567549999977,41.90606799999986],[20.76357849999977,41.91097249999984],[20.76813949999979,41.91381449999986],[20.77051149999977,41.91732049999985],[20.77215749999979,41.92107299999986],[20.77003799999977,41.92608699999985]]],"type":"Polygon"}
+}

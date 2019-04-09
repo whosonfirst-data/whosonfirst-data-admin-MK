@@ -1,0 +1,77 @@
+{
+  "id": 890491551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87972,41.68667,21.87972,41.68667",
+    "geom:latitude":41.68667,
+    "geom:longitude":21.87972,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Kuri Dere"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0443\u0440\u0438 \u0414\u0435\u0440\u0435",
+        "\u041a\u0443\u0440\u0438\u0434\u0435\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Suva Reka"
+    ],
+    "qs:name":"Kuridere",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788861,
+        "gp:id":483099,
+        "qs:id":83685,
+        "wd:id":"Q1992701",
+        "wk:page":"Gradsko Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054857,
+    "wof:geomhash":"9eba0cd7b266e39a647acefe1d4ce389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491551,
+            "region_id":85674301
+        }
+    ],
+    "wof:id":890491551,
+    "wof:lastmodified":1527736658,
+    "wof:name":"Kuridere",
+    "wof:parent_id":85674301,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87972,
+    41.68667,
+    21.87972,
+    41.68667
+],
+  "geometry": {"coordinates":[21.87972,41.68667],"type":"Point"}
+}

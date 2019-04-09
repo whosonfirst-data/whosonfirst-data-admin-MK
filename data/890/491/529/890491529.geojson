@@ -1,0 +1,105 @@
+{
+  "id": 890491529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15944,41.15917,21.15944,41.15917",
+    "geom:latitude":41.15917,
+    "geom:longitude":21.15944,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":479,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Obedniku"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0435\u0434\u043d\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Obednik"
+    ],
+    "name:eng_x_preferred":[
+        "Obednik"
+    ],
+    "name:fre_x_preferred":[
+        "Obednik"
+    ],
+    "name:hun_x_preferred":[
+        "Obednik"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u0431\u0435\u0434\u043d\u0438\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0431\u0435\u0434\u043d\u0438\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Obednik"
+    ],
+    "name:pol_x_preferred":[
+        "Obednik"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u0435\u0434\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Obednik"
+    ],
+    "qs:name":"Obednik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":742.0,
+    "wd:latitude":"41.159166666",
+    "wd:longitude":"21.159166666",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787537,
+        "qs:id":83626,
+        "wd:id":"Q635671",
+        "wk:page":"Obednik"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054856,
+    "wof:geomhash":"80245e3acb3086d6337a8b8353b7d4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491529,
+            "region_id":85674161
+        }
+    ],
+    "wof:id":890491529,
+    "wof:lastmodified":1553816419,
+    "wof:name":"Obednik",
+    "wof:parent_id":85674161,
+    "wof:placetype":"locality",
+    "wof:population":479,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15944,
+    41.15917,
+    21.15944,
+    41.15917
+],
+  "geometry": {"coordinates":[21.15944,41.15917],"type":"Point"}
+}

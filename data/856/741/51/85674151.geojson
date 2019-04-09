@@ -1,0 +1,267 @@
+{
+  "id": 85674151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002469,
+    "geom:area_square_m":22957242.212127,
+    "geom:bbox":"20.5172365,41.224247,20.647301,41.26348",
+    "geom:latitude":41.243168,
+    "geom:longitude":20.576519,
+    "gn:population":2480,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Vev\u010dani Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.240192,
+    "lbl:longitude":20.571099,
+    "meso:adm1_alt":"\u0412\u0435\u0432\u0447\u0430\u043d\u0438",
+    "meso:adm1_loc":"Vev\u010dani",
+    "meso:gadm_adm1":"Vev\u010dani",
+    "meso:gaul_adm1":"Struga",
+    "mps:latitude":41.234544,
+    "mps:longitude":20.55654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Ve\u00e7anit"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Vev\u010dani"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u592b\u67e5\u5c3c\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Vev\u010dani"
+    ],
+    "name:eng_x_preferred":[
+        "Vevcani Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Vevtchani"
+    ],
+    "name:fre_x_preferred":[
+        "Vevtchani"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d4\u10d5\u10e9\u10d0\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Vev\u010dani"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Vev\u010dani"
+    ],
+    "name:ita_x_preferred":[
+        "Vev\u010dani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30f4\u30c1\u30e3\u30cb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10d5\u10e9\u10d0\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ube0c\ucc28\ub2c8 \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0435\u0432\u0447\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0435\u0432\u0447\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0435\u0432\u0447\u0430\u043d\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Vev\u010dani"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Vev\u010dani"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Vev\u010dani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0435\u0432\u0447\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vev\u010dani"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0435\u0432\u0447\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0432\u0447\u0430\u043d\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Opstina Vevcani",
+        "Vevcani"
+    ],
+    "name:und_x_preferred":[
+        "Vev\u010dani"
+    ],
+    "name:und_x_variant":[
+        "Opstina Vev\u010dani"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Vev\u010dani"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0648\u0686\u0627\u0646\u06cc \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2895",
+    "ne:adm1_code":"MKD-2895",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.VV",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2895",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK99",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.B3",
+    "ne:gn_id":"863911",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Vevcani",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK98",
+    "ne:gns_id":"9075782",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Vevcani, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-12",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.23620000000",
+    "ne:longitude":"20.56890000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Vev\u010dani",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"VV",
+    "ne:provnum_ne":"20034",
+    "ne:region":"Southwestern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Vev%C4%8Dani_Municipality",
+    "ne:woe_id":24550867,
+    "ne:woe_label":"Vevcani Municipality, MK, Macedonia",
+    "ne:woe_name":"Vevcani",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Vev\u010dani",
+    "qs:a1_lc":"MKD-2895",
+    "qs:a1r":"Southwestern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"35",
+    "statoids:area_mi":"14",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Vevcani",
+    "statoids:country":"MK",
+    "statoids:gec":"MKB3",
+    "statoids:hasc":"MK.VV",
+    "statoids:iso":"12",
+    "statoids:name":"Vevchani",
+    "statoids:population":"2433",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-12",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKB3",
+        "gn:id":863911,
+        "gp:id":24550867,
+        "hasc:id":"MK.VV",
+        "iso:id":"MK-12",
+        "qs:id":999056,
+        "unlc:id":"MK-12",
+        "wd:id":"Q2029825",
+        "wk:page":"Vev\u010dani Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"6c30d8cacc760964cd119ffce6d873b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674151
+        }
+    ],
+    "wof:id":85674151,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Vev\u010dani",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":2433,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"VV",
+    "wof:subdivision":"MK-12",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51723649999977,
+    41.22424699999985,
+    20.64730099999977,
+    41.26347999999984
+],
+  "geometry": {"coordinates":[[[20.52008349999977,41.24661499999985],[20.54386899999977,41.25487949999984],[20.56710149999978,41.25598899999986],[20.58574399999978,41.25560349999986],[20.59130049999979,41.25405699999985],[20.59647349999977,41.24915349999986],[20.60742299999978,41.24846199999985],[20.61201099999977,41.25189449999985],[20.61565999999979,41.25109149999986],[20.62959149999978,41.25545349999985],[20.63619699999978,41.26284749999985],[20.64174149999977,41.26347999999984],[20.64046899999977,41.25973599999986],[20.64730099999977,41.25717549999985],[20.64125699999977,41.24872249999984],[20.62616099999977,41.24518699999985],[20.63011799999978,41.23929599999985],[20.62584549999977,41.23962549999985],[20.62067049999979,41.23673599999987],[20.61796799999979,41.23802699999985],[20.59742999999978,41.23605949999984],[20.59492999999978,41.23304099999984],[20.57322149999979,41.22424699999985],[20.56094299999978,41.22558349999986],[20.55426249999977,41.23017849999985],[20.54801349999977,41.22962449999986],[20.51723649999977,41.23771749999986],[20.51925199999977,41.24331149999986],[20.52008349999977,41.24661499999985]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890491515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63306,41.92667,21.63306,41.92667",
+    "geom:latitude":41.92667,
+    "geom:longitude":21.63306,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":787,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u2019R\u017eani\u010dino"
+    ],
+    "name:mkd_x_variant":[
+        "\u2019\u0420\u0436\u0430\u043d\u0438\u0447\u0438\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "R\u017eani\u010dano"
+    ],
+    "qs:name":"R\u2019\u017eani\u010dino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":146,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786160,
+        "gp:id":482940,
+        "qs:id":83592,
+        "wd:id":"Q1018191",
+        "wk:page":"Petrovec Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054855,
+    "wof:geomhash":"7ff81212b3b0003386446852580f8afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491515,
+            "region_id":85674173
+        }
+    ],
+    "wof:id":890491515,
+    "wof:lastmodified":1527736668,
+    "wof:name":"R\u2019\u017eani\u010dino",
+    "wof:parent_id":85674173,
+    "wof:placetype":"locality",
+    "wof:population":787,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63306,
+    41.92667,
+    21.63306,
+    41.92667
+],
+  "geometry": {"coordinates":[21.63306,41.92667],"type":"Point"}
+}

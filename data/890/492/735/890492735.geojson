@@ -1,0 +1,72 @@
+{
+  "id": 890492735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93528,41.55917,20.93528,41.55917",
+    "geom:latitude":41.55917,
+    "geom:longitude":20.93528,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":576,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Gorni Dlapkin Dol"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0414\u043b\u0430\u043f\u043a\u0438\u043d \u0414\u043e\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Dlapkin Dol"
+    ],
+    "qs:name":"Gorni Dlapin Dol",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833703,
+        "qs:id":554352
+    },
+    "wof:country":"MK",
+    "wof:created":1469054904,
+    "wof:geomhash":"ca15c9a24939127d4222879c8313cf7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492735,
+            "region_id":85674381
+        }
+    ],
+    "wof:id":890492735,
+    "wof:lastmodified":1505343800,
+    "wof:name":"Gorni Dlapin Dol",
+    "wof:parent_id":85674381,
+    "wof:placetype":"locality",
+    "wof:population":576,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93528,
+    41.55917,
+    20.93528,
+    41.55917
+],
+  "geometry": {"coordinates":[20.93528,41.55917],"type":"Point"}
+}

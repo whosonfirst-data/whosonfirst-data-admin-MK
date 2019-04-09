@@ -1,0 +1,72 @@
+{
+  "id": 890492059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02028,41.895,21.02028,41.895",
+    "geom:latitude":41.895,
+    "geom:longitude":21.02028,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":385,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Blace"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u043b\u0430\u0446\u0435"
+    ],
+    "qs:name":"Blace",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792567,
+        "qs:id":554085,
+        "wd:id":"Q879935",
+        "wk:page":"Blace"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054876,
+    "wof:geomhash":"dd66a0f2f81fc9607b7e21ef251cb729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492059,
+            "region_id":85674427
+        }
+    ],
+    "wof:id":890492059,
+    "wof:lastmodified":1527793028,
+    "wof:name":"Blace",
+    "wof:parent_id":85674427,
+    "wof:placetype":"locality",
+    "wof:population":385,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02028,
+    41.895,
+    21.02028,
+    41.895
+],
+  "geometry": {"coordinates":[21.02028,41.895],"type":"Point"}
+}

@@ -1,0 +1,336 @@
+{
+  "id": 85674209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.024056,
+    "geom:area_square_m":221490988.762642,
+    "geom:bbox":"21.2161365,41.73129,21.4626815,41.965873",
+    "geom:latitude":41.874172,
+    "geom:longitude":21.326483,
+    "gn:population":5656,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Sopiste Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.862849,
+    "lbl:longitude":21.297533,
+    "meso:adm1_alt":"\u0421\u043e\u043f\u0438\u0448\u0442\u0435",
+    "meso:adm1_loc":"Sopi\u0161te",
+    "meso:gadm_adm1":"Sopi\u0161te",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":41.838388,
+    "mps:longitude":21.293827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Sopishtit"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0633\u0648\u0628\u064a\u062a\u0634\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09aa\u09bf\u09b8\u09a4\u09c7\u0981 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043f\u0438\u0449\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Sopi\u0161te"
+    ],
+    "name:chi_x_preferred":[
+        "\u8607\u76ae\u4ec0\u7279\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Sopi\u0161te Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Sopi\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "Sopiste Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Sopi\u0161ten kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Sopicht\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Sopicht\u00e9"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10dd\u10de\u10d8\u10e8\u10e2\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Sopi\u0161te"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03cc\u03c0\u03b9\u03c3\u03c4\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acb\u0aaa\u0abf\u0ab8\u0acd\u0aa4\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094c\u092a\u093f\u0938\u094d\u0924\u0947 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Sopi\u0161te"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Sopi\u0161te"
+    ],
+    "name:ita_x_preferred":[
+        "Sopi\u0161te"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30d4\u30b7\u30e5\u30c6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccb\u0caa\u0cbf\u0cb8\u0ccd\u0c9f\u0cc6 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10de\u10d8\u10e8\u10e2\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\ud53c\uc288\ud14c \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Sopi\u0161tes pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Sopi\u0161t\u0117s savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094b\u092a\u093f\u090f\u0938\u094d\u0924 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Sopiste Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Sopi\u0161te"
+    ],
+    "name:nob_x_preferred":[
+        "Sopiste kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Sopi\u0161te"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Sopiste"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0ddc\u0db4\u0dd2\u0dc3\u0dca\u0da7\u0dda \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Sopi\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sopisjte"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bcb\u0baa\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4b\u0c2a\u0c3f\u0c38\u0c4d\u0c1f\u0c47 \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e42\u0e0b\u0e1e\u0e34\u0e0b\u0e40\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Sopiste Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:und_x_colloquial":[
+        "Opstina Sopiste",
+        "Sopiste"
+    ],
+    "name:und_x_preferred":[
+        "Sopi\u0161te"
+    ],
+    "name:und_x_variant":[
+        "Opstina Sopi\u0161te"
+    ],
+    "name:unk_x_variant":[
+        "Sopi\u0161te"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0633\u0648\u067e\u06cc\u0634\u062a\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Sopiste"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2909",
+    "ne:adm1_code":"MKD-2909",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.SS",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2909",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK92",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.92",
+    "ne:gn_id":"863896",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Sopiste",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK92",
+    "ne:gns_id":"9075760",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sopiste, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.83370000000",
+    "ne:longitude":"21.33200000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Sopiste",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SS",
+    "ne:provnum_ne":"20080",
+    "ne:region":"Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550804,
+    "ne:woe_label":"Sopiste Municipality, MK, Macedonia",
+    "ne:woe_name":"Sopiste",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Sopiste",
+    "qs:a1_lc":"MKD-2909",
+    "qs:a1r":"Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"223",
+    "statoids:area_mi":"86",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Sopiste",
+    "statoids:country":"MK",
+    "statoids:gec":"MK92",
+    "statoids:hasc":"MK.SS",
+    "statoids:iso":"70",
+    "statoids:name":"Sopishte",
+    "statoids:population":"5656",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-70",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK92",
+        "gn:id":863896,
+        "gp:id":24550804,
+        "hasc:id":"MK.SS",
+        "iso:id":"MK-70",
+        "qs:id":1193168,
+        "unlc:id":"MK-70",
+        "wd:id":"Q2282240",
+        "wk:page":"Sopi\u0161te Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"de7d446c855f601c055f87ba31eee1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674209
+        }
+    ],
+    "wof:id":85674209,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Sopiste",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":5656,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"SS",
+    "wof:subdivision":"MK-70",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21613649999978,
+    41.73128999999986,
+    21.46268149999977,
+    41.96587299999985
+],
+  "geometry": {"coordinates":[[[21.21675399999978,41.89416749999984],[21.22344799999979,41.90151449999985],[21.24343049999979,41.91235199999986],[21.25972849999977,41.91368549999984],[21.26965999999979,41.91839099999984],[21.28194449999978,41.91995499999985],[21.28114049999976,41.92670799999985],[21.30493049999978,41.93694499999984],[21.30643149999977,41.94165899999985],[21.30280449999978,41.94730699999985],[21.31997199999978,41.95233749999986],[21.32280349999976,41.95989799999984],[21.34774799999977,41.96065699999986],[21.36389199999977,41.96362549999986],[21.39700899999977,41.96565699999985],[21.42666099999977,41.96373049999985],[21.43507449999979,41.96587299999985],[21.43698049999978,41.95980499999985],[21.43431149999978,41.95670349999986],[21.43869749999979,41.95774749999984],[21.44326099999978,41.95489649999985],[21.45063949999977,41.95497649999984],[21.44538449999979,41.95139399999985],[21.45146499999979,41.94581049999985],[21.45208899999977,41.93936299999984],[21.45592849999977,41.93979249999984],[21.46268149999977,41.93595549999986],[21.45326399999979,41.93286049999986],[21.45531949999977,41.93074649999986],[21.45254649999978,41.92236249999985],[21.45494399999978,41.91870499999985],[21.45101899999977,41.91841649999986],[21.45286749999977,41.91382399999986],[21.44888399999977,41.91397749999985],[21.44892849999977,41.90855549999986],[21.44225449999979,41.90698649999985],[21.43906099999978,41.90198049999987],[21.43501199999977,41.90563749999984],[21.42708399999978,41.90470649999986],[21.42282499999979,41.90130849999986],[21.42274199999977,41.90632099999985],[21.41865249999978,41.90719099999984],[21.41521449999979,41.91188499999984],[21.41266649999977,41.91035449999984],[21.40705949999978,41.91170899999986],[21.40567099999978,41.90821649999984],[21.39997199999979,41.90670849999984],[21.37892049999977,41.91385849999986],[21.35749299999978,41.90969149999984],[21.34722699999978,41.90234449999986],[21.34343799999976,41.89367599999986],[21.34920099999977,41.88348549999986],[21.35572449999978,41.88190399999985],[21.35933099999977,41.87989599999986],[21.35777849999977,41.87770049999986],[21.36722199999977,41.87398699999986],[21.37911549999978,41.87652349999985],[21.37803649999978,41.87899549999986],[21.38543449999977,41.86940749999985],[21.38305799999978,41.86384549999985],[21.36403699999977,41.86330999999984],[21.36038249999979,41.86055749999986],[21.35867049999979,41.84868599999984],[21.35490199999978,41.84625549999984],[21.35107199999979,41.82350899999986],[21.34709699999979,41.81397899999985],[21.34398999999979,41.81498699999986],[21.35140199999978,41.80575849999985],[21.35348649999978,41.79605599999985],[21.34672949999978,41.77590849999984],[21.34129449999978,41.77471649999984],[21.33918499999979,41.76973599999985],[21.34123849999978,41.75840149999985],[21.33752299999978,41.74835749999986],[21.34053799999978,41.74420949999984],[21.33929699999979,41.73666849999987],[21.34281499999977,41.73128999999986],[21.32689849999977,41.74386449999986],[21.31744999999978,41.74813099999986],[21.31027649999979,41.75539049999986],[21.29638299999979,41.75858149999985],[21.29048299999977,41.77293699999984],[21.28312949999977,41.77813349999985],[21.27845099999979,41.78689149999985],[21.26085299999977,41.80656749999986],[21.25613249999978,41.82148199999986],[21.23999949999978,41.82621149999986],[21.23788599999978,41.83000199999987],[21.23794449999977,41.84634099999985],[21.23553149999978,41.84936299999984],[21.24211099999977,41.86477049999985],[21.24241199999977,41.88117199999985],[21.23455699999977,41.88696449999986],[21.21613649999978,41.89188749999985],[21.21675399999978,41.89416749999984]]],"type":"Polygon"}
+}

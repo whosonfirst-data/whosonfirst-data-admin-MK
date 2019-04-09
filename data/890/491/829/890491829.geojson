@@ -1,0 +1,106 @@
+{
+  "id": 890491829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.665,42.23333,21.665,42.23333",
+    "geom:latitude":42.23333,
+    "geom:longitude":21.665,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":2234,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Llojani"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u044f\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Lojane"
+    ],
+    "name:eng_x_preferred":[
+        "Lojane"
+    ],
+    "name:fre_x_preferred":[
+        "Loyan\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Lojane"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u043e\u0458\u0430\u043d\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u0458\u0430\u043d\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0458\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lojane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u044f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Llojan"
+    ],
+    "qs:name":"Lojane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:elevation":437.0,
+    "wd:latitude":"42.23305556",
+    "wd:longitude":"21.665",
+    "wd:wordcount":185,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788516,
+        "gp:id":482389,
+        "qs:id":275755,
+        "wd:id":"Q1007469",
+        "wk:page":"Lojane"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054867,
+    "wof:geomhash":"90fbaa2e4b81dd7c9c54767eb24de15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491829,
+            "region_id":85674257
+        }
+    ],
+    "wof:id":890491829,
+    "wof:lastmodified":1527736660,
+    "wof:name":"Lojane",
+    "wof:parent_id":85674257,
+    "wof:placetype":"locality",
+    "wof:population":2234,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.665,
+    42.23333,
+    21.665,
+    42.23333
+],
+  "geometry": {"coordinates":[21.665,42.23333],"type":"Point"}
+}

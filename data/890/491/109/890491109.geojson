@@ -1,0 +1,103 @@
+{
+  "id": 890491109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29389,41.09667,21.29389,41.09667",
+    "geom:latitude":41.09667,
+    "geom:longitude":21.29389,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":31,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Zmirnova e Vjet\u00ebr"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0417\u043c\u0438\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Staro Zmirnovo"
+    ],
+    "name:eng_x_preferred":[
+        "Staro Zmirnovo"
+    ],
+    "name:fre_x_preferred":[
+        "Staro Zmirnovo"
+    ],
+    "name:hun_x_preferred":[
+        "Sztaro Zmirnovo"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0417\u043c\u0438\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0417\u043c\u0438\u0440\u043d\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Staro Zmirnowo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0417\u043c\u0438\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Staro Zmirnevo"
+    ],
+    "qs:name":"Staro Zmirnovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"wk",
+    "wd:latitude":"41.0967",
+    "wd:longitude":"21.2939",
+    "wd:population":10,
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785506,
+        "gp:id":481746,
+        "qs:id":83569,
+        "wd:id":"Q3085471",
+        "wk:page":"Staro Zmirnovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054841,
+    "wof:geomhash":"bcda99a025bcce331738316329c08279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491109,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491109,
+    "wof:lastmodified":1527736664,
+    "wof:name":"Staro Zmirnovo",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29389,
+    41.09667,
+    21.29389,
+    41.09667
+],
+  "geometry": {"coordinates":[21.29389,41.09667],"type":"Point"}
+}

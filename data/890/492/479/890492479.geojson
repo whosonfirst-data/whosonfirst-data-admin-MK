@@ -1,0 +1,72 @@
+{
+  "id": 890492479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14,41.64139,21.14,41.64139",
+    "geom:latitude":41.64139,
+    "geom:longitude":21.14,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":74,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:mkd_x_preferred":[
+        "Su\u0161ica"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0443\u0448\u0438\u0446\u0430"
+    ],
+    "qs:name":"Su\u0161ica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785268,
+        "gp:id":481793,
+        "qs:id":553650,
+        "wk:page":"Su\u0161ica"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054891,
+    "wof:geomhash":"199fd7f54edab0e0a6d5259466fa5060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492479,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890492479,
+    "wof:lastmodified":1527793023,
+    "wof:name":"Su\u0161ica",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14,
+    41.64139,
+    21.14,
+    41.64139
+],
+  "geometry": {"coordinates":[21.14,41.64139],"type":"Point"}
+}

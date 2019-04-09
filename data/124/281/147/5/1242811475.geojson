@@ -1,0 +1,71 @@
+{
+  "id": 1242811475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29951,42.19546,22.29951,42.19546",
+    "geom:latitude":42.19546,
+    "geom:longitude":22.29951,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Prisojarci",
+    "gn:country_code":"MK",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834586,
+    "gn:latitude":42.19546,
+    "gn:longitude":22.29951,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Prisojarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Prisojarci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0440\u0438\u0441\u043e\u0458\u0430\u0440\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834586
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"f50dc2a37cd317525b6169be5ec0a9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1242811475,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1242811475,
+    "wof:lastmodified":1537664926,
+    "wof:name":"Prisojarci",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29951,
+    42.19546,
+    22.29951,
+    42.19546
+],
+  "geometry": {"coordinates":[22.29951,42.19546],"type":"Point"}
+}

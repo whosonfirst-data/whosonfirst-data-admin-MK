@@ -1,0 +1,73 @@
+{
+  "id": 1260323621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95611,42.02556,20.95611,42.02556",
+    "geom:latitude":42.02556,
+    "geom:longitude":20.95611,
+    "gn:admin1_code":"E8",
+    "gn:asciiname":"Lavce",
+    "gn:country_code":"MK",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788778,
+    "gn:latitude":42.02556,
+    "gn:longitude":20.95611,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Lavce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0432\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lahce",
+        "Lafce",
+        "Lavce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788778
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4a2efaeb5e61593077d6a1f0b88c249b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260323621,
+            "region_id":85674417
+        }
+    ],
+    "wof:id":1260323621,
+    "wof:lastmodified":1537664878,
+    "wof:name":"Lavce",
+    "wof:parent_id":85674417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95611,
+    42.02556,
+    20.95611,
+    42.02556
+],
+  "geometry": {"coordinates":[20.95611,42.02556],"type":"Point"}
+}

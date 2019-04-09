@@ -1,0 +1,71 @@
+{
+  "id": 1276478965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00553,42.06629,22.00553,42.06629",
+    "geom:latitude":42.06629,
+    "geom:longitude":22.00553,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Bornatska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112455,
+    "gn:latitude":42.06629,
+    "gn:longitude":22.00553,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Bornatska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Bornatska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u0440\u043d\u0430\u0442\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112455
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1866e80f7a5dcfa5f802ffb5a1d7bbea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276478965,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1276478965,
+    "wof:lastmodified":1537664962,
+    "wof:name":"Bornatska Maala",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00553,
+    42.06629,
+    22.00553,
+    42.06629
+],
+  "geometry": {"coordinates":[22.00553,42.06629],"type":"Point"}
+}

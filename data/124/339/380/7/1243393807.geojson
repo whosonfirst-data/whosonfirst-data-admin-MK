@@ -1,0 +1,71 @@
+{
+  "id": 1243393807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94667,42.335,21.94667,42.335",
+    "geom:latitude":42.335,
+    "geom:longitude":21.94667,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Guvniste",
+    "gn:country_code":"MK",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861245,
+    "gn:latitude":42.335,
+    "gn:longitude":21.94667,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Guvni\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Guvni\u0161te"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0443\u0432\u043d\u0438\u0448\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861245
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"23b9d7849052182287c0f29dec65db97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243393807,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1243393807,
+    "wof:lastmodified":1537664939,
+    "wof:name":"Guvniste",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94667,
+    42.335,
+    21.94667,
+    42.335
+],
+  "geometry": {"coordinates":[21.94667,42.335],"type":"Point"}
+}

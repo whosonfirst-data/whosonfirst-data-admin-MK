@@ -1,0 +1,71 @@
+{
+  "id": 1276473121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80931,42.17987,21.80931,42.17987",
+    "geom:latitude":42.17987,
+    "geom:longitude":21.80931,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Vujevci",
+    "gn:country_code":"MK",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10306540,
+    "gn:latitude":42.17987,
+    "gn:longitude":21.80931,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Vujevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Vujevci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0443\u0458\u0435\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10306540
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"e55dcdfcfbd431bfac97eb0b60ded96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276473121,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1276473121,
+    "wof:lastmodified":1537664976,
+    "wof:name":"Vujevci",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80931,
+    42.17987,
+    21.80931,
+    42.17987
+],
+  "geometry": {"coordinates":[21.80931,42.17987],"type":"Point"}
+}

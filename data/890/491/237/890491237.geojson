@@ -1,0 +1,72 @@
+{
+  "id": 890491237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62389,41.6,21.62389,41.6",
+    "geom:latitude":41.6,
+    "geom:longitude":21.62389,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":17,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430 \u041a\u0440\u0443\u0448\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kriva Kru\u0161ka"
+    ],
+    "qs:name":"Kriva Kru\u0161a",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789047,
+        "qs:id":553884,
+        "wd:id":"Q1994547",
+        "wk:page":"\u010ca\u0161ka Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054845,
+    "wof:geomhash":"7b42317a497ae5ef73c09749047bc5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491237,
+            "region_id":85674265
+        }
+    ],
+    "wof:id":890491237,
+    "wof:lastmodified":1527736667,
+    "wof:name":"Kriva Kru\u0161a",
+    "wof:parent_id":85674265,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62389,
+    41.6,
+    21.62389,
+    41.6
+],
+  "geometry": {"coordinates":[21.62389,41.6],"type":"Point"}
+}

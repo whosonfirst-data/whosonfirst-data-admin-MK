@@ -1,0 +1,74 @@
+{
+  "id": 890491883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60306,41.87333,21.60306,41.87333",
+    "geom:latitude":41.87333,
+    "geom:longitude":21.60306,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1005,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Zelenikovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u043e\u0432\u043e",
+        "\u0421\u0442\u0430\u043d\u0438\u0446\u0430 \u0417\u0435\u043b\u0435\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "\u017delezni\u010dka Stanica Zelenikovo"
+    ],
+    "qs:name":"Stanica Zelenikovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829616,
+        "gp:id":482940,
+        "qs:id":554287
+    },
+    "wof:country":"MK",
+    "wof:created":1469054869,
+    "wof:geomhash":"446dd3a53dcc41731fc7469bb47be3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491883,
+            "region_id":85674245
+        }
+    ],
+    "wof:id":890491883,
+    "wof:lastmodified":1505343795,
+    "wof:name":"Stanica Zelenikovo",
+    "wof:parent_id":85674245,
+    "wof:placetype":"locality",
+    "wof:population":1005,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60306,
+    41.87333,
+    21.60306,
+    41.87333
+],
+  "geometry": {"coordinates":[21.60306,41.87333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209043499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52806,41.9725,22.52806,41.9725",
+    "geom:latitude":41.9725,
+    "geom:longitude":22.52806,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Bezikovo",
+    "gn:country_code":"MK",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792642,
+    "gn:latitude":41.9725,
+    "gn:longitude":22.52806,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Bezikovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Bezikovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0435\u0437\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792642
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"b554ba748ea91f88596714688796471a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209043499
+        }
+    ],
+    "wof:id":1209043499,
+    "wof:lastmodified":1537664912,
+    "wof:name":"Bezikovo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52806,
+    41.9725,
+    22.52806,
+    41.9725
+],
+  "geometry": {"coordinates":[22.52806,41.9725],"type":"Point"}
+}

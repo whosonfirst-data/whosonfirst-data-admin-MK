@@ -1,0 +1,73 @@
+{
+  "id": 890491641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.06139,42.08361,21.06139,42.08361",
+    "geom:latitude":42.08361,
+    "geom:longitude":21.06139,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1999,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0448\u043e\u0432\u0446\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Pr\u0161evce"
+    ],
+    "qs:name":"Pr\u0161ovce",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786674,
+        "gp:id":483088,
+        "qs:id":275738,
+        "wd:id":"Q2282274",
+        "wk:page":"Tearce Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054860,
+    "wof:geomhash":"22f676fb134a43e5a3b929bf8f34496b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491641,
+            "region_id":85674413
+        }
+    ],
+    "wof:id":890491641,
+    "wof:lastmodified":1527736666,
+    "wof:name":"Pr\u0161ovce",
+    "wof:parent_id":85674413,
+    "wof:placetype":"locality",
+    "wof:population":1999,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.06139,
+    42.08361,
+    21.06139,
+    42.08361
+],
+  "geometry": {"coordinates":[21.06139,42.08361],"type":"Point"}
+}

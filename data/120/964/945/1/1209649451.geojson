@@ -1,0 +1,68 @@
+{
+  "id": 1209649451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34028,41.58806,22.34028,41.58806",
+    "geom:latitude":41.58806,
+    "geom:longitude":22.34028,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Dolna Vrastica",
+    "gn:country_code":"MK",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":791364,
+    "gn:latitude":41.58806,
+    "gn:longitude":22.34028,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dolna Vra\u0161tica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0412\u0440\u0430\u0448\u0442\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dolna Vra\u0161nica",
+        "Dolna Vra\u0161tica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791364
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"cea843a0c2450f71f67a0ae3cb4dd278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209649451
+        }
+    ],
+    "wof:id":1209649451,
+    "wof:lastmodified":1537664902,
+    "wof:name":"Dolna Vrastica",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34028,
+    41.58806,
+    22.34028,
+    41.58806
+],
+  "geometry": {"coordinates":[22.34028,41.58806],"type":"Point"}
+}

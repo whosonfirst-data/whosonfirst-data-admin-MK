@@ -1,0 +1,99 @@
+{
+  "id": 890491211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74583,41.76667,21.74583,41.76667",
+    "geom:latitude":41.76667,
+    "geom:longitude":21.74583,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":6,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Nova\u00e7ani"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0447\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Nova\u010dani"
+    ],
+    "name:eng_x_preferred":[
+        "Nova\u010dani"
+    ],
+    "name:fre_x_preferred":[
+        "Novatchani"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10d0\u10e9\u10d0\u10dc\u10d8"
+    ],
+    "name:mac_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0447\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0447\u0430\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Novi\u010dane"
+    ],
+    "qs:name":"Nova\u010dani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"41.7667",
+    "wd:longitude":"21.7458",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787625,
+        "gp:id":483099,
+        "qs:id":553795,
+        "wd:id":"Q3135570",
+        "wk:page":"Nova\u010dani"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054845,
+    "wof:geomhash":"8d00104b0aeb4d5bdcd51eab9c226378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491211,
+            "region_id":85674237
+        }
+    ],
+    "wof:id":890491211,
+    "wof:lastmodified":1527736660,
+    "wof:name":"Nova\u010dani",
+    "wof:parent_id":85674237,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74583,
+    41.76667,
+    21.74583,
+    41.76667
+],
+  "geometry": {"coordinates":[21.74583,41.76667],"type":"Point"}
+}

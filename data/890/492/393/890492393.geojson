@@ -1,0 +1,72 @@
+{
+  "id": 890492393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28417,41.64528,21.28417,41.64528",
+    "geom:latitude":41.64528,
+    "geom:longitude":21.28417,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":358,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0426\u0440\u0435\u0448\u043d\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Cre\u0161njevo"
+    ],
+    "qs:name":"Cre\u0161nevo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791883,
+        "qs:id":83756,
+        "wd:id":"Q2364199",
+        "wk:page":"Makedonski Brod Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054888,
+    "wof:geomhash":"1e28b89ff3b6b5a4584e1fc50eb63392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492393,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890492393,
+    "wof:lastmodified":1527793026,
+    "wof:name":"Cre\u0161nevo",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":358,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28417,
+    41.64528,
+    21.28417,
+    41.64528
+],
+  "geometry": {"coordinates":[21.28417,41.64528],"type":"Point"}
+}

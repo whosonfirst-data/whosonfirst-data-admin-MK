@@ -1,0 +1,72 @@
+{
+  "id": 1344193961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.23496,42.00778,21.23496,42.00778",
+    "geom:latitude":42.00778,
+    "geom:longitude":21.23496,
+    "gn:admin1_code":"F6",
+    "gn:asciiname":"Kopanica",
+    "gn:country_code":"MK",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789308,
+    "gn:latitude":42.00778,
+    "gn:longitude":21.23496,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kopanica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kopanic\u00eb",
+        "Kopanica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789308
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d76d0383e1efd010380bd43e95b6aa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1344193961,
+            "region_id":85674205
+        }
+    ],
+    "wof:id":1344193961,
+    "wof:lastmodified":1537664882,
+    "wof:name":"Kopanica",
+    "wof:parent_id":85674205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.23496,
+    42.00778,
+    21.23496,
+    42.00778
+],
+  "geometry": {"coordinates":[21.23496,42.00778],"type":"Point"}
+}

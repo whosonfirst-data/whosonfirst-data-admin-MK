@@ -1,0 +1,70 @@
+{
+  "id": 890491783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60639,41.86,21.60639,41.86",
+    "geom:latitude":41.86,
+    "geom:longitude":21.60639,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":225,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0445\u043e\u0458\u0430\u0434\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Strahodacica"
+    ],
+    "qs:name":"Strahojadica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785446,
+        "gp:id":482940,
+        "qs:id":83566
+    },
+    "wof:country":"MK",
+    "wof:created":1469054865,
+    "wof:geomhash":"607be3103894fd006853cb0f4cdce9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491783,
+            "region_id":85674245
+        }
+    ],
+    "wof:id":890491783,
+    "wof:lastmodified":1505343794,
+    "wof:name":"Strahojadica",
+    "wof:parent_id":85674245,
+    "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60639,
+    41.86,
+    21.60639,
+    41.86
+],
+  "geometry": {"coordinates":[21.60639,41.86],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226472873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99402,42.30798,21.99402,42.30798",
+    "geom:latitude":42.30798,
+    "geom:longitude":21.99402,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Bukovljane",
+    "gn:country_code":"MK",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":792137,
+    "gn:latitude":42.30798,
+    "gn:longitude":21.99402,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Bukovljane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Bukovljane"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0443\u043a\u043e\u0432\u0459\u0430\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792137
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4f93e70befdf5e6f55be84f2e8133e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226472873,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1226472873,
+    "wof:lastmodified":1537664908,
+    "wof:name":"Bukovljane",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99402000000001,
+    42.30798,
+    21.99402000000001,
+    42.30798
+],
+  "geometry": {"coordinates":[21.99402000000001,42.30798],"type":"Point"}
+}

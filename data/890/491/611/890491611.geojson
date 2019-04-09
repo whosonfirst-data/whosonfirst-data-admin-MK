@@ -1,0 +1,104 @@
+{
+  "id": 890491611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26139,41.055,21.26139,41.055",
+    "geom:latitude":41.055,
+    "geom:longitude":21.26139,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":304,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bratin Dolli"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u043d \u0434\u043e\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Bratin Dol"
+    ],
+    "name:eng_x_preferred":[
+        "Bratin Dol"
+    ],
+    "name:fre_x_preferred":[
+        "Bratin Dol"
+    ],
+    "name:hun_x_preferred":[
+        "Bratin Dol"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u043d \u0414\u043e\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "Bratin Dol"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u0430\u0442\u0438\u043d \u0414\u043e\u043b"
+    ],
+    "name:nan_x_preferred":[
+        "Bratin Dol"
+    ],
+    "name:pol_x_preferred":[
+        "Bratin Do\u0142"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u043d \u0414\u043e\u043b"
+    ],
+    "qs:name":"Bratin Dol",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"41.055",
+    "wd:longitude":"21.2614",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792351,
+        "qs:id":83768,
+        "wd:id":"Q849091",
+        "wk:page":"Bratin Dol"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054859,
+    "wof:geomhash":"d72abcd3294ec7bc71336ddf6a2015a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491611,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491611,
+    "wof:lastmodified":1527736661,
+    "wof:name":"Bratin Dol",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26139,
+    41.055,
+    21.26139,
+    41.055
+],
+  "geometry": {"coordinates":[21.26139,41.055],"type":"Point"}
+}

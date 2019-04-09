@@ -1,0 +1,71 @@
+{
+  "id": 1326465089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59257,41.90797,22.59257,41.90797",
+    "geom:latitude":41.90797,
+    "geom:longitude":22.59257,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Brbolkovska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9275293,
+    "gn:latitude":41.90797,
+    "gn:longitude":22.59257,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Brbolkovska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Brbolkovska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u0431\u043e\u043b\u043a\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9275293
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2c272e2fcbaf1c16e11500f9a268fd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326465089,
+            "region_id":85674475
+        }
+    ],
+    "wof:id":1326465089,
+    "wof:lastmodified":1537664971,
+    "wof:name":"Brbolkovska Maala",
+    "wof:parent_id":85674475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59257,
+    41.90797,
+    22.59257,
+    41.90797
+],
+  "geometry": {"coordinates":[22.59257,41.90797],"type":"Point"}
+}

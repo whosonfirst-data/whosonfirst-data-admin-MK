@@ -1,0 +1,71 @@
+{
+  "id": 1193168035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5383,42.10999,22.5383,42.10999",
+    "geom:latitude":42.10999,
+    "geom:longitude":22.5383,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Sarafatska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8512339,
+    "gn:latitude":42.10999,
+    "gn:longitude":22.5383,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Sarafatska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Sarafatska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0430\u0440\u0430\u0444\u0430\u0442\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8512339
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1edcee52bd4d99c3f3948d0ed901cf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1193168035,
+            "region_id":85674489
+        }
+    ],
+    "wof:id":1193168035,
+    "wof:lastmodified":1537664955,
+    "wof:name":"Sarafatska Maala",
+    "wof:parent_id":85674489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5383,
+    42.10999,
+    22.5383,
+    42.10999
+],
+  "geometry": {"coordinates":[22.5383,42.10999],"type":"Point"}
+}

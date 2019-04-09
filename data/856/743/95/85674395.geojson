@@ -1,0 +1,313 @@
+{
+  "id": 85674395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.04136,
+    "geom:area_square_m":383350675.148353,
+    "geom:bbox":"20.6881965,41.323896,21.1345035,41.591819",
+    "geom:latitude":41.44702,
+    "geom:longitude":20.907023,
+    "gn:population":2961,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Drugovo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.48756,
+    "lbl:longitude":20.847784,
+    "meso:adm1_alt":"\u0414\u0440\u0443\u0433\u043e\u0432\u043e",
+    "meso:adm1_loc":"Drugovo",
+    "meso:gadm_adm1":"Drugovo",
+    "meso:gaul_adm1":"Kicevo",
+    "mps:latitude":41.478767,
+    "mps:longitude":20.854398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Drugov\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062f\u0631\u0648\u063a\u0648\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cd\u09b0\u09c1\u0997\u09cb\u09ad\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u9b6f\u6208\u6c83\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Drugovo Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Drugovo"
+    ],
+    "name:eng_x_preferred":[
+        "Drugovo Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Drugovon kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Drougovo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10e0\u10e3\u10d2\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Drugovo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03c4\u03c1\u03bf\u03c5\u03b3\u03ba\u03cc\u03b2\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0acd\u0ab0\u0ac1\u0a97\u0acb\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094d\u0930\u0941\u0917\u094b\u0935\u094b \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Drugovo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Drugovo"
+    ],
+    "name:ita_x_preferred":[
+        "Drugovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30eb\u30b4\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0ccd\u0cb0\u0cbe\u0c97\u0cca\u0cb5\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub4dc\ub8e8\uace0\ubcf4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Drugovo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Drugovo savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0921\u094d\u0930\u0941\u0917\u094b\u0935\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Drugovo Municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Drugovo kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Drugovo"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Drugovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0dca\u0dbb\u0dd4\u0d9c\u0ddc\u0dc0\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Drugovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Drugovo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcd\u0bb0\u0bc1\u0b95\u0bcb\u0bb5\u0bcb \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c4d\u0c30\u0c41\u0c17\u0c4b\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0414\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e14\u0e23\u0e39\u0e42\u0e01\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Drugvo Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Drugovo"
+    ],
+    "name:und_x_variant":[
+        "Opstina Drugovo"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Drugovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0631\u0648\u06af\u0648\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Drugovo"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2953",
+    "ne:adm1_code":"MKD-2953",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MK.DR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2953",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK30",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.30",
+    "ne:gn_id":"863851",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Drugovo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK30",
+    "ne:gns_id":"9075616",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Drugovo, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.42930000000",
+    "ne:longitude":"20.91190000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Drugovo",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DR",
+    "ne:provnum_ne":"20068",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550764,
+    "ne:woe_label":"",
+    "ne:woe_name":"Drugovo Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Drugovo",
+    "qs:a1_lc":"MKD-2953",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"383",
+    "statoids:area_mi":"148",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Drugovo",
+    "statoids:country":"MK",
+    "statoids:gec":"MK30",
+    "statoids:hasc":"MK.DR",
+    "statoids:iso":"28",
+    "statoids:name":"Drugovo",
+    "statoids:population":"3249",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-28",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK30",
+        "gn:id":863851,
+        "gp:id":24550764,
+        "hasc:id":"MK.DR",
+        "iso:id":"MK-28",
+        "qs:id":59716,
+        "unlc:id":"MK-28",
+        "wd:id":"Q1996439",
+        "wk:page":"Drugovo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d8f1f3598c2cd33f066ca5cd384d0e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674395
+        }
+    ],
+    "wof:id":85674395,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550458,
+    "wof:name":"Drugovo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":3249,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"DR",
+    "wof:subdivision":"MK-28",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68819649999978,
+    41.32389599999985,
+    21.13450349999977,
+    41.59181899999984
+],
+  "geometry": {"coordinates":[[[20.72902449999978,41.49346299999985],[20.73214299999978,41.49350599999985],[20.73047649999978,41.50285749999986],[20.73431949999977,41.50645049999986],[20.74530399999978,41.50952349999986],[20.75088299999979,41.50789549999985],[20.74902799999978,41.50340299999985],[20.75541999999979,41.49908399999984],[20.75655649999979,41.49450099999984],[20.77312049999978,41.49331799999985],[20.78288899999978,41.49006749999984],[20.77976849999979,41.50011399999985],[20.78808099999978,41.51012849999987],[20.79844349999979,41.51376349999984],[20.80077399999979,41.51898149999985],[20.79528549999978,41.53008749999987],[20.80410949999978,41.53628099999986],[20.80506049999977,41.54464349999986],[20.80881199999979,41.54784399999986],[20.81136049999978,41.56364599999986],[20.80903349999977,41.56914199999986],[20.81037199999977,41.58386149999984],[20.81498749999977,41.58523649999987],[20.82915199999977,41.58319299999985],[20.82942399999979,41.59181899999984],[20.84005699999977,41.58722949999986],[20.85793799999979,41.58038999999985],[20.86108799999977,41.56615599999986],[20.87750949999977,41.54936499999985],[20.87754899999979,41.54142449999986],[20.88834449999979,41.53004799999985],[20.89064999999977,41.52584249999984],[20.90163699999977,41.51880649999984],[20.90859099999977,41.50820149999984],[20.92070849999979,41.50697749999986],[20.92424799999978,41.50076999999985],[20.93819749999977,41.49759199999986],[20.94230449999978,41.49379299999984],[20.94462549999977,41.49525549999984],[20.95441649999978,41.49114099999986],[20.95730299999977,41.49449099999984],[20.96258349999977,41.49476299999986],[20.97012399999977,41.48425149999986],[20.97928449999978,41.48230449999986],[20.97946,41.47948949999986],[20.97488849999979,41.48079099999984],[20.96176299999979,41.47184199999984],[20.96357849999978,41.46013699999986],[20.95992099999978,41.45485199999985],[20.96590799999979,41.45584899999986],[20.98102049999977,41.45237999999986],[20.99243099999978,41.44715549999987],[20.99280499999978,41.44367299999985],[20.99741099999977,41.44110949999984],[20.99567599999978,41.43270349999986],[20.99831199999977,41.42793199999986],[21.00160749999978,41.42794849999984],[21.00709099999978,41.42184199999986],[21.01955499999977,41.42331749999985],[21.02145849999977,41.42138949999986],[21.04657649999979,41.43008449999985],[21.05262799999977,41.42777499999985],[21.06645649999979,41.43252999999984],[21.07102499999979,41.43773549999986],[21.08395399999978,41.44311099999985],[21.08501999999979,41.43634249999985],[21.09125149999977,41.42928349999985],[21.09912399999979,41.42695899999984],[21.10493449999979,41.42233699999986],[21.12743249999977,41.41816299999985],[21.13149099999978,41.41154549999985],[21.12948599999979,41.40364349999984],[21.13450349999977,41.39378299999984],[21.12831999999977,41.39288199999984],[21.11156399999979,41.38212499999986],[21.10635999999977,41.37023549999986],[21.09384399999979,41.36028949999985],[21.08554699999979,41.36162799999985],[21.08258499999977,41.35897699999984],[21.07422399999979,41.36009699999985],[21.07065999999978,41.35529449999984],[21.06738849999977,41.35534049999984],[21.06171499999977,41.35987899999986],[21.03026699999978,41.36011249999984],[21.02016299999977,41.36206449999986],[21.00575649999979,41.35349699999986],[21.00007799999977,41.35349199999985],[20.99592799999976,41.34883299999984],[20.98553599999977,41.34677949999985],[20.97913099999977,41.33632549999984],[20.96738499999978,41.33364999999986],[20.95475949999977,41.32389599999985],[20.94478099999978,41.33328049999986],[20.93729449999978,41.35147349999986],[20.91456799999978,41.36235749999986],[20.91026899999977,41.37176549999984],[20.90807099999978,41.39719999999986],[20.89931799999977,41.39951049999985],[20.89245799999978,41.40446549999984],[20.89561449999977,41.41816149999985],[20.88734149999979,41.41940249999985],[20.88843849999978,41.42701749999986],[20.89228049999977,41.42961049999985],[20.88958699999978,41.43114349999985],[20.88400849999977,41.43241449999985],[20.87965999999977,41.43040899999986],[20.85874249999978,41.42888049999985],[20.84420849999978,41.43224649999985],[20.84497999999977,41.43586099999985],[20.83517249999977,41.43274399999984],[20.82875399999978,41.43498599999984],[20.82269849999977,41.43373849999986],[20.82158999999979,41.43641449999984],[20.81115899999978,41.43732149999985],[20.79728599999979,41.44333299999985],[20.77843299999978,41.43549099999984],[20.75855399999978,41.43933299999986],[20.75291899999979,41.43575699999985],[20.74140899999978,41.43531899999985],[20.73541499999979,41.43230999999986],[20.70770149999979,41.43779499999985],[20.70238749999979,41.43632899999986],[20.68894499999979,41.43748249999985],[20.68819649999978,41.44673449999985],[20.69327049999978,41.45452249999985],[20.69426449999978,41.47260649999984],[20.70049399999979,41.48260599999986],[20.70377699999977,41.48580999999984],[20.71152599999979,41.48626399999986],[20.72902449999978,41.49346299999985]]],"type":"Polygon"}
+}

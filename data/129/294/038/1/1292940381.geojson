@@ -1,0 +1,71 @@
+{
+  "id": 1292940381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16295,42.22454,22.16295,42.22454",
+    "geom:latitude":42.22454,
+    "geom:longitude":22.16295,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Bakalci",
+    "gn:country_code":"MK",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410436,
+    "gn:latitude":42.22454,
+    "gn:longitude":22.16295,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Bakalci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Bakalci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0430\u043a\u0430\u043b\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410436
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"aafa2c94c3d7d362a39138c0741cef8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1292940381,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":1292940381,
+    "wof:lastmodified":1537664989,
+    "wof:name":"Bakalci",
+    "wof:parent_id":85674503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16295,
+    42.22454000000001,
+    22.16295,
+    42.22454000000001
+],
+  "geometry": {"coordinates":[22.16295,42.22454000000001],"type":"Point"}
+}

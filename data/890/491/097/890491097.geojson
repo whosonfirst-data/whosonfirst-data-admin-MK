@@ -1,0 +1,100 @@
+{
+  "id": 890491097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39611,41.41083,21.39611,41.41083",
+    "geom:latitude":41.41083,
+    "geom:longitude":21.39611,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":329,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Toka Bardh\u00eb"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u043f\u043e\u043b\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Belo Pole"
+    ],
+    "name:dut_x_preferred":[
+        "Belo Pole"
+    ],
+    "name:eng_x_preferred":[
+        "Belo Pole"
+    ],
+    "name:fre_x_preferred":[
+        "Belo Pol\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Belo Pole"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u041f\u043e\u043b\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u041f\u043e\u043b\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Belo Polje"
+    ],
+    "qs:name":"Belo Pole",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792705,
+        "gp:id":482783,
+        "qs:id":554098,
+        "wd:id":"Q2895043",
+        "wk:page":"Belo Pole"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054840,
+    "wof:geomhash":"89be9f0415332bdacc42d8c722fa6ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491097,
+            "region_id":85674293
+        }
+    ],
+    "wof:id":890491097,
+    "wof:lastmodified":1553816419,
+    "wof:name":"Belo Pole",
+    "wof:parent_id":85674293,
+    "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39611,
+    41.41083,
+    21.39611,
+    41.41083
+],
+  "geometry": {"coordinates":[21.39611,41.41083],"type":"Point"}
+}

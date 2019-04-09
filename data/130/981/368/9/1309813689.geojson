@@ -1,0 +1,65 @@
+{
+  "id": 1309813689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70194,41.00278,21.70194,41.00278",
+    "geom:latitude":41.00278,
+    "geom:longitude":21.70194,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Petalino",
+    "gn:country_code":"MK",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863594,
+    "gn:latitude":41.00278,
+    "gn:longitude":21.70194,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Petalino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863594
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"29b61c8b023f20001746e78ff52f5c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1309813689,
+            "region_id":85674373
+        }
+    ],
+    "wof:id":1309813689,
+    "wof:lastmodified":1536920226,
+    "wof:name":"Petalino",
+    "wof:parent_id":85674373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70194,
+    41.00278,
+    21.70194,
+    41.00278
+],
+  "geometry": {"coordinates":[21.70194,41.00278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309936985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8568,41.76101,22.8568,41.76101",
+    "geom:latitude":41.76101,
+    "geom:longitude":22.8568,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Ciflik",
+    "gn:country_code":"MK",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791931,
+    "gn:latitude":41.76101,
+    "gn:longitude":22.8568,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u010ciflik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u010ciflik"
+    ],
+    "name:mkd_x_variant":[
+        "\u0427\u0438\u0444\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791931
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"0f44f66d9b5121ea877b7a2db8cb0fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1309936985,
+            "region_id":85674495
+        }
+    ],
+    "wof:id":1309936985,
+    "wof:lastmodified":1537664906,
+    "wof:name":"Ciflik",
+    "wof:parent_id":85674495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8568,
+    41.76101,
+    22.8568,
+    41.76101
+],
+  "geometry": {"coordinates":[22.8568,41.76101],"type":"Point"}
+}

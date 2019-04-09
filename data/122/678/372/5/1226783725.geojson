@@ -1,0 +1,71 @@
+{
+  "id": 1226783725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07165,42.13262,22.07165,42.13262",
+    "geom:latitude":42.13262,
+    "geom:longitude":22.07165,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Smokarci",
+    "gn:country_code":"MK",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409213,
+    "gn:latitude":42.13262,
+    "gn:longitude":22.07165,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Smokarci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Smokarci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u043c\u043e\u043a\u0430\u0440\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409213
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"67e3497c48db15db77d1df3a7d1d8628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226783725,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1226783725,
+    "wof:lastmodified":1537664985,
+    "wof:name":"Smokarci",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07165,
+    42.13262,
+    22.07165,
+    42.13262
+],
+  "geometry": {"coordinates":[22.07165,42.13262],"type":"Point"}
+}

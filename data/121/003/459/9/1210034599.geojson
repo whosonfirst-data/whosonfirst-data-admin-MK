@@ -1,0 +1,68 @@
+{
+  "id": 1210034599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82639,42.22722,21.82639,42.22722",
+    "geom:latitude":42.22722,
+    "geom:longitude":21.82639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chelopek",
+    "gn:country_code":"MK",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792006,
+    "gn:latitude":42.22722,
+    "gn:longitude":21.82639,
+    "gn:modification_date":"2006-10-04",
+    "gn:name":"\u0427\u0435\u043b\u043e\u043f\u0435\u043a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010celopek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792006
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"5ee8f03c7328d25c52664f6ca876a174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1210034599,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1210034599,
+    "wof:lastmodified":1537664907,
+    "wof:name":"Chelopek",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82639,
+    42.22722,
+    21.82639,
+    42.22722
+],
+  "geometry": {"coordinates":[21.82639,42.22722],"type":"Point"}
+}

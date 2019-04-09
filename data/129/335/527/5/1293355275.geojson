@@ -1,0 +1,72 @@
+{
+  "id": 1293355275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38011,42.10994,21.38011,42.10994",
+    "geom:latitude":42.10994,
+    "geom:longitude":21.38011,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gornjane",
+    "gn:country_code":"MK",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790481,
+    "gn:latitude":42.10994,
+    "gn:longitude":21.38011,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Gornjane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gorjani",
+        "Gornjane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790481
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"babd63ca69783689da5bfc992b8681d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293355275,
+            "region_id":85674287
+        }
+    ],
+    "wof:id":1293355275,
+    "wof:lastmodified":1537664891,
+    "wof:name":"Gornjane",
+    "wof:parent_id":85674287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38011,
+    42.10994,
+    21.38011,
+    42.10994
+],
+  "geometry": {"coordinates":[21.38011,42.10994],"type":"Point"}
+}

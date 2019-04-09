@@ -1,0 +1,99 @@
+{
+  "id": 890492717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59694,41.22806,21.59694,41.22806",
+    "geom:latitude":41.22806,
+    "geom:longitude":21.59694,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":243,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bon\u00e7a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043d\u0447\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Bon\u010de"
+    ],
+    "name:eng_x_preferred":[
+        "Bon\u010de"
+    ],
+    "name:fre_x_preferred":[
+        "Bontch\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Bon\u010de"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u043e\u043d\u0447\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u043d\u0447\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u043d\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bon\u010de"
+    ],
+    "qs:name":"Bon\u010de",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:latitude":"41.233333333",
+    "wd:longitude":"21.6",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792459,
+        "gp:id":482783,
+        "qs:id":554073,
+        "wd:id":"Q2910373",
+        "wk:page":"Bon\u010de"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054904,
+    "wof:geomhash":"8b988e5b290f7f5fca393e8a86501598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492717,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890492717,
+    "wof:lastmodified":1527793030,
+    "wof:name":"Bon\u010de",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59694,
+    41.22806,
+    21.59694,
+    41.22806
+],
+  "geometry": {"coordinates":[21.59694,41.22806],"type":"Point"}
+}

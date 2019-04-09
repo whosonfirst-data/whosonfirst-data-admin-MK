@@ -1,0 +1,71 @@
+{
+  "id": 1343988461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99934,41.57068,21.99934,41.57068",
+    "geom:latitude":41.57068,
+    "geom:longitude":21.99934,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Musanci",
+    "gn:country_code":"MK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9007883,
+    "gn:latitude":41.57068,
+    "gn:longitude":21.99934,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Mu\u0161anci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "Mu\u0161anci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0443\u0448\u0430\u043d\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9007883
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"0e64c7148f7c3fb84c8237212f518c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343988461,
+            "region_id":85674369
+        }
+    ],
+    "wof:id":1343988461,
+    "wof:lastmodified":1537664961,
+    "wof:name":"Musanci",
+    "wof:parent_id":85674369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99934,
+    41.57068,
+    21.99934,
+    41.57068
+],
+  "geometry": {"coordinates":[21.99934,41.57068],"type":"Point"}
+}

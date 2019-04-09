@@ -1,0 +1,102 @@
+{
+  "id": 890492477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40806,41.89889,21.40806,41.89889",
+    "geom:latitude":41.89889,
+    "geom:longitude":21.40806,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":44,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Sushica"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0421\u0443\u0448\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Markova Su\u0161ica"
+    ],
+    "name:eng_x_preferred":[
+        "Markova Su\u0161ica"
+    ],
+    "name:fre_x_preferred":[
+        "Markova Souchitsa"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0421\u0443\u0448\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0421\u0443\u0448\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Markova Su\u0161ica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0421\u0443\u0448\u0438\u0446\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Markova Su\u0161ica"
+    ],
+    "name:unk_x_variant":[
+        "Su\u0161ica"
+    ],
+    "qs:name":"Markova Su\u0161ica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:latitude":"41.89916667",
+    "wd:longitude":"21.40944444",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785266,
+        "gp:id":482940,
+        "qs:id":553649,
+        "wd:id":"Q3087532",
+        "wk:page":"Markova Su\u0161ica"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054891,
+    "wof:geomhash":"44aedb445a5242c3fd5ad96c846103e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492477,
+            "region_id":85674223
+        }
+    ],
+    "wof:id":890492477,
+    "wof:lastmodified":1527793022,
+    "wof:name":"Markova Su\u0161ica",
+    "wof:parent_id":85674223,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40806,
+    41.89889,
+    21.40806,
+    41.89889
+],
+  "geometry": {"coordinates":[21.40806,41.89889],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243009263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75854,42.20995,21.75854,42.20995",
+    "geom:latitude":42.20995,
+    "geom:longitude":21.75854,
+    "gn:admin1_code":"D7",
+    "gn:asciiname":"Ljubanovci",
+    "gn:country_code":"MK",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10306479,
+    "gn:latitude":42.20995,
+    "gn:longitude":21.75854,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ljubanovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Ljubanovci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0409\u0443\u0431\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10306479
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"abcf74b15902b999d5ae5ba2306a4ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243009263,
+            "region_id":85674355
+        }
+    ],
+    "wof:id":1243009263,
+    "wof:lastmodified":1537664974,
+    "wof:name":"Ljubanovci",
+    "wof:parent_id":85674355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75854,
+    42.20995,
+    21.75854,
+    42.20995
+],
+  "geometry": {"coordinates":[21.75854,42.20995],"type":"Point"}
+}

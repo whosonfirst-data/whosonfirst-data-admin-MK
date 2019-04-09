@@ -1,0 +1,72 @@
+{
+  "id": 890491195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47028,41.13194,21.47028,41.13194",
+    "geom:latitude":41.13194,
+    "geom:longitude":21.47028,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":261,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:mkd_x_preferred":[
+        "Trap"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0440\u0430\u043f"
+    ],
+    "qs:name":"Trap",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":652,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784981,
+        "gp:id":481901,
+        "qs:id":553619,
+        "wk:page":"Trap"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054844,
+    "wof:geomhash":"17a0f76fb1485f8568fbc6faf80e71c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491195,
+            "region_id":85674365
+        }
+    ],
+    "wof:id":890491195,
+    "wof:lastmodified":1527736659,
+    "wof:name":"Trap",
+    "wof:parent_id":85674365,
+    "wof:placetype":"locality",
+    "wof:population":261,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47028,
+    41.13194,
+    21.47028,
+    41.13194
+],
+  "geometry": {"coordinates":[21.47028,41.13194],"type":"Point"}
+}

@@ -1,0 +1,154 @@
+{
+  "id": 85674507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000812,
+    "geom:area_square_m":7454103.463989,
+    "geom:bbox":"21.392159,42.0274685,21.43438,42.070747",
+    "geom:latitude":42.048742,
+    "geom:longitude":21.414094,
+    "gn:id":"",
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "\u0160uto Orizari Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.054635,
+    "lbl:longitude":21.408817,
+    "meso:adm1_alt":"\u0428\u0443\u0442\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438",
+    "meso:adm1_loc":"\u0160uto Orizari",
+    "meso:gadm_adm1":"\u0160uto Orizari",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":42.036109,
+    "mps:longitude":21.405854,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:bul_x_preferred":[
+        "\u0428\u0443\u0442\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160uto Orizare"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160uto Orizari"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina \u0160uto Orizari"
+    ],
+    "name:eng_x_preferred":[
+        "Centar Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160uto Orizari"
+    ],
+    "name:fra_x_preferred":[
+        "Chouto Orizari"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u0160uto Orizari"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160uto Orizari"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e3\u10e2\u10dd-\u10dd\u10e0\u10d8\u10d6\u10d0\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de \u0160uto Orizari"
+    ],
+    "name:und_x_preferred":[
+        "Centar"
+    ],
+    "name:und_x_variant":[
+        "Opstina Centar"
+    ],
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"\u0160uto Orizari",
+    "qs:a1_lc":"MKD-5883",
+    "qs:a1r":"Greater Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"6",
+    "statoids:area_mi":"2",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Skopje",
+    "statoids:country":"MK",
+    "statoids:gec":"MKA3",
+    "statoids:hasc":"MK.SO",
+    "statoids:iso":"84",
+    "statoids:name":"Shuto Orizari",
+    "statoids:population":"22017",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-84",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKA3",
+        "gp:id":24550756,
+        "hasc:id":"MK.SO",
+        "iso:id":"MK-84",
+        "qs:id":483204,
+        "unlc:id":"MK-84"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"6c098ef64cdcfa8ea7c6acb86faea6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674507
+        }
+    ],
+    "wof:id":85674507,
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550458,
+    "wof:name":"\u0160uto Orizari",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":22017,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"SO",
+    "wof:subdivision":"MK-84",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39215899999977,
+    42.02746849999986,
+    21.43437999999978,
+    42.07074699999984
+],
+  "geometry": {"coordinates":[[[21.42797099999979,42.04665249999985],[21.43437999999978,42.03039449999986],[21.43317049999979,42.02746849999986],[21.41965949999977,42.02784749999987],[21.41834549999979,42.03617049999986],[21.41590299999979,42.03579399999984],[21.41308099999978,42.03898299999986],[21.41514549999977,42.04028849999986],[21.41318099999978,42.04430449999984],[21.40343449999978,42.04550699999984],[21.39892949999978,42.04840499999986],[21.40004199999979,42.05051749999984],[21.39723149999978,42.04823799999986],[21.39384849999979,42.04886749999986],[21.39215899999977,42.05684499999984],[21.39595049999977,42.05706399999985],[21.39254249999979,42.05868149999986],[21.39315249999979,42.06150749999986],[21.40058299999978,42.06053149999985],[21.40230699999978,42.06670549999984],[21.40733699999979,42.07074699999984],[21.41062149999979,42.06523649999986],[21.41795599999978,42.06062999999986],[21.41810399999977,42.05791549999987],[21.42595749999978,42.05799699999986],[21.42655199999979,42.05395599999986],[21.42357649999977,42.05383649999985],[21.42311149999978,42.05010899999985],[21.42797099999979,42.04665249999985]]],"type":"Polygon"}
+}

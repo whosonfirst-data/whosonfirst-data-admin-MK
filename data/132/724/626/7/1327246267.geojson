@@ -1,0 +1,70 @@
+{
+  "id": 1327246267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34556,42.30944,22.34556,42.30944",
+    "geom:latitude":42.30944,
+    "geom:longitude":22.34556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zeravina",
+    "gn:cc2":"MK",
+    "gn:country_code":"MK",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":783912,
+    "gn:latitude":42.30944,
+    "gn:longitude":22.34556,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"\u017deravina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017deravino",
+        "\u017deravine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783912
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"3300b3293a1474d8122695ba0807adf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1327246267,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1327246267,
+    "wof:lastmodified":1537664837,
+    "wof:name":"Zeravina",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34556,
+    42.30944,
+    22.34556,
+    42.30944
+],
+  "geometry": {"coordinates":[22.34556,42.30944],"type":"Point"}
+}

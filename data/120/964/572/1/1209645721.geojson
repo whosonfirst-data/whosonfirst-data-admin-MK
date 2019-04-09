@@ -1,0 +1,70 @@
+{
+  "id": 1209645721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41116,42.24534,22.41116,42.24534",
+    "geom:latitude":42.24534,
+    "geom:longitude":22.41116,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Zidilovo",
+    "gn:country_code":"MK",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":783902,
+    "gn:latitude":42.24534,
+    "gn:longitude":22.41116,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u017didilovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0416\u0438\u0434\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "\u017dedilovo",
+        "\u017didilovo",
+        "Zhedilovo",
+        "Gedilovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783902
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"5e2118cbe09af6958789e56c5f222fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209645721
+        }
+    ],
+    "wof:id":1209645721,
+    "wof:lastmodified":1537664837,
+    "wof:name":"Zidilovo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41116,
+    42.24534,
+    22.41116,
+    42.24534
+],
+  "geometry": {"coordinates":[22.41116,42.24534],"type":"Point"}
+}

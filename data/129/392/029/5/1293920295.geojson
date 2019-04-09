@@ -1,0 +1,74 @@
+{
+  "id": 1293920295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02198,41.02819,21.02198,41.02819",
+    "geom:latitude":41.02819,
+    "geom:longitude":21.02198,
+    "gn:admin1_code":"86",
+    "gn:asciiname":"Ezerani",
+    "gn:country_code":"MK",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790826,
+    "gn:latitude":41.02819,
+    "gn:longitude":21.02198,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ezerani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ezereni",
+        "Jezerane",
+        "Ezerani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790826,
+        "wk:page":"Ezerani"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"49c790c69d82c4eef45a1e8f4672875c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293920295,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":1293920295,
+    "wof:lastmodified":1537664896,
+    "wof:name":"Ezerani",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02198,
+    41.02819,
+    21.02198,
+    41.02819
+],
+  "geometry": {"coordinates":[21.02198,41.02819],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209249851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62738,41.15324,20.62738,41.15324",
+    "geom:latitude":41.15324,
+    "geom:longitude":20.62738,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Fjoriste",
+    "gn:country_code":"MK",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8427041,
+    "gn:latitude":41.15324,
+    "gn:longitude":20.62738,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Fjori\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Fjori\u0161te"
+    ],
+    "name:mkd_x_variant":[
+        "\u0424\u0458\u043e\u0440\u0438\u0448\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427041
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"64c3d7fd7cceba5e3360507f77053dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209249851
+        }
+    ],
+    "wof:id":1209249851,
+    "wof:lastmodified":1537664953,
+    "wof:name":"Fjoriste",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62738,
+    41.15324,
+    20.62738,
+    41.15324
+],
+  "geometry": {"coordinates":[20.62738,41.15324],"type":"Point"}
+}

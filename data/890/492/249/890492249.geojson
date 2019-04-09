@@ -1,0 +1,74 @@
+{
+  "id": 890492249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09278,41.46472,21.09278,41.46472",
+    "geom:latitude":41.46472,
+    "geom:longitude":21.09278,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":66,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dvorci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u0432\u043e\u0440\u0446\u0438"
+    ],
+    "qs:name":"Dvorci",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Plasnica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790866,
+        "gp:id":482035,
+        "qs:id":1213581
+    },
+    "wof:country":"MK",
+    "wof:created":1469054883,
+    "wof:geomhash":"1c3dae5022ad6f833dd8dcbefa41b5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492249,
+            "region_id":85674179
+        }
+    ],
+    "wof:id":890492249,
+    "wof:lastmodified":1505343797,
+    "wof:name":"Dvorci",
+    "wof:parent_id":85674179,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09278,
+    41.46472,
+    21.09278,
+    41.46472
+],
+  "geometry": {"coordinates":[21.09278,41.46472],"type":"Point"}
+}

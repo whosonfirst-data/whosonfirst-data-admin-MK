@@ -1,0 +1,335 @@
+{
+  "id": 85674307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017987,
+    "geom:area_square_m":165913660.863657,
+    "geom:bbox":"21.82873,41.655841,22.0253495,41.855852",
+    "geom:latitude":41.758039,
+    "geom:longitude":21.916208,
+    "gn:population":2621,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Lozovo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.767224,
+    "lbl:longitude":21.916212,
+    "meso:adm1_alt":"\u041b\u043e\u0437\u043e\u0432\u043e",
+    "meso:adm1_loc":"Lozovo",
+    "meso:gadm_adm1":"Lozovo",
+    "meso:gaul_adm1":"Sveti Nikole",
+    "mps:latitude":41.753357,
+    "mps:longitude":21.911791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Llozov\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0644\u0648\u0632\u0648\u0641\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u053c\u0578\u0566\u0578\u057e\u0578\u0575\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u099c\u09cb\u09ad\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0443\u043c\u0430\u0439\u043b\u0438\u044f"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u4f50\u6c83\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Lozovo Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Lozovo"
+    ],
+    "name:eng_x_preferred":[
+        "Lozovo Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Lozovo"
+    ],
+    "name:fin_x_preferred":[
+        "Lozovon kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Lozovo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10dd\u10d6\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Lozovo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039b\u03bf\u03b6\u03cc\u03b2\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0acb\u0a9d\u0acb\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u091c\u093c\u094b\u0935\u094b \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Lozovo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Lozovo"
+    ],
+    "name:ita_x_preferred":[
+        "Lozovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30be\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cca\u0c9d\u0cca\u0cb5\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10d6\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc870\ubcf4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Lozovo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Lozovo savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u094b\u091d\u094b\u0935\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Lozovo Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:nob_x_preferred":[
+        "Lozovo kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u0141ozowo"
+    ],
+    "name:por_x_preferred":[
+        "Lozovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0ddc\u0dc3\u0ddc\u0dc0\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Lozovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Llozov\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Lozovo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bca\u0bb8\u0bcd\u0b92\u0bb5\u0bcb \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c4b\u0c1c\u0c4b\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e25\u0e42\u0e0b\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Lozova Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Lozovo"
+    ],
+    "name:und_x_variant":[
+        "Opstina Lozovo"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Lozovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0632\u0648\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Lozovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u4f50\u6c83\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2931",
+    "ne:adm1_code":"MKD-2931",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.LO",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2931",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK35",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.60",
+    "ne:gn_id":"862975",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Lozovo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK60",
+    "ne:gns_id":"9043603",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Lozovo, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.72580000000",
+    "ne:longitude":"21.91500000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Lozovo",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"LO",
+    "ne:provnum_ne":"20063",
+    "ne:region":"Vardar",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550785,
+    "ne:woe_label":"",
+    "ne:woe_name":"Lozovo Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Lozovo",
+    "qs:a1_lc":"MKD-2931",
+    "qs:a1r":"Vardar",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"166",
+    "statoids:area_mi":"64",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Lozovo",
+    "statoids:country":"MK",
+    "statoids:gec":"MK60",
+    "statoids:hasc":"MK.LO",
+    "statoids:iso":"49",
+    "statoids:name":"Lozovo",
+    "statoids:population":"2858",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-49",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK60",
+        "gn:id":862975,
+        "gp:id":24550785,
+        "hasc:id":"MK.LO",
+        "iso:id":"MK-49",
+        "qs:id":956349,
+        "unlc:id":"MK-49",
+        "wd:id":"Q1996470",
+        "wk:page":"Lozovo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"05ba8ff68600a1fb5bc7d3051cf36afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674307
+        }
+    ],
+    "wof:id":85674307,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550454,
+    "wof:name":"Lozovo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":2858,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"LO",
+    "wof:subdivision":"MK-49",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82873,
+    41.65584099999984,
+    22.02534949999978,
+    41.85585199999986
+],
+  "geometry": {"coordinates":[[[21.86188349999978,41.85260199999985],[21.86574699999977,41.85585199999986],[21.88123199999978,41.84864349999984],[21.89088549999977,41.84125499999985],[21.90425449999978,41.82309549999985],[21.91147749999979,41.82258149999984],[21.91822549999978,41.81773949999985],[21.93047549999977,41.81610549999985],[21.95102049999977,41.80358449999986],[21.96370999999976,41.79245549999985],[21.96781299999978,41.79293999999985],[21.96877449999977,41.79025149999984],[21.96195549999979,41.78843249999986],[21.96145299999978,41.78650649999986],[21.98499299999978,41.77559599999987],[21.99496999999977,41.76655649999987],[22.00294199999979,41.76760699999986],[22.00174599999977,41.76247299999986],[22.00549599999977,41.75615549999986],[22.01984499999978,41.74678849999984],[22.01707349999978,41.74170749999985],[22.02534949999978,41.73902249999986],[22.01845749999978,41.73306249999985],[22.01427199999978,41.73735399999984],[22.00918449999978,41.73861599999987],[22.00290799999979,41.72728899999984],[22.00890499999977,41.72593199999986],[22.00842899999978,41.72357049999985],[22.00239999999977,41.72406949999984],[21.99880449999978,41.72148149999984],[21.99108349999977,41.72361049999986],[21.97860799999978,41.73404049999985],[21.97277899999978,41.72727149999986],[21.97317099999978,41.72414649999985],[21.95952149999977,41.72439899999986],[21.95478149999977,41.71343899999985],[21.95180449999978,41.71566849999985],[21.94711949999979,41.71252799999985],[21.95290749999978,41.70171049999985],[21.95848399999977,41.69746299999986],[21.95639949999978,41.69400599999986],[21.96147149999979,41.69159349999984],[21.96903649999979,41.69284099999985],[21.97386549999979,41.68849699999984],[21.96651199999977,41.68257899999986],[21.96723749999978,41.67590149999984],[21.96211999999977,41.67260749999986],[21.96551899999977,41.66631799999985],[21.96418899999978,41.66349949999986],[21.95872399999979,41.66945249999986],[21.95398649999979,41.66853149999986],[21.94435299999978,41.65788699999985],[21.93872499999978,41.65584099999984],[21.93463149999977,41.65827549999986],[21.93041249999979,41.65617899999984],[21.92662499999977,41.65732699999984],[21.92040049999977,41.66281599999985],[21.91806449999979,41.66135299999985],[21.90876799999978,41.66279599999984],[21.90361849999977,41.67798849999986],[21.90449299999977,41.68966849999984],[21.90059749999978,41.69558299999986],[21.90080549999979,41.70454699999985],[21.89705799999979,41.71167249999985],[21.89817999999977,41.71993899999984],[21.89353499999979,41.72110149999986],[21.88066399999977,41.73449749999986],[21.87101649999977,41.73053599999986],[21.87118099999978,41.73236699999984],[21.86800299999979,41.73176049999987],[21.84868549999979,41.74737899999985],[21.84565899999978,41.74743499999985],[21.84625899999978,41.75464449999984],[21.83683049999979,41.75229049999984],[21.84154649999977,41.74736599999986],[21.83794049999977,41.74548399999986],[21.82980349999977,41.75905799999984],[21.84386249999977,41.77273899999986],[21.85084349999977,41.77623299999985],[21.84800499999977,41.77968699999985],[21.85094949999979,41.78161949999986],[21.85026499999978,41.78873349999986],[21.82873,41.81072699999984],[21.83237749999978,41.81240849999986],[21.83445599999979,41.82068199999986],[21.84099849999978,41.82537799999986],[21.84145149999978,41.82874649999985],[21.84992199999976,41.83248299999985],[21.86147599999978,41.84272449999986],[21.86015949999978,41.84401749999986],[21.86357449999977,41.84644399999985],[21.86188349999978,41.85260199999985]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890492037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51056,41.885,21.51056,41.885",
+    "geom:latitude":41.885,
+    "geom:longitude":21.51056,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":237,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0442\u0435\u043a\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Vrtakica"
+    ],
+    "qs:name":"Vrtekica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784124,
+        "gp:id":482940,
+        "qs:id":553574,
+        "wd:id":"Q2088034",
+        "wk:page":"Studeni\u010dani Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054875,
+    "wof:geomhash":"d33fa9d8b10f297c85ec27b1afb94ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492037,
+            "region_id":85674223
+        }
+    ],
+    "wof:id":890492037,
+    "wof:lastmodified":1527793024,
+    "wof:name":"Vrtekica",
+    "wof:parent_id":85674223,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51056,
+    41.885,
+    21.51056,
+    41.885
+],
+  "geometry": {"coordinates":[21.51056,41.885],"type":"Point"}
+}

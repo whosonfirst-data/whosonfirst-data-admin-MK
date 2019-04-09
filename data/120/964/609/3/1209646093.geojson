@@ -1,0 +1,67 @@
+{
+  "id": 1209646093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62548,41.4824,22.62548,41.4824",
+    "geom:latitude":41.4824,
+    "geom:longitude":22.62548,
+    "gn:admin1_code":"A9",
+    "gn:asciiname":"Gradosorci",
+    "gn:country_code":"MK",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790221,
+    "gn:latitude":41.4824,
+    "gn:longitude":22.62548,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Grado\u0161orci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Grado\u0161orci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0440\u0430\u0434\u043e\u0448\u043e\u0440\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790221
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"e28267e4a9c5db562ad48f3f7653cdfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209646093
+        }
+    ],
+    "wof:id":1209646093,
+    "wof:lastmodified":1537664889,
+    "wof:name":"Gradosorci",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62548,
+    41.4824,
+    22.62548,
+    41.4824
+],
+  "geometry": {"coordinates":[22.62548,41.4824],"type":"Point"}
+}

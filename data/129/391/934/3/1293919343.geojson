@@ -1,0 +1,72 @@
+{
+  "id": 1293919343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79167,41.46194,20.79167,41.46194",
+    "geom:latitude":41.46194,
+    "geom:longitude":20.79167,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ivancista",
+    "gn:country_code":"MK",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":789991,
+    "gn:latitude":41.46194,
+    "gn:longitude":20.79167,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Ivan\u010di\u0161ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u0447\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ivan\u010di\u0161te",
+        "Ivan\u010di\u0161ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789991
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"344c114e5763c385fade79ecf5198ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293919343,
+            "region_id":85674395
+        }
+    ],
+    "wof:id":1293919343,
+    "wof:lastmodified":1537664887,
+    "wof:name":"Ivancista",
+    "wof:parent_id":85674395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79167,
+    41.46194000000001,
+    20.79167,
+    41.46194000000001
+],
+  "geometry": {"coordinates":[20.79167,41.46194000000001],"type":"Point"}
+}

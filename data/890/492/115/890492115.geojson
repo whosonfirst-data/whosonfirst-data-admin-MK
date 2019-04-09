@@ -1,0 +1,103 @@
+{
+  "id": 890492115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92063,41.37356,22.92063,41.37356",
+    "geom:latitude":41.37356,
+    "geom:longitude":22.92063,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":629,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Drazheva"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u0435\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Drazsevo"
+    ],
+    "name:fre_x_preferred":[
+        "Drajevo"
+    ],
+    "name:ger_x_preferred":[
+        "Drazsevo"
+    ],
+    "name:hun_x_preferred":[
+        "Drazsevo"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "Dra\u017eevo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u0440\u0430\u0436\u0435\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u0435\u0432\u043e"
+    ],
+    "qs:name":"Dra\u017eevo",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Novo Selo",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791076,
+        "gp:id":482002,
+        "qs:id":925452,
+        "wd:id":"Q3038898",
+        "wk:page":"Dra\u017eevo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054878,
+    "wof:geomhash":"6ed2bcfc435eba94070f08fd33369e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492115,
+            "region_id":85674467
+        }
+    ],
+    "wof:id":890492115,
+    "wof:lastmodified":1553816420,
+    "wof:name":"Dra\u017eevo",
+    "wof:parent_id":85674467,
+    "wof:placetype":"locality",
+    "wof:population":629,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92063,
+    41.37356,
+    22.92063,
+    41.37356
+],
+  "geometry": {"coordinates":[22.92063,41.37356],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890491697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33028,41.98806,21.33028,41.98806",
+    "geom:latitude":41.98806,
+    "geom:longitude":21.33028,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1315,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Dolni Gr\u010dec"
+    ],
+    "qs:name":"\u0413\u0440\u0447\u0435\u0446",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790183,
+        "qs:id":129597
+    },
+    "wof:country":"MK",
+    "wof:created":1469054862,
+    "wof:geomhash":"4431f56d90f83440c588b3266b06b35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491697,
+            "region_id":85674205
+        }
+    ],
+    "wof:id":890491697,
+    "wof:lastmodified":1505343794,
+    "wof:name":"\u0413\u0440\u0447\u0435\u0446",
+    "wof:parent_id":85674205,
+    "wof:placetype":"locality",
+    "wof:population":1315,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33028,
+    41.98806,
+    21.33028,
+    41.98806
+],
+  "geometry": {"coordinates":[21.33028,41.98806],"type":"Point"}
+}

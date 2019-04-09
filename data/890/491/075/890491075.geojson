@@ -1,0 +1,102 @@
+{
+  "id": 890491075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26528,41.1225,21.26528,41.1225",
+    "geom:latitude":41.1225,
+    "geom:longitude":21.26528,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":395,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Sekirani"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Sekirani"
+    ],
+    "name:eng_x_preferred":[
+        "Sekirani"
+    ],
+    "name:fre_x_preferred":[
+        "Sekirani"
+    ],
+    "name:hun_x_preferred":[
+        "Szekirani"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u0430\u043d\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Sekirani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sekirani"
+    ],
+    "qs:name":"Sekirani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":639.0,
+    "wd:latitude":"41.1225",
+    "wd:longitude":"21.2653",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786016,
+        "qs:id":553685,
+        "wd:id":"Q3039691",
+        "wk:page":"Sekirani"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054840,
+    "wof:geomhash":"5d9d32d7de638fdbf7fe4c684b12b91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491075,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491075,
+    "wof:lastmodified":1527736665,
+    "wof:name":"Sekirani",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":395,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26528,
+    41.1225,
+    21.26528,
+    41.1225
+],
+  "geometry": {"coordinates":[21.26528,41.1225],"type":"Point"}
+}

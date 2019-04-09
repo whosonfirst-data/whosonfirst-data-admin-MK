@@ -1,0 +1,338 @@
+{
+  "id": 85674437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.019215,
+    "geom:area_square_m":176278457.432022,
+    "geom:bbox":"21.0279415,41.9943,21.216232,42.206382",
+    "geom:latitude":42.104249,
+    "geom:longitude":21.13128,
+    "gn:population":10806,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Jegunovce Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.156783,
+    "lbl:longitude":21.137679,
+    "meso:adm1_alt":"\u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435",
+    "meso:adm1_loc":"Jegunovtse",
+    "meso:gadm_adm1":"Jegunovtse",
+    "meso:gaul_adm1":"Tetovo",
+    "mps:latitude":42.133565,
+    "mps:longitude":21.140285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Jegunocit"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062c\u064a\u063a\u0648\u0646\u0648\u0641\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u0997\u09c1\u09a8\u09cb\u09ad\u099a\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0419\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u8036\u53e4\u8bfa\u592b\u7b56\u533a"
+    ],
+    "name:dan_x_preferred":[
+        "Jegunovce Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Jegunovce"
+    ],
+    "name:eng_x_preferred":[
+        "Jegunovce Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Jegunovce",
+        "Jegunovtse"
+    ],
+    "name:fin_x_preferred":[
+        "Jegunovcen kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Y\u00e9gounovts\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Y\u00e9gounovts\u00e9"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d8\u10d4\u10d2\u10e3\u10dc\u10dd\u10d5\u10ea\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Jegunovce"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03b6\u03b5\u03b3\u03ba\u03bf\u03cd\u03bd\u03bf\u03c6\u03c4\u03c3\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0ac7\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0acb\u0ab5\u0ac7\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0947\u0917\u0941\u0928\u094b\u0935\u094d\u0938 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Jegunovce"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Jegunovce"
+    ],
+    "name:ita_x_preferred":[
+        "Jegunovce"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30a7\u30b0\u30ce\u30f4\u30c4\u30a7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cc6\u0c97\u0cc1\u0ca8\u0ccb\u0cb5\u0cc6\u0cb8\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d4\u10d2\u10e3\u10dc\u10dd\u10d5\u10ea\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc608\uad6c\ub178\ube0c\uccb4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Jegunovces municipalit\u0101te"
+    ],
+    "name:lit_x_preferred":[
+        "Jegunovc\u0117s savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0947\u0917\u0941\u0928\u094b\u0935\u094d\u0939\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Jegunovce Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Jegunovce Chh\u012b"
+    ],
+    "name:nob_x_preferred":[
+        "Jegunovce kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Jegunovce"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Jegunovce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd9\u0d9c\u0ddc\u0db1\u0ddc\u0dc0\u0dd2\u0dc3\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Jegunovce"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Jegunocit"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Jegunovce"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bc6\u0b95\u0bc1\u0ba9\u0bcb\u0bb5\u0bcd\u0bb8\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c46\u0c17\u0c28\u0c4b\u0c35\u0c4d\u0c38\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0415\u0433\u0443\u043d\u043e\u0432\u0442\u0441\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e08\u0e01\u0e39\u0e42\u0e19\u0e27\u0e40\u0e0b\u0e48"
+    ],
+    "name:tur_x_preferred":[
+        "Jegunovce Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Jegunovce"
+    ],
+    "name:und_x_variant":[
+        "Opstina Jegunovce"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Jegunovce"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06af\u0648\u0646\u0648\u0648\u062a\u0633\u06c1 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Jegunovce"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u53e4\u8bfa\u592b\u91c7\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2963",
+    "ne:adm1_code":"MKD-2963",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MK.JG",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2963",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK38",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.D5",
+    "ne:gn_id":"863858",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Jegunovce",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK36",
+    "ne:gns_id":"9075623",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Jegunovce, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"42.03110000000",
+    "ne:longitude":"21.12900000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Jegunovce",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"JG",
+    "ne:provnum_ne":"20001",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Op\u0161tina",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550771,
+    "ne:woe_label":"",
+    "ne:woe_name":"Jegunovce Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Jegunovce",
+    "qs:a1_lc":"MKD-2963",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"174",
+    "statoids:area_mi":"67",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Jegunovtse",
+    "statoids:country":"MK",
+    "statoids:gec":"MKD5",
+    "statoids:hasc":"MK.JG",
+    "statoids:iso":"35",
+    "statoids:name":"Jegunovtse",
+    "statoids:population":"10790",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-35",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKD5",
+        "gn:id":863858,
+        "gp:id":24550771,
+        "hasc:id":"MK.JG",
+        "iso:id":"MK-35",
+        "qs:id":1322885,
+        "unlc:id":"MK-35",
+        "wd:id":"Q431908",
+        "wk:page":"Jegunovce Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"412b5d19db1d1ab9aaefb79321bd0081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674437
+        }
+    ],
+    "wof:id":85674437,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Jegunovce",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":10790,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"JG",
+    "wof:subdivision":"MK-35",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02794149999977,
+    41.99429999999984,
+    21.21623199999979,
+    42.20638199999985
+],
+  "geometry": {"coordinates":[[[21.04773249999977,42.16749949999985],[21.05188499999977,42.17049049999986],[21.05461949999977,42.17444249999986],[21.05541599999978,42.17532149999985],[21.06023699999977,42.17961399999984],[21.06246099999979,42.18157499999984],[21.06641399999978,42.18410399999985],[21.07254499999979,42.18707499999985],[21.07616249999978,42.18780449999986],[21.08070849999979,42.18880449999986],[21.08295599999977,42.18960949999985],[21.08366249999978,42.18998399999984],[21.08947649999979,42.19356999999985],[21.09424049999978,42.19824299999985],[21.09450899999979,42.19911699999986],[21.09487749999977,42.19969299999985],[21.09703749999977,42.20177599999985],[21.10235899999978,42.20439799999986],[21.10630549999979,42.20566149999985],[21.11008349999977,42.20600549999986],[21.11458349999978,42.20638199999985],[21.11973349999977,42.20574749999986],[21.12127049999978,42.20398749999984],[21.12535999999977,42.20219599999984],[21.13097149999979,42.20186749999985],[21.13484649999978,42.20138099999986],[21.14549549999978,42.19970549999985],[21.14928199999977,42.19908799999985],[21.15809699999977,42.19812049999985],[21.16060649999977,42.19751949999986],[21.16175249999978,42.19708449999985],[21.16283749999977,42.19619099999986],[21.16593349999977,42.19230399999987],[21.16778599999978,42.18987949999985],[21.16949949999977,42.18543849999986],[21.17373299999977,42.17938399999986],[21.17473849999979,42.17774849999986],[21.17736199999979,42.17322949999985],[21.18113999999977,42.16639449999985],[21.18581799999978,42.16319049999984],[21.18848199999977,42.16078899999985],[21.19295199999979,42.15635199999986],[21.19876849999977,42.15004799999986],[21.20315199999979,42.14692999999986],[21.20563849999976,42.14364849999984],[21.20726249999979,42.14147349999985],[21.21235249999978,42.13498099999984],[21.21462749999978,42.13198549999984],[21.21612299999978,42.12649899999985],[21.21623199999979,42.12362249999984],[21.21602599999977,42.12128449999986],[21.21499399999979,42.11579749999984],[21.21337349999979,42.11188349999986],[21.21374149999977,42.11091499999986],[21.20705999999979,42.10653749999986],[21.19872449999977,42.10579149999984],[21.19289399999977,42.10222999999985],[21.17863049999977,42.10303599999986],[21.16962649999977,42.09999749999986],[21.15818149999978,42.10023999999984],[21.15418199999979,42.09792799999985],[21.16185399999978,42.09629299999986],[21.16260599999978,42.08705249999986],[21.15820499999978,42.08235549999986],[21.15825699999979,42.07682599999984],[21.17539699999978,42.08445849999984],[21.17530149999979,42.08808249999984],[21.18282699999978,42.09324099999986],[21.18627949999978,42.09101999999984],[21.18996549999977,42.07719999999986],[21.19429699999978,42.07625949999985],[21.19266399999978,42.06985449999985],[21.19739499999977,42.06747149999984],[21.16649899999979,42.04866149999984],[21.17026899999979,42.04604849999984],[21.17176549999976,42.03921749999986],[21.17803499999977,42.03460999999984],[21.16694299999978,42.02315399999986],[21.14987349999979,42.01281549999985],[21.13229499999977,42.00865049999985],[21.10919049999978,41.99942749999985],[21.10936149999978,41.99429999999984],[21.10065099999977,41.99472849999984],[21.08437849999979,41.99760999999984],[21.07518999999976,42.00397799999985],[21.06743249999977,42.00494349999985],[21.07682649999978,42.01508149999984],[21.06828999999979,42.01925199999985],[21.05421349999978,42.01566749999986],[21.04137899999978,42.02082949999985],[21.03838499999978,42.01954999999984],[21.03431049999978,42.02340749999985],[21.02970199999979,42.02312199999986],[21.02794149999977,42.02763799999985],[21.03081499999979,42.03847799999986],[21.03697199999979,42.04171399999984],[21.03833099999977,42.04037749999986],[21.04026849999977,42.04182349999985],[21.04752299999979,42.03612499999986],[21.05722899999978,42.04089199999984],[21.06580799999978,42.04028899999986],[21.07345049999978,42.03585249999986],[21.07701099999977,42.04375549999986],[21.08094249999979,42.04132299999986],[21.08446849999979,42.04555049999985],[21.08910299999977,42.04502499999984],[21.09357849999978,42.05942799999985],[21.09785299999979,42.06335749999985],[21.10239299999978,42.06224799999984],[21.10396949999978,42.06912549999984],[21.10739499999977,42.06940999999986],[21.11126649999977,42.07443649999985],[21.10860699999978,42.07707999999985],[21.11251799999977,42.07952399999985],[21.11077349999977,42.08032449999985],[21.12208399999977,42.08165049999985],[21.13391149999978,42.08865949999986],[21.13464249999979,42.09287699999985],[21.13683349999977,42.09773649999985],[21.12028399999977,42.11243699999986],[21.11717599999977,42.11918449999985],[21.10797849999977,42.11433099999985],[21.10606549999977,42.11990699999984],[21.09693499999977,42.12909949999985],[21.09839999999977,42.13151149999985],[21.09003199999978,42.13650599999986],[21.06891399999978,42.16177299999984],[21.06020499999977,42.16314049999986],[21.05238499999979,42.16039699999985],[21.04773249999977,42.16749949999985]]],"type":"Polygon"}
+}

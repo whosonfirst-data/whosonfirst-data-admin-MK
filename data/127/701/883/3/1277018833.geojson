@@ -1,0 +1,71 @@
+{
+  "id": 1277018833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98222,41.15806,20.98222,41.15806",
+    "geom:latitude":41.15806,
+    "geom:longitude":20.98222,
+    "gn:admin1_code":"86",
+    "gn:asciiname":"Dolno Krusje",
+    "gn:country_code":"MK",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":796112,
+    "gn:latitude":41.15806,
+    "gn:longitude":20.98222,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Dolno Kru\u0161je",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dolno Kru\u0161je"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u043b\u043d\u043e \u041a\u0440\u0443\u0448\u0458\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796112
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"fbb7273b2e38d5f5f5e8d07cc816c074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1277018833,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":1277018833,
+    "wof:lastmodified":1537664917,
+    "wof:name":"Dolno Krusje",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98222,
+    41.15806,
+    20.98222,
+    41.15806
+],
+  "geometry": {"coordinates":[20.98222,41.15806],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 890491885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.005,41.98,21.005,41.98",
+    "geom:latitude":41.98,
+    "geom:longitude":21.005,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":510,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Falishti"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u043b\u0438\u0448\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Falisje"
+    ],
+    "name:eng_x_preferred":[
+        "Fali\u0161e"
+    ],
+    "name:fre_x_preferred":[
+        "Falich\u00e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0424\u0430\u043b\u0438\u0448\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0430\u043b\u0438\u0448\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Fali\u0161e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0430\u043b\u0438\u0448\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Falisje"
+    ],
+    "name:unk_x_variant":[
+        "Fali\u0161e"
+    ],
+    "qs:name":"Fali\u0161",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":279,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796094,
+        "gp:id":483096,
+        "qs:id":554135,
+        "wd:id":"Q3064755",
+        "wk:page":"Tetovo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054869,
+    "wof:geomhash":"9d802f9116af00e4908ddf7d931bc4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491885,
+            "region_id":85674417
+        }
+    ],
+    "wof:id":890491885,
+    "wof:lastmodified":1527736665,
+    "wof:name":"Fali\u0161",
+    "wof:parent_id":85674417,
+    "wof:placetype":"locality",
+    "wof:population":510,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.005,
+    41.98,
+    21.005,
+    41.98
+],
+  "geometry": {"coordinates":[21.005,41.98],"type":"Point"}
+}

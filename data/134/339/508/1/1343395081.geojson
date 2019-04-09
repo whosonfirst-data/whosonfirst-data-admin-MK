@@ -1,0 +1,78 @@
+{
+  "id": 1343395081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0618,42.08823,21.0618,42.08823",
+    "geom:latitude":42.08823,
+    "geom:longitude":21.0618,
+    "gn:admin1_code":"A5",
+    "gn:asciiname":"Glogi",
+    "gn:country_code":"MK",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790703,
+    "gn:latitude":42.08823,
+    "gn:longitude":21.0618,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Glo\u01f5i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Glo\u01f5i"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u043b\u043e\u0453\u0438"
+    ],
+    "name:und_x_variant":[
+        "Glogji",
+        "Glodji",
+        "Glo\u0111e",
+        "Glo\u0111i",
+        "Glog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790703
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"ddb5ef45759a12cf16ce433e5a72d09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343395081,
+            "region_id":85674413
+        }
+    ],
+    "wof:id":1343395081,
+    "wof:lastmodified":1537664893,
+    "wof:name":"Glogi",
+    "wof:parent_id":85674413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0618,
+    42.08823,
+    21.0618,
+    42.08823
+],
+  "geometry": {"coordinates":[21.0618,42.08823],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 890491889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83917,41.76861,20.83917,41.76861",
+    "geom:latitude":41.76861,
+    "geom:longitude":20.83917,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":5999,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "V\u00ebrtoku"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0648\u062a\u0648\u0643\u060c \u063a\u0648\u0633\u062a\u064a\u0641\u0627\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0443\u0442\u043e\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Vrutok"
+    ],
+    "name:eng_x_preferred":[
+        "Vrutok"
+    ],
+    "name:fre_x_preferred":[
+        "Vroutok"
+    ],
+    "name:ger_x_preferred":[
+        "Vrutok"
+    ],
+    "name:hun_x_preferred":[
+        "Vrutok"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0440\u0443\u0442\u043e\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0443\u0442\u043e\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Vroutok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0443\u0442\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Vrutok"
+    ],
+    "name:unk_x_variant":[
+        "Vrutog"
+    ],
+    "qs:name":"Vrutok",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Gostivar",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784114,
+        "gp:id":483243,
+        "qs:id":925462,
+        "wd:id":"Q915991",
+        "wk:page":"Vrutok"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054869,
+    "wof:geomhash":"625e8ddc93d29ac6d4095654e0eee27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491889,
+            "region_id":85674433
+        }
+    ],
+    "wof:id":890491889,
+    "wof:lastmodified":1527736660,
+    "wof:name":"Vrutok",
+    "wof:parent_id":85674433,
+    "wof:placetype":"locality",
+    "wof:population":5999,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83917,
+    41.76861,
+    20.83917,
+    41.76861
+],
+  "geometry": {"coordinates":[20.83917,41.76861],"type":"Point"}
+}

@@ -1,0 +1,332 @@
+{
+  "id": 85674453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012241,
+    "geom:area_square_m":113896234.52123,
+    "geom:bbox":"22.5095925,41.126569,22.6708975,41.2587565",
+    "geom:latitude":41.193763,
+    "geom:longitude":22.588698,
+    "gn:population":8352,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Bogdanci Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.180913,
+    "lbl:longitude":22.595418,
+    "meso:adm1_alt":"\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438",
+    "meso:adm1_loc":"Bogdanci",
+    "meso:gadm_adm1":"Bogdanci",
+    "meso:gaul_adm1":"Gevgelija",
+    "mps:latitude":41.177926,
+    "mps:longitude":22.58357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Bogdanc\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u062c\u062f\u0627\u0646\u0633\u0649"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0578\u0563\u0564\u0561\u0576\u0581\u056b\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u0997\u09a6\u09be\u099e\u09cd\u099a\u09bf \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u683c\u4e39\u5947\u533a"
+    ],
+    "name:dan_x_preferred":[
+        "Bogdanci Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:eng_x_preferred":[
+        "Bogdanci Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Bogdanci"
+    ],
+    "name:fin_x_preferred":[
+        "Bogdancin kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Municipalit\u00e9 de Bogdantsi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10dd\u10d2\u10d3\u10d0\u10dc\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Bogdanci"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03c0\u03bf\u03b3\u03b4\u03ac\u03bd\u03c4\u03c3\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0a97\u0aa1\u0abe\u0a82\u0ab8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0917\u0921\u093e\u0928\u094d\u091a\u0940 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Bogdanci"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Bogdanci"
+    ],
+    "name:ita_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u00ad\u30dc\u30b0\u30c0\u30f3\u30c4\u30a3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cca\u0c97\u0ccd\u0ca6\u0cbe\u0ca8\u0ccd\u0cb8\u0cbf \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uadf8\ub2e8\uce58 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Bogdancu pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Bogdancio savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094b\u0917\u0921\u093e\u0902\u091a\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Bogdanci Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:nob_x_preferred":[
+        "Bogdanci Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bogdanci"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Bogdanci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddd\u0d9c\u0dca\u0da9\u0db1\u0dca\u0da0\u0dd2 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Bogdanci"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Bogdanc\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0b95\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0b9a\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c17\u0c4d\u0c21\u0c3e\u0c28\u0c4d\u0c38\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u043e\u0433\u0434\u0430\u043d\u0442\u0441\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e2d\u0e01\u0e41\u0e14\u0e19\u0e0b\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Bogdanci Municipality"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0456"
+    ],
+    "name:und_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:und_x_variant":[
+        "Opstina Bogdanci"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Bogdanci"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06af\u062f\u0627\u0646\u062a\u0633\u06cc \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Bogdanci"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u683c\u4e39\u5947\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2996",
+    "ne:adm1_code":"MKD-2996",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.BG",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2996",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK08",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.08",
+    "ne:gn_id":"862950",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Bogdanci",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK08",
+    "ne:gns_id":"9043540",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Bogdanci, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.17720000000",
+    "ne:longitude":"22.58410000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Bogdanci",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BG",
+    "ne:provnum_ne":"20025",
+    "ne:region":"Southeastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550827,
+    "ne:woe_label":"Bogdanci Municipality, MK, Macedonia",
+    "ne:woe_name":"Bogdanci",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Bogdanci",
+    "qs:a1_lc":"MKD-2996",
+    "qs:a1r":"Southeastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"114",
+    "statoids:area_mi":"44",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Bogdanci",
+    "statoids:country":"MK",
+    "statoids:gec":"MK08",
+    "statoids:hasc":"MK.BG",
+    "statoids:iso":"05",
+    "statoids:name":"Bogdanci",
+    "statoids:population":"8707",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-05",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK08",
+        "gn:id":862950,
+        "gp:id":24550827,
+        "hasc:id":"MK.BG",
+        "iso:id":"MK-05",
+        "qs:id":1311341,
+        "unlc:id":"MK-05",
+        "wd:id":"Q1992752",
+        "wk:page":"Bogdanci Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"f354fcc097589dcf44884a7aa174c390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674453
+        }
+    ],
+    "wof:id":85674453,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Bogdanci",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":8707,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"BG",
+    "wof:subdivision":"MK-05",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50959249999977,
+    41.12656899999985,
+    22.67089749999977,
+    41.25875649999986
+],
+  "geometry": {"coordinates":[[[22.57434249999977,41.24984099999986],[22.57817649999978,41.24461599999987],[22.58948549999977,41.23913699999986],[22.58859599999977,41.23598499999986],[22.59893049999977,41.22464849999986],[22.60106399999978,41.22736099999986],[22.60875549999977,41.22618549999984],[22.61276299999977,41.22877699999987],[22.63529649999978,41.22787899999986],[22.63686499999977,41.23183949999986],[22.66383599999978,41.22087449999987],[22.66513299999977,41.21487749999986],[22.67057249999976,41.21417399999984],[22.67089749999977,41.21123399999985],[22.66771099999977,41.19931899999986],[22.67038399999979,41.19217649999985],[22.66460549999977,41.18436549999984],[22.66321049999976,41.18513149999984],[22.65892299999979,41.18379199999984],[22.65020599999977,41.18080099999986],[22.64810699999978,41.17999799999984],[22.64570899999978,41.17753949999985],[22.64336899999978,41.17198449999987],[22.64252949999977,41.16752099999985],[22.64277649999977,41.16552099999984],[22.64233249999978,41.16127149999986],[22.64214499999977,41.16050949999985],[22.64125349999978,41.15931799999984],[22.63663699999978,41.15320949999986],[22.62912799999978,41.14664449999987],[22.62719349999978,41.14495349999984],[22.62449199999978,41.14259149999984],[22.61766399999976,41.13359749999987],[22.61171399999978,41.12989199999984],[22.60569599999977,41.12656899999985],[22.60379099999977,41.13058749999985],[22.58480549999979,41.13679449999987],[22.54257799999976,41.15967899999984],[22.52208699999977,41.15904749999984],[22.52951099999979,41.17295499999986],[22.52766399999979,41.17986249999984],[22.53033649999978,41.18966949999987],[22.52601599999977,41.20320199999986],[22.51322849999977,41.21689449999985],[22.50959249999977,41.21948899999984],[22.51105249999978,41.22157299999986],[22.51889299999976,41.22514549999985],[22.52706249999977,41.23388099999985],[22.53893299999979,41.23876899999985],[22.53344499999977,41.24182599999986],[22.53021549999977,41.24767699999984],[22.53840699999978,41.25875649999986],[22.54093099999977,41.25619599999985],[22.55751099999978,41.25322949999986],[22.56585399999977,41.24769599999985],[22.57434249999977,41.24984099999986]]],"type":"Polygon"}
+}

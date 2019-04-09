@@ -1,0 +1,74 @@
+{
+  "id": 1309842731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68444,41.33056,20.68444,41.33056",
+    "geom:latitude":41.33056,
+    "geom:longitude":20.68444,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Prisovjani",
+    "gn:country_code":"MK",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786716,
+    "gn:latitude":41.33056,
+    "gn:longitude":20.68444,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Prisovjani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u043e\u0432\u0458\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Prisovljani",
+        "Prisovjan",
+        "Prisovjani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786716,
+        "wk:page":"Prisovjani"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"73c358dc4c7e006b9a4782114af848d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1309842731,
+            "region_id":85674497
+        }
+    ],
+    "wof:id":1309842731,
+    "wof:lastmodified":1537664860,
+    "wof:name":"Prisovjani",
+    "wof:parent_id":85674497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68444,
+    41.33056,
+    20.68444,
+    41.33056
+],
+  "geometry": {"coordinates":[20.68444,41.33056],"type":"Point"}
+}

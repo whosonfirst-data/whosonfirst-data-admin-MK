@@ -1,0 +1,72 @@
+{
+  "id": 890491421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24111,41.66083,21.24111,41.66083",
+    "geom:latitude":41.66083,
+    "geom:longitude":21.24111,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":136,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u0453\u0435\u0440\u0435\u0446"
+    ],
+    "name:mkd_x_variant":[
+        "Kalu\u01f5erec"
+    ],
+    "name:unk_x_variant":[
+        "Kalu\u0111erec"
+    ],
+    "qs:name":"Kalugerec",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789651,
+        "qs:id":553913
+    },
+    "wof:country":"MK",
+    "wof:created":1469054852,
+    "wof:geomhash":"acb119af0cded7cc6c89ab2570e50cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491421,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890491421,
+    "wof:lastmodified":1505343792,
+    "wof:name":"Kalugerec",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24111,
+    41.66083,
+    21.24111,
+    41.66083
+],
+  "geometry": {"coordinates":[21.24111,41.66083],"type":"Point"}
+}

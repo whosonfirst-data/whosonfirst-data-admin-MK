@@ -1,0 +1,71 @@
+{
+  "id": 1326866171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99463,41.65295,21.99463,41.65295",
+    "geom:latitude":41.65295,
+    "geom:longitude":21.99463,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Kara Sinanli",
+    "gn:country_code":"MK",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8991786,
+    "gn:latitude":41.65295,
+    "gn:longitude":21.99463,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Kara Sinanli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "Kara Sinanli"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u0440\u0430 \u0421\u0438\u043d\u0430\u043d\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991786
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"261d0b6434eb0d066047daf899f8aa11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326866171,
+            "region_id":85674369
+        }
+    ],
+    "wof:id":1326866171,
+    "wof:lastmodified":1537664960,
+    "wof:name":"Kara Sinanli",
+    "wof:parent_id":85674369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99463,
+    41.65295,
+    21.99463,
+    41.65295
+],
+  "geometry": {"coordinates":[21.99463,41.65295],"type":"Point"}
+}

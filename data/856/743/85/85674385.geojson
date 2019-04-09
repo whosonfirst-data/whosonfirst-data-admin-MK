@@ -1,0 +1,336 @@
+{
+  "id": 85674385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.011143,
+    "geom:area_square_m":103246510.914481,
+    "geom:bbox":"20.5201585,41.4098415,20.6823225,41.532206",
+    "geom:latitude":41.464939,
+    "geom:longitude":20.597669,
+    "gn:population":6977,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Centar \u017eupa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.458177,
+    "lbl:longitude":20.598876,
+    "meso:adm1_alt":"\u0426\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430",
+    "meso:adm1_loc":"Centar \u017dupa",
+    "meso:gadm_adm1":"Centar \u017eupa",
+    "meso:gaul_adm1":"Debar",
+    "mps:latitude":41.458751,
+    "mps:longitude":20.582267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Qendr\u00ebs Zhupa"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0633\u0646\u062a\u0627\u0631 \u062c\u0648\u0628\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0 \u099c\u09c1\u09aa\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u043f\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Centar \u017dupa"
+    ],
+    "name:chi_x_preferred":[
+        "\u8f9b\u5854\u5c14\u7956\u5e15\u533a"
+    ],
+    "name:dan_x_preferred":[
+        "Centar \u017dupa Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Centar \u017dupa"
+    ],
+    "name:eng_x_preferred":[
+        "Centar Zupa Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Centar \u017dupan kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Tsentar Joupa"
+    ],
+    "name:fre_x_preferred":[
+        "Tsentar Joupa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10d0\u10e0-\u10df\u10e3\u10de\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Centar \u017dupa"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03c3\u03ad\u03bd\u03c4\u03b1\u03c1 \u0396\u03bf\u03cd\u03c0\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0ab0 \u0a9d\u0ac1\u0aaa\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u091c\u0942\u092a\u093e \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Centar \u017dupa"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Centar \u017dupa"
+    ],
+    "name:ita_x_preferred":[
+        "Centar \u017dupa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a7\u30f3\u30bf\u30eb\u30fb\u30b8\u30e5\u30d1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc6\u0c82\u0c9f\u0cb0\u0ccd \u0c9d\u0cc1\u0caa\u0cbe \u0cae\u0cc1\u0ca8\u0ccd\u0cb8\u0cbf\u0caa\u0cbe\u0cb2\u0cbf\u0c9f\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10d0\u10e0-\u10df\u10e3\u10de\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb8\ud0c0\ub974\uc8fc\ud30c \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Centaras \u017dupas pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Centrin\u0117s \u017dupos savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f\u0930 \u091d\u0942\u092a\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Centar Zupa Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0426\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Centar \u017dupa"
+    ],
+    "name:nob_x_preferred":[
+        "Centar Zupa kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Centar \u017bupa"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio Central de Zupa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0daf\u0dca\u200d\u0dba\u0db8 \u0dc3\u0dd4\u0db4\u0dcf \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Centar \u017dupa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Centar \u017dupa"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd  \u0bb8\u0bc1\u0baa\u0bbe  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c02\u0c1f\u0c3e\u0c30\u0c4d \u0c1c\u0c42\u0c2a\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0422\u0441\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e17\u0e32 \u0e0b\u0e39\u0e1e\u0e35 \u0e21\u0e39\u0e19\u0e34\u0e0b\u0e34\u0e1e\u0e32\u0e25\u0e34\u0e15\u0e35\u0e49"
+    ],
+    "name:tur_x_preferred":[
+        "Merkez Jupa Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440-\u0416\u0443\u043f\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Centar Zupa",
+        "Opstina Centar Zupa"
+    ],
+    "name:und_x_preferred":[
+        "Centar \u017dupa"
+    ],
+    "name:und_x_variant":[
+        "Opstina Centar \u017dupa"
+    ],
+    "name:unk_x_variant":[
+        "Centar \u017dupa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u062a\u0631 \u0698\u0648\u067e\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Centar Zupa"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2951",
+    "ne:adm1_code":"MKD-2951",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.CZ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2951",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK18",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.18",
+    "ne:gn_id":"863841",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Centar Zupa",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK18",
+    "ne:gns_id":"9075602",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Centar Zupa, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.46440000000",
+    "ne:longitude":"20.57990000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Centar \u017eupa",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CZ",
+    "ne:provnum_ne":"20036",
+    "ne:region":"Southwestern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550829,
+    "ne:woe_label":"Centar Zupa Municipality, MK, Macedonia",
+    "ne:woe_name":"Centar \u017eupa",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Centar \u017eupa",
+    "qs:a1_lc":"MKD-2951",
+    "qs:a1r":"Southwestern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"107",
+    "statoids:area_mi":"41",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Centar Zupa",
+    "statoids:country":"MK",
+    "statoids:gec":"MK18",
+    "statoids:hasc":"MK.CZ",
+    "statoids:iso":"78",
+    "statoids:name":"Centar Zhupa",
+    "statoids:population":"6519",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-78",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK18",
+        "gn:id":863841,
+        "gp:id":24550829,
+        "hasc:id":"MK.CZ",
+        "iso:id":"MK-78",
+        "qs:id":1103589,
+        "unlc:id":"MK-78",
+        "wd:id":"Q1779085",
+        "wk:page":"Centar \u017dupa Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2b4f7d61c7682162ad7bd3b312934a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674385
+        }
+    ],
+    "wof:id":85674385,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550458,
+    "wof:name":"Centar \u017eupa",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":6519,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"CZ",
+    "wof:subdivision":"MK-78",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52015849999978,
+    41.40984149999986,
+    20.68232249999977,
+    41.53220599999986
+],
+  "geometry": {"coordinates":[[[20.68232249999977,41.43111049999985],[20.68157699999978,41.43044799999984],[20.67172099999979,41.42933649999986],[20.66417699999977,41.42307599999984],[20.65774749999977,41.42123349999986],[20.64942599999978,41.41193649999985],[20.63610299999979,41.40984149999986],[20.62449599999977,41.41070399999984],[20.62001449999977,41.41414899999984],[20.61178949999979,41.41188899999986],[20.57639349999977,41.41213699999986],[20.57353299999977,41.41919599999986],[20.56720599999977,41.42278199999984],[20.55688849999979,41.44626649999987],[20.55325899999977,41.44774149999986],[20.55600199999978,41.45105949999984],[20.54505999999978,41.44936999999985],[20.54351999999977,41.45489349999986],[20.53822099999977,41.45455199999986],[20.53728449999977,41.45940499999986],[20.54654749999978,41.46166399999984],[20.53831649999978,41.46090099999986],[20.53653449999979,41.46298149999984],[20.54029149999977,41.46673249999986],[20.53565499999979,41.46580749999984],[20.53410049999977,41.46914249999986],[20.53265999999977,41.46673299999986],[20.52839149999977,41.47340449999984],[20.53345549999977,41.47558199999986],[20.52423499999978,41.47503199999986],[20.52398849999977,41.47845449999986],[20.52710199999979,41.47789949999986],[20.52167749999978,41.48210549999985],[20.52599,41.48305949999985],[20.52015849999978,41.48400899999984],[20.52328749999978,41.48707449999986],[20.52034249999977,41.48931949999985],[20.52270049999979,41.49360699999986],[20.53154399999977,41.49499949999986],[20.53702349999978,41.49243649999985],[20.53418799999977,41.49667299999984],[20.54172649999978,41.50082299999985],[20.54651149999978,41.50081399999985],[20.54833999999977,41.50765599999986],[20.55886899999979,41.51133349999986],[20.56202699999977,41.51378999999986],[20.56074949999979,41.51681249999984],[20.56517999999977,41.52026399999986],[20.55901249999977,41.52596149999985],[20.56291749999977,41.53087599999986],[20.56831649999978,41.53007199999985],[20.57054949999977,41.52648049999985],[20.58079899999979,41.52531399999984],[20.58260949999979,41.52699799999985],[20.59170549999979,41.52457549999986],[20.59854499999977,41.52581049999986],[20.60167499999977,41.53220599999986],[20.61321949999979,41.51707549999986],[20.61782199999979,41.50547549999985],[20.61667649999978,41.50022999999985],[20.62194549999978,41.49173499999986],[20.62992299999979,41.48946199999986],[20.63415399999977,41.49315149999984],[20.64063699999977,41.49083999999985],[20.65062999999978,41.49179399999986],[20.64734699999977,41.47144949999986],[20.65259999999978,41.45742599999986],[20.65465049999978,41.45444749999984],[20.66293499999978,41.45336449999985],[20.66261799999978,41.44884899999985],[20.66546399999979,41.44794299999984],[20.66854999999978,41.44133349999984],[20.68232249999977,41.43111049999985]]],"type":"Polygon"}
+}

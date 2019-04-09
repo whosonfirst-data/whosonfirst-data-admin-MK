@@ -1,0 +1,94 @@
+{
+  "id": 890491069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.605,41.41611,21.605,41.41611",
+    "geom:latitude":41.41611,
+    "geom:longitude":21.605,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":49,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Prisadi"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0430\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Prisad"
+    ],
+    "name:eng_x_preferred":[
+        "Prisad"
+    ],
+    "name:fre_x_preferred":[
+        "Prisad"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0430\u0434"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0430\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0430\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Novi Prisad"
+    ],
+    "qs:name":"Prisad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":838714,
+        "gp:id":482783,
+        "qs:id":554515,
+        "wd:id":"Q3074378",
+        "wk:page":"Prisad"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054839,
+    "wof:geomhash":"9447fff353b77b8109df2693b36b666b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491069,
+            "region_id":85674183
+        }
+    ],
+    "wof:id":890491069,
+    "wof:lastmodified":1527736667,
+    "wof:name":"Prisad",
+    "wof:parent_id":85674183,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.605,
+    41.41611,
+    21.605,
+    41.41611
+],
+  "geometry": {"coordinates":[21.605,41.41611],"type":"Point"}
+}

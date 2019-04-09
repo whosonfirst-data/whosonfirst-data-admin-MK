@@ -1,0 +1,329 @@
+{
+  "id": 85674449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.024824,
+    "geom:area_square_m":229735408.35171,
+    "geom:bbox":"22.507804,41.460908,22.767483,41.644596",
+    "geom:latitude":41.545236,
+    "geom:longitude":22.64378,
+    "gn:population":12753,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Vasilevo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.531489,
+    "lbl:longitude":22.66742,
+    "meso:adm1_alt":"\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e",
+    "meso:adm1_loc":"Vasilevo",
+    "meso:gadm_adm1":"Vasilevo",
+    "meso:gaul_adm1":"Strumica",
+    "mps:latitude":41.525358,
+    "mps:longitude":22.657556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Vasilev\u00ebs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0633\u064a\u0644\u064a\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09b8\u09bf\u09b2\u09c7\u09ad\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u897f\u5217\u6c83\u5340"
+    ],
+    "name:cze_x_preferred":[
+        "Op\u0161tina Vasilevo"
+    ],
+    "name:dan_x_preferred":[
+        "Vasilevo Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Vasilevo"
+    ],
+    "name:eng_x_preferred":[
+        "Vasilevo Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Vasilevon kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Vasilevo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10e1\u10d8\u10da\u10d4\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Vasilevo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03b1\u03c3\u03b9\u03bb\u03ad\u03b2\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0ab8\u0abf\u0ab2\u0ac7\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0938\u093f\u0932\u0947\u0935\u094b \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Vasilevo"
+    ],
+    "name:hun_x_preferred":[
+        "Vaszilev\u00f3i j\u00e1r\u00e1s"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Vasilevo"
+    ],
+    "name:ita_x_preferred":[
+        "Vasilevo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u00ad\u30f4\u30a1\u30b7\u30ec\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbe\u0cb8\u0cbf\u0cb2\u0cbf\u0cb5\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc2e4\ub808\ubcf4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Vasilevo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Vasilevo savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u0938\u093f\u0932\u0940\u0935\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Vasilevo Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "name:nob_x_preferred":[
+        "Vasilevo kommune"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0633\u06cc\u0644\u0648\u0648 \u0645\u0648\u0646\u06cc\u06a9\u06cc\u067e\u0644\u06cc\u062a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Vasilevo"
+    ],
+    "name:por_x_preferred":[
+        "Vasilevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dc3\u0dd2\u0dbd\u0dda\u0dc0\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Vasilevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0430\u0441\u0438\u0459\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vasilevo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9a\u0bbf\u0bb2\u0bc7\u0bb5\u0bcb \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c38\u0c3f\u0c32\u0c46\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e0b\u0e34\u0e40\u0e25\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Vasilev Municipality"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Vasilevo"
+    ],
+    "name:und_x_variant":[
+        "Opstina Vasilevo"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Vasilevo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0633\u06cc\u0644\u06cc\u0648\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Vasilevo"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2995",
+    "ne:adm1_code":"MKD-2995",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.VL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2995",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MKA9",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.A9",
+    "ne:gn_id":"862947",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Vasilevo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK11",
+    "ne:gns_id":"9043529",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Vasilevo, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.54360000000",
+    "ne:longitude":"22.61590000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Vasilevo",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"VL",
+    "ne:provnum_ne":"20011",
+    "ne:region":"Southeastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550814,
+    "ne:woe_label":"",
+    "ne:woe_name":"Vasilevo Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Vasilevo",
+    "qs:a1_lc":"MKD-2995",
+    "qs:a1r":"Southeastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"231",
+    "statoids:area_mi":"89",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Vasilevo",
+    "statoids:country":"MK",
+    "statoids:gec":"MKA9",
+    "statoids:hasc":"MK.VL",
+    "statoids:iso":"11",
+    "statoids:name":"Vasilevo",
+    "statoids:population":"12122",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-11",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKA9",
+        "gn:id":862947,
+        "gp:id":24550814,
+        "hasc:id":"MK.VL",
+        "iso:id":"MK-11",
+        "qs:id":956350,
+        "unlc:id":"MK-11",
+        "wd:id":"Q2018980",
+        "wk:page":"Vasilevo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"8ee3f2ec7372c38169b02f9abe82ddbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674449
+        }
+    ],
+    "wof:id":85674449,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550455,
+    "wof:name":"Vasilevo",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":12122,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"VL",
+    "wof:subdivision":"MK-11",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50780399999977,
+    41.46090799999985,
+    22.76748299999977,
+    41.64459599999986
+],
+  "geometry": {"coordinates":[[[22.51677599999977,41.51458899999986],[22.52182249999979,41.51694099999986],[22.52516149999977,41.52272899999986],[22.51919349999977,41.52987599999986],[22.51960149999977,41.53724599999984],[22.53633849999977,41.54687849999985],[22.54326049999977,41.55826549999986],[22.55541399999979,41.56559099999984],[22.56020499999977,41.55889249999984],[22.56631349999978,41.55717949999985],[22.57055599999978,41.55227549999987],[22.58101749999977,41.55111999999986],[22.58535849999978,41.54745099999985],[22.58491899999979,41.54460049999986],[22.60377949999977,41.53200949999984],[22.60723099999979,41.53084699999985],[22.61740049999977,41.53644699999984],[22.61859399999977,41.54866299999986],[22.62547499999977,41.55755899999986],[22.61893049999978,41.57390099999986],[22.62074649999977,41.57710149999986],[22.61889349999979,41.58402949999984],[22.61705699999979,41.58646699999986],[22.60550499999977,41.58641899999986],[22.59550999999979,41.59004199999984],[22.60361549999979,41.59902149999985],[22.60081099999977,41.59956149999985],[22.59031899999977,41.61683649999986],[22.61418399999977,41.64020249999984],[22.62481849999978,41.63735249999985],[22.62765649999977,41.64009899999985],[22.64161049999979,41.64089249999986],[22.64038249999979,41.62597799999986],[22.64398449999979,41.62480499999984],[22.65998349999978,41.64261799999986],[22.67366849999976,41.64459599999986],[22.67825049999979,41.64296449999986],[22.68281149999979,41.63625599999986],[22.68936799999977,41.63575949999986],[22.69550649999977,41.62741899999986],[22.70705399999977,41.62414399999986],[22.70586749999978,41.60949799999986],[22.69746449999977,41.60601399999985],[22.70131449999977,41.59632099999985],[22.70012299999976,41.59391549999984],[22.69582899999978,41.59409649999986],[22.69386749999978,41.58703449999985],[22.68791699999977,41.58027649999985],[22.69144349999976,41.57980249999986],[22.70611299999979,41.58784849999986],[22.71589599999979,41.58754049999985],[22.73113999999978,41.58549299999984],[22.73306849999977,41.58184999999986],[22.73953499999979,41.57879649999984],[22.74388199999979,41.57951299999985],[22.76748299999977,41.57183749999984],[22.76322799999977,41.56122999999985],[22.75409049999979,41.55706799999984],[22.75148649999977,41.55196649999985],[22.74012699999977,41.54513799999984],[22.73904499999978,41.53931999999986],[22.74327999999977,41.53521749999985],[22.74154299999978,41.52756449999984],[22.74531849999977,41.52111649999986],[22.73767449999977,41.51291849999984],[22.73122299999977,41.51171099999985],[22.72734299999976,41.50465399999985],[22.71830749999978,41.50226849999984],[22.70496999999978,41.48634599999986],[22.70291499999979,41.49021499999986],[22.69131549999977,41.48250549999986],[22.68594899999977,41.47844049999986],[22.68684099999979,41.47567299999986],[22.68038149999978,41.47224799999987],[22.68121799999977,41.47014599999986],[22.67211199999977,41.46453099999985],[22.66164449999977,41.46892299999985],[22.65687799999978,41.47438549999984],[22.64846099999977,41.46792049999985],[22.63898349999977,41.46555349999986],[22.63463899999977,41.46749499999984],[22.62957249999977,41.46413099999984],[22.62188149999977,41.46285449999985],[22.62365499999979,41.46090799999985],[22.61597299999977,41.46145699999985],[22.61287799999977,41.46220349999984],[22.61253999999977,41.46681699999985],[22.60811449999977,41.46796999999984],[22.60527399999978,41.47210049999984],[22.60334699999979,41.48469449999985],[22.59507699999978,41.48797249999984],[22.59012849999976,41.48294599999986],[22.58442949999977,41.48544049999984],[22.58346699999979,41.48361599999984],[22.57412849999977,41.49311049999986],[22.57334199999977,41.49764999999985],[22.56582349999977,41.49985699999985],[22.54592949999977,41.49990799999986],[22.54110449999979,41.49614199999985],[22.54260399999978,41.49379149999984],[22.53824249999977,41.48351699999986],[22.52237899999977,41.47185449999986],[22.51868349999978,41.47595649999985],[22.51874049999978,41.48164499999984],[22.50780399999977,41.49737049999985],[22.50939499999978,41.50710549999985],[22.51677599999977,41.51458899999986]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310142207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.075,42.1275,21.075,42.1275",
+    "geom:latitude":42.1275,
+    "geom:longitude":21.075,
+    "gn:admin1_code":"A5",
+    "gn:asciiname":"Prvce",
+    "gn:country_code":"MK",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786661,
+    "gn:latitude":42.1275,
+    "gn:longitude":21.075,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Prvce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Prvce"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0440\u0432\u0446\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786661
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"130d9cce93fc9bd93ae6eac0b6023abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310142207,
+            "region_id":85674413
+        }
+    ],
+    "wof:id":1310142207,
+    "wof:lastmodified":1537664860,
+    "wof:name":"Prvce",
+    "wof:parent_id":85674413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.075,
+    42.1275,
+    21.075,
+    42.1275
+],
+  "geometry": {"coordinates":[21.075,42.1275],"type":"Point"}
+}

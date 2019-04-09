@@ -1,0 +1,68 @@
+{
+  "id": 1209071161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5112,42.18155,21.5112,42.18155",
+    "geom:latitude":42.18155,
+    "geom:longitude":21.5112,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kaorivetm Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833336,
+    "gn:latitude":42.18155,
+    "gn:longitude":21.5112,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kaorivetm Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043e\u0440\u0438\u0432\u0435\u0442\u043c \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kaorivetm Mahala",
+        "Kaorivetm Maala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833336
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"b52c8c11da8aa5d637cfd3edb79cb62e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209071161
+        }
+    ],
+    "wof:id":1209071161,
+    "wof:lastmodified":1537664920,
+    "wof:name":"Kaorivetm Maala",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5112,
+    42.18155,
+    21.5112,
+    42.18155
+],
+  "geometry": {"coordinates":[21.5112,42.18155],"type":"Point"}
+}

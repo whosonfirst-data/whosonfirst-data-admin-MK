@@ -1,0 +1,73 @@
+{
+  "id": 890492447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15083,41.63,21.15083,41.63",
+    "geom:latitude":41.63,
+    "geom:longitude":21.15083,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":116,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0422\u043e\u043c\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Tomno Selo"
+    ],
+    "qs:name":"Tomino Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785038,
+        "gp:id":481793,
+        "qs:id":553624,
+        "wd:id":"Q2364199",
+        "wk:page":"Makedonski Brod Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054890,
+    "wof:geomhash":"482cdb20d56b0b1957f911a685e910ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492447,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890492447,
+    "wof:lastmodified":1527793022,
+    "wof:name":"Tomino Selo",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15083,
+    41.63,
+    21.15083,
+    41.63
+],
+  "geometry": {"coordinates":[21.15083,41.63],"type":"Point"}
+}

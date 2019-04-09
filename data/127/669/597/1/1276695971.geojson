@@ -1,0 +1,74 @@
+{
+  "id": 1276695971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27556,42.16306,22.27556,42.16306",
+    "geom:latitude":42.16306,
+    "geom:longitude":22.27556,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Graljanci",
+    "gn:country_code":"MK",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":834563,
+    "gn:latitude":42.16306,
+    "gn:longitude":22.27556,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Graljanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Graljanci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0440\u0430\u0459\u0430\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Maala Gra\u017edanci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834563
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a283dd42fcf8f769382fadb5aa9a9751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276695971,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1276695971,
+    "wof:lastmodified":1537664925,
+    "wof:name":"Graljanci",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27556,
+    42.16306,
+    22.27556,
+    42.16306
+],
+  "geometry": {"coordinates":[22.27556,42.16306],"type":"Point"}
+}

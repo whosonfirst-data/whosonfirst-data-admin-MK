@@ -1,0 +1,70 @@
+{
+  "id": 890492047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86389,41.32111,21.86389,41.32111",
+    "geom:latitude":41.32111,
+    "geom:longitude":21.86389,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":15,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Gali\u0161te"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0430\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "qs:name":"Gali\u0161te",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790779,
+        "gp:id":482271,
+        "qs:id":553965
+    },
+    "wof:country":"MK",
+    "wof:created":1469054875,
+    "wof:geomhash":"2abd5730da27a30cab29086b33459cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492047,
+            "region_id":85674327
+        }
+    ],
+    "wof:id":890492047,
+    "wof:lastmodified":1505343796,
+    "wof:name":"Gali\u0161te",
+    "wof:parent_id":85674327,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86389,
+    41.32111,
+    21.86389,
+    41.32111
+],
+  "geometry": {"coordinates":[21.86389,41.32111],"type":"Point"}
+}

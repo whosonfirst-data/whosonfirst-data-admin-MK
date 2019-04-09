@@ -1,0 +1,115 @@
+{
+  "id": 890491737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56194,42.02639,21.56194,42.02639",
+    "geom:latitude":42.02639,
+    "geom:longitude":21.56194,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":12800,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Hara\u00e7ina"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0627\u062a\u0634\u064a\u0646\u0648\u0641\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Ara\u010dinovo"
+    ],
+    "name:eng_x_preferred":[
+        "Ara\u010dinovo"
+    ],
+    "name:fre_x_preferred":[
+        "Aratchinovo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10e9\u10d8\u10dc\u10dd\u10d5\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Ara\u010dinovo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03b1\u03c4\u03c3\u03af\u03bd\u03bf\u03b2\u03bf"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Aratchinovo"
+    ],
+    "name:pol_x_preferred":[
+        "Araczinowo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ara\u010dinovo"
+    ],
+    "name:unk_x_variant":[
+        "Ara\u00e7in\u00eb"
+    ],
+    "qs:name":"\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793113,
+        "gp:id":481656,
+        "qs:id":129683,
+        "wd:id":"Q626840",
+        "wk:page":"Ara\u010dinovo Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054863,
+    "wof:geomhash":"430f778234a8a790c819b06fadc625d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491737,
+            "region_id":85674253
+        }
+    ],
+    "wof:id":890491737,
+    "wof:lastmodified":1553816419,
+    "wof:name":"\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85674253,
+    "wof:placetype":"locality",
+    "wof:population":12800,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56194,
+    42.02639,
+    21.56194,
+    42.02639
+],
+  "geometry": {"coordinates":[21.56194,42.02639],"type":"Point"}
+}

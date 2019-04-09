@@ -1,0 +1,98 @@
+{
+  "id": 890492699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47417,41.13833,21.47417,41.13833",
+    "geom:latitude":41.13833,
+    "geom:longitude":21.47417,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":309,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Budakova"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0434\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Boudakovo"
+    ],
+    "name:eng_x_preferred":[
+        "Boudakovo"
+    ],
+    "name:fre_x_preferred":[
+        "Boudakovo"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0443\u0434\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "Budakovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0443\u0434\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Boudakovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Budakovo"
+    ],
+    "qs:name":"Budakovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792186,
+        "gp:id":481901,
+        "qs:id":554059,
+        "wd:id":"Q285123"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054903,
+    "wof:geomhash":"3090a5d3bc77bad0debec37c57bdea62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492699,
+            "region_id":85674365
+        }
+    ],
+    "wof:id":890492699,
+    "wof:lastmodified":1553816420,
+    "wof:name":"Budakovo",
+    "wof:parent_id":85674365,
+    "wof:placetype":"locality",
+    "wof:population":309,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47417,
+    41.13833,
+    21.47417,
+    41.13833
+],
+  "geometry": {"coordinates":[21.47417,41.13833],"type":"Point"}
+}

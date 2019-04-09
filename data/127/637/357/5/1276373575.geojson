@@ -1,0 +1,74 @@
+{
+  "id": 1276373575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04222,42.29667,22.04222,42.29667",
+    "geom:latitude":42.29667,
+    "geom:longitude":22.04222,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Buzalak",
+    "gn:country_code":"MK",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861271,
+    "gn:latitude":42.29667,
+    "gn:longitude":22.04222,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Buzalak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Buzalak"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0443\u0437\u0430\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Buzolak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861271
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"16ce95bbb52d48b8287b79f4c947fc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276373575,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1276373575,
+    "wof:lastmodified":1537664940,
+    "wof:name":"Buzalak",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04222,
+    42.29667,
+    22.04222,
+    42.29667
+],
+  "geometry": {"coordinates":[22.04222,42.29667],"type":"Point"}
+}

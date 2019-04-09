@@ -1,0 +1,103 @@
+{
+  "id": 890492113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05132,40.98451,21.05132,40.98451",
+    "geom:latitude":40.98451,
+    "geom:longitude":21.05132,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":218,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Asamati"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0441\u0430\u043c\u0430\u0442\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Asamati"
+    ],
+    "name:eng_x_preferred":[
+        "Asamati"
+    ],
+    "name:fre_x_preferred":[
+        "Asamati"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0441\u0430\u043c\u0430\u0442\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0441\u0430\u043c\u0430\u0442\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0441\u0430\u043c\u0430\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Asamati"
+    ],
+    "name:unk_x_variant":[
+        "Asamagi"
+    ],
+    "qs:name":"Asamati",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Resen",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":793083,
+        "gp:id":481667,
+        "qs:id":925448,
+        "wd:id":"Q2866308",
+        "wk:page":"Asamati"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054878,
+    "wof:geomhash":"9549de7b6491973e58a1f6b4d6b3f800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492113,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":890492113,
+    "wof:lastmodified":1553816420,
+    "wof:name":"Asamati",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05132,
+    40.98451,
+    21.05132,
+    40.98451
+],
+  "geometry": {"coordinates":[21.05132,40.98451],"type":"Point"}
+}

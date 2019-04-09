@@ -1,0 +1,71 @@
+{
+  "id": 1326664169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18625,42.18941,22.18625,42.18941",
+    "geom:latitude":42.18941,
+    "geom:longitude":22.18625,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Letova Maala",
+    "gn:country_code":"MK",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410475,
+    "gn:latitude":42.18941,
+    "gn:longitude":22.18625,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Letova Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Letova Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0435\u0442\u043e\u0432\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410475
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"5f89227bb195884d8b89e23abd63e8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326664169,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":1326664169,
+    "wof:lastmodified":1537664990,
+    "wof:name":"Letova Maala",
+    "wof:parent_id":85674503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18625,
+    42.18941,
+    22.18625,
+    42.18941
+],
+  "geometry": {"coordinates":[22.18625,42.18941],"type":"Point"}
+}

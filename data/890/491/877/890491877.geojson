@@ -1,0 +1,73 @@
+{
+  "id": 890491877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.155,41.08389,21.155,41.08389",
+    "geom:latitude":41.08389,
+    "geom:longitude":21.155,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":466,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dolenci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "qs:name":"Dolenci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791385,
+        "gp:id":482274,
+        "qs:id":554002,
+        "wd:id":"Q787637",
+        "wk:page":"Dolenci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054868,
+    "wof:geomhash":"e7c97fa1a7b106c9bbd1a95d3c8c8049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491877,
+            "region_id":85674157
+        }
+    ],
+    "wof:id":890491877,
+    "wof:lastmodified":1527736665,
+    "wof:name":"Dolenci",
+    "wof:parent_id":85674157,
+    "wof:placetype":"locality",
+    "wof:population":466,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.155,
+    41.08389,
+    21.155,
+    41.08389
+],
+  "geometry": {"coordinates":[21.155,41.08389],"type":"Point"}
+}

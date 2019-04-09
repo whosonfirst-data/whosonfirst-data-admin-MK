@@ -1,0 +1,67 @@
+{
+  "id": 1209549419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72304,41.23051,20.72304,41.23051",
+    "geom:latitude":41.23051,
+    "geom:longitude":20.72304,
+    "gn:admin1_code":"E6",
+    "gn:asciiname":"Livada",
+    "gn:country_code":"MK",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788597,
+    "gn:latitude":41.23051,
+    "gn:longitude":20.72304,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Livada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Livada"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0438\u0432\u0430\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788597
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d9dddf5189b4e12ae5e3dee8bf8c922f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209549419
+        }
+    ],
+    "wof:id":1209549419,
+    "wof:lastmodified":1537664876,
+    "wof:name":"Livada",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72304,
+    41.23051,
+    20.72304,
+    41.23051
+],
+  "geometry": {"coordinates":[20.72304,41.23051],"type":"Point"}
+}

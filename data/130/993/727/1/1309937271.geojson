@@ -1,0 +1,71 @@
+{
+  "id": 1309937271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.84583,41.7225,20.84583,41.7225",
+    "geom:latitude":41.7225,
+    "geom:longitude":20.84583,
+    "gn:admin1_code":"E4",
+    "gn:asciiname":"Cerovo",
+    "gn:country_code":"MK",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":791962,
+    "gn:latitude":41.7225,
+    "gn:longitude":20.84583,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Cerovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Cerovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0426\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791962
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d5ddcb0a0099033b5b9291c01fb27027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1309937271,
+            "region_id":85674403
+        }
+    ],
+    "wof:id":1309937271,
+    "wof:lastmodified":1537664907,
+    "wof:name":"Cerovo",
+    "wof:parent_id":85674403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.84583,
+    41.7225,
+    20.84583,
+    41.7225
+],
+  "geometry": {"coordinates":[20.84583,41.7225],"type":"Point"}
+}

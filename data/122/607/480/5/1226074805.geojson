@@ -1,0 +1,72 @@
+{
+  "id": 1226074805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03407,42.1553,22.03407,42.1553",
+    "geom:latitude":42.1553,
+    "geom:longitude":22.03407,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Stracin",
+    "gn:country_code":"MK",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":785453,
+    "gn:latitude":42.1553,
+    "gn:longitude":22.03407,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Stracin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Stracin"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0440\u0430\u0446\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785453,
+        "wk:page":"Stracin"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"0fb4e07da7861b790feecbae07309576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226074805,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1226074805,
+    "wof:lastmodified":1537664849,
+    "wof:name":"Stracin",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03407,
+    42.1553,
+    22.03407,
+    42.1553
+],
+  "geometry": {"coordinates":[22.03407,42.1553],"type":"Point"}
+}

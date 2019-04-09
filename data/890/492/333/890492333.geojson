@@ -1,0 +1,94 @@
+{
+  "id": 890492333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38917,41.33167,21.38917,41.33167",
+    "geom:latitude":41.33167,
+    "geom:longitude":21.38917,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":431,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "V\u00ebrbjani"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0431\u044f\u043d\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Vrbjani"
+    ],
+    "name:fre_x_preferred":[
+        "Vrbyani"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0440\u0431\u0458\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0431\u0458\u0430\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0431\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vrbjani"
+    ],
+    "name:unk_x_variant":[
+        "Vrbjane"
+    ],
+    "qs:name":"Vrbjani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784186,
+        "gp:id":482783,
+        "qs:id":553580,
+        "wd:id":"Q3074752",
+        "wk:page":"Vrbjani"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054886,
+    "wof:geomhash":"07d2c757f037f971ca8f7b277c8f56ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492333,
+            "region_id":85674349
+        }
+    ],
+    "wof:id":890492333,
+    "wof:lastmodified":1553816420,
+    "wof:name":"Vrbjani",
+    "wof:parent_id":85674349,
+    "wof:placetype":"locality",
+    "wof:population":431,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38917,
+    41.33167,
+    21.38917,
+    41.33167
+],
+  "geometry": {"coordinates":[21.38917,41.33167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226579583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93518,41.53234,20.93518,41.53234",
+    "geom:latitude":41.53234,
+    "geom:longitude":20.93518,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Osoj",
+    "gn:country_code":"MK",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787350,
+    "gn:latitude":41.53234,
+    "gn:longitude":20.93518,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Osoj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Osoj"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u0441\u043e\u0458"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787350
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"19f9d80b3c79d620f4e792a955d0fe2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1226579583,
+            "region_id":85674399
+        }
+    ],
+    "wof:id":1226579583,
+    "wof:lastmodified":1537664866,
+    "wof:name":"Osoj",
+    "wof:parent_id":85674399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93518,
+    41.53234000000001,
+    20.93518,
+    41.53234000000001
+],
+  "geometry": {"coordinates":[20.93518,41.53234000000001],"type":"Point"}
+}

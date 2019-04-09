@@ -1,0 +1,73 @@
+{
+  "id": 890492573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60889,41.53444,21.60889,41.53444",
+    "geom:latitude":41.53444,
+    "geom:longitude":21.60889,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":279,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041e\u043c\u043e\u0440\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Moran"
+    ],
+    "qs:name":"Omorani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787470,
+        "gp:id":483099,
+        "qs:id":553790,
+        "wd:id":"Q1994547",
+        "wk:page":"\u010ca\u0161ka Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054899,
+    "wof:geomhash":"87a18b9847c9aa65627d1fb65b402281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492573,
+            "region_id":85674265
+        }
+    ],
+    "wof:id":890492573,
+    "wof:lastmodified":1527793025,
+    "wof:name":"Omorani",
+    "wof:parent_id":85674265,
+    "wof:placetype":"locality",
+    "wof:population":279,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60889,
+    41.53444,
+    21.60889,
+    41.53444
+],
+  "geometry": {"coordinates":[21.60889,41.53444],"type":"Point"}
+}

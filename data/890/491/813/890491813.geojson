@@ -1,0 +1,74 @@
+{
+  "id": 890491813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35889,41.20639,21.35889,41.20639",
+    "geom:latitude":41.20639,
+    "geom:longitude":21.35889,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":970,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0418\u0432\u0430\u045a\u0435\u0432\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Ivanevci"
+    ],
+    "qs:name":"Ivanjevci",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Mogila",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789989,
+        "gp:id":482211,
+        "qs:id":1213590
+    },
+    "wof:country":"MK",
+    "wof:created":1469054866,
+    "wof:geomhash":"c4d6e2bbc0032f5e8351edb589f3df66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491813,
+            "region_id":85674365
+        }
+    ],
+    "wof:id":890491813,
+    "wof:lastmodified":1505343795,
+    "wof:name":"Ivanjevci",
+    "wof:parent_id":85674365,
+    "wof:placetype":"locality",
+    "wof:population":970,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35889,
+    41.20639,
+    21.35889,
+    41.20639
+],
+  "geometry": {"coordinates":[21.35889,41.20639],"type":"Point"}
+}

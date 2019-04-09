@@ -1,0 +1,106 @@
+{
+  "id": 890492187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40694,41.50167,21.40694,41.50167",
+    "geom:latitude":41.50167,
+    "geom:longitude":21.40694,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":198,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Kostinci"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Kostinci"
+    ],
+    "name:eng_x_preferred":[
+        "Kostinci"
+    ],
+    "name:fre_x_preferred":[
+        "Kostintsi"
+    ],
+    "name:hun_x_preferred":[
+        "Kosztinci"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "Kostinci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kostinci"
+    ],
+    "qs:name":"Kostinci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:elevation":618.0,
+    "wd:latitude":"41.501666666",
+    "wd:longitude":"21.406666666",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789215,
+        "gp:id":482333,
+        "qs:id":83691,
+        "wd:id":"Q2507230",
+        "wk:page":"Kostinci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054880,
+    "wof:geomhash":"0ee4616e7a4f291cc522caa8206c0375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492187,
+            "region_id":85674293
+        }
+    ],
+    "wof:id":890492187,
+    "wof:lastmodified":1527793024,
+    "wof:name":"Kostinci",
+    "wof:parent_id":85674293,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40694,
+    41.50167,
+    21.40694,
+    41.50167
+],
+  "geometry": {"coordinates":[21.40694,41.50167],"type":"Point"}
+}

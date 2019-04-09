@@ -1,0 +1,70 @@
+{
+  "id": 890492459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.305,41.32139,21.305,41.32139",
+    "geom:latitude":41.32139,
+    "geom:longitude":21.305,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":614,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Sveto Mitrani"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0432\u0435\u0442\u043e \u041c\u0438\u0442\u0440\u0430\u043d\u0438"
+    ],
+    "qs:name":"Sveto Mitrani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785188,
+        "gp:id":482783,
+        "qs:id":553639
+    },
+    "wof:country":"MK",
+    "wof:created":1469054890,
+    "wof:geomhash":"53604e92f28867c28c2473cd603db8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492459,
+            "region_id":85674353
+        }
+    ],
+    "wof:id":890492459,
+    "wof:lastmodified":1505343798,
+    "wof:name":"Sveto Mitrani",
+    "wof:parent_id":85674353,
+    "wof:placetype":"locality",
+    "wof:population":614,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.305,
+    41.32139,
+    21.305,
+    41.32139
+],
+  "geometry": {"coordinates":[21.305,41.32139],"type":"Point"}
+}

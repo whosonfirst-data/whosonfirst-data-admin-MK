@@ -1,0 +1,100 @@
+{
+  "id": 890491613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15917,40.90639,21.15917,40.90639",
+    "geom:latitude":40.90639,
+    "geom:longitude":21.15917,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":755,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Bratu\u00e7ina"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0430\u0439\u0447\u0438\u043d\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Braj\u010dino"
+    ],
+    "name:eng_x_preferred":[
+        "Braj\u010dino"
+    ],
+    "name:fre_x_preferred":[
+        "Braytchino"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0440\u0430\u0458\u0447\u0438\u043d\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0430\u0458\u0447\u0438\u043d\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Braytchino"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u0458\u0447\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Braj\u010dino"
+    ],
+    "qs:name":"Braj\u010dino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":1011.0,
+    "wd:latitude":"40.9064",
+    "wd:longitude":"21.1592",
+    "wd:wordcount":572,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792373,
+        "gp:id":482863,
+        "qs:id":83769,
+        "wd:id":"Q260544",
+        "wk:page":"Braj\u010dino"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054859,
+    "wof:geomhash":"a2b34231e22843601b28c48537d734ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491613,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":890491613,
+    "wof:lastmodified":1527736665,
+    "wof:name":"Braj\u010dino",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:population":755,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15917,
+    40.90639,
+    21.15917,
+    40.90639
+],
+  "geometry": {"coordinates":[21.15917,40.90639],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260145139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33245,42.13113,21.33245,42.13113",
+    "geom:latitude":42.13113,
+    "geom:longitude":21.33245,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ljucovska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833464,
+    "gn:latitude":42.13113,
+    "gn:longitude":21.33245,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Lju\u010dovska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0409\u0443\u0447\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lju\u010dovska Mala",
+        "Lju\u010dovska Maala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833464
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"316badc2beb9e871ef78a7c138126c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1260145139,
+            "region_id":85674287
+        }
+    ],
+    "wof:id":1260145139,
+    "wof:lastmodified":1537664922,
+    "wof:name":"Ljucovska Maala",
+    "wof:parent_id":85674287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33245,
+    42.13113,
+    21.33245,
+    42.13113
+],
+  "geometry": {"coordinates":[21.33245,42.13113],"type":"Point"}
+}

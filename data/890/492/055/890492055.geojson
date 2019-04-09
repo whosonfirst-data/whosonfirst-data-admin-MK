@@ -1,0 +1,69 @@
+{
+  "id": 890492055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0725,41.54167,21.0725,41.54167",
+    "geom:latitude":41.54167,
+    "geom:longitude":21.0725,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":45,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u0443\u043f\u0458\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Dupljani"
+    ],
+    "qs:name":"Dupjani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790912,
+        "qs:id":553968
+    },
+    "wof:country":"MK",
+    "wof:created":1469054875,
+    "wof:geomhash":"9e7a9bb39f8a1cb02249e59bca40b2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492055,
+            "region_id":85674241
+        }
+    ],
+    "wof:id":890492055,
+    "wof:lastmodified":1505343796,
+    "wof:name":"Dupjani",
+    "wof:parent_id":85674241,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0725,
+    41.54167,
+    21.0725,
+    41.54167
+],
+  "geometry": {"coordinates":[21.0725,41.54167],"type":"Point"}
+}

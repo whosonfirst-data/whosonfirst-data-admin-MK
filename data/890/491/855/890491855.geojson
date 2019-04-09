@@ -1,0 +1,76 @@
+{
+  "id": 890491855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.23722,41.33444,21.23722,41.33444",
+    "geom:latitude":41.33444,
+    "geom:longitude":21.23722,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":76,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:mkd_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0438\u043b\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Ostriljci"
+    ],
+    "qs:name":"Strelci",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Oslomej",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787322,
+        "gp:id":483029,
+        "qs:id":293275,
+        "wk:page":"Strelci"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054868,
+    "wof:geomhash":"474b4023820bc40b299a00e69964fd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491855,
+            "region_id":85674353
+        }
+    ],
+    "wof:id":890491855,
+    "wof:lastmodified":1527736667,
+    "wof:name":"Strelci",
+    "wof:parent_id":85674353,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.23722,
+    41.33444,
+    21.23722,
+    41.33444
+],
+  "geometry": {"coordinates":[21.23722,41.33444],"type":"Point"}
+}

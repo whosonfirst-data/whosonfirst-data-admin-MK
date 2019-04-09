@@ -1,0 +1,71 @@
+{
+  "id": 1310535437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.609,41.92479,22.609,41.92479",
+    "geom:latitude":41.92479,
+    "geom:longitude":22.609,
+    "gn:admin1_code":"B4",
+    "gn:asciiname":"Cvetanska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274942,
+    "gn:latitude":41.92479,
+    "gn:longitude":22.609,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Cvetanska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Cvetanska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0426\u0432\u0435\u0442\u0430\u043d\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274942
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"094a1001c53b0cb724c4d93930c5e3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310535437,
+            "region_id":85674475
+        }
+    ],
+    "wof:id":1310535437,
+    "wof:lastmodified":1537664970,
+    "wof:name":"Cvetanska Maala",
+    "wof:parent_id":85674475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.609,
+    41.92479,
+    22.609,
+    41.92479
+],
+  "geometry": {"coordinates":[22.609,41.92479],"type":"Point"}
+}

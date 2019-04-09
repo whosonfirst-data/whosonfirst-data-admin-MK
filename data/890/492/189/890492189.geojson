@@ -1,0 +1,73 @@
+{
+  "id": 890492189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13389,41.72861,21.13389,41.72861",
+    "geom:latitude":41.72861,
+    "geom:longitude":21.13389,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":235,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Kosovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "qs:name":"Kosovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":15697,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789230,
+        "gp:id":481793,
+        "qs:id":83693,
+        "wd:id":"Q1246",
+        "wk:page":"Kosovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054880,
+    "wof:geomhash":"5bbe384154435e3bb48f2a33543b7546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492189,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890492189,
+    "wof:lastmodified":1527793024,
+    "wof:name":"Kosovo",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13389,
+    41.72861,
+    21.13389,
+    41.72861
+],
+  "geometry": {"coordinates":[21.13389,41.72861],"type":"Point"}
+}

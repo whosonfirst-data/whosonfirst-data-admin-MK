@@ -1,0 +1,69 @@
+{
+  "id": 1344114241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18201,41.38429,22.18201,41.38429",
+    "geom:latitude":41.38429,
+    "geom:longitude":22.18201,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Besvica",
+    "gn:country_code":"MK",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792646,
+    "gn:latitude":41.38429,
+    "gn:longitude":22.18201,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Besvica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0441\u0432\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792646,
+        "wk:page":"Besvica"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"7691e18cc306bb03a530051981dc4a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1344114241,
+            "region_id":85674289
+        }
+    ],
+    "wof:id":1344114241,
+    "wof:lastmodified":1537664912,
+    "wof:name":"Besvica",
+    "wof:parent_id":85674289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18201,
+    41.38429,
+    22.18201,
+    41.38429
+],
+  "geometry": {"coordinates":[22.18201,41.38429],"type":"Point"}
+}

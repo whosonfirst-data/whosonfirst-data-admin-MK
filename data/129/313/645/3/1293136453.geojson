@@ -1,0 +1,73 @@
+{
+  "id": 1293136453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85611,42.2875,21.85611,42.2875",
+    "geom:latitude":42.2875,
+    "geom:longitude":21.85611,
+    "gn:admin1_code":"97",
+    "gn:asciiname":"Pelince",
+    "gn:country_code":"MK",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787139,
+    "gn:latitude":42.2875,
+    "gn:longitude":21.85611,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Pelince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041f\u0435\u043b\u0438\u043d\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pelinci",
+        "Pelince"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787139,
+        "wk:page":"Pelince"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a0f59e40842420324484b4cfb589ba38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293136453,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1293136453,
+    "wof:lastmodified":1537664864,
+    "wof:name":"Pelince",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85611,
+    42.2875,
+    21.85611,
+    42.2875
+],
+  "geometry": {"coordinates":[21.85611,42.2875],"type":"Point"}
+}

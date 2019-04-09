@@ -1,0 +1,91 @@
+{
+  "id": 890491247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47194,41.88,21.47194,41.88",
+    "geom:latitude":41.88,
+    "geom:longitude":21.47194,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":654,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Koli\u00e7ani i Ep\u00ebrm"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u043e\u043b\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Gorno Koli\u010dani"
+    ],
+    "name:fre_x_preferred":[
+        "Gorno Kolitchani"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u043e\u043b\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u043e\u043b\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041a\u043e\u043b\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Gornje Koli\u010dane"
+    ],
+    "qs:name":"Gorno Koli\u010dani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790331,
+        "gp:id":482940,
+        "qs:id":553932,
+        "wd:id":"Q3111345",
+        "wk:page":"Studeni\u010dani Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054846,
+    "wof:geomhash":"e2effe78145fcd1cc3387754be4842c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491247,
+            "region_id":85674223
+        }
+    ],
+    "wof:id":890491247,
+    "wof:lastmodified":1527736665,
+    "wof:name":"Gorno Koli\u010dani",
+    "wof:parent_id":85674223,
+    "wof:placetype":"locality",
+    "wof:population":654,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47194,
+    41.88,
+    21.47194,
+    41.88
+],
+  "geometry": {"coordinates":[21.47194,41.88],"type":"Point"}
+}

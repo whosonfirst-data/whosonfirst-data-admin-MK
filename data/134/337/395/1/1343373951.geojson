@@ -1,0 +1,64 @@
+{
+  "id": 1343373951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78739,42.14904,21.78739,42.14904",
+    "geom:latitude":42.14904,
+    "geom:longitude":21.78739,
+    "gn:asciiname":"Zebarnjak",
+    "gn:country_code":"MK",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7911053,
+    "gn:latitude":42.14904,
+    "gn:longitude":21.78739,
+    "gn:modification_date":"2011-08-05",
+    "gn:name":"Zebarnjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7911053
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"017bec1ef81322e038f9e44274c20a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1343373951,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":1343373951,
+    "wof:lastmodified":1536869837,
+    "wof:name":"Zebarnjak",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78739,
+    42.14904,
+    21.78739,
+    42.14904
+],
+  "geometry": {"coordinates":[21.78739,42.14904],"type":"Point"}
+}

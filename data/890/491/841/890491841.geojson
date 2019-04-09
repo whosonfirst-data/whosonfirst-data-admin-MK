@@ -1,0 +1,104 @@
+{
+  "id": 890491841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18139,41.19972,21.18139,41.19972",
+    "geom:latitude":41.19972,
+    "geom:longitude":21.18139,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":535,
+    "gp:adm0":23424833,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Strugova"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Strugovo"
+    ],
+    "name:fre_x_preferred":[
+        "Strougovo"
+    ],
+    "name:ger_x_preferred":[
+        "Strugovo"
+    ],
+    "name:hun_x_preferred":[
+        "Sztrugovo"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "Strugovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Strugovo"
+    ],
+    "qs:name":"Ostrovo",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Macedonia and Thrace",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785381,
+        "gp:id":958622,
+        "qs:id":1284854,
+        "wd:id":"Q3074585",
+        "wk:page":"Ostrovo"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054867,
+    "wof:geomhash":"697bc5afccb8f18c04de4ac1a01309ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491841,
+            "region_id":85674161
+        }
+    ],
+    "wof:id":890491841,
+    "wof:lastmodified":1527736665,
+    "wof:name":"Ostrovo",
+    "wof:parent_id":85674161,
+    "wof:placetype":"locality",
+    "wof:population":535,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18139,
+    41.19972,
+    21.18139,
+    41.19972
+],
+  "geometry": {"coordinates":[21.18139,41.19972],"type":"Point"}
+}

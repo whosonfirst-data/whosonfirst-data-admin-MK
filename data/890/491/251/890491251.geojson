@@ -1,0 +1,286 @@
+{
+  "id": 890491251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11972,40.87556,21.11972,40.87556",
+    "geom:latitude":40.87556,
+    "geom:longitude":21.11972,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":563,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:alb_x_preferred":[
+        "Dupeni i Posht\u00ebm"
+    ],
+    "name:arg_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ast_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:baq_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:bar_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:bre_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0414\u0443\u043f\u0435\u043d\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:cos_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:cze_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:dan_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:dut_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:eng_x_preferred":[
+        "Dupeni"
+    ],
+    "name:epo_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:est_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:fin_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:fre_x_preferred":[
+        "Dolno Doupeni"
+    ],
+    "name:frp_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:fur_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ger_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:gla_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:gle_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:glg_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:gsw_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:hrv_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:hun_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ice_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ido_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ile_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ina_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ind_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ita_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:kon_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:lij_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:lim_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:ltz_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0414\u0443\u043f\u0435\u043d\u0438"
+    ],
+    "name:may_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:min_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0414\u0443\u043f\u0435\u043d\u0438"
+    ],
+    "name:mlg_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:nap_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:nds_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:nno_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:nob_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:nrm_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:oci_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:pcd_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:pms_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:pol_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:por_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:roh_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:rum_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:scn_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:sco_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:slo_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:slv_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:spa_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:srd_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u0414\u0443\u043f\u0435\u043d\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:swe_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:unk_x_variant":[
+        "Dupeni"
+    ],
+    "name:vec_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:vie_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:vls_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:vol_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:wel_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:wln_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:wol_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:zul_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "qs:name":"Dolno Dupeni",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:elevation":887.0,
+    "wd:latitude":"40.8756",
+    "wd:longitude":"21.1197",
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791349,
+        "gp:id":482863,
+        "qs:id":553996,
+        "wd:id":"Q3034204",
+        "wk:page":"Dolno Dupeni"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054846,
+    "wof:geomhash":"37920ef438d097543f0e0200c80ece00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491251,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":890491251,
+    "wof:lastmodified":1527736662,
+    "wof:name":"Dolno Dupeni",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:population":563,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11972,
+    40.87556,
+    21.11972,
+    40.87556
+],
+  "geometry": {"coordinates":[21.11972,40.87556],"type":"Point"}
+}

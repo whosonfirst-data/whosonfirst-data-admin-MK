@@ -1,0 +1,68 @@
+{
+  "id": 1209653481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5525,41.7075,22.5525,41.7075",
+    "geom:latitude":41.7075,
+    "geom:longitude":22.5525,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Saintas",
+    "gn:country_code":"MK",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":786147,
+    "gn:latitude":41.7075,
+    "gn:longitude":22.5525,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u0160ainta\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u0438\u043d\u0442\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "\u0160ahinta\u0161",
+        "\u0160ainta\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786147
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"4e0a21a943edfb109840e475205bb699",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209653481
+        }
+    ],
+    "wof:id":1209653481,
+    "wof:lastmodified":1537664856,
+    "wof:name":"Saintas",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5525,
+    41.7075,
+    22.5525,
+    41.7075
+],
+  "geometry": {"coordinates":[22.5525,41.7075],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243008249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54753,41.52864,20.54753,41.52864",
+    "geom:latitude":41.52864,
+    "geom:longitude":20.54753,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Tatar Elevci",
+    "gn:country_code":"MK",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785120,
+    "gn:latitude":41.52864,
+    "gn:longitude":20.54753,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Tatar Elevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Tatar Elevci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0430\u0442\u0430\u0440 \u0415\u043b\u0435\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785120
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"21f250320a8bd2d6af7b81be2588efec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243008249,
+            "region_id":85674389
+        }
+    ],
+    "wof:id":1243008249,
+    "wof:lastmodified":1537664845,
+    "wof:name":"Tatar Elevci",
+    "wof:parent_id":85674389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54753,
+    41.52864,
+    20.54753,
+    41.52864
+],
+  "geometry": {"coordinates":[20.54753,41.52864],"type":"Point"}
+}

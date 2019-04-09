@@ -1,0 +1,106 @@
+{
+  "id": 890492227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01139,41.11028,21.01139,41.11028",
+    "geom:latitude":41.11028,
+    "geom:longitude":21.01139,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1291,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Jankoveci"
+    ],
+    "name:bul_x_preferred":[
+        "\u042f\u043d\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:dut_x_preferred":[
+        "Jankovec"
+    ],
+    "name:eng_x_preferred":[
+        "Jankovec"
+    ],
+    "name:fre_x_preferred":[
+        "Yankovets"
+    ],
+    "name:mac_x_preferred":[
+        "\u0408\u0430\u043d\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u043d\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043d\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Jankovec"
+    ],
+    "name:unk_x_variant":[
+        "Jankoec"
+    ],
+    "qs:name":"Jankovec",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Resen",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:elevation":905.0,
+    "wd:latitude":"41.1103",
+    "wd:longitude":"21.0114",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789893,
+        "gp:id":482230,
+        "qs:id":129586,
+        "wd:id":"Q3135656",
+        "wk:page":"Jankovec"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054882,
+    "wof:geomhash":"fb8577ab8148f8167438cda2fd5901d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492227,
+            "region_id":85674147
+        }
+    ],
+    "wof:id":890492227,
+    "wof:lastmodified":1527793022,
+    "wof:name":"Jankovec",
+    "wof:parent_id":85674147,
+    "wof:placetype":"locality",
+    "wof:population":1291,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01139,
+    41.11028,
+    21.01139,
+    41.11028
+],
+  "geometry": {"coordinates":[21.01139,41.11028],"type":"Point"}
+}

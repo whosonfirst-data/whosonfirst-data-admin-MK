@@ -1,0 +1,71 @@
+{
+  "id": 1243010647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40227,41.67918,22.40227,41.67918",
+    "geom:latitude":41.67918,
+    "geom:longitude":22.40227,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Supurge",
+    "gn:country_code":"MK",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785290,
+    "gn:latitude":41.67918,
+    "gn:longitude":22.40227,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Supurge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Supurge"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0443\u043f\u0443\u0440\u0433\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785290
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"64add1248e52cd77cc9e4e00518c1256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243010647,
+            "region_id":85674191
+        }
+    ],
+    "wof:id":1243010647,
+    "wof:lastmodified":1537664848,
+    "wof:name":"Supurge",
+    "wof:parent_id":85674191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40227,
+    41.67918,
+    22.40227,
+    41.67918
+],
+  "geometry": {"coordinates":[22.40227,41.67918],"type":"Point"}
+}

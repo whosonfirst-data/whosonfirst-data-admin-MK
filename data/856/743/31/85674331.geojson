@@ -1,0 +1,268 @@
+{
+  "id": 85674331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002299,
+    "geom:area_square_m":21138522.873106,
+    "geom:bbox":"21.441828,41.9413345,21.5619695,41.99478",
+    "geom:latitude":41.969644,
+    "geom:longitude":21.501291,
+    "gn:id":"",
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Aerodrom Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.975758,
+    "lbl:longitude":21.487184,
+    "meso:adm1_alt":"\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c",
+    "meso:adm1_loc":"Aerodrom",
+    "meso:gadm_adm1":"Aerodrom",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":41.956047,
+    "mps:longitude":21.483524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Aeorodromit"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u0443\u043c"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u7f57\u5fb7\u9686\u533a"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina Aerodrom"
+    ],
+    "name:dut_x_preferred":[
+        "Aerodrom"
+    ],
+    "name:eng_x_preferred":[
+        "Aerodrom Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Aerodrom"
+    ],
+    "name:fre_x_preferred":[
+        "Aerodrom"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d4\u10e0\u10dd\u10d3\u10e0\u10dd\u10db\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Aerodrom"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Aerodrom"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Aerodrom"
+    ],
+    "name:ita_x_preferred":[
+        "Aerodrom"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc5d0\ub85c\ub4dc\ub86c \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c"
+    ],
+    "name:mkd_x_preferred":[
+        "Op\u0161tina Aerodrom"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c"
+    ],
+    "name:oci_x_preferred":[
+        "Aerodr\u00f2m"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u0434\u0440\u043e\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Aerodrom"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Aeorodromit"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Opsjtina Ajerodrom"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c"
+    ],
+    "name:und_x_preferred":[
+        "Aerodrom"
+    ],
+    "name:und_x_variant":[
+        "Opstina Aerodrom"
+    ],
+    "name:unk_x_variant":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u0631\u0648\u062f\u0631\u0648\u0645 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u7f57\u5fb7\u9686\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2937",
+    "ne:adm1_code":"MKD-2937",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.AD",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2937",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK44",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.F3",
+    "ne:gn_id":"7056266",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Aerodrom",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK51",
+    "ne:gns_id":"10540228",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Aerodrom, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-01",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.95170000000",
+    "ne:longitude":"21.49320000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Aerodrom",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AD",
+    "ne:provnum_ne":"20062",
+    "ne:region":"Greater Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Municipality",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848400,
+    "ne:woe_label":"",
+    "ne:woe_name":"Aerodrom Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Aerodrom",
+    "qs:a1_lc":"MKD-2937",
+    "qs:a1r":"Greater Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Skopje",
+    "statoids:country":"MK",
+    "statoids:gec":"MKF3",
+    "statoids:hasc":"MK.AD",
+    "statoids:iso":"01",
+    "statoids:name":"Aerodrom",
+    "statoids:population":"72009",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-01",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKF3",
+        "gn:id":7056266,
+        "gp:id":55848400,
+        "hasc:id":"MK.AD",
+        "iso:id":"MK-01",
+        "qs:id":46448,
+        "unlc:id":"MK-01",
+        "wd:id":"Q1992708"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"07de26e4da17ecdb5b42a9d5fd919893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674331
+        }
+    ],
+    "wof:id":85674331,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550455,
+    "wof:name":"Aerodrom",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":72009,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"AD",
+    "wof:subdivision":"MK-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44182799999979,
+    41.94133449999984,
+    21.56196949999978,
+    41.99477999999985
+],
+  "geometry": {"coordinates":[[[21.44982699999977,41.99473349999985],[21.45548249999979,41.99068149999985],[21.46505749999977,41.99477999999985],[21.48471399999977,41.98971149999986],[21.49734699999979,41.98283299999986],[21.50208199999977,41.97635049999985],[21.50953499999977,41.97624599999986],[21.51061949999979,41.97876099999985],[21.51358849999977,41.97879599999985],[21.51584099999977,41.97683699999985],[21.51283499999977,41.97384349999984],[21.51518849999977,41.97227599999985],[21.51955099999978,41.97236849999985],[21.52113249999977,41.97603949999984],[21.52661749999979,41.96816649999985],[21.53168199999979,41.97051149999984],[21.53878949999978,41.96906149999984],[21.54211399999977,41.96372699999986],[21.54918,41.96183499999984],[21.54951649999978,41.95705449999986],[21.56171799999979,41.95192899999986],[21.56196949999978,41.94694499999986],[21.55234199999978,41.94133449999984],[21.55339649999979,41.94426399999986],[21.54934399999979,41.94479699999985],[21.54493049999977,41.94900949999985],[21.54282399999977,41.94666999999984],[21.53519849999978,41.94742049999985],[21.53339599999978,41.94582399999985],[21.52192849999977,41.95021349999985],[21.52233899999979,41.95203899999984],[21.51138199999977,41.95527449999986],[21.50678599999978,41.95426099999986],[21.44413149999977,41.98267049999984],[21.44182799999979,41.98732449999986],[21.44982699999977,41.99473349999985]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310042851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76583,41.45972,20.76583,41.45972",
+    "geom:latitude":41.45972,
+    "geom:longitude":20.76583,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ehlovec",
+    "gn:country_code":"MK",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":790843,
+    "gn:latitude":41.45972,
+    "gn:longitude":20.76583,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Ehlovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0415\u0445\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Jehlovac",
+        "Ehlovac",
+        "Evloec",
+        "Ehloec",
+        "Ehlovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790843
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"84109bfacb89041a9693e88df4a04dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310042851,
+            "region_id":85674395
+        }
+    ],
+    "wof:id":1310042851,
+    "wof:lastmodified":1537664896,
+    "wof:name":"Ehlovec",
+    "wof:parent_id":85674395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76583,
+    41.45972,
+    20.76583,
+    41.45972
+],
+  "geometry": {"coordinates":[20.76583,41.45972],"type":"Point"}
+}

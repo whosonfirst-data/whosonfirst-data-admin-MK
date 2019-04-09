@@ -1,0 +1,71 @@
+{
+  "id": 1259739745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75346,42.02367,22.75346,42.02367",
+    "geom:latitude":42.02367,
+    "geom:longitude":22.75346,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Meandziska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10419625,
+    "gn:latitude":42.02367,
+    "gn:longitude":22.75346,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Meand\u017eiska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Meand\u017eiska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0435\u0430\u043d\u045f\u0438\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10419625
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"3c6853d2787cf9a7977cc1565c15a090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259739745,
+            "region_id":85674485
+        }
+    ],
+    "wof:id":1259739745,
+    "wof:lastmodified":1537664994,
+    "wof:name":"Meandziska Maala",
+    "wof:parent_id":85674485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75346,
+    42.02367,
+    22.75346,
+    42.02367
+],
+  "geometry": {"coordinates":[22.75346,42.02367],"type":"Point"}
+}

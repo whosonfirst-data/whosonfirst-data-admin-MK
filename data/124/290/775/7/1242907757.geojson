@@ -1,0 +1,71 @@
+{
+  "id": 1242907757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10794,42.13429,22.10794,42.13429",
+    "geom:latitude":42.13429,
+    "geom:longitude":22.10794,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lazinci",
+    "gn:country_code":"MK",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409201,
+    "gn:latitude":42.13429,
+    "gn:longitude":22.10794,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Lazinci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Lazinci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041b\u0430\u0437\u0438\u043d\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409201
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1be4ea84f9cf80770ef89ab8b8cc1d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1242907757,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1242907757,
+    "wof:lastmodified":1537664985,
+    "wof:name":"Lazinci",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10794,
+    42.13429,
+    22.10794,
+    42.13429
+],
+  "geometry": {"coordinates":[22.10794,42.13429],"type":"Point"}
+}

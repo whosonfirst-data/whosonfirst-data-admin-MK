@@ -1,0 +1,101 @@
+{
+  "id": 890491089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09833,41.69222,21.09833,41.69222",
+    "geom:latitude":41.69222,
+    "geom:longitude":21.09833,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":122,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ben\u00e7e"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d\u0447\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Ben\u010de"
+    ],
+    "name:eng_x_preferred":[
+        "Ben\u010de"
+    ],
+    "name:fre_x_preferred":[
+        "Bentch\u00e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0435\u043d\u0447\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "Ben\u010de"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0435\u043d\u0447\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Ben\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043d\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ben\u010de"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u0447\u0435"
+    ],
+    "qs:name":"Ben\u010de",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792684,
+        "gp:id":482892,
+        "qs:id":554095,
+        "wd:id":"Q6488107"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054840,
+    "wof:geomhash":"9b7c2e22f130ef4938eb3e27453d7f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491089,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890491089,
+    "wof:lastmodified":1553816419,
+    "wof:name":"Ben\u010de",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09833,
+    41.69222,
+    21.09833,
+    41.69222
+],
+  "geometry": {"coordinates":[21.09833,41.69222],"type":"Point"}
+}

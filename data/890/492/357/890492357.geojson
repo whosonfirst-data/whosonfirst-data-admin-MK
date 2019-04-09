@@ -1,0 +1,73 @@
+{
+  "id": 890492357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70889,41.9425,21.70889,41.9425",
+    "geom:latitude":41.9425,
+    "geom:longitude":21.70889,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":656,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041a\u043e\u045a\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Dolno Konjare"
+    ],
+    "qs:name":"Dolno Konjari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":791342,
+        "gp:id":482728,
+        "qs:id":553993,
+        "wd:id":"Q22080361",
+        "wk:page":"FK Dolno Konjari"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054886,
+    "wof:geomhash":"8f110665667d7526247b88f89ad18057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492357,
+            "region_id":85674173
+        }
+    ],
+    "wof:id":890492357,
+    "wof:lastmodified":1527793025,
+    "wof:name":"Dolno Konjari",
+    "wof:parent_id":85674173,
+    "wof:placetype":"locality",
+    "wof:population":656,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70889,
+    41.9425,
+    21.70889,
+    41.9425
+],
+  "geometry": {"coordinates":[21.70889,41.9425],"type":"Point"}
+}

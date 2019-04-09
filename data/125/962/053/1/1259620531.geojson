@@ -1,0 +1,72 @@
+{
+  "id": 1259620531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03164,42.06506,21.03164,42.06506",
+    "geom:latitude":42.06506,
+    "geom:longitude":21.03164,
+    "gn:admin1_code":"A5",
+    "gn:asciiname":"Lesok",
+    "gn:country_code":"MK",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":788687,
+    "gn:latitude":42.06506,
+    "gn:longitude":21.03164,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Le\u0161ok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0448\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Le\u0161ak",
+        "Le\u0161ok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788687
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"fd37040a037b2d90b05c0f2fb48f46b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259620531,
+            "region_id":85674413
+        }
+    ],
+    "wof:id":1259620531,
+    "wof:lastmodified":1537664876,
+    "wof:name":"Lesok",
+    "wof:parent_id":85674413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03164,
+    42.06506,
+    21.03164,
+    42.06506
+],
+  "geometry": {"coordinates":[21.03164,42.06506],"type":"Point"}
+}

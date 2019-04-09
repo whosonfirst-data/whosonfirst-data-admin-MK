@@ -1,0 +1,73 @@
+{
+  "id": 1344188641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4024,42.17837,22.4024,42.17837",
+    "geom:latitude":42.17837,
+    "geom:longitude":22.4024,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"B's",
+    "gn:country_code":"MK",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":834581,
+    "gn:latitude":42.17837,
+    "gn:longitude":22.4024,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"B\u2019s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "B\u2019s"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u2019\u0441",
+        "Bas",
+        "\u0411\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":834581
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"59da8298c8c046b5d14ffed64d970dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1344188641,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1344188641,
+    "wof:lastmodified":1537664926,
+    "wof:name":"B's",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4024,
+    42.17837,
+    22.4024,
+    42.17837
+],
+  "geometry": {"coordinates":[22.4024,42.17837],"type":"Point"}
+}

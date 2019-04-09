@@ -1,0 +1,71 @@
+{
+  "id": 1310042633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00895,41.72151,21.00895,41.72151",
+    "geom:latitude":41.72151,
+    "geom:longitude":21.00895,
+    "gn:admin1_code":"D4",
+    "gn:asciiname":"Afmate",
+    "gn:country_code":"MK",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863643,
+    "gn:latitude":41.72151,
+    "gn:longitude":21.00895,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Afmate",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Afmate"
+    ],
+    "name:mkd_x_variant":[
+        "\u0410\u0444\u043c\u0430\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863643
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"ce65c91382664996acb6a22f2ec5cafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1310042633,
+            "region_id":85674433
+        }
+    ],
+    "wof:id":1310042633,
+    "wof:lastmodified":1537664948,
+    "wof:name":"Afmate",
+    "wof:parent_id":85674433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00895,
+    41.72151,
+    21.00895,
+    41.72151
+],
+  "geometry": {"coordinates":[21.00895,41.72151],"type":"Point"}
+}

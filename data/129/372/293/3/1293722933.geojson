@@ -1,0 +1,71 @@
+{
+  "id": 1293722933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39613,41.8149,21.39613,41.8149",
+    "geom:latitude":41.8149,
+    "geom:longitude":21.39613,
+    "gn:admin1_code":"A2",
+    "gn:asciiname":"Stekavica",
+    "gn:country_code":"MK",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863658,
+    "gn:latitude":41.8149,
+    "gn:longitude":21.39613,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Stekavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Stekavica"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0435\u043a\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863658
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"eb4b207a9342f16ca0bf71cd8b94986c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293722933,
+            "region_id":85674223
+        }
+    ],
+    "wof:id":1293722933,
+    "wof:lastmodified":1537664949,
+    "wof:name":"Stekavica",
+    "wof:parent_id":85674223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39613,
+    41.8149,
+    21.39613,
+    41.8149
+],
+  "geometry": {"coordinates":[21.39613,41.8149],"type":"Point"}
+}

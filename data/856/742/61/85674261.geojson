@@ -1,0 +1,277 @@
+{
+  "id": 85674261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005919,
+    "geom:area_square_m":54310882.489294,
+    "geom:bbox":"21.3888455,42.0166005,21.512243,42.157751",
+    "geom:latitude":42.092428,
+    "geom:longitude":21.461479,
+    "gn:id":"",
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Butel Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.097668,
+    "lbl:longitude":21.460544,
+    "meso:adm1_alt":"\u0411\u0443\u0442\u0435\u043b",
+    "meso:adm1_loc":"Butel",
+    "meso:gadm_adm1":"\u010cu\u010der Sandevo",
+    "meso:gaul_adm1":"Skopje",
+    "mps:latitude":42.107042,
+    "mps:longitude":21.475655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Butelit"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0442\u0435\u043b"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u7279\u5c14\u533a"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina Butel"
+    ],
+    "name:dut_x_preferred":[
+        "Butel"
+    ],
+    "name:eng_x_preferred":[
+        "Butel Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Butel"
+    ],
+    "name:fra_x_preferred":[
+        "Boutel"
+    ],
+    "name:fre_x_preferred":[
+        "Boutel"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10e2\u10d4\u10da\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Butel"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Butel"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Butel"
+    ],
+    "name:ita_x_preferred":[
+        "Butel"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e2\u10d4\u10da\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ud154 \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0443\u0442\u0435\u043b"
+    ],
+    "name:mah_x_preferred":[
+        "\u0411\u0443\u0442\u0435\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "Op\u0161tina Butel"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0443\u0442\u0435\u043b"
+    ],
+    "name:nan_x_preferred":[
+        "Boutel"
+    ],
+    "name:oci_x_preferred":[
+        "Botel"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Butel"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Butel"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Butelit"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0443\u0442\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Butel"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0443\u0442\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0442\u0435\u043b"
+    ],
+    "name:und_x_preferred":[
+        "Butel"
+    ],
+    "name:und_x_variant":[
+        "Opstina Butel"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0628\u0648\u062a\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6cf0\u5c14\u533a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2921",
+    "ne:adm1_code":"MKD-2921",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.BU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2921",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK13",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.F4",
+    "ne:gn_id":"7056269",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Butel",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK51",
+    "ne:gns_id":"10540231",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Butel, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-09",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"42.07380000000",
+    "ne:longitude":"21.46650000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Butel",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BU",
+    "ne:provnum_ne":"20079",
+    "ne:region":"Greater Skopje",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Municipality",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":55848399,
+    "ne:woe_label":"",
+    "ne:woe_name":"Butel Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Butel",
+    "qs:a1_lc":"MKD-2921",
+    "qs:a1r":"Greater Skopje",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Skopje",
+    "statoids:country":"MK",
+    "statoids:gec":"MKF4",
+    "statoids:hasc":"MK.BU",
+    "statoids:iso":"09",
+    "statoids:name":"Butel",
+    "statoids:population":"36154",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-09",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MKF4",
+        "gn:id":7056269,
+        "gp:id":55848399,
+        "hasc:id":"MK.BU",
+        "iso:id":"MK-09",
+        "qs:id":46447,
+        "unlc:id":"MK-09",
+        "wd:id":"Q935620"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"aea209bb47564544b2b680ad2f6a2629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674261
+        }
+    ],
+    "wof:id":85674261,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550472,
+    "wof:name":"Butel",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":36154,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"BU",
+    "wof:subdivision":"MK-09",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38884549999977,
+    42.01660049999984,
+    21.51224299999978,
+    42.15775099999985
+],
+  "geometry": {"coordinates":[[[21.39384849999979,42.04886749999986],[21.39723149999978,42.04823799999986],[21.40004199999979,42.05051749999984],[21.39892949999978,42.04840499999986],[21.40343449999978,42.04550699999984],[21.41318099999978,42.04430449999984],[21.41514549999977,42.04028849999986],[21.41308099999978,42.03898299999986],[21.41590299999979,42.03579399999984],[21.41834549999979,42.03617049999986],[21.41965949999977,42.02784749999987],[21.43317049999979,42.02746849999986],[21.43437999999978,42.03039449999986],[21.42797099999979,42.04665249999985],[21.42860699999977,42.04833549999987],[21.43733049999977,42.04260999999985],[21.43702149999979,42.04493499999984],[21.44232949999977,42.04500399999986],[21.44161249999979,42.04722099999984],[21.45091049999976,42.05393799999985],[21.45083299999979,42.05530649999986],[21.44535899999977,42.05416749999986],[21.44352399999977,42.06681849999984],[21.44662399999979,42.07257699999985],[21.44260249999977,42.07471399999986],[21.44265099999978,42.08479549999984],[21.43650899999977,42.09546549999985],[21.44472349999978,42.11407949999986],[21.44472049999979,42.13014199999986],[21.45956499999977,42.14315499999987],[21.46173949999977,42.14955099999986],[21.46683149999978,42.14810849999986],[21.47024499999978,42.15452999999985],[21.47740249999978,42.15775099999985],[21.48268249999978,42.15527349999985],[21.48915399999979,42.15671699999984],[21.50605399999978,42.14269999999985],[21.51224299999978,42.12616299999985],[21.50806249999977,42.11688199999986],[21.50344599999977,42.11600499999986],[21.49315699999977,42.10841249999984],[21.48553349999978,42.09494349999986],[21.48102499999979,42.09242399999985],[21.47636849999978,42.08022549999984],[21.47921499999978,42.07406799999984],[21.46936849999977,42.05354649999984],[21.46605699999978,42.05196199999986],[21.46740399999979,42.04628549999984],[21.45047699999978,42.02604849999986],[21.45968849999977,42.01865299999986],[21.45043899999979,42.01689199999984],[21.44708299999976,42.01660049999984],[21.44902899999977,42.02121599999984],[21.43037749999976,42.02254499999984],[21.42118499999978,42.02470249999985],[21.40910399999979,42.02432699999986],[21.40796849999978,42.02716899999984],[21.40203649999978,42.02661999999984],[21.39220499999979,42.03558499999986],[21.38884549999977,42.04446949999985],[21.39091199999979,42.04850949999985],[21.39384849999979,42.04886749999986]]],"type":"Polygon"}
+}

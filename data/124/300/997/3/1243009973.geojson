@@ -1,0 +1,72 @@
+{
+  "id": 1243009973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31444,42.29139,22.31444,42.29139",
+    "geom:latitude":42.29139,
+    "geom:longitude":22.31444,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Dojcinovci",
+    "gn:country_code":"MK",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862004,
+    "gn:latitude":42.29139,
+    "gn:longitude":22.31444,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Doj\u010dinovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0458\u0447\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Doj\u010dinovci Mahala",
+        "Doj\u010dinovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862004
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"67ce4b5aa175c2d9c2bf7face1fb68cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243009973,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1243009973,
+    "wof:lastmodified":1537664943,
+    "wof:name":"Dojcinovci",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31444,
+    42.29139,
+    22.31444,
+    42.29139
+],
+  "geometry": {"coordinates":[22.31444,42.29139],"type":"Point"}
+}

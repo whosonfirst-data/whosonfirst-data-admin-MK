@@ -1,0 +1,67 @@
+{
+  "id": 1209650335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83642,41.76999,22.83642,41.76999",
+    "geom:latitude":41.76999,
+    "geom:longitude":22.83642,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Umlena",
+    "gn:country_code":"MK",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784763,
+    "gn:latitude":41.76999,
+    "gn:longitude":22.83642,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Umlena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Umlena"
+    ],
+    "name:mkd_x_variant":[
+        "\u0423\u043c\u043b\u0435\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784763
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"997b49bad763488c8c89e70e966b5457",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209650335
+        }
+    ],
+    "wof:id":1209650335,
+    "wof:lastmodified":1537664842,
+    "wof:name":"Umlena",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83642,
+    41.76999,
+    22.83642,
+    41.76999
+],
+  "geometry": {"coordinates":[22.83642,41.76999],"type":"Point"}
+}

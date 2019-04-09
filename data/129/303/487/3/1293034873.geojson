@@ -1,0 +1,75 @@
+{
+  "id": 1293034873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68169,41.29518,22.68169,41.29518",
+    "geom:latitude":41.29518,
+    "geom:longitude":22.68169,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Dzumabos",
+    "gn:country_code":"MK",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":790849,
+    "gn:latitude":41.29518,
+    "gn:longitude":22.68169,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"D\u017eumabos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:mkd_x_preferred":[
+        "\u040f\u0443\u043c\u0430\u0431\u043e\u0441"
+    ],
+    "name:und_x_variant":[
+        "D\u017eumaja-Obasi",
+        "Juma Obasi",
+        "D\u017euma Ovasi",
+        "D\u017euma Obasi",
+        "D\u017eumabos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790849
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d4d2a5e5c6bced252d4b38d109bf5fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293034873,
+            "region_id":85674473
+        }
+    ],
+    "wof:id":1293034873,
+    "wof:lastmodified":1537664897,
+    "wof:name":"Dzumabos",
+    "wof:parent_id":85674473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68169,
+    41.29518,
+    22.68169,
+    41.29518
+],
+  "geometry": {"coordinates":[22.68169,41.29518],"type":"Point"}
+}

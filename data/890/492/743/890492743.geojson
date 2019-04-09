@@ -1,0 +1,72 @@
+{
+  "id": 890492743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12333,41.70111,21.12333,41.70111",
+    "geom:latitude":41.70111,
+    "geom:longitude":21.12333,
+    "gn:country":"MK",
+    "gn:fcode":"PPLL",
+    "gn:pop":203,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Zve\u010dan"
+    ],
+    "name:mkd_x_variant":[
+        "\u0417\u0432\u0435\u0447\u0430\u043d"
+    ],
+    "qs:name":"Zve\u010dan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":853,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863638,
+        "qs:id":554583,
+        "wd:id":"Q62172",
+        "wk:page":"Zve\u010dan"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054905,
+    "wof:geomhash":"9840a9d67dcb8b3d8c542cdb104895a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492743,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890492743,
+    "wof:lastmodified":1527793029,
+    "wof:name":"Zve\u010dan",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12333,
+    41.70111,
+    21.12333,
+    41.70111
+],
+  "geometry": {"coordinates":[21.12333,41.70111],"type":"Point"}
+}

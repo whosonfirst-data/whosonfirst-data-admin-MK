@@ -1,0 +1,91 @@
+{
+  "id": 890491035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79972,42.0625,21.79972,42.0625",
+    "geom:latitude":42.0625,
+    "geom:longitude":21.79972,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1179,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Orasheci"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0430\u0448\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Orashac"
+    ],
+    "name:fre_x_preferred":[
+        "Orachats"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u0440\u0430\u0448\u0430\u0446"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0430\u0448\u0430\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0448\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0430\u0448\u0430\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Ora\u0161ec"
+    ],
+    "qs:name":"\u041e\u0440\u0430\u0448\u0430\u0446",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787444,
+        "qs:id":129491,
+        "wd:id":"Q3133772"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054837,
+    "wof:geomhash":"da001d52714cf95a8152d9b77245dbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491035,
+            "region_id":85674355
+        }
+    ],
+    "wof:id":890491035,
+    "wof:lastmodified":1553816419,
+    "wof:name":"\u041e\u0440\u0430\u0448\u0430\u0446",
+    "wof:parent_id":85674355,
+    "wof:placetype":"locality",
+    "wof:population":1179,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79972,
+    42.0625,
+    21.79972,
+    42.0625
+],
+  "geometry": {"coordinates":[21.79972,42.0625],"type":"Point"}
+}

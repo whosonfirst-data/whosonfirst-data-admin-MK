@@ -1,0 +1,253 @@
+{
+  "id": 85674289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.033504,
+    "geom:area_square_m":310807549.703767,
+    "geom:bbox":"22.1023725,41.289994,22.3704695,41.496945",
+    "geom:latitude":41.390441,
+    "geom:longitude":22.244682,
+    "gn:population":4115,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Demir Kapija Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":41.389032,
+    "lbl:longitude":22.24723,
+    "meso:adm1_alt":"\u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u0458\u0430",
+    "meso:adm1_loc":"Demir Kapija",
+    "meso:gadm_adm1":"Demir Kapija",
+    "meso:gaul_adm1":"Negotino",
+    "mps:latitude":41.372424,
+    "mps:longitude":22.229887,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Demir Kapis\u00eb"
+    ],
+    "name:arm_x_preferred":[
+        "\u0534\u0565\u0574\u056b\u0580 \u053f\u0561\u057a\u056b\u0561\u0575\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u044f"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u7c73\u5c14\u5361\u76ae\u96c5\u533a"
+    ],
+    "name:eng_x_preferred":[
+        "Demir Kapija Municipality"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10d4\u10db\u10d8\u10e0-\u10d9\u10d0\u10de\u10d8\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Demir Kapija"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Demir Kapija"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30df\u30eb\u30fb\u30ab\u30d4\u30e4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\ubbf8\ub974\uce74\ud53c\uc57c \uc2dc"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u0458\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u0458\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u0458\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Demir Kapija"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043c\u0438\u0440-\u041a\u0430\u043f\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Demir Kapija"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Demir Kapija"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u044f"
+    ],
+    "name:tur_x_preferred":[
+        "Demir Kap\u0131 Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043c\u0438\u0440-\u041a\u0430\u043f\u0456\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Demir Kapija"
+    ],
+    "name:und_x_variant":[
+        "Opstina Demir Kapija"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Demir Kapija"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0645\u06cc\u0631 \u06a9\u0627\u067e\u06cc\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-2927",
+    "ne:adm1_code":"MKD-2927",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.DK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2927",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK25",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.25",
+    "ne:gn_id":"862961",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Demir Kapija",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK25",
+    "ne:gns_id":"9043570",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Demir Kapija, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"41.37390000000",
+    "ne:longitude":"22.21610000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Demir Kapija",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DK",
+    "ne:provnum_ne":"20028",
+    "ne:region":"Southeastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":24550760,
+    "ne:woe_label":"Demir Kapija Municipality, MK, Macedonia",
+    "ne:woe_name":"Demir Kapija",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Demir Kapija",
+    "qs:a1_lc":"MKD-2927",
+    "qs:a1r":"Southeastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"312",
+    "statoids:area_mi":"120",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Demir Kapija",
+    "statoids:country":"MK",
+    "statoids:gec":"MK25",
+    "statoids:hasc":"MK.DK",
+    "statoids:iso":"24",
+    "statoids:name":"Demir Kapija",
+    "statoids:population":"4545",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-24",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK25",
+        "gn:id":862961,
+        "gp:id":24550760,
+        "hasc:id":"MK.DK",
+        "iso:id":"MK-24",
+        "qs:id":989453,
+        "unlc:id":"MK-24",
+        "wd:id":"Q2370973"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"ed2a298e9bc566a9386af8ab77d26e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674289
+        }
+    ],
+    "wof:id":85674289,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550472,
+    "wof:name":"Demir Kapija",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":4545,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"DK",
+    "wof:subdivision":"MK-24",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10237249999977,
+    41.28999399999987,
+    22.37046949999979,
+    41.49694499999984
+],
+  "geometry": {"coordinates":[[[22.31420549999979,41.49694499999984],[22.32180449999979,41.48992049999984],[22.34678549999978,41.48472299999986],[22.34885299999976,41.47483349999985],[22.33325199999979,41.44548699999984],[22.34412849999978,41.43002949999985],[22.33427399999977,41.41651549999986],[22.33956399999977,41.40271999999985],[22.33730699999978,41.39335599999984],[22.34408199999979,41.38914249999985],[22.35386199999976,41.39064349999984],[22.36448549999977,41.38339649999986],[22.36828799999978,41.38543899999985],[22.36944599999978,41.38525449999986],[22.37046949999979,41.37832699999984],[22.35684049999978,41.37005449999984],[22.36703299999976,41.35680899999986],[22.36024749999979,41.35673149999985],[22.35752299999979,41.35251649999987],[22.34943549999977,41.35388649999985],[22.35606099999978,41.34523849999985],[22.34677149999979,41.34583199999986],[22.34472999999977,41.34217199999986],[22.33677249999977,41.34247],[22.32956049999979,41.33660649999985],[22.32036549999978,41.34124849999986],[22.31843049999978,41.34026749999984],[22.32098749999977,41.33730049999986],[22.31949949999978,41.33427649999985],[22.30666799999977,41.32875049999984],[22.30090099999978,41.33102699999986],[22.29578399999977,41.32994649999986],[22.29568199999977,41.32177149999984],[22.30318999999977,41.31530749999985],[22.29251199999979,41.30988499999984],[22.28183399999978,41.31563149999985],[22.27278949999979,41.30916649999986],[22.26755549999979,41.31038099999986],[22.26140349999977,41.30545749999985],[22.25675299999978,41.30518199999986],[22.24932949999979,41.29627449999984],[22.22656349999977,41.29343699999984],[22.21103699999978,41.29625649999986],[22.19886899999977,41.28999399999987],[22.19160499999978,41.29416949999984],[22.18839299999979,41.29147499999985],[22.18128199999978,41.29540749999984],[22.17029449999978,41.30985549999986],[22.17119949999977,41.31357199999985],[22.16289749999979,41.31400499999984],[22.15206599999979,41.32126649999987],[22.14042599999979,41.31609899999984],[22.1369,41.32256949999984],[22.12091099999978,41.33692499999987],[22.11263599999978,41.33998249999985],[22.10237249999977,41.35478549999985],[22.11473749999979,41.35391449999986],[22.12111549999977,41.35784349999986],[22.12549949999979,41.35637799999986],[22.14765149999977,41.35965999999985],[22.15184499999978,41.36971349999985],[22.14933949999977,41.37268899999984],[22.15945399999978,41.38505049999986],[22.16094099999978,41.39346999999987],[22.15817349999978,41.40250549999985],[22.14947349999977,41.40459999999985],[22.14714,41.40711899999985],[22.14176199999977,41.40380999999985],[22.13046449999979,41.40853499999986],[22.14173849999978,41.41713699999985],[22.14299549999978,41.42158349999985],[22.14633549999976,41.41866399999986],[22.15507149999976,41.43071749999984],[22.16225249999977,41.43197199999986],[22.16148049999978,41.44261449999985],[22.16418049999979,41.44670149999985],[22.16638249999977,41.44531699999985],[22.16841399999979,41.44785449999986],[22.16643899999977,41.45216599999986],[22.17284899999979,41.45322049999984],[22.17632349999977,41.45689899999985],[22.16935899999979,41.46006899999986],[22.18301249999979,41.47224049999986],[22.20376249999978,41.48107099999984],[22.20533399999977,41.48665449999984],[22.21257349999979,41.48811099999986],[22.21732849999978,41.48184899999984],[22.22644499999979,41.48113349999986],[22.23943249999977,41.47024349999984],[22.25429599999978,41.46354949999986],[22.26388099999977,41.46263399999984],[22.27649099999977,41.48036449999987],[22.29746399999976,41.49146049999985],[22.31420549999979,41.49694499999984]]],"type":"Polygon"}
+}

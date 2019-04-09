@@ -1,0 +1,71 @@
+{
+  "id": 1276266551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11986,41.81752,22.11986,41.81752",
+    "geom:latitude":41.81752,
+    "geom:longitude":22.11986,
+    "gn:admin1_code":"98",
+    "gn:asciiname":"Vrsakovo",
+    "gn:country_code":"MK",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784131,
+    "gn:latitude":41.81752,
+    "gn:longitude":22.11986,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Vrsakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Vrsakovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0440\u0441\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784131
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"ef2e72bf7a9aa894213dadbd06f9c72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276266551,
+            "region_id":85674219
+        }
+    ],
+    "wof:id":1276266551,
+    "wof:lastmodified":1537664838,
+    "wof:name":"Vrsakovo",
+    "wof:parent_id":85674219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11986,
+    41.81752,
+    22.11986,
+    41.81752
+],
+  "geometry": {"coordinates":[22.11986,41.81752],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890492133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04528,41.61944,21.04528,41.61944",
+    "geom:latitude":41.61944,
+    "geom:longitude":21.04528,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1346,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Tujna"
+    ],
+    "qs:name":"Tuin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784854,
+        "qs:id":56500,
+        "wk:page":"Tuin"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054879,
+    "wof:geomhash":"d8060b48ce13440e7d38e1a56e973ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492133,
+            "region_id":85674407
+        }
+    ],
+    "wof:id":890492133,
+    "wof:lastmodified":1527793021,
+    "wof:name":"Tuin",
+    "wof:parent_id":85674407,
+    "wof:placetype":"locality",
+    "wof:population":1346,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04528,
+    41.61944,
+    21.04528,
+    41.61944
+],
+  "geometry": {"coordinates":[21.04528,41.61944],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890491269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49,41.03917,21.49,41.03917",
+    "geom:latitude":41.03917,
+    "geom:longitude":21.49,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":300,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Biljanik"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0438\u043b\u0458\u0430\u043d\u0438\u043a"
+    ],
+    "qs:name":"Biljanik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792621,
+        "qs:id":554089,
+        "wd:id":"Q2088022",
+        "wk:page":"Novaci Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054847,
+    "wof:geomhash":"86412fd31c924c614812552f6b7c4514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491269,
+            "region_id":85674373
+        }
+    ],
+    "wof:id":890491269,
+    "wof:lastmodified":1527736662,
+    "wof:name":"Biljanik",
+    "wof:parent_id":85674373,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49,
+    41.03917,
+    21.49,
+    41.03917
+],
+  "geometry": {"coordinates":[21.49,41.03917],"type":"Point"}
+}

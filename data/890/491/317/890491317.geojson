@@ -1,0 +1,72 @@
+{
+  "id": 890491317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2275,41.48806,21.2275,41.48806",
+    "geom:latitude":41.48806,
+    "geom:longitude":21.2275,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":303,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Slansko"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u043b\u0430\u043d\u0441\u043a\u043e"
+    ],
+    "qs:name":"Slansko",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785816,
+        "qs:id":553667,
+        "wd:id":"Q2364199",
+        "wk:page":"Makedonski Brod Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054848,
+    "wof:geomhash":"59d2a9ac71bbb95cb59f158fccf791b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491317,
+            "region_id":85674361
+        }
+    ],
+    "wof:id":890491317,
+    "wof:lastmodified":1527736668,
+    "wof:name":"Slansko",
+    "wof:parent_id":85674361,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2275,
+    41.48806,
+    21.2275,
+    41.48806
+],
+  "geometry": {"coordinates":[21.2275,41.48806],"type":"Point"}
+}

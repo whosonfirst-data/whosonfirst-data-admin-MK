@@ -1,0 +1,71 @@
+{
+  "id": 1293622913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12078,42.1222,22.12078,42.1222",
+    "geom:latitude":42.1222,
+    "geom:longitude":22.12078,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Krilatica",
+    "gn:country_code":"MK",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":789055,
+    "gn:latitude":42.1222,
+    "gn:longitude":22.12078,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Krilatica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Krilatica"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0440\u0438\u043b\u0430\u0442\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789055
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a5e0bb2d69f55af8e25572017e81b3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293622913,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1293622913,
+    "wof:lastmodified":1537664880,
+    "wof:name":"Krilatica",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12078,
+    42.1222,
+    22.12078,
+    42.1222
+],
+  "geometry": {"coordinates":[22.12078,42.1222],"type":"Point"}
+}

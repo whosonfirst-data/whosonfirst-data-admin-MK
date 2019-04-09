@@ -1,0 +1,71 @@
+{
+  "id": 1276804051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9634,41.55656,20.9634,41.55656",
+    "geom:latitude":41.55656,
+    "geom:longitude":20.9634,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Trapcin Dol",
+    "gn:country_code":"MK",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":784980,
+    "gn:latitude":41.55656,
+    "gn:longitude":20.9634,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Trap\u010din Dol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Trap\u010din Dol"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0440\u0430\u043f\u0447\u0438\u043d \u0414\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784980
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1c510e3de6040ae1f826c02ceae748b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276804051,
+            "region_id":85674399
+        }
+    ],
+    "wof:id":1276804051,
+    "wof:lastmodified":1537664844,
+    "wof:name":"Trapcin Dol",
+    "wof:parent_id":85674399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9634,
+    41.55656,
+    20.9634,
+    41.55656
+],
+  "geometry": {"coordinates":[20.9634,41.55656],"type":"Point"}
+}

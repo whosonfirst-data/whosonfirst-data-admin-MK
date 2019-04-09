@@ -1,0 +1,72 @@
+{
+  "id": 890491729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50944,41.84806,22.50944,41.84806",
+    "geom:latitude":41.84806,
+    "geom:longitude":22.50944,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1244,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Gradec"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u0440\u0430\u0434\u0435\u0446"
+    ],
+    "qs:name":"Gradec",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":790249,
+        "qs:id":129602,
+        "wd:id":"Q1541166",
+        "wk:page":"Gradec"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054863,
+    "wof:geomhash":"d3a2ab711eb559eedf1d10d89d6b259f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491729,
+            "region_id":85674475
+        }
+    ],
+    "wof:id":890491729,
+    "wof:lastmodified":1527736668,
+    "wof:name":"Gradec",
+    "wof:parent_id":85674475,
+    "wof:placetype":"locality",
+    "wof:population":1244,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50944,
+    41.84806,
+    22.50944,
+    41.84806
+],
+  "geometry": {"coordinates":[22.50944,41.84806],"type":"Point"}
+}

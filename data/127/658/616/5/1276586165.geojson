@@ -1,0 +1,72 @@
+{
+  "id": 1276586165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83639,41.10917,20.83639,41.10917",
+    "geom:latitude":41.10917,
+    "geom:longitude":20.83639,
+    "gn:admin1_code":"E2",
+    "gn:asciiname":"Ramne",
+    "gn:country_code":"MK",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":786489,
+    "gn:latitude":41.10917,
+    "gn:longitude":20.83639,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ramne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043c\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ramna",
+        "Ramne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":786489
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"849578d83403227886e74e095639626f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1276586165,
+            "region_id":85674165
+        }
+    ],
+    "wof:id":1276586165,
+    "wof:lastmodified":1537664858,
+    "wof:name":"Ramne",
+    "wof:parent_id":85674165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83639,
+    41.10917,
+    20.83639,
+    41.10917
+],
+  "geometry": {"coordinates":[20.83639,41.10917],"type":"Point"}
+}

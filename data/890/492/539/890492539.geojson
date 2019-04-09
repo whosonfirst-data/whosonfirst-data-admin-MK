@@ -1,0 +1,73 @@
+{
+  "id": 890492539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43944,41.64139,21.43944,41.64139",
+    "geom:latitude":41.64139,
+    "geom:longitude":21.43944,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":63,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Papradiste"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u043f\u0440\u0430\u0434\u0438\u0448\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Papradi\u0161ta"
+    ],
+    "qs:name":"\u041f\u0430\u043f\u0440\u0430\u0434\u0438\u0448\u0442\u0435",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787222,
+        "gp:id":483099,
+        "qs:id":553768
+    },
+    "wof:country":"MK",
+    "wof:created":1469054898,
+    "wof:geomhash":"1570748cbc81434c72a2ccfb41062b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492539,
+            "region_id":85674265
+        }
+    ],
+    "wof:id":890492539,
+    "wof:lastmodified":1505343799,
+    "wof:name":"\u041f\u0430\u043f\u0440\u0430\u0434\u0438\u0448\u0442\u0435",
+    "wof:parent_id":85674265,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43944,
+    41.64139,
+    21.43944,
+    41.64139
+],
+  "geometry": {"coordinates":[21.43944,41.64139],"type":"Point"}
+}

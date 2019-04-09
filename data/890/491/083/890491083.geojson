@@ -1,0 +1,69 @@
+{
+  "id": 890491083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.175,41.93722,21.175,41.93722",
+    "geom:latitude":41.93722,
+    "geom:longitude":21.175,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":800,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Merovo"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "qs:name":"Merovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788023,
+        "qs:id":553812
+    },
+    "wof:country":"MK",
+    "wof:created":1469054840,
+    "wof:geomhash":"2a4e73423f667c6a9de3a5a5a5912768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491083,
+            "region_id":85674251
+        }
+    ],
+    "wof:id":890491083,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Merovo",
+    "wof:parent_id":85674251,
+    "wof:placetype":"locality",
+    "wof:population":800,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.175,
+    41.93722,
+    21.175,
+    41.93722
+],
+  "geometry": {"coordinates":[21.175,41.93722],"type":"Point"}
+}

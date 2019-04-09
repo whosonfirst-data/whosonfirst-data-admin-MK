@@ -1,0 +1,75 @@
+{
+  "id": 1259347631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32139,42.1325,21.32139,42.1325",
+    "geom:latitude":42.1325,
+    "geom:longitude":21.32139,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Dolno Blace",
+    "gn:country_code":"MK",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":829567,
+    "gn:latitude":42.1325,
+    "gn:longitude":21.32139,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Dolno Blace",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dolno Blace"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u043b\u043d\u043e \u0411\u043b\u0430\u0446\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bllac\u00eb e Posht\u00ebme",
+        "Donje Blace"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829567
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2fd3173368d0f2b2608859032e24d18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259347631,
+            "region_id":85674287
+        }
+    ],
+    "wof:id":1259347631,
+    "wof:lastmodified":1537664918,
+    "wof:name":"Dolno Blace",
+    "wof:parent_id":85674287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32139,
+    42.1325,
+    21.32139,
+    42.1325
+],
+  "geometry": {"coordinates":[21.32139,42.1325],"type":"Point"}
+}

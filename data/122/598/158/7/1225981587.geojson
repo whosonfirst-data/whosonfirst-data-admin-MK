@@ -1,0 +1,73 @@
+{
+  "id": 1225981587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66544,41.7144,20.66544,41.7144",
+    "geom:latitude":41.7144,
+    "geom:longitude":20.66544,
+    "gn:admin1_code":"E4",
+    "gn:asciiname":"Volkovija",
+    "gn:country_code":"MK",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829496,
+    "gn:latitude":41.7144,
+    "gn:longitude":20.66544,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Volkovija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u0438\u0458\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vikovija",
+        "Vollkovija",
+        "Volkovija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829496
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"d6a0e1ca5b03ed9a05be9bd442d3c225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1225981587,
+            "region_id":85674403
+        }
+    ],
+    "wof:id":1225981587,
+    "wof:lastmodified":1537664918,
+    "wof:name":"Volkovija",
+    "wof:parent_id":85674403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66544,
+    41.7144,
+    20.66544,
+    41.7144
+],
+  "geometry": {"coordinates":[20.66544,41.7144],"type":"Point"}
+}

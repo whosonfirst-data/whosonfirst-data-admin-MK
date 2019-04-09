@@ -1,0 +1,71 @@
+{
+  "id": 1259519329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02213,42.11407,22.02213,42.11407",
+    "geom:latitude":42.11407,
+    "geom:longitude":22.02213,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Dodaci",
+    "gn:country_code":"MK",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112550,
+    "gn:latitude":42.11407,
+    "gn:longitude":22.02213,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Dodaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Dodaci"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u0434\u0430\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112550
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"ac1bbc8ec27700bc1b9154e9c2f5384f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259519329,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":1259519329,
+    "wof:lastmodified":1537664963,
+    "wof:name":"Dodaci",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02213,
+    42.11407,
+    22.02213,
+    42.11407
+],
+  "geometry": {"coordinates":[22.02213,42.11407],"type":"Point"}
+}

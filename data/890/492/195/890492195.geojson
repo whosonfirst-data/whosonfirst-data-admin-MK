@@ -1,0 +1,94 @@
+{
+  "id": 890492195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.34528,41.28083,21.34528,41.28083",
+    "geom:latitude":41.28083,
+    "geom:longitude":21.34528,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":807,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Kisha e Bardh\u00eb"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u0446\u044a\u0440\u043a\u0432\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Bela Crkva"
+    ],
+    "name:eng_x_preferred":[
+        "Bela Crkva"
+    ],
+    "name:fre_x_preferred":[
+        "Bela Tsrkva"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u0426\u0440\u043a\u0432\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "Bela Crkva"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0435\u043b\u0430 \u0426\u0440\u043a\u0432\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u0426\u0440\u043a\u0432\u0430"
+    ],
+    "qs:name":"Bela Crkva",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792796,
+        "gp:id":483208,
+        "qs:id":83773,
+        "wd:id":"Q2894177",
+        "wk:page":"Bela Crkva"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054880,
+    "wof:geomhash":"389cc1f5356db50031625bcd78a7b2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492195,
+            "region_id":85674349
+        }
+    ],
+    "wof:id":890492195,
+    "wof:lastmodified":1527793021,
+    "wof:name":"Bela Crkva",
+    "wof:parent_id":85674349,
+    "wof:placetype":"locality",
+    "wof:population":807,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.34528,
+    41.28083,
+    21.34528,
+    41.28083
+],
+  "geometry": {"coordinates":[21.34528,41.28083],"type":"Point"}
+}

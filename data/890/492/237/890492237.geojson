@@ -1,0 +1,83 @@
+{
+  "id": 890492237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07722,41.24722,22.07722,41.24722",
+    "geom:latitude":41.24722,
+    "geom:longitude":22.07722,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":327,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Konopi\u0161te"
+    ],
+    "name:eng_x_preferred":[
+        "Konopi\u0161te"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043d\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Konopisjte"
+    ],
+    "qs:name":"Konopi\u0161te",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Kavadarci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789317,
+        "gp:id":482311,
+        "qs:id":1213586,
+        "wd:id":"Q6429636",
+        "wk:page":"Konopi\u0161te"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054882,
+    "wof:geomhash":"54c16777cabc95ad6190ff2191c2440a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492237,
+            "region_id":85674327
+        }
+    ],
+    "wof:id":890492237,
+    "wof:lastmodified":1527793029,
+    "wof:name":"Konopi\u0161te",
+    "wof:parent_id":85674327,
+    "wof:placetype":"locality",
+    "wof:population":327,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07722,
+    41.24722,
+    22.07722,
+    41.24722
+],
+  "geometry": {"coordinates":[22.07722,41.24722],"type":"Point"}
+}

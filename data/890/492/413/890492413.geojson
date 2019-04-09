@@ -1,0 +1,102 @@
+{
+  "id": 890492413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3525,41.51667,21.3525,41.51667",
+    "geom:latitude":41.51667,
+    "geom:longitude":21.3525,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":260,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Z\u00ebrza"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u044a\u0440\u0437\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Zrze"
+    ],
+    "name:eng_x_preferred":[
+        "Zrze"
+    ],
+    "name:fre_x_preferred":[
+        "Zrze"
+    ],
+    "name:ger_x_preferred":[
+        "Zrze"
+    ],
+    "name:hun_x_preferred":[
+        "Zrze"
+    ],
+    "name:mac_x_preferred":[
+        "\u0417\u0440\u0437\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "Zrze"
+    ],
+    "name:mkd_x_variant":[
+        "\u0417\u0440\u0437\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0440\u0437\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Zrze"
+    ],
+    "qs:name":"Zrze",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":783805,
+        "qs:id":553558,
+        "wd:id":"Q3075351",
+        "wk:page":"Zrze"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054889,
+    "wof:geomhash":"fb24830261f09c287100bd1b51f937b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492413,
+            "region_id":85674293
+        }
+    ],
+    "wof:id":890492413,
+    "wof:lastmodified":1553816420,
+    "wof:name":"Zrze",
+    "wof:parent_id":85674293,
+    "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3525,
+    41.51667,
+    21.3525,
+    41.51667
+],
+  "geometry": {"coordinates":[21.3525,41.51667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293135123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38028,42.27639,22.38028,42.27639",
+    "geom:latitude":42.27639,
+    "geom:longitude":22.38028,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Zirnicka Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862016,
+    "gn:latitude":42.27639,
+    "gn:longitude":22.38028,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u017dirni\u010dka Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u017dirni\u010dka Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0416\u0438\u0440\u043d\u0438\u0447\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862016
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1893d5a8e8036d01da499e7fadb10743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293135123,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1293135123,
+    "wof:lastmodified":1537664944,
+    "wof:name":"Zirnicka Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38028,
+    42.27639,
+    22.38028,
+    42.27639
+],
+  "geometry": {"coordinates":[22.38028,42.27639],"type":"Point"}
+}

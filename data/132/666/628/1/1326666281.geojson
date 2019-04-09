@@ -1,0 +1,71 @@
+{
+  "id": 1326666281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34018,42.24646,22.34018,42.24646",
+    "geom:latitude":42.24646,
+    "geom:longitude":22.34018,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Ridarska Maala",
+    "gn:country_code":"MK",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114205,
+    "gn:latitude":42.24646,
+    "gn:longitude":22.34018,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ridarska Maala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Ridarska Maala"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0438\u0434\u0430\u0440\u0441\u043a\u0430 \u041c\u0430\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114205
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"8ef92c656cc4fef033db92269acc3827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326666281,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":1326666281,
+    "wof:lastmodified":1537664966,
+    "wof:name":"Ridarska Maala",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34018,
+    42.24646,
+    22.34018,
+    42.24646
+],
+  "geometry": {"coordinates":[22.34018,42.24646],"type":"Point"}
+}

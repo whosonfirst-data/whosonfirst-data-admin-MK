@@ -1,0 +1,72 @@
+{
+  "id": 1326560667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48194,41.55,20.48194,41.55",
+    "geom:latitude":41.55,
+    "geom:longitude":20.48194,
+    "gn:admin1_code":"D2",
+    "gn:asciiname":"Spas",
+    "gn:country_code":"MK",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":785651,
+    "gn:latitude":41.55,
+    "gn:longitude":20.48194,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Spas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0421\u043f\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Spasi",
+        "Spas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785651
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"704043a06cdbd1997fa9fd5b7ce9ffb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1326560667,
+            "region_id":85674389
+        }
+    ],
+    "wof:id":1326560667,
+    "wof:lastmodified":1537664851,
+    "wof:name":"Spas",
+    "wof:parent_id":85674389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48194,
+    41.55,
+    20.48194,
+    41.55
+],
+  "geometry": {"coordinates":[20.48194,41.55],"type":"Point"}
+}

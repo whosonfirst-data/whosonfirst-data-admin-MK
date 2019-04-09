@@ -1,0 +1,71 @@
+{
+  "id": 1243208231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72361,41.69278,20.72361,41.69278",
+    "geom:latitude":41.69278,
+    "geom:longitude":20.72361,
+    "gn:admin1_code":"E4",
+    "gn:asciiname":"Kicinica",
+    "gn:country_code":"MK",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":833898,
+    "gn:latitude":41.69278,
+    "gn:longitude":20.72361,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Ki\u010dinica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Ki\u010dinica"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0438\u0447\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":833898
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"7840f0888dec36c5f77427395298a3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243208231,
+            "region_id":85674403
+        }
+    ],
+    "wof:id":1243208231,
+    "wof:lastmodified":1537664924,
+    "wof:name":"Kicinica",
+    "wof:parent_id":85674403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72361,
+    41.69278,
+    20.72361,
+    41.69278
+],
+  "geometry": {"coordinates":[20.72361,41.69278],"type":"Point"}
+}

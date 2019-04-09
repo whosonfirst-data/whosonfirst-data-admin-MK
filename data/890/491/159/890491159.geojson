@@ -1,0 +1,99 @@
+{
+  "id": 890491159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67,41.71833,21.67,41.71833",
+    "geom:latitude":41.71833,
+    "geom:longitude":21.67,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":237,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Slimniku"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Slivnik"
+    ],
+    "name:fre_x_preferred":[
+        "Slivnik"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10da\u10d8\u10d5\u10dc\u10d8\u10d9\u10d8"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Slivnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Slivnjak"
+    ],
+    "qs:name":"Slivnik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785779,
+        "qs:id":83588,
+        "wd:id":"Q2005621",
+        "wk:page":"Slivn\u00edk"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054843,
+    "wof:geomhash":"259adf68f493fe5382b83d2cf79982dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491159,
+            "region_id":85674237
+        }
+    ],
+    "wof:id":890491159,
+    "wof:lastmodified":1527736659,
+    "wof:name":"Slivnik",
+    "wof:parent_id":85674237,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67,
+    41.71833,
+    21.67,
+    41.71833
+],
+  "geometry": {"coordinates":[21.67,41.71833],"type":"Point"}
+}

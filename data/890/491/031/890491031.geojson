@@ -1,0 +1,100 @@
+{
+  "id": 890491031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5675,41.47611,22.5675,41.47611",
+    "geom:latitude":41.47611,
+    "geom:longitude":22.5675,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":1720,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Veljusa"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u044e\u0441\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Veljusa"
+    ],
+    "name:eng_x_preferred":[
+        "Veljusa"
+    ],
+    "name:fre_x_preferred":[
+        "Velyousa"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb\u03b5\u03bf\u03cd\u03c3\u03b1 \u03a3\u03c4\u03c1\u03ce\u03bc\u03bd\u03b9\u03c4\u03c3\u03b1\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0435\u0459\u0443\u0441\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u0459\u0443\u0441\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0459\u0443\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Veljusa"
+    ],
+    "name:unk_x_variant":[
+        "Veljusa"
+    ],
+    "qs:name":"Velusa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":784505,
+        "gp:id":483177,
+        "qs:id":129386,
+        "wd:id":"Q3135127",
+        "wk:page":"Velu\u0161a"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054836,
+    "wof:geomhash":"db2476ea6a24742acc652e64fb732a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491031,
+            "region_id":85674439
+        }
+    ],
+    "wof:id":890491031,
+    "wof:lastmodified":1527736661,
+    "wof:name":"Velusa",
+    "wof:parent_id":85674439,
+    "wof:placetype":"locality",
+    "wof:population":1720,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5675,
+    41.47611,
+    22.5675,
+    41.47611
+],
+  "geometry": {"coordinates":[22.5675,41.47611],"type":"Point"}
+}

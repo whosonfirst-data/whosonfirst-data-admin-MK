@@ -1,0 +1,76 @@
+{
+  "id": 1360321955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.745,41.26284,22.745,41.26284",
+    "geom:latitude":41.26284,
+    "geom:longitude":22.745,
+    "gn:admin1_code":"E5",
+    "gn:asciiname":"Nikolik",
+    "gn:country_code":"MK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787667,
+    "gn:latitude":41.26284,
+    "gn:longitude":22.745,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Nikoli\u1e31",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Nikoli\u0107"
+    ],
+    "name:mkd_x_variant":[
+        "\u041d\u0438\u043a\u043e\u043b\u0438\u045c",
+        "Nikoli\u1e31"
+    ],
+    "name:und_x_variant":[
+        "Nikoli\u0107i",
+        "Nikoli\u010d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787667
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"a340337ff54d4cc26eb05d82958d988a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1360321955,
+            "region_id":85674473
+        }
+    ],
+    "wof:id":1360321955,
+    "wof:lastmodified":1537664870,
+    "wof:name":"Nikolik",
+    "wof:parent_id":85674473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.745,
+    41.26284,
+    22.745,
+    41.26284
+],
+  "geometry": {"coordinates":[22.745,41.26284],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243378203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97361,41.30806,21.97361,41.30806",
+    "geom:latitude":41.30806,
+    "geom:longitude":21.97361,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Polosko",
+    "gn:country_code":"MK",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":863599,
+    "gn:latitude":41.30806,
+    "gn:longitude":21.97361,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Polo\u0161ko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863599
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"33eb6cb38b965e4f16ede367953a5195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1243378203,
+            "region_id":85674327
+        }
+    ],
+    "wof:id":1243378203,
+    "wof:lastmodified":1536904098,
+    "wof:name":"Polosko",
+    "wof:parent_id":85674327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97361,
+    41.30806,
+    21.97361,
+    41.30806
+],
+  "geometry": {"coordinates":[21.97361,41.30806],"type":"Point"}
+}

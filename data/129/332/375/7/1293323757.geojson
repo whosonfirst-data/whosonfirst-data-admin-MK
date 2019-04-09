@@ -1,0 +1,71 @@
+{
+  "id": 1293323757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0857,41.53785,22.0857,41.53785",
+    "geom:latitude":41.53785,
+    "geom:longitude":22.0857,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Crveni Bregovi",
+    "gn:country_code":"MK",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9007432,
+    "gn:latitude":41.53785,
+    "gn:longitude":22.0857,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Crveni Bregovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Crveni Bregovi"
+    ],
+    "name:mkd_x_variant":[
+        "\u0426\u0440\u0432\u0435\u043d\u0438 \u0411\u0440\u0435\u0433\u043e\u0432\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9007432
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1eefc7ed3d2775ac6cec13e9b658fe3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1293323757,
+            "region_id":85674369
+        }
+    ],
+    "wof:id":1293323757,
+    "wof:lastmodified":1537664961,
+    "wof:name":"Crveni Bregovi",
+    "wof:parent_id":85674369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0857,
+    41.53785,
+    22.0857,
+    41.53785
+],
+  "geometry": {"coordinates":[22.0857,41.53785],"type":"Point"}
+}

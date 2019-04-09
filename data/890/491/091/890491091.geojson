@@ -1,0 +1,70 @@
+{
+  "id": 890491091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2525,41.43639,21.2525,41.43639",
+    "geom:latitude":41.43639,
+    "geom:longitude":21.2525,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":127,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u0443\u0448\u0438\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Velu\u0161ino"
+    ],
+    "qs:name":"Belu\u0161ino",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792686,
+        "gp:id":482372,
+        "qs:id":554096
+    },
+    "wof:country":"MK",
+    "wof:created":1469054840,
+    "wof:geomhash":"fc4eb378bf46401e2e1b62ae227c0539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491091,
+            "region_id":85674353
+        }
+    ],
+    "wof:id":890491091,
+    "wof:lastmodified":1505343790,
+    "wof:name":"Belu\u0161ino",
+    "wof:parent_id":85674353,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2525,
+    41.43639,
+    21.2525,
+    41.43639
+],
+  "geometry": {"coordinates":[21.2525,41.43639],"type":"Point"}
+}

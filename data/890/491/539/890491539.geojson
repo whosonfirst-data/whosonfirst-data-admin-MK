@@ -1,0 +1,69 @@
+{
+  "id": 890491539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20889,41.97194,21.20889,41.97194",
+    "geom:latitude":41.97194,
+    "geom:longitude":21.20889,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":990,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0441\u043a\u0430\u0440\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Laskrce"
+    ],
+    "qs:name":"Laskarci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788789,
+        "qs:id":83677
+    },
+    "wof:country":"MK",
+    "wof:created":1469054856,
+    "wof:geomhash":"8c212e7f69c2a8ebf9fffd4f0fb354b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491539,
+            "region_id":85674205
+        }
+    ],
+    "wof:id":890491539,
+    "wof:lastmodified":1505343793,
+    "wof:name":"Laskarci",
+    "wof:parent_id":85674205,
+    "wof:placetype":"locality",
+    "wof:population":990,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20889,
+    41.97194,
+    21.20889,
+    41.97194
+],
+  "geometry": {"coordinates":[21.20889,41.97194],"type":"Point"}
+}

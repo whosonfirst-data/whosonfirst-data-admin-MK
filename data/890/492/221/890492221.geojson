@@ -1,0 +1,86 @@
+{
+  "id": 890492221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33194,42.20194,22.33194,42.20194",
+    "geom:latitude":42.20194,
+    "geom:longitude":22.33194,
+    "gn:country":"MK",
+    "gn:fcode":"PPLA",
+    "gn:pop":20820,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kriva Palanka"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Palangha"
+    ],
+    "qs:name":"Kriva Palanka",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Kriva Palanka",
+    "qs:photos":240,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":240,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"42.201666666",
+    "wd:longitude":"22.331666666",
+    "wd:wordcount":1011,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":789045,
+        "gp:id":482354,
+        "qs:id":887645,
+        "wd:id":"Q578396",
+        "wk:page":"Kriva Palanka"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054881,
+    "wof:geomhash":"d6b3052f224dc74b4d5b5860f577e6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492221,
+            "region_id":85674197
+        }
+    ],
+    "wof:id":890492221,
+    "wof:lastmodified":1527793022,
+    "wof:name":"Kriva Palanka",
+    "wof:parent_id":85674197,
+    "wof:placetype":"locality",
+    "wof:population":20820,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33194,
+    42.20194,
+    22.33194,
+    42.20194
+],
+  "geometry": {"coordinates":[22.33194,42.20194],"type":"Point"}
+}

@@ -1,0 +1,324 @@
+{
+  "id": 85674503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.026169,
+    "geom:area_square_m":239681756.551641,
+    "geom:bbox":"22.033649,42.1105155,22.236691,42.312343",
+    "geom:latitude":42.208816,
+    "geom:longitude":22.135977,
+    "gn:population":3826,
+    "iso:country":"MK",
+    "label:eng_x_preferred_longname":[
+        "Rankovce Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":42.206161,
+    "lbl:longitude":22.144207,
+    "meso:adm1_alt":"\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435",
+    "meso:adm1_loc":"Rankovce",
+    "meso:gadm_adm1":"Rankovce",
+    "meso:gaul_adm1":"Kriva Palanka",
+    "mps:latitude":42.203423,
+    "mps:longitude":22.117554,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Komuna e Rankocit"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0631\u0627\u0646\u0643\u0648\u0641\u064a\u062a\u0633\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u200d\u09cd\u09af\u09be\u0999\u09cd\u0995\u09cb\u09ad\u099a\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u862d\u79d1\u592b\u91c7\u5340"
+    ],
+    "name:cze_x_preferred":[
+        "Op\u0161tina Rankovce"
+    ],
+    "name:dan_x_preferred":[
+        "Rankovce Municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Rankovce"
+    ],
+    "name:eng_x_preferred":[
+        "Rankovce Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Opstina Rankovce",
+        "Rankovce"
+    ],
+    "name:fin_x_preferred":[
+        "Rankovcen kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Rankovts\u00e9"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d0\u10dc\u10d9\u10dd\u10d5\u10ea\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Op\u0161tina Rankovce"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03b1\u03bd\u03ba\u03cc\u03b2\u03b9\u03c4\u03c3\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0ac7\u0aa8\u0acd\u0a95\u0acb\u0ab5\u0acd\u0ab8\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0948\u0928\u0915\u094b\u0935\u094d\u0938 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Rankovce"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Rankovce"
+    ],
+    "name:ita_x_preferred":[
+        "Rankovce"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30b3\u30f4\u30c4\u30a7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbe\u0c82\u0c95\u0ccb\u0cb5\u0ccd\u0cb8\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub780\ucf54\ube0c\uccb4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Rankovces pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Rankovc\u0117s savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u0945\u0928\u094d\u0915\u094b\u0935\u094d\u0939\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Rankovce Municipality"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:nob_x_preferred":[
+        "Rankovce kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Rankovce"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Rankovce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0db1\u0dca\u0d9a\u0ddc\u0dc0\u0dca\u0dc3\u0dda \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Rankovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Opsjtina Rankovce"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0b99\u0bcd\u0b95\u0bcb\u0bb5\u0bcd\u0bb8\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3e\u0c02\u0c15\u0c4b\u0c35\u0c38\u0c46 \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0420\u0430\u043d\u043a\u043e\u0432\u0442\u0441\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e25\u0e34\u0e01\u0e31\u0e19\u0e40\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Rankovce Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Rankovce"
+    ],
+    "name:und_x_variant":[
+        "Opstina Rankovce"
+    ],
+    "name:unk_x_variant":[
+        "Op\u0161tina Rankovce"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0646\u06a9\u0648\u0648\u062a\u0633\u06d2 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Rankovce"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MKD",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MKD-4846",
+    "ne:adm1_code":"MKD-4846",
+    "ne:admin":"Macedonia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"11",
+    "ne:code_hasc":"MK.RN",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"4846",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MK85",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Macedonia",
+    "ne:gn_a1_code":"MK.85",
+    "ne:gn_id":"863891",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Opstina Rankovce",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MK85",
+    "ne:gns_id":"9075755",
+    "ne:gns_lang":"mkd",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Rankovce, Opstina",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MKD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MK-85",
+    "ne:iso_a2":"MK",
+    "ne:labelrank":"10",
+    "ne:latitude":"42.18950000000",
+    "ne:longitude":"22.10490000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Rankovce",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"KZ",
+    "ne:provnum_ne":"0",
+    "ne:region":"Northeastern",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MKD",
+    "ne:sub_code":"",
+    "ne:type":"Statistical Region",
+    "ne:type_en":"Statistical Region",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Municipality_of_Rankovce",
+    "ne:woe_id":24550844,
+    "ne:woe_label":"Rankovce Municipality, MK, Macedonia",
+    "ne:woe_name":"Rankovce Municipality",
+    "qs:a0":"Macedonia",
+    "qs:a0_lc":"MK",
+    "qs:a1":"Rankovce",
+    "qs:a1_lc":"MKD-4846",
+    "qs:a1r":"Northeastern",
+    "qs:adm0":"Macedonia",
+    "qs:adm0_a3":"MKD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Statistical Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-10-31",
+    "statoids:area_km":"240",
+    "statoids:area_mi":"93",
+    "statoids:as_of_date":"2002-10-31",
+    "statoids:capital":"Rankovce",
+    "statoids:country":"MK",
+    "statoids:gec":"MK85",
+    "statoids:hasc":"MK.RN",
+    "statoids:iso":"65",
+    "statoids:name":"Rankovce",
+    "statoids:population":"4144",
+    "statoids:timezone":"+1~",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"MK-65",
+    "wof:belongsto":[
+        102191581,
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MK85",
+        "gn:id":863891,
+        "gp:id":24550844,
+        "hasc:id":"MK.RN",
+        "iso:id":"MK-65",
+        "qs:id":1193222,
+        "unlc:id":"MK-65",
+        "wd:id":"Q1475001",
+        "wk:page":"Rankovce Municipality"
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"2b253cfebfdc815f5d10b5edac5cfd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "region_id":85674503
+        }
+    ],
+    "wof:id":85674503,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lang_x_official":[
+        "mkd"
+    ],
+    "wof:lang_x_spoken":[
+        "mkd",
+        "sqi"
+    ],
+    "wof:lastmodified":1553550458,
+    "wof:name":"Rankovce",
+    "wof:parent_id":85632373,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"municipality",
+    "wof:population":4144,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"RN",
+    "wof:subdivision":"MK-65",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03364899999977,
+    42.11051549999985,
+    22.23669099999978,
+    42.31234299999986
+],
+  "geometry": {"coordinates":[[[22.06574849999978,42.29994049999985],[22.06680799999978,42.29987149999985],[22.07038749999978,42.30020049999985],[22.08132099999978,42.30197749999985],[22.09049299999978,42.30468749999986],[22.09392099999977,42.30545499999985],[22.10063699999978,42.30629999999985],[22.10934699999979,42.30887699999985],[22.11078899999978,42.30963249999985],[22.11272149999976,42.31082549999985],[22.11499399999977,42.31234299999986],[22.11878449999978,42.31200949999985],[22.12326999999979,42.31112499999986],[22.12543149999979,42.30946399999985],[22.12712349999978,42.30857999999986],[22.13280599999979,42.30724649999985],[22.13826799999978,42.30207799999985],[22.13876549999978,42.28989149999984],[22.14687699999979,42.28874949999985],[22.16137999999978,42.26651799999985],[22.17571149999978,42.26650799999985],[22.20000449999978,42.25441899999984],[22.20497549999979,42.26430599999986],[22.20767599999976,42.25916449999986],[22.22313699999978,42.24951249999984],[22.21720249999979,42.23746849999986],[22.22039199999978,42.23284499999986],[22.22066649999977,42.22091349999985],[22.20993199999978,42.21017699999985],[22.22707899999978,42.18877949999984],[22.22747749999976,42.17941599999986],[22.22427949999977,42.17091299999984],[22.23208599999978,42.17228849999984],[22.23258749999977,42.15708449999985],[22.23669099999978,42.15240499999985],[22.23155199999977,42.14431599999986],[22.22658599999977,42.14402149999984],[22.22467649999979,42.13655599999984],[22.22321649999978,42.13786749999986],[22.22024249999978,42.13499099999984],[22.21501849999979,42.13672049999985],[22.20674849999978,42.13056099999986],[22.20527699999977,42.12829199999985],[22.21040549999978,42.12331299999985],[22.20574499999978,42.11852399999984],[22.19132999999977,42.11833049999984],[22.18878999999978,42.11623499999985],[22.17873199999977,42.11626899999985],[22.16236099999978,42.11054199999984],[22.15641349999979,42.11051549999985],[22.14342199999979,42.12401199999985],[22.13009449999979,42.12933149999986],[22.12687699999978,42.13299049999986],[22.11998149999977,42.13304149999985],[22.12156249999978,42.13710299999985],[22.11654499999977,42.14199299999984],[22.11702649999978,42.14881249999985],[22.10596899999979,42.14296099999984],[22.08466899999976,42.14582449999986],[22.08615249999977,42.15024399999984],[22.08216499999978,42.15295099999986],[22.07514249999977,42.14806849999985],[22.06617299999976,42.15655999999984],[22.06903449999979,42.16154099999986],[22.07280349999976,42.16284399999986],[22.07199549999979,42.16518149999985],[22.05483449999977,42.16509899999986],[22.03789499999976,42.18075399999984],[22.05941549999977,42.18837349999984],[22.06095799999977,42.19280749999984],[22.05965049999978,42.19778199999985],[22.05343149999979,42.20398799999984],[22.04937749999976,42.21822699999984],[22.04077999999978,42.22449899999984],[22.04763399999979,42.22688149999985],[22.04890099999977,42.23716149999984],[22.05161899999979,42.23956449999986],[22.04771599999978,42.25528449999985],[22.03779599999979,42.25897749999984],[22.03364899999977,42.26332999999985],[22.03965649999978,42.27065149999984],[22.05000299999978,42.27322699999985],[22.05241499999977,42.27190149999984],[22.05714099999977,42.27538999999985],[22.06204499999978,42.27559149999985],[22.06732649999978,42.28249349999984],[22.06938299999979,42.29143999999985],[22.06574849999978,42.29994049999985]]],"type":"Polygon"}
+}

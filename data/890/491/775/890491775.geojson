@@ -1,0 +1,101 @@
+{
+  "id": 890491775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72667,41.41528,22.72667,41.41528",
+    "geom:latitude":41.41528,
+    "geom:longitude":22.72667,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":2202,
+    "gp:adm0":23424890,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Murtina"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0440\u0442\u0438\u043d\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Murtino"
+    ],
+    "name:eng_x_preferred":[
+        "Murtino"
+    ],
+    "name:fre_x_preferred":[
+        "Mourtino"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0443\u0440\u0442\u0438\u043d\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0443\u0440\u0442\u0438\u043d\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0440\u0442\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Murtino"
+    ],
+    "qs:name":"Murtino",
+    "qs:name_adm0":"Macedonia",
+    "qs:name_adm1":"Strumica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:elevation":212.0,
+    "wd:latitude":"41.4153",
+    "wd:longitude":"22.7267",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787772,
+        "gp:id":482564,
+        "qs:id":1213607,
+        "wd:id":"Q3135323",
+        "wk:page":"Murtino"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054865,
+    "wof:geomhash":"51d782aeca8281b83b2d628938b2db4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491775,
+            "region_id":85674439
+        }
+    ],
+    "wof:id":890491775,
+    "wof:lastmodified":1527736667,
+    "wof:name":"Murtino",
+    "wof:parent_id":85674439,
+    "wof:placetype":"locality",
+    "wof:population":2202,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72667,
+    41.41528,
+    22.72667,
+    41.41528
+],
+  "geometry": {"coordinates":[22.72667,41.41528],"type":"Point"}
+}

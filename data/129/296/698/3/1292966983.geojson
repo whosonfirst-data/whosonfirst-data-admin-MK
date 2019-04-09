@@ -1,0 +1,73 @@
+{
+  "id": 1292966983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5529,41.48375,20.5529,41.48375",
+    "geom:latitude":41.48375,
+    "geom:longitude":20.5529,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Balanci",
+    "gn:country_code":"MK",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":792981,
+    "gn:latitude":41.48375,
+    "gn:longitude":20.5529,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Balanci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pare\u017e",
+        "Balanci Pale\u017e",
+        "Balanci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":792981
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"24390efe26e75b9a205aa069d5b56ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1292966983,
+            "region_id":85674385
+        }
+    ],
+    "wof:id":1292966983,
+    "wof:lastmodified":1537664914,
+    "wof:name":"Balanci",
+    "wof:parent_id":85674385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5529,
+    41.48375,
+    20.5529,
+    41.48375
+],
+  "geometry": {"coordinates":[20.5529,41.48375],"type":"Point"}
+}

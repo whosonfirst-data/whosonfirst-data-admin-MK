@@ -1,0 +1,71 @@
+{
+  "id": 1259620451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06133,41.95309,22.06133,41.95309",
+    "geom:latitude":41.95309,
+    "geom:longitude":22.06133,
+    "gn:admin1_code":"A4",
+    "gn:asciiname":"Patetino",
+    "gn:country_code":"MK",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":787173,
+    "gn:latitude":41.95309,
+    "gn:longitude":22.06133,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Patetino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Patetino"
+    ],
+    "name:mkd_x_variant":[
+        "\u041f\u0430\u0442\u0435\u0442\u0438\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":787173
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"67f00052e5c09814c3fb51f3b6f53275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1259620451,
+            "region_id":85674229
+        }
+    ],
+    "wof:id":1259620451,
+    "wof:lastmodified":1537664865,
+    "wof:name":"Patetino",
+    "wof:parent_id":85674229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06133,
+    41.95309,
+    22.06133,
+    41.95309
+],
+  "geometry": {"coordinates":[22.06133,41.95309],"type":"Point"}
+}

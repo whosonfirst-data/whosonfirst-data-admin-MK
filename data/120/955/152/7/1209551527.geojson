@@ -1,0 +1,67 @@
+{
+  "id": 1209551527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46445,41.99171,22.46445,41.99171",
+    "geom:latitude":41.99171,
+    "geom:longitude":22.46445,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ljubince",
+    "gn:country_code":"MK",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9269388,
+    "gn:latitude":41.99171,
+    "gn:longitude":22.46445,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Ljubince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Skopje",
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Ljubince"
+    ],
+    "name:mkd_x_variant":[
+        "\u0409\u0443\u0431\u0438\u043d\u0446\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9269388
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"0ba196e2f9f6658b2f0d00497897885b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632373,
+            "locality_id":1209551527
+        }
+    ],
+    "wof:id":1209551527,
+    "wof:lastmodified":1537664967,
+    "wof:name":"Ljubince",
+    "wof:parent_id":85632373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46445,
+    41.99171,
+    22.46445,
+    41.99171
+],
+  "geometry": {"coordinates":[22.46445,41.99171],"type":"Point"}
+}

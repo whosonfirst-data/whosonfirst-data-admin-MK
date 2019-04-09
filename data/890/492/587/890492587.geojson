@@ -1,0 +1,73 @@
+{
+  "id": 890492587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5275,41.08028,21.5275,41.08028",
+    "geom:latitude":41.08028,
+    "geom:longitude":21.5275,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":214,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Meglenci"
+    ],
+    "name:mkd_x_variant":[
+        "\u041c\u0435\u0433\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "qs:name":"Meglenci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":788047,
+        "gp:id":481746,
+        "qs:id":553817,
+        "wd:id":"Q2088022",
+        "wk:page":"Novaci Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054899,
+    "wof:geomhash":"6b7fbb3779e84560a1ed4b6d281f1854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890492587,
+            "region_id":85674373
+        }
+    ],
+    "wof:id":890492587,
+    "wof:lastmodified":1527793025,
+    "wof:name":"Meglenci",
+    "wof:parent_id":85674373,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5275,
+    41.08028,
+    21.5275,
+    41.08028
+],
+  "geometry": {"coordinates":[21.5275,41.08028],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890491513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00611,41.72389,21.00611,41.72389",
+    "geom:latitude":41.72389,
+    "geom:longitude":21.00611,
+    "gn:country":"MK",
+    "gn:fcode":"PPL",
+    "gn:pop":544,
+    "iso:country":"MK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "Strajane"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0440\u0430\u0458\u0430\u043d\u0435"
+    ],
+    "qs:name":"Strajane",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":785445,
+        "gp:id":482156,
+        "qs:id":83565,
+        "wd:id":"Q521112",
+        "wk:page":"Gostivar Municipality"
+    },
+    "wof:country":"MK",
+    "wof:created":1469054855,
+    "wof:geomhash":"5ef931d678f3419ef8b646bcfec8bdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":890491513,
+            "region_id":85674433
+        }
+    ],
+    "wof:id":890491513,
+    "wof:lastmodified":1527736668,
+    "wof:name":"Strajane",
+    "wof:parent_id":85674433,
+    "wof:placetype":"locality",
+    "wof:population":544,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00611,
+    41.72389,
+    21.00611,
+    41.72389
+],
+  "geometry": {"coordinates":[21.00611,41.72389],"type":"Point"}
+}

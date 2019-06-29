@@ -15,26 +15,17 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lisolaj"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u043e\u043b\u0430\u0439"
-    ],
-    "name:dut_x_preferred":[
-        "Lisolaj"
     ],
     "name:eng_x_preferred":[
         "Lisolaj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lisolay"
     ],
     "name:hun_x_preferred":[
         "Liszolaj"
-    ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u0441\u043e\u043b\u0430\u0458"
     ],
     "name:mkd_x_preferred":[
         "Lisolaj"
@@ -42,8 +33,14 @@
     "name:mkd_x_variant":[
         "\u041b\u0438\u0441\u043e\u043b\u0430\u0458"
     ],
+    "name:nld_x_preferred":[
+        "Lisolaj"
+    ],
     "name:pol_x_preferred":[
         "Liso\u0142aj"
+    ],
+    "name:sqi_x_preferred":[
+        "Lisolaj"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u0441\u043e\u043b\u0430\u0458"
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":890491367,
-    "wof:lastmodified":1527736664,
+    "wof:lastmodified":1561843538,
     "wof:name":"Lisolaj",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

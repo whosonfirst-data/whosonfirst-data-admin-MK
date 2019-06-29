@@ -16,9 +16,6 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Vitolishti"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u062a\u0648\u0644\u064a\u0633\u062a\u064a"
     ],
@@ -31,13 +28,13 @@
     "name:cat_x_preferred":[
         "Vitoli\u0161te"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vitoli\u0161te"
     ],
     "name:dan_x_preferred":[
         "Vitoli\u0161te"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vitoli\u0161te"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Vitolicht\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Vitolicht\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Vitoli\u0161te"
     ],
     "name:gla_x_preferred":[
         "Vitoli\u0161te"
@@ -73,10 +64,10 @@
     "name:hun_x_preferred":[
         "Vitoli\u0161te"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Vitoli\u0161te"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Vitoli\u0161te"
     ],
     "name:ita_x_preferred":[
@@ -85,19 +76,19 @@
     "name:ltz_x_preferred":[
         "Vitoli\u0161te"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u0442\u043e\u043b\u0438\u0448\u0442\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Vitoli\u0161te"
-    ],
     "name:min_x_preferred":[
         "Vitoli\u0161te"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0438\u0442\u043e\u043b\u0438\u0448\u0442\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Vitoli\u0161te"
+    ],
     "name:nds_x_preferred":[
+        "Vitoli\u0161te"
+    ],
+    "name:nld_x_preferred":[
         "Vitoli\u0161te"
     ],
     "name:nno_x_preferred":[
@@ -112,10 +103,10 @@
     "name:por_x_preferred":[
         "Vitoli\u0161te"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vitoli\u0161te"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vitoli\u0161te"
     ],
     "name:slv_x_preferred":[
@@ -177,7 +168,7 @@
         }
     ],
     "wof:id":890492071,
-    "wof:lastmodified":1527793023,
+    "wof:lastmodified":1561843542,
     "wof:name":"Vitoli\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

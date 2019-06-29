@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052158,
-    "geom:area_square_m":484691759.331601,
+    "geom:area_square_m":484691759.331589,
     "geom:bbox":"20.4944435,41.086513,20.766739,41.430448",
     "geom:latitude":41.277656,
     "geom:longitude":20.631679,
@@ -29,9 +29,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Strug\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u062a\u0631\u0648\u063a\u0627"
     ],
@@ -41,14 +38,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0443\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u9b6f\u52a0\u5340"
-    ],
     "name:dan_x_preferred":[
         "Struga Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Struga"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Struga"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03c4\u03c1\u03bf\u03cd\u03b3\u03b3\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Struga Municipality"
@@ -59,17 +56,8 @@
     "name:fin_x_preferred":[
         "Strugan kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Struga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10e0\u10e3\u10d2\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Struga"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03c4\u03c1\u03bf\u03cd\u03b3\u03b3\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0a97\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -95,6 +83,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cc1\u0c97 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10e0\u10e3\u10d2\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ud2b8\ub8e8\uac00 \uc2dc"
     ],
@@ -104,14 +95,8 @@
     "name:lit_x_preferred":[
         "Strugos savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0440\u0443\u0433\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u0924\u094d\u0930\u0942\u0917 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Struga Municipality"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0440\u0443\u0433\u0430"
@@ -119,8 +104,14 @@
     "name:mkd_x_variant":[
         "\u0421\u0442\u0440\u0443\u0433\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Struga Municipality"
+    ],
     "name:nan_x_preferred":[
         "Struga Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Struga"
     ],
     "name:nob_x_preferred":[
         "Struga kommune"
@@ -139,6 +130,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Struga"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Strug\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0440\u0443\u0433\u0430"
@@ -178,6 +172,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Struga"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u9b6f\u52a0\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -304,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561843525,
     "wof:name":"Struga",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -15,9 +15,6 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Beshishti"
-    ],
     "name:bar_x_preferred":[
         "Be\u0161i\u0161te"
     ],
@@ -27,13 +24,13 @@
     "name:cat_x_preferred":[
         "Be\u0161i\u0161te"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Be\u0161i\u0161te"
     ],
     "name:dan_x_preferred":[
         "Be\u0161i\u0161te"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Be\u0161i\u0161te"
     ],
     "name:eng_x_preferred":[
@@ -45,11 +42,8 @@
     "name:fin_x_preferred":[
         "Be\u0161i\u0161te"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bechicht\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Be\u0161i\u0161te"
     ],
     "name:gla_x_preferred":[
         "Be\u0161i\u0161te"
@@ -66,22 +60,16 @@
     "name:hun_x_preferred":[
         "Be\u0161i\u0161te"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Be\u0161i\u0161te"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Be\u0161i\u0161te"
     ],
     "name:ita_x_preferred":[
         "Be\u0161i\u0161te"
     ],
     "name:ltz_x_preferred":[
-        "Be\u0161i\u0161te"
-    ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u0448\u0438\u0448\u0442\u0435"
-    ],
-    "name:may_x_preferred":[
         "Be\u0161i\u0161te"
     ],
     "name:min_x_preferred":[
@@ -93,7 +81,13 @@
     "name:mkd_x_variant":[
         "\u0411\u0435\u0448\u0438\u0448\u0442\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Be\u0161i\u0161te"
+    ],
     "name:nds_x_preferred":[
+        "Be\u0161i\u0161te"
+    ],
+    "name:nld_x_preferred":[
         "Be\u0161i\u0161te"
     ],
     "name:nno_x_preferred":[
@@ -108,10 +102,10 @@
     "name:por_x_preferred":[
         "Be\u0161i\u0161te"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Be\u0161i\u0161te"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Be\u0161i\u0161te"
     ],
     "name:slv_x_preferred":[
@@ -119,6 +113,9 @@
     ],
     "name:spa_x_preferred":[
         "Be\u0161i\u0161te"
+    ],
+    "name:sqi_x_preferred":[
+        "Beshishti"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0448\u0438\u0448\u0442\u0435"
@@ -159,7 +156,7 @@
         }
     ],
     "wof:id":890491273,
-    "wof:lastmodified":1527736660,
+    "wof:lastmodified":1561843534,
     "wof:name":"Be\u0161i\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

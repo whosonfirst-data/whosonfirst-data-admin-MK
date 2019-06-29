@@ -15,26 +15,17 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "C\u00ebrnobuki"
-    ],
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u043d\u043e\u0431\u0443\u043a\u0438"
-    ],
-    "name:dut_x_preferred":[
-        "Crnobuki"
     ],
     "name:eng_x_preferred":[
         "Crnobuki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsrnobouki"
     ],
     "name:hun_x_preferred":[
         "Crnobuki"
-    ],
-    "name:mac_x_preferred":[
-        "\u0426\u0440\u043d\u043e\u0431\u0443\u043a\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u0426\u0440\u043d\u043e\u0431\u0443\u043a\u0438"
@@ -42,8 +33,14 @@
     "name:nan_x_preferred":[
         "Tsrnobouki"
     ],
+    "name:nld_x_preferred":[
+        "Crnobuki"
+    ],
     "name:pol_x_preferred":[
         "Crnobuki"
+    ],
+    "name:sqi_x_preferred":[
+        "C\u00ebrnobuki"
     ],
     "name:srp_x_preferred":[
         "\u0426\u0440\u043d\u043e\u0431\u0443\u043a\u0438"
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":890492673,
-    "wof:lastmodified":1527793023,
+    "wof:lastmodified":1561843542,
     "wof:name":"Crnobuki",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

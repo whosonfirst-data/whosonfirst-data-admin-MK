@@ -15,32 +15,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Shipkovica"
-    ],
     "name:bul_x_preferred":[
         "\u0428\u0438\u043f\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0160ipkovica"
     ],
     "name:eng_x_preferred":[
         "\u0160ipkovica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chipkovitsa"
-    ],
-    "name:ger_x_preferred":[
-        "\u0160ipkovica"
-    ],
-    "name:mac_x_preferred":[
-        "\u0428\u0438\u043f\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u0428\u0438\u043f\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
     "name:nan_x_preferred":[
         "Chipkovitsa"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160ipkovica"
+    ],
+    "name:sqi_x_preferred":[
+        "Shipkovica"
     ],
     "name:srp_x_preferred":[
         "\u0428\u0438\u043f\u043a\u043e\u0432\u0438\u0446\u0430"
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":890491661,
-    "wof:lastmodified":1553816419,
+    "wof:lastmodified":1561843536,
     "wof:name":"\u0160ipkovica",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

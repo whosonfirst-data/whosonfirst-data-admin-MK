@@ -29,9 +29,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e \u00c7eshinovo-Obleshev\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u064a\u0634\u064a\u0646\u0648\u0641\u0648- \u0623\u0628\u0644\u064a\u0634\u064a\u0641\u0648"
     ],
@@ -41,17 +38,14 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5207\u5e0c\u8bfa\u6c83-\u5965\u5e03\u83b1\u820d\u6c83\u533a"
-    ],
     "name:dan_x_preferred":[
         "\u010ce\u0161inovo-Oble\u0161evo Municipality"
     ],
     "name:deu_x_preferred":[
         "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo"
     ],
-    "name:dut_x_preferred":[
-        "\u010ce\u0161inovo-Oble\u0161evo"
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039f\u03bc\u03c0\u03bb\u03b5\u03c3\u03cc\u03b2\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Cesinovo-Oblesevo Municipality"
@@ -66,18 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "Tch\u00e9chinovo-Obl\u00e9ch\u00e9vo"
-    ],
-    "name:fre_x_preferred":[
-        "Tch\u00e9chinovo-Obl\u00e9ch\u00e9vo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d4\u10e8\u10d8\u10dc\u10dd\u10d5\u10dd-\u10dd\u10d1\u10da\u10d4\u10e8\u10d4\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039f\u03bc\u03c0\u03bb\u03b5\u03c3\u03cc\u03b2\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab8\u0abf\u0aa8\u0acb\u0ab5\u0acb-\u0a93\u0aac\u0acd\u0ab2\u0ac7\u0ab8\u0ac7\u0ab5\u0acb \u200b\u200b\u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -112,14 +94,8 @@
     "name:lit_x_preferred":[
         "\u010ce\u0161inovo-Oble\u0161ovo savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0938\u093f\u0928\u094b\u0935\u094b-\u0911\u092c\u094d\u0932\u0947\u0938\u0947\u0935\u094b \u200b\u200b\u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Cesinovo-Oblesevo Municipality"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
@@ -128,6 +104,9 @@
         "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo",
         "\u010ce\u0161inovo-Oble\u0161evo",
         "\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Cesinovo-Oblesevo Municipality"
     ],
     "name:nan_x_preferred":[
         "\u010ce\u0161inovo-Oble\u0161evo Chh\u012b"
@@ -330,7 +309,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550472,
+    "wof:lastmodified":1561843529,
     "wof:name":"Ce\u0161inovo-Oble\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

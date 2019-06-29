@@ -15,23 +15,20 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Novoseljani"
-    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0430\u043d\u0438"
     ],
     "name:eng_x_preferred":[
         "Novoselani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Novoselani"
-    ],
-    "name:mac_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0430\u043d\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0430\u043d\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "Novoseljani"
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u0459\u0430\u043d\u0438"
@@ -69,7 +66,7 @@
         }
     ],
     "wof:id":890491133,
-    "wof:lastmodified":1553816419,
+    "wof:lastmodified":1561843533,
     "wof:name":"Novoselani",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

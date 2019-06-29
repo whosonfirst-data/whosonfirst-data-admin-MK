@@ -15,26 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Bitova"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0442\u043e\u0432\u043e"
-    ],
-    "name:dut_x_preferred":[
-        "Bitovo"
     ],
     "name:eng_x_preferred":[
         "Bitovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bitovo"
-    ],
-    "name:mac_x_preferred":[
-        "\u0411\u0438\u0442\u043e\u0432\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Bitovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Bitova"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0438\u0442\u043e\u0432\u043e"
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":890491265,
-    "wof:lastmodified":1527736666,
+    "wof:lastmodified":1561843539,
     "wof:name":"Bitovo",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

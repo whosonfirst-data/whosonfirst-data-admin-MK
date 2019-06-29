@@ -15,26 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Berovci"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0432\u0446\u0438"
-    ],
-    "name:dut_x_preferred":[
-        "Berovci"
     ],
     "name:eng_x_preferred":[
         "Berovci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Berovtsi"
-    ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u0440\u043e\u0432\u0446\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Berovci"
+    ],
+    "name:sqi_x_preferred":[
+        "Berovci"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0432\u0446\u0438"
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":890491277,
-    "wof:lastmodified":1527736665,
+    "wof:lastmodified":1561843538,
     "wof:name":"Berovci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

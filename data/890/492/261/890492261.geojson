@@ -16,14 +16,8 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lubonja"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0439\u043d\u043e"
-    ],
-    "name:dut_x_preferred":[
-        "Ljubojno"
     ],
     "name:eng_x_preferred":[
         "Ljubojno"
@@ -31,20 +25,23 @@
     "name:epo_x_preferred":[
         "Ljubojno"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lyouboyno"
     ],
     "name:hsb_x_preferred":[
         "Ljubojno"
-    ],
-    "name:mac_x_preferred":[
-        "\u0409\u0443\u0431\u043e\u0458\u043d\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u0409\u0443\u0431\u043e\u0458\u043d\u043e"
     ],
     "name:nan_x_preferred":[
         "Lyouboyno"
+    ],
+    "name:nld_x_preferred":[
+        "Ljubojno"
+    ],
+    "name:sqi_x_preferred":[
+        "Lubonja"
     ],
     "name:srp_x_preferred":[
         "\u0409\u0443\u0431\u043e\u0458\u043d\u043e"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":890492261,
-    "wof:lastmodified":1527793023,
+    "wof:lastmodified":1561843542,
     "wof:name":"Ljubojno",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

@@ -15,23 +15,20 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Oreshani"
-    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043d\u0438"
     ],
     "name:eng_x_preferred":[
         "Ore\u0161ani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Orechani"
-    ],
-    "name:mac_x_preferred":[
-        "\u041e\u0440\u0435\u0448\u0430\u043d\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043d\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "Oreshani"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043d\u0438"
@@ -70,7 +67,7 @@
         }
     ],
     "wof:id":890492561,
-    "wof:lastmodified":1553816420,
+    "wof:lastmodified":1561843541,
     "wof:name":"Ore\u0161ani",
     "wof:parent_id":85674245,
     "wof:placetype":"locality",

@@ -15,26 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "\u00c7epigova"
-    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
     ],
     "name:eng_x_preferred":[
         "\u010cepigovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tchepigovo"
-    ],
-    "name:mac_x_preferred":[
-        "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u010cepigovo"
     ],
     "name:mkd_x_variant":[
         "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7epigova"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":890492681,
-    "wof:lastmodified":1553816420,
+    "wof:lastmodified":1561843541,
     "wof:name":"\u010cepigovo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

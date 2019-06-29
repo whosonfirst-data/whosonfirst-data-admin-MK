@@ -29,9 +29,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Jegunocit"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062c\u064a\u063a\u0648\u0646\u0648\u0641\u0633"
     ],
@@ -41,14 +38,14 @@
     "name:bul_x_preferred":[
         "\u0419\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u8036\u53e4\u8bfa\u592b\u7b56\u533a"
-    ],
     "name:dan_x_preferred":[
         "Jegunovce Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Jegunovce"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Jegunovce"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03b6\u03b5\u03b3\u03ba\u03bf\u03cd\u03bd\u03bf\u03c6\u03c4\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Jegunovce Municipality"
@@ -62,18 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Y\u00e9gounovts\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Y\u00e9gounovts\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d4\u10d2\u10e3\u10dc\u10dd\u10d5\u10ea\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Jegunovce"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03b6\u03b5\u03b3\u03ba\u03bf\u03cd\u03bd\u03bf\u03c6\u03c4\u03c3\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0acb\u0ab5\u0ac7\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -108,14 +93,8 @@
     "name:lit_x_preferred":[
         "Jegunovc\u0117s savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u0947\u0917\u0941\u0928\u094b\u0935\u094d\u0939\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Jegunovce Municipality"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
@@ -123,8 +102,14 @@
     "name:mkd_x_variant":[
         "\u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Jegunovce Municipality"
+    ],
     "name:nan_x_preferred":[
         "Jegunovce Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Jegunovce"
     ],
     "name:nob_x_preferred":[
         "Jegunovce kommune"
@@ -188,6 +173,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8036\u53e4\u8bfa\u592b\u91c7\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u8036\u53e4\u8bfa\u592b\u7b56\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -313,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561843525,
     "wof:name":"Jegunovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

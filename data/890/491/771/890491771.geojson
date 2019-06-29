@@ -15,35 +15,32 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "\u00c7ellopeku"
-    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
-    ],
-    "name:dut_x_preferred":[
-        "\u010celopek"
     ],
     "name:eng_x_preferred":[
         "\u010celopek"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tchelopek"
     ],
     "name:hun_x_preferred":[
         "Cselopek"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "\u010celopek"
     ],
     "name:pol_x_preferred":[
         "Cze\u0142opek"
     ],
     "name:sqi_x_preferred":[
         "\u00c7allapek"
+    ],
+    "name:sqi_x_variant":[
+        "\u00c7ellopeku"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":890491771,
-    "wof:lastmodified":1527736663,
+    "wof:lastmodified":1561843536,
     "wof:name":"\u010celopek",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

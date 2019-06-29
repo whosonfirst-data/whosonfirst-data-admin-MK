@@ -29,35 +29,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Karposhit"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u043f\u043e\u0448"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u6ce2\u4ec0\u5340"
-    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Karpo\u0161"
-    ],
-    "name:dut_x_preferred":[
-        "Karpo\u0161"
     ],
     "name:eng_x_preferred":[
         "Karpos Municipality"
     ],
     "name:fra_x_preferred":[
         "Karpoch"
-    ],
-    "name:fre_x_preferred":[
-        "Karpoch"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10de\u10dd\u10e8\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Karpo\u0161"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Karpo\u0161"
@@ -71,9 +53,6 @@
     "name:kor_x_preferred":[
         "\uce74\ub974\ud3ec\uc2dc \uc2dc"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u0440\u043f\u043e\u0448"
-    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u0440\u043f\u043e\u0448"
     ],
@@ -85,6 +64,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio de Karpo\u0161"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Karposhit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u0440\u043f\u043e\u0448"
@@ -113,6 +95,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0631\u067e\u0648\u0634 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u6ce2\u4ec0\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -238,7 +223,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550455,
+    "wof:lastmodified":1561843527,
     "wof:name":"Karpo\u0161",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

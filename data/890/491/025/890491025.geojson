@@ -16,29 +16,20 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ve\u00e7ani"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u0641\u062a\u0634\u0627\u0646\u064a"
     ],
     "name:bul_x_preferred":[
         "\u0412\u0435\u0432\u0447\u0430\u043d\u0438"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vev\u010dani"
     ],
     "name:eng_x_preferred":[
         "Vev\u010dani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vevtchani"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10d5\u10e9\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Vev\u010dani"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d1\u05e6'\u05d0\u05e0\u05d9"
@@ -46,11 +37,17 @@
     "name:ita_x_preferred":[
         "Vev\u010dani"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0435\u0432\u0447\u0430\u043d\u0438"
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10d5\u10e9\u10d0\u10dc\u10d8"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0435\u0432\u0447\u0430\u043d\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Vev\u010dani"
+    ],
+    "name:sqi_x_preferred":[
+        "Ve\u00e7ani"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u0432\u0447\u0430\u043d\u0438"
@@ -98,7 +95,7 @@
         }
     ],
     "wof:id":890491025,
-    "wof:lastmodified":1527736661,
+    "wof:lastmodified":1561843534,
     "wof:name":"Vev\u010dani",
     "wof:parent_id":85674151,
     "wof:placetype":"locality",

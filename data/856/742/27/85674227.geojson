@@ -29,17 +29,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e \u00c7airit"
-    ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u0438\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u4f0a\u5c14\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "\u010cair"
+    "name:deu_x_preferred":[
+        "Op\u0161tina \u010cair"
     ],
     "name:eng_x_preferred":[
         "Cair Municipality"
@@ -53,29 +47,23 @@
     "name:fra_x_preferred":[
         "Tcha\u00efr"
     ],
-    "name:fre_x_preferred":[
-        "Tcha\u00efr"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10d8\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina \u010cair"
-    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina \u010cair"
     ],
     "name:ita_x_preferred":[
         "\u010cair"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10d8\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucc28\uc774\ub974 \uc2dc"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u0438\u0440"
-    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u0438\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cair"
     ],
     "name:spa_x_preferred":[
         "Municipalidad de \u010cair"
@@ -238,7 +226,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550451,
+    "wof:lastmodified":1561843528,
     "wof:name":"Cair",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

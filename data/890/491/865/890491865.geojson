@@ -15,26 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Rakitnica"
-    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u0430"
     ],
     "name:eng_x_preferred":[
         "Rakitnica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rakitnitsa"
-    ],
-    "name:mac_x_preferred":[
-        "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u0430"
     ],
     "name:mkd_x_preferred":[
         "Rakitnica"
     ],
     "name:mkd_x_variant":[
         "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Rakitnica"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u043a\u0438\u0442\u043d\u0438\u0446\u0430"
@@ -70,7 +67,7 @@
         }
     ],
     "wof:id":890491865,
-    "wof:lastmodified":1527736666,
+    "wof:lastmodified":1561843539,
     "wof:name":"Rakitnica",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

@@ -15,29 +15,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Borotina"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0442\u0438\u043d\u043e"
-    ],
-    "name:dut_x_preferred":[
-        "Borotino"
     ],
     "name:eng_x_preferred":[
         "Borotino"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Borotino"
-    ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u0440\u043e\u0442\u0438\u043d\u043e"
     ],
     "name:mkd_x_preferred":[
         "Borotino"
     ],
     "name:mkd_x_variant":[
         "\u0411\u043e\u0440\u043e\u0442\u0438\u043d\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Borotino"
+    ],
+    "name:sqi_x_preferred":[
+        "Borotina"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0442\u0438\u043d\u043e"
@@ -75,7 +72,7 @@
         }
     ],
     "wof:id":890492711,
-    "wof:lastmodified":1527793031,
+    "wof:lastmodified":1561843546,
     "wof:name":"Borotino",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

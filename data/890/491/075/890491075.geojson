@@ -15,31 +15,28 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Sekirani"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u043a\u0438\u0440\u0430\u043d\u0438"
-    ],
-    "name:dut_x_preferred":[
-        "Sekirani"
     ],
     "name:eng_x_preferred":[
         "Sekirani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sekirani"
     ],
     "name:hun_x_preferred":[
         "Szekirani"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u043a\u0438\u0440\u0430\u043d\u0438"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u043a\u0438\u0440\u0430\u043d\u0438"
     ],
+    "name:nld_x_preferred":[
+        "Sekirani"
+    ],
     "name:pol_x_preferred":[
+        "Sekirani"
+    ],
+    "name:sqi_x_preferred":[
         "Sekirani"
     ],
     "name:srp_x_preferred":[
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":890491075,
-    "wof:lastmodified":1527736665,
+    "wof:lastmodified":1561843538,
     "wof:name":"Sekirani",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

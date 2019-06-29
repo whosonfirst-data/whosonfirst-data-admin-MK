@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055439,
-    "geom:area_square_m":508711880.326489,
+    "geom:area_square_m":508711880.326494,
     "geom:bbox":"21.609966,41.9605665,22.007941,42.2665235",
     "geom:latitude":42.090009,
     "geom:longitude":21.789004,
@@ -29,9 +29,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Kumanov\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u0648\u0645\u0627\u0646\u0648\u0641\u0648"
     ],
@@ -47,17 +44,17 @@
     "name:cat_x_preferred":[
         "municipi de Kumanovo"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u9a6c\u8bfa\u6c83\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Op\u0161tina Kumanovo"
     ],
     "name:dan_x_preferred":[
         "Kumanovo Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Kumanovo"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Kumanovo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03bf\u03c5\u03bc\u03b1\u03bd\u03cc\u03b2\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Kumanovo Municipality"
@@ -65,17 +62,8 @@
     "name:fin_x_preferred":[
         "Kumanovon kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Municipalit\u00e9 de Koumanovo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10db\u10d0\u10dc\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Kumanovo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03bf\u03c5\u03bc\u03b1\u03bd\u03cc\u03b2\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0aae\u0aa8\u0acb\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -98,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cae\u0cbe\u0ca8\u0cca\u0cb5\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10db\u10d0\u10dc\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\ub9c8\ub178\ubcf4 \uc2dc"
     ],
@@ -107,20 +98,20 @@
     "name:lit_x_preferred":[
         "Kumanovo savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u092e\u0928\u094b\u0935\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Kumanovo Municipality"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:mkd_x_variant":[
         "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Kumanovo Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Kumanovo"
     ],
     "name:nob_x_preferred":[
         "Kumanovo kommune"
@@ -139,6 +130,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Kumanovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Kumanov\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
@@ -178,6 +172,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Kumanovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u9a6c\u8bfa\u6c83\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -304,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561843527,
     "wof:name":"Kumanovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

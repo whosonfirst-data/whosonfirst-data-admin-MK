@@ -16,26 +16,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Zhelani"
-    ],
     "name:bul_x_preferred":[
         "\u0416\u0435\u0433\u043b\u044f\u043d\u0435"
-    ],
-    "name:dut_x_preferred":[
-        "\u017degljane"
     ],
     "name:eng_x_preferred":[
         "\u017degljane"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jeglyan\u00e9"
-    ],
-    "name:mac_x_preferred":[
-        "\u0416\u0435\u0433\u0459\u0430\u043d\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u0416\u0435\u0433\u0459\u0430\u043d\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "\u017degljane"
+    ],
+    "name:sqi_x_preferred":[
+        "Zhelani"
     ],
     "name:srp_x_preferred":[
         "\u0416\u0435\u0433\u0459\u0430\u043d\u0435"
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":890492065,
-    "wof:lastmodified":1527793023,
+    "wof:lastmodified":1561843542,
     "wof:name":"\u017degljane",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

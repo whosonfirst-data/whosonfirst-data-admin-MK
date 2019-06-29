@@ -15,14 +15,8 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kurbinova"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
-    ],
-    "name:dut_x_preferred":[
-        "Kurbinovo"
     ],
     "name:eng_x_preferred":[
         "Kurbinovo"
@@ -30,14 +24,11 @@
     "name:epo_x_preferred":[
         "Kurbinovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kourbinovo"
     ],
     "name:hsb_x_preferred":[
         "Kurbinovo"
-    ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
     ],
     "name:mkd_x_preferred":[
         "Kurbinovo"
@@ -45,8 +36,14 @@
     "name:mkd_x_variant":[
         "\u041a\u0443\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:nld_x_preferred":[
+        "Kurbinovo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Kurbinova"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":890491379,
-    "wof:lastmodified":1527736662,
+    "wof:lastmodified":1561843536,
     "wof:name":"Kurbinovo",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

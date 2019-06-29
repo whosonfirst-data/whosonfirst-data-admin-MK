@@ -15,23 +15,17 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Vollkovia"
-    ],
     "name:bul_x_preferred":[
         "\u0412\u044a\u043b\u043a\u043e\u0432\u0438\u044f"
     ],
     "name:eng_x_preferred":[
         "Volkovija"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Volkoviya"
     ],
     "name:hun_x_preferred":[
         "Volkovija"
-    ],
-    "name:mac_x_preferred":[
-        "\u0412\u043e\u043b\u043a\u043e\u0432\u0438\u0458\u0430"
     ],
     "name:mkd_x_preferred":[
         "Volkovija"
@@ -41,6 +35,9 @@
     ],
     "name:pol_x_preferred":[
         "Wo\u0142kowija"
+    ],
+    "name:sqi_x_preferred":[
+        "Vollkovia"
     ],
     "name:srp_x_preferred":[
         "\u0412\u043e\u043b\u043a\u043e\u0432\u0438\u0458\u0430"
@@ -75,7 +72,7 @@
         }
     ],
     "wof:id":890492431,
-    "wof:lastmodified":1527793024,
+    "wof:lastmodified":1561843542,
     "wof:name":"Volkovija",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

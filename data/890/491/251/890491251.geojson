@@ -18,16 +18,10 @@
     "name:afr_x_preferred":[
         "Dolno Dupeni"
     ],
-    "name:alb_x_preferred":[
-        "Dupeni i Posht\u00ebm"
-    ],
     "name:arg_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:ast_x_preferred":[
-        "Dolno Dupeni"
-    ],
-    "name:baq_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:bar_x_preferred":[
@@ -42,16 +36,19 @@
     "name:cat_x_preferred":[
         "Dolno Dupeni"
     ],
+    "name:ces_x_preferred":[
+        "Dolno Dupeni"
+    ],
     "name:cos_x_preferred":[
         "Dolno Dupeni"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:dan_x_preferred":[
         "Dolno Dupeni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:eng_x_preferred":[
@@ -63,19 +60,19 @@
     "name:est_x_preferred":[
         "Dolno Dupeni"
     ],
+    "name:eus_x_preferred":[
+        "Dolno Dupeni"
+    ],
     "name:fin_x_preferred":[
         "Dolno Dupeni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dolno Doupeni"
     ],
     "name:frp_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:fur_x_preferred":[
-        "Dolno Dupeni"
-    ],
-    "name:ger_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:gla_x_preferred":[
@@ -96,9 +93,6 @@
     "name:hun_x_preferred":[
         "Dolno Dupeni"
     ],
-    "name:ice_x_preferred":[
-        "Dolno Dupeni"
-    ],
     "name:ido_x_preferred":[
         "Dolno Dupeni"
     ],
@@ -109,6 +103,9 @@
         "Dolno Dupeni"
     ],
     "name:ind_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:isl_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:ita_x_preferred":[
@@ -126,12 +123,6 @@
     "name:ltz_x_preferred":[
         "Dolno Dupeni"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u043e\u043b\u043d\u043e \u0414\u0443\u043f\u0435\u043d\u0438"
-    ],
-    "name:may_x_preferred":[
-        "Dolno Dupeni"
-    ],
     "name:min_x_preferred":[
         "Dolno Dupeni"
     ],
@@ -141,10 +132,16 @@
     "name:mlg_x_preferred":[
         "Dolno Dupeni"
     ],
+    "name:msa_x_preferred":[
+        "Dolno Dupeni"
+    ],
     "name:nap_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:nds_x_preferred":[
+        "Dolno Dupeni"
+    ],
+    "name:nld_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:nno_x_preferred":[
@@ -174,7 +171,7 @@
     "name:roh_x_preferred":[
         "Dolno Dupeni"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:scn_x_preferred":[
@@ -183,7 +180,7 @@
     "name:sco_x_preferred":[
         "Dolno Dupeni"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:slv_x_preferred":[
@@ -191,6 +188,9 @@
     ],
     "name:spa_x_preferred":[
         "Dolno Dupeni"
+    ],
+    "name:sqi_x_preferred":[
+        "Dupeni i Posht\u00ebm"
     ],
     "name:srd_x_preferred":[
         "Dolno Dupeni"
@@ -217,9 +217,6 @@
         "Dolno Dupeni"
     ],
     "name:vol_x_preferred":[
-        "Dolno Dupeni"
-    ],
-    "name:wel_x_preferred":[
         "Dolno Dupeni"
     ],
     "name:wln_x_preferred":[
@@ -265,7 +262,7 @@
         }
     ],
     "wof:id":890491251,
-    "wof:lastmodified":1527736662,
+    "wof:lastmodified":1561843536,
     "wof:name":"Dolno Dupeni",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

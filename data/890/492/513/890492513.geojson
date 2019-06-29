@@ -15,26 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Presilli"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0438\u043b"
-    ],
-    "name:dut_x_preferred":[
-        "Presil"
     ],
     "name:eng_x_preferred":[
         "Presil"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Presil"
-    ],
-    "name:mac_x_preferred":[
-        "\u041f\u0440\u0435\u0441\u0438\u043b"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0438\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Presil"
+    ],
+    "name:sqi_x_preferred":[
+        "Presilli"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0438\u043b"
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":890492513,
-    "wof:lastmodified":1527793030,
+    "wof:lastmodified":1561843545,
     "wof:name":"Presil",
     "wof:parent_id":85674353,
     "wof:placetype":"locality",

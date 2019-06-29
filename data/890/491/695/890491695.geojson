@@ -15,29 +15,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Idrizova"
-    ],
     "name:bul_x_preferred":[
         "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Idrizovo"
     ],
     "name:eng_x_preferred":[
         "Idrizovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Idrizovo"
     ],
-    "name:ger_x_preferred":[
-        "Idrizovo"
-    ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Idrizovo"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Idrizova"
     ],
     "name:srp_x_preferred":[
         "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":890491695,
-    "wof:lastmodified":1514484769,
+    "wof:lastmodified":1561843536,
     "wof:name":"\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

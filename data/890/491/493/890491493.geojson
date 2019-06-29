@@ -15,35 +15,32 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Virova"
-    ],
     "name:bul_x_preferred":[
         "\u0412\u0438\u0440\u043e\u0432\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Virovo"
     ],
     "name:eng_x_preferred":[
         "Virovo"
     ],
-    "name:fre_x_preferred":[
-        "Virovo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Virovo"
     ],
     "name:hun_x_preferred":[
         "Virovo"
-    ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u0440\u043e\u0432\u043e"
     ],
     "name:mkd_x_preferred":[
         "Virovo"
     ],
     "name:mkd_x_variant":[
         "\u0412\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Virovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Virova"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0440\u043e\u0432\u043e"
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":890491493,
-    "wof:lastmodified":1527736666,
+    "wof:lastmodified":1561843539,
     "wof:name":"Virovo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

@@ -144,9 +144,6 @@
     "name:cym_x_variant":[
         "Gweriniaeth Macedonia"
     ],
-    "name:cze_x_preferred":[
-        "Makedonie"
-    ],
     "name:cze_x_variant":[
         "Republika Makedonie"
     ],
@@ -557,9 +554,6 @@
     "name:rue_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Republica Macedonia"
-    ],
     "name:rum_x_variant":[
         "Fosta Republic\u0103 Iugoslav\u0103 Macedonia"
     ],
@@ -893,7 +887,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1547768320,
+    "wof:lastmodified":1561843523,
     "wof:name":"Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

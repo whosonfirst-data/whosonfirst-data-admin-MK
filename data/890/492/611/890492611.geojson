@@ -15,23 +15,20 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kozhla"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0436\u043b\u0435"
     ],
     "name:eng_x_preferred":[
         "Ko\u017elje"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kojl\u00e9"
-    ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0436\u043b\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0436\u043b\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Kozhla"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0436\u0459\u0435"
@@ -67,7 +64,7 @@
         }
     ],
     "wof:id":890492611,
-    "wof:lastmodified":1553816420,
+    "wof:lastmodified":1561843542,
     "wof:name":"Ko\u017ele",
     "wof:parent_id":85674173,
     "wof:placetype":"locality",

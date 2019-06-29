@@ -15,19 +15,13 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Xhinxhopola"
-    ],
     "name:bul_x_preferred":[
         "\u041d\u0438\u0436\u0435\u043f\u043e\u043b\u0435"
-    ],
-    "name:dut_x_preferred":[
-        "Ni\u017eepole"
     ],
     "name:eng_x_preferred":[
         "Ni\u017eepole"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nij\u00e9pol\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -36,9 +30,6 @@
     "name:jpn_x_preferred":[
         "\u30cb\u30b8\u30a7\u30dd\u30ec"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0438\u0436\u0435\u043f\u043e\u043b\u0435"
-    ],
     "name:mkd_x_preferred":[
         "\u041d\u0438\u0436\u0435\u043f\u043e\u043b\u0435"
     ],
@@ -46,8 +37,14 @@
         "D\u017eind\u017eopole",
         "\u040f\u0438\u043d\u045f\u043e\u043f\u043e\u043b\u0435"
     ],
+    "name:nld_x_preferred":[
+        "Ni\u017eepole"
+    ],
     "name:pol_x_preferred":[
         "Ni\u017cepo\u0142e"
+    ],
+    "name:sqi_x_preferred":[
+        "Xhinxhopola"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0438\u0436\u0435\u043f\u043e\u043b\u0435"
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":890491219,
-    "wof:lastmodified":1527736660,
+    "wof:lastmodified":1561843534,
     "wof:name":"Ni\u017eepole",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

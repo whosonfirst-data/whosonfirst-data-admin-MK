@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034587,
-    "geom:area_square_m":320790906.815116,
+    "geom:area_square_m":320790906.815126,
     "geom:bbox":"22.456557,41.3159835,22.8084995,41.499908",
     "geom:latitude":41.403438,
     "geom:longitude":22.633635,
@@ -29,9 +29,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Strumic\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u062a\u0631\u0648\u0645\u064a\u062a\u0633\u0627"
     ],
@@ -41,14 +38,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0443\u043c\u0438\u0446\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u9b6f\u7c73\u5bdf\u5340"
-    ],
     "name:dan_x_preferred":[
         "Strumica Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Strumica"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Strumica"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03c4\u03c1\u03bf\u03cd\u03bc\u03b9\u03c4\u03c3\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Strumica Municipality"
@@ -56,17 +53,8 @@
     "name:fin_x_preferred":[
         "Strumican kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Municipalit\u00e9 de Stroumitsa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10e0\u10e3\u10db\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Strumica"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03c4\u03c1\u03bf\u03cd\u03bc\u03b9\u03c4\u03c3\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0ac1\u0aae\u0abf\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -89,6 +77,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cc1\u0cae\u0cbf\u0c95 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10e0\u10e3\u10db\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ud2b8\ub8e8\ubbf8\ucc28 \uc2dc"
     ],
@@ -98,20 +89,20 @@
     "name:lit_x_preferred":[
         "Strumicos savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0440\u0443\u043c\u0438\u0446\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u091f\u0941\u092e\u093f\u0915\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Strumica Municipality"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0440\u0443\u043c\u0438\u0446\u0430"
     ],
     "name:mkd_x_variant":[
         "\u0421\u0442\u0440\u0443\u043c\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Strumica Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Strumica"
     ],
     "name:nob_x_preferred":[
         "Stumica kommune"
@@ -133,6 +124,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Strumica"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Strumic\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0440\u0443\u043c\u0438\u0446\u0430"
@@ -172,6 +166,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Strumica"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u9b6f\u7c73\u5bdf\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -297,7 +294,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561843525,
     "wof:name":"Southeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

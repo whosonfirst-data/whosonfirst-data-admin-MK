@@ -21,14 +21,11 @@
     "name:eng_x_preferred":[
         "Drenovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Drenovo"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d3\u10e0\u10d4\u10dc\u10dd\u10d5\u10dd"
-    ],
-    "name:mac_x_preferred":[
-        "\u0414\u0440\u0435\u043d\u043e\u0432\u043e"
     ],
     "name:mkd_x_preferred":[
         "Drenovo"
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":890492309,
-    "wof:lastmodified":1553816420,
+    "wof:lastmodified":1561843541,
     "wof:name":"Drenovo",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

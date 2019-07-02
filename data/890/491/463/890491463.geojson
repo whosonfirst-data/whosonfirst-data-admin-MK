@@ -15,29 +15,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "\u00c7anishti"
-    ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u043d\u0438\u0449\u0435"
-    ],
-    "name:dut_x_preferred":[
-        "\u010cani\u0161te"
     ],
     "name:eng_x_preferred":[
         "\u010cani\u0161te"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tchanicht\u00e9"
-    ],
-    "name:mac_x_preferred":[
-        "\u0427\u0430\u043d\u0438\u0448\u0442\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u010cani\u0161te"
     ],
     "name:mkd_x_variant":[
         "\u0427\u0430\u043d\u0438\u0448\u0442\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cani\u0161te"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7anishti"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0430\u043d\u0438\u0448\u0442\u0435"
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":890491463,
-    "wof:lastmodified":1527736661,
+    "wof:lastmodified":1561843535,
     "wof:name":"\u010cani\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

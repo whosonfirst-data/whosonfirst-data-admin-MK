@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128841,
-    "geom:area_square_m":1197229883.664837,
+    "geom:area_square_m":1197229883.66483,
     "geom:bbox":"21.363723,41.078736,21.9321485,41.486566",
     "geom:latitude":41.280649,
     "geom:longitude":21.665082,
@@ -29,9 +29,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Prilepit"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u0631\u064a\u0644\u064a\u0628"
     ],
@@ -44,14 +41,14 @@
     "name:cat_x_preferred":[
         "Prilep"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u91cc\u840a\u666e\u5340"
-    ],
     "name:dan_x_preferred":[
         "Prilep Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Prilep"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Prilep"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03af\u03bb\u03b5\u03c0"
     ],
     "name:eng_x_preferred":[
         "Prilep Municipality"
@@ -59,17 +56,8 @@
     "name:fin_x_preferred":[
         "Prilepin kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Municipalit\u00e9 de Prilep"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e0\u10d8\u10da\u10d4\u10de\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Prilep"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03af\u03bb\u03b5\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0abf\u0ab2\u0ac7\u0aaa \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -92,6 +80,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0cb0\u0cbf\u0cb2\u0cc6\u0caa\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10da\u10d4\u10de\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud504\ub9b4\ub808\ud504 \uc2dc"
     ],
@@ -101,20 +92,20 @@
     "name:lit_x_preferred":[
         "Prilepo savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0440\u0438\u043b\u0435\u043f"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u0947\u0932\u0945\u092a \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Prilep Municipality"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0440\u0438\u043b\u0435\u043f"
     ],
     "name:mkd_x_variant":[
         "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
+    "name:msa_x_preferred":[
+        "Prilep Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Prilep"
     ],
     "name:nob_x_preferred":[
         "Prilep kommune"
@@ -133,6 +124,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Prilep"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Prilepit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0440\u0438\u043b\u0435\u043f"
@@ -172,6 +166,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Prilep"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u840a\u666e\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -298,7 +295,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561843524,
     "wof:name":"Prilep",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -13,9 +13,6 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Dibra"
-    ],
     "name:ara_x_preferred":[
         "\u062f\u064a\u0628\u0627\u0631"
     ],
@@ -31,35 +28,29 @@
     "name:cat_x_preferred":[
         "Debar"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u5df4\u723e"
+    "name:ces_x_preferred":[
+        "Debar"
     ],
     "name:chu_x_preferred":[
         "\u0414\u0454\u0431\u0430\u0440\u044a"
     ],
-    "name:cze_x_preferred":[
-        "Debar"
-    ],
     "name:dan_x_preferred":[
         "Debar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Debar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03af\u03b2\u03c1\u03b7"
     ],
     "name:eng_x_preferred":[
         "Debar"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Debar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10d1\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Debar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03af\u03b2\u03c1\u03b7"
     ],
     "name:hrv_x_preferred":[
         "Debar"
@@ -73,6 +64,9 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30d0\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10d1\u10d0\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub370\ubc14\ub974"
     ],
@@ -82,19 +76,19 @@
     "name:lit_x_preferred":[
         "Debaras"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0435\u0431\u0430\u0440"
     ],
     "name:nan_x_preferred":[
         "Debar"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0628\u0627\u0631"
+    "name:nld_x_preferred":[
+        "Debar"
     ],
     "name:pol_x_preferred":[
         "Debar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Debar"
     ],
     "name:rus_x_preferred":[
@@ -105,6 +99,9 @@
     ],
     "name:spa_x_preferred":[
         "Debar"
+    ],
+    "name:sqi_x_preferred":[
+        "Dibra"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u0431\u0430\u0440"
@@ -123,6 +120,9 @@
     ],
     "name:vol_x_preferred":[
         "Debar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5df4\u723e"
     ],
     "qs:name":"Debar",
     "qs:name_adm0":"Macedonia",
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":890492111,
-    "wof:lastmodified":1527793025,
+    "wof:lastmodified":1561843543,
     "wof:name":"Debar",
     "wof:parent_id":85674389,
     "wof:placetype":"locality",

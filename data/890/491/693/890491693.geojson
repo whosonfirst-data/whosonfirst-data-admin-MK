@@ -18,23 +18,20 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0435\u043b"
     ],
-    "name:dut_x_preferred":[
-        "Kosel"
-    ],
     "name:eng_x_preferred":[
         "Kosel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kosel"
     ],
     "name:hun_x_preferred":[
         "Koszel"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0441\u0435\u043b"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0441\u0435\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Kosel"
     ],
     "name:pol_x_preferred":[
         "Kose\u0142"
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":890491693,
-    "wof:lastmodified":1553816419,
+    "wof:lastmodified":1561843535,
     "wof:name":"Kosel",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

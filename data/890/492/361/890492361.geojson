@@ -15,29 +15,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Zhivova"
-    ],
     "name:bul_x_preferred":[
         "\u0416\u0438\u0432\u043e\u0432\u043e"
-    ],
-    "name:dut_x_preferred":[
-        "\u017divovo"
     ],
     "name:eng_x_preferred":[
         "\u017divovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jivovo"
-    ],
-    "name:mac_x_preferred":[
-        "\u0416\u0438\u0432\u043e\u0432\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u017divovo"
     ],
     "name:mkd_x_variant":[
         "\u0416\u0438\u0432\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "\u017divovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Zhivova"
     ],
     "name:srp_x_preferred":[
         "\u0416\u0438\u0432\u043e\u0432\u043e"
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":890492361,
-    "wof:lastmodified":1527793025,
+    "wof:lastmodified":1561843543,
     "wof:name":"\u017divovo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

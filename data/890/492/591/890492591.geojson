@@ -15,29 +15,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Mazhu\u00e7ishti"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0436\u0443\u0447\u0438\u0449\u0435"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ma\u017eu\u010di\u0161te"
     ],
     "name:eng_x_preferred":[
         "Ma\u017eu\u010di\u0161te"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Majoutchicht\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Ma\u017eu\u010di\u0161te"
-    ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0436\u0443\u0447\u0438\u0448\u0442\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0436\u0443\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Ma\u017eu\u010di\u0161te"
+    ],
+    "name:sqi_x_preferred":[
+        "Mazhu\u00e7ishti"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0436\u0443\u0447\u0438\u0448\u0442\u0435"
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":890492591,
-    "wof:lastmodified":1527793026,
+    "wof:lastmodified":1561843544,
     "wof:name":"Ma\u017eu\u010di\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

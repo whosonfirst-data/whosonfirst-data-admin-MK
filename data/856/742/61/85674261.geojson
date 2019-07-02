@@ -29,20 +29,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Butelit"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0435\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u7279\u5c14\u533a"
-    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Butel"
-    ],
-    "name:dut_x_preferred":[
-        "Butel"
     ],
     "name:eng_x_preferred":[
         "Butel Municipality"
@@ -52,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Boutel"
-    ],
-    "name:fre_x_preferred":[
-        "Boutel"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e2\u10d4\u10da\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Butel"
     ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Butel"
@@ -77,9 +59,6 @@
     "name:kor_x_preferred":[
         "\ubd80\ud154 \uc2dc"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0443\u0442\u0435\u043b"
-    ],
     "name:mah_x_preferred":[
         "\u0411\u0443\u0442\u0435\u043b"
     ],
@@ -91,6 +70,9 @@
     ],
     "name:nan_x_preferred":[
         "Boutel"
+    ],
+    "name:nld_x_preferred":[
+        "Butel"
     ],
     "name:oci_x_preferred":[
         "Botel"
@@ -127,6 +109,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u6cf0\u5c14\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u7279\u5c14\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -252,7 +237,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550472,
+    "wof:lastmodified":1561843527,
     "wof:name":"Butel",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

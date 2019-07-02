@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":7022608.138413,
+    "geom:area_square_m":7022608.138415,
     "geom:bbox":"21.405618,41.9779825,21.4510605,42.0143365",
     "geom:latitude":41.994979,
     "geom:longitude":21.426872,
@@ -29,23 +29,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Qendr\u00ebs"
-    ],
     "name:bos_x_preferred":[
         "Centar"
     ],
     "name:bul_x_preferred":[
         "\u0426\u0435\u043d\u0442\u044a\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u8f9b\u5854\u5c14\u533a"
-    ],
     "name:deu_x_preferred":[
         "Centar"
     ],
-    "name:dut_x_preferred":[
-        "Centar"
+    "name:deu_x_variant":[
+        "Op\u0161tina Centar"
     ],
     "name:eng_x_preferred":[
         "Centar Municipality"
@@ -53,14 +47,8 @@
     "name:fra_x_preferred":[
         "Centar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Tsentar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10dc\u10e2\u10d0\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Centar"
     ],
     "name:hrv_x_preferred":[
         "Centar"
@@ -71,10 +59,13 @@
     "name:jpn_x_preferred":[
         "\u30c4\u30a7\u30f3\u30bf\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10d0\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uccb8\ud0c0\ub974 \uc2dc"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u043d\u0442\u0430\u0440"
     ],
     "name:nld_x_preferred":[
@@ -85,6 +76,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Centar"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Qendr\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0430\u0440"
@@ -106,6 +100,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u062a\u0631 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u5854\u5c14\u533a"
     ],
     "qs:a0":"Macedonia",
     "qs:a0_lc":"MK",
@@ -171,7 +168,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561843528,
     "wof:name":"Centar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

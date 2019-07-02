@@ -15,26 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Usje"
-    ],
     "name:bul_x_preferred":[
         "\u0423\u0441\u0438\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Usje"
     ],
     "name:eng_x_preferred":[
         "Usje"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oussy\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Usje"
-    ],
-    "name:mac_x_preferred":[
-        "\u0423\u0441\u0458\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u0423\u0441\u0458\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Usje"
     ],
     "name:srp_x_preferred":[
         "\u0423\u0441\u0458\u0435"
@@ -71,7 +68,7 @@
         }
     ],
     "wof:id":890491789,
-    "wof:lastmodified":1514484755,
+    "wof:lastmodified":1561843540,
     "wof:name":"Usje",
     "wof:parent_id":85674337,
     "wof:placetype":"locality",

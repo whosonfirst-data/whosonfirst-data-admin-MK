@@ -29,23 +29,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Sarajit"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0439"
     ],
     "name:cat_x_preferred":[
         "Sarai"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9\u4f0a\u5340"
-    ],
     "name:deu_x_preferred":[
         "Sarai"
     ],
-    "name:dut_x_preferred":[
-        "Saraj"
+    "name:deu_x_variant":[
+        "Op\u0161tina Saraj"
     ],
     "name:eng_x_preferred":[
         "Saraj Municipality"
@@ -55,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Sara\u00ef"
-    ],
-    "name:fre_x_preferred":[
-        "Sara\u00ef"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e0\u10d0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Saraj"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Saraj"
@@ -83,11 +68,11 @@
     "name:kor_x_preferred":[
         "\uc0ac\ub77c\uc774 \uc2dc"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0440\u0430\u0458"
-    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0440\u0430\u0458"
+    ],
+    "name:nld_x_preferred":[
+        "Saraj"
     ],
     "name:spa_x_preferred":[
         "Municipio de Saraj"
@@ -250,7 +235,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550450,
+    "wof:lastmodified":1561843528,
     "wof:name":"Saraj",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

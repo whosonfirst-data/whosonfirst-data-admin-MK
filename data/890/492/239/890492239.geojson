@@ -16,26 +16,17 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kukure\u00e7ani"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0440\u0435\u0447\u0430\u043d\u0438"
-    ],
-    "name:dut_x_preferred":[
-        "Kukure\u010dani"
     ],
     "name:eng_x_preferred":[
         "Kukure\u010dani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Koukouretchani"
     ],
     "name:hun_x_preferred":[
         "Kukurecsani"
-    ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u043a\u0443\u0440\u0435\u0447\u0430\u043d\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0440\u0435\u0447\u0430\u043d\u0438"
@@ -43,8 +34,14 @@
     "name:nan_x_preferred":[
         "Koukouretchani"
     ],
+    "name:nld_x_preferred":[
+        "Kukure\u010dani"
+    ],
     "name:pol_x_preferred":[
         "Kukureczani"
+    ],
+    "name:sqi_x_preferred":[
+        "Kukure\u00e7ani"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0440\u0435\u0447\u0430\u043d\u0438"
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":890492239,
-    "wof:lastmodified":1527793028,
+    "wof:lastmodified":1561843545,
     "wof:name":"Kukure\u010dani",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

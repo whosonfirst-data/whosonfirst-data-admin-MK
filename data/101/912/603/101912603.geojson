@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002037,
-    "geom:area_square_m":18715885.335886,
+    "geom:area_square_m":18715885.335872,
     "geom:bbox":"21.4716963336,41.9512600288,21.5376489837,42.0330876156",
     "geom:latitude":41.995488,
     "geom:longitude":21.496596,
@@ -22,9 +22,6 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Madzhari"
-    ],
     "name:eng_x_preferred":[
         "Madjari"
     ],
@@ -34,14 +31,17 @@
     "name:lit_x_preferred":[
         "FK Mad\u0302ari Solidarnost"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u045f\u0430\u0440\u0438"
-    ],
     "name:mkd_x_preferred":[
         "\u0424\u041a \u041c\u0430\u045f\u0430\u0440\u0438 \u0421\u043e\u043b\u0438\u0434\u0430\u0440\u043d\u043e\u0441\u0442"
     ],
+    "name:mkd_x_variant":[
+        "\u041c\u0430\u045f\u0430\u0440\u0438"
+    ],
     "name:nld_x_preferred":[
         "FK Mad\u017eari Solidarnost Skopje"
+    ],
+    "name:nld_x_variant":[
+        "Madzhari"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101912603,
-    "wof:lastmodified":1553815582,
+    "wof:lastmodified":1561843532,
     "wof:name":"Mad\u017eari",
     "wof:parent_id":85674297,
     "wof:placetype":"locality",

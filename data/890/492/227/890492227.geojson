@@ -16,26 +16,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Jankoveci"
-    ],
     "name:bul_x_preferred":[
         "\u042f\u043d\u043a\u043e\u0432\u0435\u0446"
-    ],
-    "name:dut_x_preferred":[
-        "Jankovec"
     ],
     "name:eng_x_preferred":[
         "Jankovec"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yankovets"
-    ],
-    "name:mac_x_preferred":[
-        "\u0408\u0430\u043d\u043a\u043e\u0432\u0435\u0446"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0430\u043d\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:nld_x_preferred":[
+        "Jankovec"
+    ],
+    "name:sqi_x_preferred":[
+        "Jankoveci"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u043d\u043a\u043e\u0432\u0435\u0446"
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":890492227,
-    "wof:lastmodified":1527793022,
+    "wof:lastmodified":1561843541,
     "wof:name":"Jankovec",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

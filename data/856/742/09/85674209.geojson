@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024056,
-    "geom:area_square_m":221490988.762642,
+    "geom:area_square_m":221490988.762632,
     "geom:bbox":"21.2161365,41.73129,21.4626815,41.965873",
     "geom:latitude":41.874172,
     "geom:longitude":21.326483,
@@ -29,9 +29,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Sopishtit"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u0648\u0628\u064a\u062a\u0634\u0647"
     ],
@@ -44,14 +41,14 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Sopi\u0161te"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u76ae\u4ec0\u7279\u5340"
-    ],
     "name:dan_x_preferred":[
         "Sopi\u0161te Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Sopi\u0161te"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Sopi\u0161te"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03cc\u03c0\u03b9\u03c3\u03c4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Sopiste Municipality"
@@ -61,18 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Sopicht\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Sopicht\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10de\u10d8\u10e8\u10e2\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Sopi\u0161te"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03cc\u03c0\u03b9\u03c3\u03c4\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aaa\u0abf\u0ab8\u0acd\u0aa4\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -107,20 +92,17 @@
     "name:lit_x_preferred":[
         "Sopi\u0161t\u0117s savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u043e\u043f\u0438\u0448\u0442\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094b\u092a\u093f\u090f\u0938\u094d\u0924 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Sopiste Municipality"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u043e\u043f\u0438\u0448\u0442\u0435"
     ],
     "name:mkd_x_variant":[
         "\u0421\u043e\u043f\u0438\u0448\u0442\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Sopiste Municipality"
     ],
     "name:nld_x_preferred":[
         "Sopi\u0161te"
@@ -142,6 +124,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio de Sopi\u0161te"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Sopishtit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u043e\u043f\u0438\u0448\u0442\u0435"
@@ -185,6 +170,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Sopiste"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u76ae\u4ec0\u7279\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -311,7 +299,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561843528,
     "wof:name":"Sopiste",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

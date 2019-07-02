@@ -29,17 +29,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Gazi Bab\u00ebs"
-    ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u0437\u0438 \u0431\u0430\u0431\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u9f4a\u5df4\u5df4\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Gazi Baba"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Gazi Baba"
     ],
     "name:eng_x_preferred":[
         "Gazi Baba Municipality"
@@ -47,14 +41,8 @@
     "name:eng_x_variant":[
         "Gazi Baba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gazi Baba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10d6\u10d8-\u10d1\u10d0\u10d1\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Gazi Baba"
     ],
     "name:glg_x_preferred":[
         "Gazi Baba"
@@ -71,11 +59,11 @@
     "name:kor_x_preferred":[
         "\uac00\uc9c0\ubc14\ubc14 \uc2dc"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Gazi Baba"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0437\u0438-\u0411\u0430\u0431\u0430"
@@ -237,7 +225,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550453,
+    "wof:lastmodified":1561843528,
     "wof:name":"Gazi Baba",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

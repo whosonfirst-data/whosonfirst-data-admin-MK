@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002054,
-    "geom:area_square_m":18874343.732241,
+    "geom:area_square_m":18874343.732243,
     "geom:bbox":"21.3311788793,41.9887689864,21.4181970578,42.055291172",
     "geom:latitude":42.014672,
     "geom:longitude":21.37591,
@@ -16,29 +16,17 @@
     "mps:longitude":21.376985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Komuna e Gjor\u00e7e Petrovit"
-    ],
     "name:bul_x_preferred":[
         "\u0413\u044c\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u4f50\u585e\u5f7c\u5f97\u7f85\u592b\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Gor\u010de Petrov"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Gjor\u010de Petrov"
     ],
     "name:eng_x_preferred":[
         "Gjor\u010de Petrov Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Guiortch\u00e9 P\u00e9trov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d8\u10dd\u10e0\u10e9\u10d4-\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Gjor\u010de Petrov"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Gjor\u010de Petrov"
@@ -46,17 +34,26 @@
     "name:ita_x_preferred":[
         "Gor\u010de Petrov"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10e0\u10e9\u10d4-\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uad50\ub974\uccb4\ud398\ud2b8\ub85c\ube0c \uc2dc"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0403\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
     ],
     "name:nan_x_preferred":[
         "Guiortch\u00e9 P\u00e9trov"
     ],
+    "name:nld_x_preferred":[
+        "Gor\u010de Petrov"
+    ],
     "name:spa_x_preferred":[
         "Municipalidad de Gjor\u010de Petrov"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Gjor\u00e7e Petrovit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0402\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
@@ -75,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u06cc\u0648\u0631\u0686\u06c1 \u067e\u06cc\u062a\u0631\u0648\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u585e\u5f7c\u5f97\u7f85\u592b\u5340"
     ],
     "qs:a0":"Macedonia",
     "qs:a1":"*",
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":101912605,
-    "wof:lastmodified":1553815582,
+    "wof:lastmodified":1561843532,
     "wof:name":"Gjor\u010de Petrov",
     "wof:parent_id":85674323,
     "wof:placetype":"locality",

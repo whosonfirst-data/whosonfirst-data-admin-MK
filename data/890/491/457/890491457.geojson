@@ -15,9 +15,6 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Dabnica"
-    ],
     "name:bar_x_preferred":[
         "Dabnica"
     ],
@@ -27,13 +24,13 @@
     "name:cat_x_preferred":[
         "Dabnica"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Dabnica"
     ],
     "name:dan_x_preferred":[
         "Dabnica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dabnica"
     ],
     "name:eng_x_preferred":[
@@ -45,11 +42,8 @@
     "name:fin_x_preferred":[
         "Dabnica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dabnitsa"
-    ],
-    "name:ger_x_preferred":[
-        "Dabnica"
     ],
     "name:gla_x_preferred":[
         "Dabnica"
@@ -66,10 +60,10 @@
     "name:hun_x_preferred":[
         "Dabnica"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Dabnica"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Dabnica"
     ],
     "name:ita_x_preferred":[
@@ -78,19 +72,19 @@
     "name:ltz_x_preferred":[
         "Dabnica"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0430\u0431\u043d\u0438\u0446\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Dabnica"
-    ],
     "name:min_x_preferred":[
         "Dabnica"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u0431\u043d\u0438\u0446\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Dabnica"
+    ],
     "name:nds_x_preferred":[
+        "Dabnica"
+    ],
+    "name:nld_x_preferred":[
         "Dabnica"
     ],
     "name:nno_x_preferred":[
@@ -105,16 +99,19 @@
     "name:por_x_preferred":[
         "Dabnica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dabnica"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dabnica"
     ],
     "name:slv_x_preferred":[
         "Dabnica"
     ],
     "name:spa_x_preferred":[
+        "Dabnica"
+    ],
+    "name:sqi_x_preferred":[
         "Dabnica"
     ],
     "name:srp_x_preferred":[
@@ -156,7 +153,7 @@
         }
     ],
     "wof:id":890491457,
-    "wof:lastmodified":1527736667,
+    "wof:lastmodified":1561843539,
     "wof:name":"Dabnica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

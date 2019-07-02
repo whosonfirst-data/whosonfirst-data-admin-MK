@@ -15,29 +15,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Sushica"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0421\u0443\u0448\u0438\u0446\u0430"
-    ],
-    "name:dut_x_preferred":[
-        "Markova Su\u0161ica"
     ],
     "name:eng_x_preferred":[
         "Markova Su\u0161ica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Markova Souchitsa"
-    ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0421\u0443\u0448\u0438\u0446\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0421\u0443\u0448\u0438\u0446\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Markova Su\u0161ica"
+    ],
     "name:spa_x_preferred":[
         "Markova Su\u0161ica"
+    ],
+    "name:sqi_x_preferred":[
+        "Sushica"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0421\u0443\u0448\u0438\u0446\u0430"
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":890492477,
-    "wof:lastmodified":1527793022,
+    "wof:lastmodified":1561843542,
     "wof:name":"Markova Su\u0161ica",
     "wof:parent_id":85674223,
     "wof:placetype":"locality",

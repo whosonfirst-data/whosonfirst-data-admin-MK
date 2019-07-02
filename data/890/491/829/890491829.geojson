@@ -15,29 +15,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Llojani"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u044f\u043d\u0435"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lojane"
     ],
     "name:eng_x_preferred":[
         "Lojane"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Loyan\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Lojane"
-    ],
-    "name:mac_x_preferred":[
-        "\u041b\u043e\u0458\u0430\u043d\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u0458\u0430\u043d\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Lojane"
+    ],
+    "name:sqi_x_preferred":[
+        "Llojani"
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0458\u0430\u043d\u0435"
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":890491829,
-    "wof:lastmodified":1527736660,
+    "wof:lastmodified":1561843534,
     "wof:name":"Lojane",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

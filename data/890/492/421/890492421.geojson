@@ -15,26 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Zagradi"
-    ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0430\u0434"
     ],
     "name:eng_x_preferred":[
         "Zagrad"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zagrad"
-    ],
-    "name:mac_x_preferred":[
-        "\u0417\u0430\u0433\u0440\u0430\u0434"
     ],
     "name:mkd_x_preferred":[
         "Zagrad"
     ],
     "name:mkd_x_variant":[
         "\u0417\u0430\u0433\u0440\u0430\u0434"
+    ],
+    "name:sqi_x_preferred":[
+        "Zagradi"
     ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0430\u0434"
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":890492421,
-    "wof:lastmodified":1527793026,
+    "wof:lastmodified":1561843544,
     "wof:name":"Zagrad",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

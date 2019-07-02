@@ -15,29 +15,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "K\u00ebrnina"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u044a\u0440\u043d\u0438\u043d\u043e"
     ],
     "name:eng_x_preferred":[
         "Krnino"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Krnino"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d9\u10d8\u10e0\u10dc\u10d8\u10dc\u10dd"
-    ],
-    "name:mac_x_preferred":[
-        "\u041a\u0440\u043d\u0438\u043d\u043e"
     ],
     "name:mkd_x_preferred":[
         "Krnino"
     ],
     "name:mkd_x_variant":[
         "\u041a\u0440\u043d\u0438\u043d\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "K\u00ebrnina"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u043d\u0438\u043d\u043e"
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":890491231,
-    "wof:lastmodified":1527736666,
+    "wof:lastmodified":1561843539,
     "wof:name":"Krnino",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

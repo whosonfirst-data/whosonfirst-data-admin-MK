@@ -16,38 +16,35 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Miraci"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u0440\u0430\u045e\u0446\u044b"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u0430\u0432\u0446\u0438"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Miravci"
     ],
     "name:eng_x_preferred":[
         "Miravci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Miravtsi"
-    ],
-    "name:ger_x_preferred":[
-        "Miravci"
     ],
     "name:hun_x_preferred":[
         "Miravci"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0438\u0440\u0430\u0432\u0446\u0438"
-    ],
     "name:mkd_x_preferred":[
         "\u041c\u0438\u0440\u0430\u0432\u0446\u0438"
     ],
+    "name:nld_x_preferred":[
+        "Miravci"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u0430\u0432\u0446\u044b"
+    ],
+    "name:sqi_x_preferred":[
+        "Miraci"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0440\u0430\u0432\u0446\u0438"
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":890492073,
-    "wof:lastmodified":1527793026,
+    "wof:lastmodified":1561843544,
     "wof:name":"Miravci",
     "wof:parent_id":85674461,
     "wof:placetype":"locality",

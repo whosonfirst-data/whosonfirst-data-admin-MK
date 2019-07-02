@@ -15,23 +15,17 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Bell\u00e7a"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0447\u0435"
     ],
     "name:eng_x_preferred":[
         "Belche"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beltch\u00e9"
     ],
     "name:hun_x_preferred":[
         "Belcse"
-    ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u043b\u0447\u0435"
     ],
     "name:mkd_x_preferred":[
         "Bel\u010de"
@@ -41,6 +35,9 @@
     ],
     "name:pol_x_preferred":[
         "Be\u0142cze"
+    ],
+    "name:sqi_x_preferred":[
+        "Bell\u00e7a"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u0447\u0435"
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":890491101,
-    "wof:lastmodified":1553816419,
+    "wof:lastmodified":1561843538,
     "wof:name":"Bel\u010de",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

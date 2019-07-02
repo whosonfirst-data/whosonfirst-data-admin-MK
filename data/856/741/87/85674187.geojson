@@ -29,9 +29,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Komuna e Probishtipit"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u0631\u0648\u062a\u0634\u062a\u064a\u0628"
     ],
@@ -44,14 +41,14 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Probi\u0161tip"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u7f85\u6bd4\u4ec0\u8482\u666e\u5340"
-    ],
     "name:dan_x_preferred":[
         "Probi\u0161tip Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Probi\u0161tip"
+    "name:deu_x_preferred":[
+        "Op\u0161tina Probi\u0161tip"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03c1\u03cc\u03bc\u03c0\u03b9\u03c3\u03c4\u03b9\u03c0"
     ],
     "name:eng_x_preferred":[
         "Probistip Municipality"
@@ -61,18 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Probichtip"
-    ],
-    "name:fre_x_preferred":[
-        "Probichtip"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e0\u10dd\u10d1\u10d8\u10e8\u10e2\u10d8\u10de\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0161tina Probi\u0161tip"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03c1\u03cc\u03bc\u03c0\u03b9\u03c3\u03c4\u03b9\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0acb\u0aac\u0abf\u0ab8\u0acd\u0a9f\u0abf\u0aaa \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -107,20 +92,17 @@
     "name:lit_x_preferred":[
         "Probi\u0161tipo savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0440\u043e\u0431\u0438\u0448\u0442\u0438\u043f"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u094b\u092c\u093f\u0938\u094d\u091f\u093f\u092a \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Probistip Municipality"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0440\u043e\u0431\u0438\u0448\u0442\u0438\u043f"
     ],
     "name:mkd_x_variant":[
         "\u041f\u0440\u043e\u0431\u0438\u0448\u0442\u0438\u043f"
+    ],
+    "name:msa_x_preferred":[
+        "Probistip Municipality"
     ],
     "name:nld_x_preferred":[
         "Probi\u0161tip"
@@ -142,6 +124,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio de Probi\u0161tip"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Probishtipit"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0440\u043e\u0431\u0438\u0448\u0442\u0438\u043f"
@@ -185,6 +170,9 @@
     ],
     "name:vie_x_preferred":[
         "Probistip \u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u7f85\u6bd4\u4ec0\u8482\u666e\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -311,7 +299,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550449,
+    "wof:lastmodified":1561843524,
     "wof:name":"Probistip",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

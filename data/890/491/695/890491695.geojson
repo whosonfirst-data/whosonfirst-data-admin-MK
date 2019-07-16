@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Idrizovo"
+    ],
     "name:deu_x_preferred":[
         "Idrizovo"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Idrizovo"
     ],
     "name:nld_x_preferred":[
         "Idrizovo"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890491695,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257390,
     "wof:name":"\u0418\u0434\u0440\u0438\u0437\u043e\u0432\u043e",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

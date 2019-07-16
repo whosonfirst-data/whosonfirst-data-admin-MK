@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Novo Selo"
+    ],
     "name:ces_x_preferred":[
         "Op\u0161tina Novo Selo"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:msa_x_preferred":[
         "Novo Selo Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Novo Selo Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Novo Selo"
@@ -295,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843525,
+    "wof:lastmodified":1563257115,
     "wof:name":"Novo Selo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

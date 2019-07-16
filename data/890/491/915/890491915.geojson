@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Kondovo"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bd\u03c4\u03bf\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Kondovo"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u043d\u0434\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Kondovo"
     ],
     "name:nld_x_preferred":[
         "Kondovo"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890491915,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257400,
     "wof:name":"Kondovo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

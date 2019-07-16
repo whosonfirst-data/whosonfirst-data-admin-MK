@@ -24,8 +24,14 @@
     "name:fra_x_preferred":[
         "Pechtalevo"
     ],
+    "name:hun_x_preferred":[
+        "Pestalevo"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0448\u0442\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Pechtalevo"
     ],
     "name:nld_x_preferred":[
         "Pe\u0161talevo"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890492151,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257533,
     "wof:name":"Pe\u0161talevo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

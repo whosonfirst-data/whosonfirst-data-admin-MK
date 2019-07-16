@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0438\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Presil"
+    ],
     "name:eng_x_preferred":[
         "Presil"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0438\u043b"
+    ],
+    "name:nan_x_preferred":[
+        "Presil"
     ],
     "name:nld_x_preferred":[
         "Presil"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890492513,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257659,
     "wof:name":"Presil",
     "wof:parent_id":85674353,
     "wof:placetype":"locality",

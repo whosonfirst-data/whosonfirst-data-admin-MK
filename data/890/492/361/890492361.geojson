@@ -30,6 +30,9 @@
     "name:mkd_x_variant":[
         "\u0416\u0438\u0432\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Jivovo"
+    ],
     "name:nld_x_preferred":[
         "\u017divovo"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890492361,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257594,
     "wof:name":"\u017divovo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

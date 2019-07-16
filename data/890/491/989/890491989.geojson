@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041e\u043a\u0442\u0438\u0441\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Oktisi"
+    ],
     "name:deu_x_preferred":[
         "Oktisi"
     ],
@@ -37,7 +40,13 @@
     "name:mkd_x_variant":[
         "\u041e\u043a\u0442\u0438\u0441\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Oktisi"
+    ],
     "name:nld_x_preferred":[
+        "Oktisi"
+    ],
+    "name:por_x_preferred":[
         "Oktisi"
     ],
     "name:sqi_x_preferred":[
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890491989,
-    "wof:lastmodified":1561843540,
+    "wof:lastmodified":1563257501,
     "wof:name":"Oktisi",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

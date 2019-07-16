@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Dolno Dupeni"
     ],
+    "name:ceb_x_preferred":[
+        "Dolno Dupeni"
+    ],
     "name:ces_x_preferred":[
         "Dolno Dupeni"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:deu_x_preferred":[
         "Dolno Dupeni"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bb\u03bd\u03bf \u039d\u03c4\u03bf\u03c5\u03c0\u03ad\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Dupeni"
@@ -134,6 +140,9 @@
     ],
     "name:msa_x_preferred":[
         "Dolno Dupeni"
+    ],
+    "name:nan_x_preferred":[
+        "Dolno Doupeni"
     ],
     "name:nap_x_preferred":[
         "Dolno Dupeni"
@@ -262,7 +271,7 @@
         }
     ],
     "wof:id":890491251,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257384,
     "wof:name":"Dolno Dupeni",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

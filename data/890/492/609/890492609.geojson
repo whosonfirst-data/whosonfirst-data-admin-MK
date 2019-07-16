@@ -18,10 +18,16 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043a\u0432\u0435\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Lokveni"
+    ],
     "name:eng_x_preferred":[
         "Lokveni"
     ],
     "name:fra_x_preferred":[
+        "Lokveni"
+    ],
+    "name:hun_x_preferred":[
         "Lokveni"
     ],
     "name:mkd_x_preferred":[
@@ -29,6 +35,9 @@
     ],
     "name:mkd_x_variant":[
         "\u041b\u043e\u043a\u0432\u0435\u043d\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Lokveni"
     ],
     "name:sqi_x_preferred":[
         "Llokveni"
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":890492609,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257651,
     "wof:name":"Lokveni",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

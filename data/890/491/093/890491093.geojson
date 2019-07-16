@@ -81,6 +81,9 @@
     "name:msa_x_preferred":[
         "Belovodica"
     ],
+    "name:nan_x_preferred":[
+        "Belovoditsa"
+    ],
     "name:nds_x_preferred":[
         "Belovodica"
     ],
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":890491093,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257487,
     "wof:name":"Belovodica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

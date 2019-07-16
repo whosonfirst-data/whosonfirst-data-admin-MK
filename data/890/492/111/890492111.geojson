@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Debar"
     ],
+    "name:ceb_x_preferred":[
+        "Debar"
+    ],
     "name:ces_x_preferred":[
         "Debar"
     ],
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890492111,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257583,
     "wof:name":"Debar",
     "wof:parent_id":85674389,
     "wof:placetype":"locality",

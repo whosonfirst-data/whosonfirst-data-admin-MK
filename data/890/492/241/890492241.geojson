@@ -19,11 +19,20 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u044a\u0440\u0448\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Obr\u0161ani"
+    ],
     "name:eng_x_preferred":[
         "Obr\u0161ani"
     ],
     "name:fra_x_preferred":[
         "Obrchani"
+    ],
+    "name:hun_x_preferred":[
+        "Obrsani"
+    ],
+    "name:lit_x_preferred":[
+        "Obr\u0161anis"
     ],
     "name:mkd_x_preferred":[
         "Obr\u0161ani"
@@ -31,11 +40,20 @@
     "name:mkd_x_variant":[
         "\u041e\u0431\u0440\u0448\u0430\u043d\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Obrchani"
+    ],
+    "name:nld_x_preferred":[
+        "Obrsjani"
+    ],
     "name:sqi_x_preferred":[
         "Ob\u00ebrshani"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0431\u0440\u0448\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Obrsjani"
     ],
     "qs:name":"Obr\u0161ani",
     "qs:name_adm0":"Macedonia",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":890492241,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257615,
     "wof:name":"Obr\u0161ani",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

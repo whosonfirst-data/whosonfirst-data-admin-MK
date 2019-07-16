@@ -16,11 +16,99 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Vinica"
+    ],
+    "name:ces_x_preferred":[
+        "Vinica"
+    ],
+    "name:deu_x_preferred":[
+        "Vinica"
+    ],
+    "name:eng_x_preferred":[
+        "Vinica"
+    ],
+    "name:fra_x_preferred":[
+        "Vinica"
+    ],
+    "name:hrv_x_preferred":[
+        "Vinica"
+    ],
+    "name:hun_x_preferred":[
+        "Vinica"
+    ],
+    "name:ile_x_preferred":[
+        "Vinica"
+    ],
+    "name:ita_x_preferred":[
+        "Vinica"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10dc\u10d8\u10ea\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ub2c8\ucc28"
+    ],
+    "name:lav_x_preferred":[
+        "Vinica"
+    ],
+    "name:lit_x_preferred":[
+        "Vinica"
+    ],
     "name:mkd_x_preferred":[
         "Vini\u010dani"
     ],
     "name:mkd_x_variant":[
-        "\u0412\u0438\u043d\u0438\u0447\u0430\u043d\u0438"
+        "\u0412\u0438\u043d\u0438\u0447\u0430\u043d\u0438",
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Vinitsa"
+    ],
+    "name:nld_x_preferred":[
+        "Vinica"
+    ],
+    "name:pol_x_preferred":[
+        "Winica"
+    ],
+    "name:ron_x_preferred":[
+        "Vinica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Vinica"
+    ],
+    "name:sqi_x_preferred":[
+        "Vinica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vinica"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0447\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Vini\u00e7a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u044f"
+    ],
+    "name:vol_x_preferred":[
+        "Vinitsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u5c3c\u5bdf"
     ],
     "qs:name":"Vini\u010dani",
     "qs:name_adm0":"Macedonia",
@@ -60,7 +148,7 @@
         }
     ],
     "wof:id":890492287,
-    "wof:lastmodified":1527793022,
+    "wof:lastmodified":1563257541,
     "wof:name":"Vini\u010dani",
     "wof:parent_id":85674301,
     "wof:placetype":"locality",

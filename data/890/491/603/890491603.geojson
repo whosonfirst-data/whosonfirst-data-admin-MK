@@ -27,6 +27,9 @@
     "name:mkd_x_preferred":[
         "\u0427\u0443\u043c\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Tchoumovo"
+    ],
     "name:nld_x_preferred":[
         "\u010cumovo"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890491603,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257383,
     "wof:name":"\u010cumovo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

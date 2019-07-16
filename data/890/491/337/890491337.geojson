@@ -18,17 +18,26 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043a\u0438\u0440\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Sekirci"
+    ],
     "name:eng_x_preferred":[
         "Sekirci"
     ],
     "name:fra_x_preferred":[
         "Sekirtsi"
     ],
+    "name:hun_x_preferred":[
+        "Szekirci"
+    ],
     "name:mkd_x_preferred":[
         "Sekirci"
     ],
     "name:mkd_x_variant":[
         "\u0421\u0435\u043a\u0438\u0440\u0446\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Sekirtsi"
     ],
     "name:nld_x_preferred":[
         "Sekirci"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890491337,
-    "wof:lastmodified":1561843533,
+    "wof:lastmodified":1563257337,
     "wof:name":"Sekirci",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

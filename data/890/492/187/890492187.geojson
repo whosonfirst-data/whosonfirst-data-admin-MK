@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0438\u043d\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kostinci"
+    ],
     "name:eng_x_preferred":[
         "Kostinci"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:mkd_x_variant":[
         "\u041a\u043e\u0441\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Kostintsi"
     ],
     "name:nld_x_preferred":[
         "Kostinci"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890492187,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257575,
     "wof:name":"Kostinci",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

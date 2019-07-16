@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0434\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Budakovo"
+    ],
     "name:eng_x_preferred":[
         "Boudakovo"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890492699,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257634,
     "wof:name":"Budakovo",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

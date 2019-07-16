@@ -19,8 +19,14 @@
     "name:bul_x_preferred":[
         "\u0413\u044c\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Opstina Gjorce Petrov"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Gjor\u010de Petrov"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0393\u03ba\u03b9\u03cc\u03c1\u03c4\u03c3\u03b5 \u03a0\u03ad\u03c4\u03c1\u03bf\u03c6"
     ],
     "name:eng_x_preferred":[
         "Gjor\u010de Petrov Municipality"
@@ -31,6 +37,9 @@
     "name:hrv_x_preferred":[
         "Op\u0107ina Gjor\u010de Petrov"
     ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Gjor\u010de Petrov"
+    ],
     "name:ita_x_preferred":[
         "Gor\u010de Petrov"
     ],
@@ -40,6 +49,9 @@
     "name:kor_x_preferred":[
         "\uad50\ub974\uccb4\ud398\ud2b8\ub85c\ube0c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc870\ub974\uccb4\ud398\ud2b8\ub85c\ud504 \uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0403\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432"
     ],
@@ -48,6 +60,9 @@
     ],
     "name:nld_x_preferred":[
         "Gor\u010de Petrov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0451\u0440\u0447\u0435-\u041f\u0435\u0442\u0440\u043e\u0432"
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Gjor\u010de Petrov"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":101912605,
-    "wof:lastmodified":1561843532,
+    "wof:lastmodified":1563257312,
     "wof:name":"Gjor\u010de Petrov",
     "wof:parent_id":85674323,
     "wof:placetype":"locality",

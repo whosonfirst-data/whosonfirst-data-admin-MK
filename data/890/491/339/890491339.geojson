@@ -18,14 +18,23 @@
     "name:bul_x_preferred":[
         "\u0420\u0438\u043b\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Rilevo"
+    ],
     "name:eng_x_preferred":[
         "Rilevo"
     ],
     "name:fra_x_preferred":[
         "Rilevo"
     ],
+    "name:hun_x_preferred":[
+        "Rilevo"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u0438\u043b\u0435\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Rilevo"
     ],
     "name:nld_x_preferred":[
         "Rilevo"
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":890491339,
-    "wof:lastmodified":1561843533,
+    "wof:lastmodified":1563257340,
     "wof:name":"Rilevo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0432\u0440\u043e\u0432\u0438 \u0445\u0430\u043d\u043e\u0432\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Mavrovi Anovi"
+    ],
     "name:ces_x_preferred":[
         "Mavrovi Anovi"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0432\u0440\u043e\u0432\u0441\u043a\u0438 \u0425\u0430\u043d\u043e\u0432\u0438"
+    ],
+    "name:srp_x_variant":[
+        "Gali\u0161te"
     ],
     "name:swe_x_preferred":[
         "Mavrovi Anovi"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890492275,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257554,
     "wof:name":"Mavrovi Anovi",
     "wof:parent_id":85674403,
     "wof:placetype":"locality",

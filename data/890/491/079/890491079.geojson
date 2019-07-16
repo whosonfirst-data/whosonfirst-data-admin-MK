@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0435\u0448\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Poe\u0161evo"
+    ],
     "name:eng_x_preferred":[
         "Poe\u0161evo"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Poechevo"
     ],
     "name:nld_x_preferred":[
         "Poe\u0161evo"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890491079,
-    "wof:lastmodified":1561843534,
+    "wof:lastmodified":1563257354,
     "wof:name":"Poe\u0161evo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

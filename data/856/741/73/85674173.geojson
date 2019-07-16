@@ -32,8 +32,14 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Petrovec"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Petrovec"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03c4\u03c1\u03bf\u03b2\u03b5\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Petrovec Municipality"
@@ -43,6 +49,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Petrovec"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Petrovec"
     ],
     "name:ita_x_preferred":[
         "Petrovec"
@@ -62,8 +71,14 @@
     "name:mkd_x_variant":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446"
     ],
+    "name:nan_x_preferred":[
+        "Petrovec Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Petrovec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446"
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Petrovec"
@@ -221,7 +236,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843524,
+    "wof:lastmodified":1563257107,
     "wof:name":"Skopje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

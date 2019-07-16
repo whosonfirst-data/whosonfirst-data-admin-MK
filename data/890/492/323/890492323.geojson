@@ -30,6 +30,9 @@
     "name:mkd_x_preferred":[
         "\u041f\u0430\u0448\u0438\u043d\u043e \u0420\u0443\u0432\u0446\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Pachino Rouvtsi"
+    ],
     "name:sqi_x_preferred":[
         "Pashino Ruvci"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890492323,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257582,
     "wof:name":"Pa\u0161ino Ruvci",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

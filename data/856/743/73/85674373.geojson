@@ -32,8 +32,14 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0430\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Novaci"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Novaci"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03cc\u03b2\u03b1\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Novaci Municipality"
@@ -43,6 +49,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Novaci"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Novaci"
     ],
     "name:ita_x_preferred":[
         "Novaci"
@@ -62,8 +71,14 @@
     "name:mkd_x_variant":[
         "\u041d\u043e\u0432\u0430\u0446\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Novatsi"
+    ],
     "name:nld_x_preferred":[
         "Novaci"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0446\u0438"
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Novaci"
@@ -223,7 +238,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843526,
+    "wof:lastmodified":1563257132,
     "wof:name":"Novatsi",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

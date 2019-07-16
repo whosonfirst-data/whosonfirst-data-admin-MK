@@ -19,14 +19,23 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0440\u0442\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Murtino"
+    ],
     "name:eng_x_preferred":[
         "Murtino"
     ],
     "name:fra_x_preferred":[
         "Mourtino"
     ],
+    "name:hun_x_preferred":[
+        "Murtino"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0443\u0440\u0442\u0438\u043d\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Mourtino"
     ],
     "name:nld_x_preferred":[
         "Murtino"
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":890491775,
-    "wof:lastmodified":1561843540,
+    "wof:lastmodified":1563257496,
     "wof:name":"Murtino",
     "wof:parent_id":85674439,
     "wof:placetype":"locality",

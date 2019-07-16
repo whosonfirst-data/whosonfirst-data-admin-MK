@@ -27,11 +27,17 @@
     "name:fra_x_preferred":[
         "Slivy\u00e9"
     ],
+    "name:hun_x_preferred":[
+        "Szlivje"
+    ],
     "name:mkd_x_preferred":[
         "Slivje"
     ],
     "name:mkd_x_variant":[
         "\u0421\u043b\u0438\u0432\u0458\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Slivy\u00e9"
     ],
     "name:sqi_x_preferred":[
         "Sllivja"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890492317,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257663,
     "wof:name":"Slivje",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

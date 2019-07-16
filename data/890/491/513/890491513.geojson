@@ -15,11 +15,129 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u063a\u0648\u0633\u062a\u064a\u0641\u0627\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09b8\u09cd\u099f\u09bf\u09ad\u09be\u09b0 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Gostivar"
+    ],
+    "name:dan_x_preferred":[
+        "Gostivar Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina Gostivar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0393\u03ba\u03cc\u03c3\u03c4\u03b9\u03b2\u03b1\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Gostivar Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Gostivarin kunta"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acb\u0ab8\u0acd\u0aa4\u0abf\u0ab5\u0ab0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Gostivar"
+    ],
+    "name:hun_x_preferred":[
+        "Gosztivari j\u00e1r\u00e1s"
+    ],
+    "name:ile_x_preferred":[
+        "Gostivar Municipality"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Gostivar"
+    ],
+    "name:ita_x_preferred":[
+        "Gostivar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30b9\u30c6\u30a3\u30f4\u30a1\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ccb\u0cb8\u0ccd\u0c9f\u0cbf\u0cb5\u0cbe\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e1\u10e2\u10d8\u10d5\u10d0\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\uc2a4\ud2f0\ubc14\ub974 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Gostivaras pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Gostivaro savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094b\u0938\u094d\u091f\u0940\u0935\u0930 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
     "name:mkd_x_preferred":[
         "Strajane"
     ],
     "name:mkd_x_variant":[
-        "\u0421\u0442\u0440\u0430\u0458\u0430\u043d\u0435"
+        "\u0421\u0442\u0440\u0430\u0458\u0430\u043d\u0435",
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Gostivar Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Gostivar Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Gostivar Municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Gostivar kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gostivar"
+    ],
+    "name:ron_x_preferred":[
+        "Gostivar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Opsjtina Gostivar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bbf\u0bb5\u0bbe\u0bb0\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4b\u0c38\u0c4d\u0c1f\u0c3f\u0c35\u0c3e\u0c30\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e2d\u0e2a\u0e17\u0e34\u0e27\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Gostivar Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0633\u062a\u06cc\u0648\u0627\u0631 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u65af\u8482\u74e6\u533a"
     ],
     "qs:name":"Strajane",
     "qs:photos_9r":0,
@@ -52,7 +170,7 @@
         }
     ],
     "wof:id":890491513,
-    "wof:lastmodified":1527736668,
+    "wof:lastmodified":1563257499,
     "wof:name":"Strajane",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

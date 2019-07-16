@@ -44,6 +44,9 @@
     "name:ceb_x_preferred":[
         "Kratovo"
     ],
+    "name:ceb_x_variant":[
+        "Kratovo Op\u0161tina"
+    ],
     "name:ces_x_preferred":[
         "Kratovo"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03c1\u03b1\u03c4\u03cc\u03b2\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03c1\u03ac\u03c4\u03bf\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kratovo Municipality"
@@ -86,6 +92,9 @@
     "name:hrv_x_preferred":[
         "Kratovo"
     ],
+    "name:hrv_x_variant":[
+        "Op\u0107ina Kratovo"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Kratovo"
     ],
@@ -107,11 +116,17 @@
     "name:kor_x_preferred":[
         "\ud06c\ub77c\ud1a0\ubcf4"
     ],
+    "name:kor_x_variant":[
+        "\ud06c\ub77c\ud1a0\ubcf4 \uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kratovo pa\u0161vald\u012bba"
     ],
     "name:lit_x_preferred":[
         "Kratovas"
+    ],
+    "name:lit_x_variant":[
+        "Kratovo savivaldyb\u0117"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0930\u091f\u094b\u0935\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
@@ -125,6 +140,9 @@
     "name:msa_x_preferred":[
         "Kratovo Municipality"
     ],
+    "name:nan_x_preferred":[
+        "Kratovo"
+    ],
     "name:nld_x_preferred":[
         "Kratovo"
     ],
@@ -133,6 +151,9 @@
     ],
     "name:pol_x_preferred":[
         "Kratowo"
+    ],
+    "name:pol_x_variant":[
+        "Gmina Kratowo"
     ],
     "name:por_x_preferred":[
         "Kratovo"
@@ -161,8 +182,14 @@
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0442\u043e\u0432\u043e"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
     "name:swe_x_preferred":[
         "Kratovo"
+    ],
+    "name:swe_x_variant":[
+        "Kratovo Op\u0161tina"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcd\u0bb0\u0bbe\u0b9f\u0bcb\u0bb5\u0bcb  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
@@ -178,6 +205,9 @@
     ],
     "name:tur_x_preferred":[
         "Kratova"
+    ],
+    "name:tur_x_variant":[
+        "Kratova Belediyesi"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0442\u043e\u0432\u043e"
@@ -331,7 +361,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843526,
+    "wof:lastmodified":1563257132,
     "wof:name":"Kratovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

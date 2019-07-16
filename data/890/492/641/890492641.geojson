@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0421\u044a\u043b\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Dolno Solnje"
+    ],
     "name:eng_x_preferred":[
         "Dolno Sonje"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0414\u043e\u043b\u043d\u043e \u0421\u043e\u045a\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Dolno Sony\u00e9"
     ],
     "name:nld_x_preferred":[
         "Dolno Sonje"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890492641,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257628,
     "wof:name":"Dolno Solnje",
     "wof:parent_id":85674209,
     "wof:placetype":"locality",

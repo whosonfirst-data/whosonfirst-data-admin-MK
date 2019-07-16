@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u043f\u043e\u043b\u0436\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Zapol\u017eani"
+    ],
     "name:eng_x_preferred":[
         "Zapol\u017eani"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0417\u0430\u043f\u043e\u043b\u0436\u0430\u043d\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Zapoljani"
     ],
     "name:sqi_x_preferred":[
         "Zapolzhani"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890492419,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257611,
     "wof:name":"Zapol\u017eani",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

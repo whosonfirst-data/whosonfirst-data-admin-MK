@@ -16,11 +16,89 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u063a\u062f\u0627\u0646\u062a\u0633\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:chu_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0434\u0430\u043d\u044c\u0446\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03b3\u03b4\u03ac\u03bd\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Bogdanci"
     ],
+    "name:fra_x_preferred":[
+        "Bogdantsi"
+    ],
+    "name:hrv_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:hun_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:ile_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d2\u10d3\u10d0\u10dc\u10ea\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uadf8\ub2e8\uce58"
+    ],
+    "name:lit_x_preferred":[
+        "Bogdancai"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Bogdantsi"
+    ],
+    "name:nld_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:pol_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:sqi_x_preferred":[
+        "Bogdanca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0442\u0441\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Bogdanci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u683c\u4e39\u9f4a"
     ],
     "qs:name":"Bogdanci",
     "qs:name_adm0":"Macedonia",
@@ -60,7 +138,7 @@
         }
     ],
     "wof:id":890492005,
-    "wof:lastmodified":1527793029,
+    "wof:lastmodified":1563257646,
     "wof:name":"Bogdanci",
     "wof:parent_id":85674453,
     "wof:placetype":"locality",

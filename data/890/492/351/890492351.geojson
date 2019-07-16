@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u0432\u0435\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Drevenik"
+    ],
     "name:eng_x_preferred":[
         "Drevenik"
     ],
@@ -30,6 +33,9 @@
     "name:mkd_x_preferred":[
         "\u0414\u0440\u0435\u0432\u0435\u043d\u0438\u043a"
     ],
+    "name:nan_x_preferred":[
+        "Drevenik"
+    ],
     "name:nld_x_preferred":[
         "Drevenik"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0440\u0435\u0432\u0435\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Drevenik"
     ],
     "name:unk_x_variant":[
         "Drvenik"
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":890492351,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257601,
     "wof:name":"Drevenik",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

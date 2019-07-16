@@ -29,8 +29,26 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0645\u0627\u0643\u064a\u062f\u0648\u0646\u0633\u0643\u0627 \u0643\u0627\u0645\u064a\u0646\u064a\u0643\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u0995\u09be\u09a1\u09a8\u09b8\u09cd\u0995\u09be \u0995\u09be\u09ae\u09c7\u09a8\u09bf\u09af\u09bc\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Makedonska Kamenica"
+    ],
+    "name:dan_x_preferred":[
+        "Makedonska Kamenica Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina Makedonska Kamenica"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03b1\u03ba\u03ad\u03bd\u03c4\u03bf\u03bd\u03c3\u03ba\u03b1 \u039a\u03b1\u03bc\u03ad\u03bd\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Makedonska Kamenica Municipality"
@@ -38,14 +56,35 @@
     "name:eng_x_variant":[
         "Makedonska Kamenica"
     ],
+    "name:fin_x_preferred":[
+        "Makedonska Kamenican kunta"
+    ],
     "name:fra_x_preferred":[
         "Makedonska Kamenitsa"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0a95\u0ac7\u0aa1\u0acb\u0aa8\u0ab8\u0acd\u0a95\u0abe \u0a95\u0ac7\u0aae\u0ac7\u0aa8\u0abf\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Staro Nagori\u010dane"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0915\u0947\u0921\u094b\u0902\u0938\u094d\u0915\u093e \u0915\u092e\u0948\u0928\u093f\u0915\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Staro Nagori\u010dane"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Makedonska Kamenica"
+    ],
+    "name:ita_x_preferred":[
+        "Makedonska Kamenica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b1\u30c9\u30f3\u30b9\u30ab\u30fb\u30ab\u30e1\u30cb\u30c4\u30a1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccd\u0caf\u0cbe\u0c95\u0cc6\u0ca1\u0cca\u0ca8\u0ccd\u0cb8\u0ccd\u0c95\u0cbe \u0c95\u0cbe\u0cae\u0cc6\u0ca8\u0cbf\u0c95 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10e1\u10d9\u10d0-\u10d9\u10d0\u10db\u10d4\u10dc\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
@@ -53,14 +92,44 @@
     "name:kor_x_preferred":[
         "\ub9c8\ucf00\ub3c8\uc2a4\uce74\uce74\uba54\ub2c8\ucc28 \uc2dc"
     ],
+    "name:lav_x_preferred":[
+        "Ma\u0137edonijas Kamenicas province"
+    ],
+    "name:lit_x_preferred":[
+        "Makedonijos Kamenicos provincija"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0945\u0915\u094d\u0921\u094b\u0902\u0938\u094d\u0915\u093e \u0915\u093e\u092e\u0947\u0902\u0907\u0915\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
     "name:mkd_x_variant":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Perbandaran Makedonska Kamenica"
+    ],
+    "name:nan_x_preferred":[
+        "Makedonska Kamenitsa"
+    ],
+    "name:nld_x_preferred":[
+        "Makedonska Kamenica"
+    ],
+    "name:nob_x_preferred":[
+        "Makedonska Kamencia kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Makedonska Kamenica"
+    ],
+    "name:por_x_preferred":[
+        "Makedonska Kamencia kommune"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430-\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0d9a\u0dd9\u0da9\u0ddc\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dcf \u0d9a\u0db8\u0dd9\u0db1\u0dd2\u0d9a\u0dcf \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
     ],
     "name:spa_x_preferred":[
         "Municipio de Makedonska Kamenica"
@@ -71,8 +140,20 @@
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Makedonska Kamenica"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c15\u0c46\u0c21\u0c4b\u0c28\u0c4d\u0c38\u0c4d\u0c15\u0c3e \u0c15\u0c3e\u0c2e\u0c46\u0c28\u0c3f\u0c15\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0442\u0441\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e21\u0e32\u0e01\u0e32\u0e14\u0e2d\u0e19\u0e2a\u0e01\u0e32 \u0e04\u0e32\u0e40\u0e21\u0e19\u0e34\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Makedonska Kamenica Belediyesi"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u044c\u043a\u0430-\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u044f"
@@ -217,7 +298,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550458,
+    "wof:lastmodified":1563257117,
     "wof:name":"Makedonska Kamenica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

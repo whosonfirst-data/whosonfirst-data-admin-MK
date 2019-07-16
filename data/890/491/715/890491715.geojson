@@ -36,6 +36,9 @@
     "name:mkd_x_variant":[
         "\u0421\u0440\u0431\u0438\u0446\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Srbitsa"
+    ],
     "name:nld_x_preferred":[
         "Srbica"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890491715,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257405,
     "wof:name":"Srbica",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

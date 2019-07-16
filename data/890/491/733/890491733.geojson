@@ -18,17 +18,41 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0643\u064a\u062f\u0648\u0646\u0633\u0643\u064a \u0628\u0631\u0648\u062f"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u043e\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:ces_x_preferred":[
+        "Makedonski Brod"
+    ],
     "name:chu_x_preferred":[
         "\u041c\u0430\u043a\u0454\u0434\u043e\u043d\u044c\u0441\u043a\u044a \u0411\u0440\u043e\u0434\u044a"
+    ],
+    "name:deu_x_preferred":[
+        "Makedonski Brod"
     ],
     "name:eng_x_preferred":[
         "Makedonski Brod"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06a9\u062f\u0648\u0646\u0633\u06a9\u06cc \u0628\u0648\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:hrv_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:hsb_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:hun_x_preferred":[
+        "Makedonszki Brod"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10e1\u10d9\u10d8-\u10d1\u10e0\u10dd\u10d3\u10d8"
@@ -45,14 +69,38 @@
     "name:mkd_x_variant":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434"
     ],
+    "name:nan_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:nld_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:pol_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:ron_x_preferred":[
+        "Makedonski Brod"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438-\u0411\u0440\u043e\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Makedonski Brod"
     ],
     "name:sqi_x_preferred":[
         "Brodi"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438-\u0411\u0440\u043e\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "Makedonski Brod"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u044c\u043a\u0438-\u0411\u0440\u043e\u0434"
@@ -96,7 +144,7 @@
         }
     ],
     "wof:id":890491733,
-    "wof:lastmodified":1527736663,
+    "wof:lastmodified":1563257424,
     "wof:name":"Makedonski Brod",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

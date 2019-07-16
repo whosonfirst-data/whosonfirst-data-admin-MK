@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0439\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Ljubojno"
+    ],
     "name:eng_x_preferred":[
         "Ljubojno"
     ],
@@ -38,6 +41,9 @@
         "Lyouboyno"
     ],
     "name:nld_x_preferred":[
+        "Ljubojno"
+    ],
+    "name:por_x_preferred":[
         "Ljubojno"
     ],
     "name:sqi_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890492261,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257558,
     "wof:name":"Ljubojno",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

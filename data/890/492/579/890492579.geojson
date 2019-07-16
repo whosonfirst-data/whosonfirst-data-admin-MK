@@ -21,14 +21,23 @@
     "name:eng_x_preferred":[
         "Nezilovo"
     ],
+    "name:eng_x_variant":[
+        "Nezhilovo"
+    ],
     "name:fra_x_preferred":[
         "Nejilovo"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0435\u0436\u0438\u043b\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Nejilovo"
+    ],
     "name:nld_x_preferred":[
         "Nezhilovo"
+    ],
+    "name:ron_x_preferred":[
+        "Nejilovo"
     ],
     "name:sqi_x_preferred":[
         "Nezhillova"
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":890492579,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257664,
     "wof:name":"\u041d\u0435\u0436\u0438\u043b\u043e\u0432\u043e",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

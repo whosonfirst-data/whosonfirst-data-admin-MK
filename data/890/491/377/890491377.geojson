@@ -27,6 +27,9 @@
     "name:mkd_x_preferred":[
         "\u041b\u0435\u043d\u0438\u0448\u0442\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Lenichta"
+    ],
     "name:sqi_x_preferred":[
         "Lenishta"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890491377,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257397,
     "wof:name":"Leni\u0161ta",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

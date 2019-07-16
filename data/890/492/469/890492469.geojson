@@ -36,6 +36,9 @@
     "name:mkd_x_variant":[
         "\u0421\u0443\u0432\u043e\u0434\u043e\u043b"
     ],
+    "name:nan_x_preferred":[
+        "Souvodol"
+    ],
     "name:sqi_x_preferred":[
         "Suvodolli"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890492469,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257634,
     "wof:name":"Suvodol",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

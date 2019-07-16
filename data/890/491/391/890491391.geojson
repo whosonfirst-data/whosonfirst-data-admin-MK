@@ -87,6 +87,9 @@
     "name:msa_x_preferred":[
         "Kru\u0161je"
     ],
+    "name:nan_x_preferred":[
+        "Krouchy\u00e9"
+    ],
     "name:nds_x_preferred":[
         "Kru\u0161je"
     ],
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890491391,
-    "wof:lastmodified":1561843533,
+    "wof:lastmodified":1563257329,
     "wof:name":"Kru\u0161je",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

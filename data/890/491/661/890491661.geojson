@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0428\u0438\u043f\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160ipkovica"
+    ],
     "name:deu_x_preferred":[
         "\u0160ipkovica"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890491661,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257388,
     "wof:name":"\u0160ipkovica",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

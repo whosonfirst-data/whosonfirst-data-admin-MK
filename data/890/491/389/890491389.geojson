@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0447\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kuchkovo"
+    ],
     "name:eng_x_preferred":[
         "Ku\u010dkovo"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0443\u0447\u043a\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Koutchkovo"
     ],
     "name:nld_x_preferred":[
         "Ku\u010dkovo"
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":890491389,
-    "wof:lastmodified":1561843540,
+    "wof:lastmodified":1563257497,
     "wof:name":"\u041a\u0443\u0447\u043a\u043e\u0432\u043e",
     "wof:parent_id":85674377,
     "wof:placetype":"locality",

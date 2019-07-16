@@ -30,6 +30,9 @@
     "name:mkd_x_variant":[
         "\u041f\u043b\u0435\u0442\u0432\u0430\u0440"
     ],
+    "name:nan_x_preferred":[
+        "Pletvar"
+    ],
     "name:sqi_x_preferred":[
         "Pletvari"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890491867,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257387,
     "wof:name":"Pletvar",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0440\u0435\u0447\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kukure\u010dani"
+    ],
     "name:eng_x_preferred":[
         "Kukure\u010dani"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890492239,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257641,
     "wof:name":"Kukure\u010dani",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

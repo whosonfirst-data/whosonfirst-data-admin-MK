@@ -27,6 +27,9 @@
     "name:fra_x_preferred":[
         "Senokos"
     ],
+    "name:hun_x_preferred":[
+        "Szenokosz"
+    ],
     "name:mkd_x_preferred":[
         "Senokos"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890491327,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257492,
     "wof:name":"Senokos",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

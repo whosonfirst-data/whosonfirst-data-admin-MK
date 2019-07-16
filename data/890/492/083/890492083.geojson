@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u043c\u0438\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bogomila"
+    ],
     "name:deu_x_preferred":[
         "Bogomila"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890492083,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257543,
     "wof:name":"Bogomila",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

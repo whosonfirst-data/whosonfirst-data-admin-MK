@@ -47,6 +47,9 @@
     "name:ita_x_preferred":[
         "Staro Nagori\u010dane"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30ed\u30fb\u30ca\u30b4\u30ea\u30c1\u30e3\u30cd"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10e2\u10d0\u10e0\u10dd-\u10dc\u10d0\u10d2\u10dd\u10e0\u10d8\u10e9\u10d0\u10dc\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
@@ -62,8 +65,20 @@
     "name:nld_x_preferred":[
         "Staro Nagori\u010dane"
     ],
+    "name:ron_x_preferred":[
+        "Staro Nagori\u010dane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e-\u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435"
+    ],
     "name:spa_x_preferred":[
         "Municipio de Staro Nagori\u010dane"
+    ],
+    "name:swe_x_preferred":[
+        "Staro Nagoricane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e-\u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435"
     ],
     "name:und_x_colloquial":[
         "Opstina Staro Nagoricane",
@@ -77,6 +92,9 @@
     ],
     "name:unk_x_variant":[
         "Staro Nagori\u010dane"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u7f85\u7d0d\u6208\u91cc\u67e5\u5167\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -202,7 +220,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550450,
+    "wof:lastmodified":1563257157,
     "wof:name":"Northeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

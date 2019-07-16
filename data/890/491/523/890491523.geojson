@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0442\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Rotino"
+    ],
     "name:eng_x_preferred":[
         "Rotino"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890491523,
-    "wof:lastmodified":1561843540,
+    "wof:lastmodified":1563257513,
     "wof:name":"Rotino",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

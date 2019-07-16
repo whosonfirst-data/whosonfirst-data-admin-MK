@@ -27,6 +27,9 @@
     "name:hun_x_preferred":[
         "Bratin Dol"
     ],
+    "name:hun_x_variant":[
+        "Votani"
+    ],
     "name:mkd_x_preferred":[
         "Bratin Dol"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890491611,
-    "wof:lastmodified":1561843535,
+    "wof:lastmodified":1563257369,
     "wof:name":"Bratin Dol",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

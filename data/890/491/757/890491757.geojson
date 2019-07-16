@@ -15,11 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "FK Babuna"
+    ],
+    "name:fra_x_preferred":[
+        "FK Babuna"
+    ],
     "name:mkd_x_preferred":[
         "Babuna"
     ],
     "name:mkd_x_variant":[
         "\u0411\u0430\u0431\u0443\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "FK Babuna"
+    ],
+    "name:spa_x_preferred":[
+        "FK Babuna"
     ],
     "qs:name":"Babuna",
     "qs:photos_9r":0,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":890491757,
-    "wof:lastmodified":1527736664,
+    "wof:lastmodified":1563257438,
     "wof:name":"Babuna",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

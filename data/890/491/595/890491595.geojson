@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u0411\u0435\u043b\u0430 \u0446\u044a\u0440\u043a\u0432\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dolna Bela Crkva"
+    ],
     "name:eng_x_preferred":[
         "Dolna Bela Crkva"
     ],
@@ -33,7 +36,13 @@
     "name:mkd_x_variant":[
         "\u0414\u043e\u043b\u043d\u0430 \u0411\u0435\u043b\u0430 \u0426\u0440\u043a\u0432\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Dolna Bela Tsrkva"
+    ],
     "name:nld_x_preferred":[
+        "Dolna Bela Crkva"
+    ],
+    "name:por_x_preferred":[
         "Dolna Bela Crkva"
     ],
     "name:sqi_x_preferred":[
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":890491595,
-    "wof:lastmodified":1561843533,
+    "wof:lastmodified":1563257336,
     "wof:name":"Dolna Bela Crkva",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

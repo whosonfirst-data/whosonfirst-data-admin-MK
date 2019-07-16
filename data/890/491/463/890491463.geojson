@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u043d\u0438\u0449\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "\u010cani\u0161te"
+    ],
     "name:eng_x_preferred":[
         "\u010cani\u0161te"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0427\u0430\u043d\u0438\u0448\u0442\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Tchanicht\u00e9"
     ],
     "name:nld_x_preferred":[
         "\u010cani\u0161te"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890491463,
-    "wof:lastmodified":1561843535,
+    "wof:lastmodified":1563257377,
     "wof:name":"\u010cani\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

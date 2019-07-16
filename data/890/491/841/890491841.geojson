@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0443\u0433\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Strugovo"
+    ],
     "name:deu_x_preferred":[
         "Strugovo"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0421\u0442\u0440\u0443\u0433\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Strougovo"
     ],
     "name:sqi_x_preferred":[
         "Strugova"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890491841,
-    "wof:lastmodified":1561843538,
+    "wof:lastmodified":1563257443,
     "wof:name":"Ostrovo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

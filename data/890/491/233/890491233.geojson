@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u044a\u0440\u043a\u043b\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Krklino"
+    ],
     "name:eng_x_preferred":[
         "Krklino"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0440\u043a\u043b\u0438\u043d\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Krklino"
     ],
     "name:nld_x_preferred":[
         "Krklino"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890491233,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257390,
     "wof:name":"Krklino",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

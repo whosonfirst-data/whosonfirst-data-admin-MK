@@ -15,11 +15,59 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dren"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Dren"
+    ],
+    "name:deu_x_preferred":[
+        "Dren"
+    ],
+    "name:eng_x_preferred":[
+        "Dren"
+    ],
+    "name:fra_x_preferred":[
+        "Dren"
+    ],
+    "name:hrv_x_preferred":[
+        "Dren"
+    ],
+    "name:ita_x_preferred":[
+        "Dren"
+    ],
     "name:mkd_x_preferred":[
         "Dren"
     ],
     "name:mkd_x_variant":[
         "\u0414\u0440\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Dren"
+    ],
+    "name:pol_x_preferred":[
+        "Dren"
+    ],
+    "name:ron_x_preferred":[
+        "Dren"
+    ],
+    "name:sco_x_preferred":[
+        "Dren"
+    ],
+    "name:slv_x_preferred":[
+        "Dren"
+    ],
+    "name:spa_x_preferred":[
+        "Dren"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dren"
     ],
     "qs:name":"Dren",
     "qs:photos_9r":0,
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":890491777,
-    "wof:lastmodified":1527736663,
+    "wof:lastmodified":1563257413,
     "wof:name":"Dren",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Golemo Konjari"
     ],
+    "name:ceb_x_preferred":[
+        "Golemo Konjari"
+    ],
     "name:ces_x_preferred":[
         "Golemo Konjari"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:msa_x_preferred":[
         "Golemo Konjari"
+    ],
+    "name:nan_x_preferred":[
+        "Golemo Konyari"
     ],
     "name:nds_x_preferred":[
         "Golemo Konjari"
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":890491073,
-    "wof:lastmodified":1561843538,
+    "wof:lastmodified":1563257447,
     "wof:name":"Golemo Konjari",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

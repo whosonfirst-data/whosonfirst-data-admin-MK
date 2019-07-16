@@ -16,8 +16,14 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Asamati"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u0430\u043c\u0430\u0442\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Asamati"
     ],
     "name:eng_x_preferred":[
         "Asamati"
@@ -25,10 +31,19 @@
     "name:fra_x_preferred":[
         "Asamati"
     ],
+    "name:hun_x_preferred":[
+        "Aszamati"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0441\u0430\u043c\u0430\u0442\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Asamati"
+    ],
     "name:nld_x_preferred":[
+        "Asamati"
+    ],
+    "name:por_x_preferred":[
         "Asamati"
     ],
     "name:sqi_x_preferred":[
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":890492113,
-    "wof:lastmodified":1561843546,
+    "wof:lastmodified":1563257665,
     "wof:name":"Asamati",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

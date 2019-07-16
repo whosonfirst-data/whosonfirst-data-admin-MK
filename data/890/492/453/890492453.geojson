@@ -33,6 +33,9 @@
     "name:mkd_x_variant":[
         "\u0422\u0430\u0436\u0435\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Tajevo"
+    ],
     "name:sqi_x_preferred":[
         "Tazheva"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890492453,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257571,
     "wof:name":"Ta\u017eevo",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u043b\u043e\u043c\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Oslomej"
+    ],
     "name:dan_x_preferred":[
         "Oslomej Municipality"
     ],
@@ -100,6 +103,9 @@
     ],
     "name:msa_x_preferred":[
         "Oslomej Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Oslome\u00ef"
     ],
     "name:nld_x_preferred":[
         "Oslomej"
@@ -290,7 +296,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843525,
+    "wof:lastmodified":1563257121,
     "wof:name":"Oslomej",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

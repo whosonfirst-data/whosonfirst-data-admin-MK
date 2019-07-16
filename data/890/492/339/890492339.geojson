@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0447\u0438\u0449\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Pol\u010di\u0161te"
+    ],
     "name:eng_x_preferred":[
         "Pol\u010di\u0161te"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_variant":[
         "\u041f\u043e\u043b\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Poltchicht\u00e9"
     ],
     "name:nld_x_preferred":[
         "Pol\u010di\u0161te"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890492339,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257529,
     "wof:name":"Pol\u010di\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

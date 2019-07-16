@@ -24,8 +24,14 @@
     "name:fra_x_preferred":[
         "Novoselani"
     ],
+    "name:hun_x_preferred":[
+        "Novoszelani"
+    ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0430\u043d\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Novoselani"
     ],
     "name:sqi_x_preferred":[
         "Novoseljani"
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890491133,
-    "wof:lastmodified":1561843533,
+    "wof:lastmodified":1563257339,
     "wof:name":"Novoselani",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

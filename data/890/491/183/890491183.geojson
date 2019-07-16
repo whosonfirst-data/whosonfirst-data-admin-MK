@@ -33,8 +33,17 @@
     "name:mkd_x_variant":[
         "\u041a\u043e\u0440\u0438\u0442\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Korito"
+    ],
     "name:sqi_x_preferred":[
         "Korita"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u65af\u8482\u74e6\u5c14\u533a"
     ],
     "qs:name":"Korito",
     "qs:photos_9r":0,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":890491183,
-    "wof:lastmodified":1561843540,
+    "wof:lastmodified":1563257499,
     "wof:name":"Korito",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

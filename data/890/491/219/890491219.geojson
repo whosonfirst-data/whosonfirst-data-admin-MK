@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0438\u0436\u0435\u043f\u043e\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Ni\u017eepole"
+    ],
     "name:eng_x_preferred":[
         "Ni\u017eepole"
     ],
@@ -37,11 +40,17 @@
         "D\u017eind\u017eopole",
         "\u040f\u0438\u043d\u045f\u043e\u043f\u043e\u043b\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Nij\u00e9pol\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Ni\u017eepole"
     ],
     "name:pol_x_preferred":[
         "Ni\u017cepo\u0142e"
+    ],
+    "name:ron_x_preferred":[
+        "Nijopole"
     ],
     "name:sqi_x_preferred":[
         "Xhinxhopola"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890491219,
-    "wof:lastmodified":1561843534,
+    "wof:lastmodified":1563257359,
     "wof:name":"Ni\u017eepole",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

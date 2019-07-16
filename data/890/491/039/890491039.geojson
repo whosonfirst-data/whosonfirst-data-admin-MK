@@ -27,6 +27,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041e\u0445\u0440\u044b\u0434"
     ],
+    "name:bel_x_variant":[
+        "\u041e\u0445\u0440\u044b\u0434"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09b9\u09b0\u09bf\u09a1"
     ],
@@ -39,6 +42,9 @@
     "name:cat_x_preferred":[
         "Ohrid"
     ],
+    "name:ceb_x_preferred":[
+        "Ohrid"
+    ],
     "name:ces_x_preferred":[
         "Ochrid"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:chu_x_preferred":[
         "\u041e\u0445\u0440\u0457\u0434\u044a"
+    ],
+    "name:crh_x_preferred":[
+        "Ohrid"
     ],
     "name:cym_x_preferred":[
         "Ohrid"
@@ -171,6 +180,9 @@
     "name:nob_x_preferred":[
         "Ohrid"
     ],
+    "name:pih_x_preferred":[
+        "Okhrid"
+    ],
     "name:pol_x_preferred":[
         "Ochryda"
     ],
@@ -197,6 +209,9 @@
     ],
     "name:spa_x_preferred":[
         "Ocrida"
+    ],
+    "name:spa_x_variant":[
+        "Ohrid"
     ],
     "name:sqi_x_preferred":[
         "Ohri"
@@ -277,7 +292,7 @@
         }
     ],
     "wof:id":890491039,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257392,
     "wof:name":"Ohrid",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

@@ -24,11 +24,17 @@
     "name:fra_x_preferred":[
         "Sredorek"
     ],
+    "name:hun_x_preferred":[
+        "Szredorek"
+    ],
     "name:mkd_x_preferred":[
         "Sredorek"
     ],
     "name:mkd_x_variant":[
         "\u0421\u0440\u0435\u0434\u043e\u0440\u0435\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Sredorek"
     ],
     "name:sqi_x_preferred":[
         "Sredoreku"
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890492487,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257626,
     "wof:name":"Sredorek",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

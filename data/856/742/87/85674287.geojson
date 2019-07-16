@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Cucer-Sandevo Municipality"
     ],
+    "name:eng_x_variant":[
+        "\u010cu\u010der-Sandevo Municipality"
+    ],
     "name:fin_x_preferred":[
         "\u010cu\u010der-Sandevon kunta"
     ],
@@ -310,7 +313,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843528,
+    "wof:lastmodified":1563257149,
     "wof:name":"Cucer Sandevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

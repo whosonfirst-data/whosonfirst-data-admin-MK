@@ -15,8 +15,113 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u0440\u0443\u0448\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:ces_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:dan_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:deu_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:eng_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:epo_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:fin_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:fra_x_preferred":[
+        "Gorno Krouchy\u00e9"
+    ],
+    "name:gla_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:glg_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:gsw_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:hrv_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:hun_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:ind_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:isl_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:ita_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:ltz_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:min_x_preferred":[
+        "Kru\u0161je"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u041a\u0440\u0443\u0448\u0458\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:nan_x_preferred":[
+        "Gorno Krouchy\u00e9"
+    ],
+    "name:nds_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:nld_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:nno_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:nob_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:pol_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:por_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:ron_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:slk_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:slv_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:spa_x_preferred":[
+        "Kru\u0161je"
+    ],
+    "name:sqi_x_preferred":[
+        "Krushja e Sip\u00ebrme"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0435 \u041a\u0440\u0443\u0448\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kru\u0161je"
     ],
     "name:unk_x_variant":[
         "Gornje Kru\u0161je"
@@ -53,7 +158,7 @@
         }
     ],
     "wof:id":890491873,
-    "wof:lastmodified":1527736660,
+    "wof:lastmodified":1563257358,
     "wof:name":"Gorno Kru\u0161je",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

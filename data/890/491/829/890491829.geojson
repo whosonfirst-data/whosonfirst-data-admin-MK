@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u044f\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Lojane"
+    ],
     "name:deu_x_preferred":[
         "Lojane"
     ],
@@ -27,8 +30,14 @@
     "name:fra_x_preferred":[
         "Loyan\u00e9"
     ],
+    "name:hun_x_preferred":[
+        "Lojane"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u0458\u0430\u043d\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Loyan\u00e9"
     ],
     "name:nld_x_preferred":[
         "Lojane"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":890491829,
-    "wof:lastmodified":1561843534,
+    "wof:lastmodified":1563257352,
     "wof:name":"Lojane",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

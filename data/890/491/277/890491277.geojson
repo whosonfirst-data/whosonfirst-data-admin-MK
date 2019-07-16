@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Berovci"
+    ],
     "name:eng_x_preferred":[
         "Berovci"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Berovtsi"
     ],
     "name:nld_x_preferred":[
         "Berovci"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890491277,
-    "wof:lastmodified":1561843538,
+    "wof:lastmodified":1563257445,
     "wof:name":"Berovci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

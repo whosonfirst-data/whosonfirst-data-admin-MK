@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bel\u010de"
+    ],
     "name:eng_x_preferred":[
         "Belche"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0411\u0435\u043b\u0447\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Beltch\u00e9"
     ],
     "name:pol_x_preferred":[
         "Be\u0142cze"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890491101,
-    "wof:lastmodified":1561843538,
+    "wof:lastmodified":1563257439,
     "wof:name":"Bel\u010de",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

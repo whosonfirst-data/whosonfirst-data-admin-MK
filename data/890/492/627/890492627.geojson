@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043e\u0436\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Drago\u017eani"
+    ],
     "name:eng_x_preferred":[
         "Drago\u017eani"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0414\u0440\u0430\u0433\u043e\u0436\u0430\u043d\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Dragojani"
     ],
     "name:nld_x_preferred":[
         "Drago\u017eani"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890492627,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257551,
     "wof:name":"Drago\u017eani",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

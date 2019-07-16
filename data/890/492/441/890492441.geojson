@@ -15,11 +15,120 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0633\u062a\u0648\u062f\u0646\u064a\u062a\u0634\u0627\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09c1\u09a1\u09c7\u09a8\u09bf\u0995\u09be\u09a8\u09bf \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Studeni\u010dani"
+    ],
+    "name:dan_x_preferred":[
+        "Studeni\u010dani Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina Studeni\u010dani"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03c4\u03bf\u03c5\u03bd\u03c4\u03b5\u03bd\u03af\u03c4\u03c3\u03b1\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Studeni\u010dani Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Studeni\u010danin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Stoudenitchani"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0a9f\u0ac1\u0aa1\u0ac7\u0aa8\u0ac0\u0a95\u0abe\u0aa8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Studeni\u010dani"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Studeni\u010dani"
+    ],
+    "name:ita_x_preferred":[
+        "Studeni\u010dani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30a5\u30c7\u30cb\u30c1\u30e3\u30cb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0c9f\u0ca1\u0cc0\u0ca8\u0cbf\u0c95\u0cbe\u0ca8\u0cbf \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10e3\u10d3\u10d4\u10dc\u10d8\u10e9\u10d0\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud22c\ub370\ub2c8\ucc28\ub2c8 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Studeni\u010danu pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Studeni\u010danio savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u091f\u0942\u0921\u0947\u0902\u0928\u0940\u0915\u093e\u0928\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
     "name:mkd_x_preferred":[
         "Umovo"
     ],
     "name:mkd_x_variant":[
-        "\u0423\u043c\u043e\u0432\u043e"
+        "\u0423\u043c\u043e\u0432\u043e",
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Studenicani Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Stoudenitchani"
+    ],
+    "name:nld_x_preferred":[
+        "Studeni\u010dani"
+    ],
+    "name:nob_x_preferred":[
+        "Studenicani Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Studeni\u010dani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Studenicani"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c1f\u0c42\u0c21\u0c46\u0c28\u0c3f\u0c15\u0c28\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e15\u0e34\u0e27\u0e40\u0e14\u0e19\u0e34\u0e04\u0e32\u0e19\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Studenicani Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0633\u062a\u0648\u062f\u06cc\u0646\u06cc\u0686\u0627\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5716\u767b\u5c3c\u67e5\u5c3c\u5340"
     ],
     "qs:name":"Umovo",
     "qs:photos_9r":0,
@@ -52,7 +161,7 @@
         }
     ],
     "wof:id":890492441,
-    "wof:lastmodified":1527793023,
+    "wof:lastmodified":1563257549,
     "wof:name":"Umovo",
     "wof:parent_id":85674223,
     "wof:placetype":"locality",

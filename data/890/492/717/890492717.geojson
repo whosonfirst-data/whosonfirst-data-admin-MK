@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043d\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bon\u010de"
+    ],
     "name:deu_x_preferred":[
         "Bon\u010de"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0411\u043e\u043d\u0447\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Bontch\u00e9"
     ],
     "name:nld_x_preferred":[
         "Bon\u010de"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890492717,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257660,
     "wof:name":"Bon\u010de",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

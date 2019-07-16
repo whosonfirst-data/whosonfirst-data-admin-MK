@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0433\u043e\u0440\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Zagorani"
+    ],
     "name:eng_x_preferred":[
         "Zagorani"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0417\u0430\u0433\u043e\u0440\u0430\u043d\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Zagorani"
     ],
     "name:sqi_x_preferred":[
         "Zagorani"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890492425,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257541,
     "wof:name":"Zagorani",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

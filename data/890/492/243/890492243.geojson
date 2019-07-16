@@ -22,8 +22,14 @@
     "name:deu_x_preferred":[
         "Oble\u0161evo"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bc\u03c0\u03bb\u03ad\u03c3\u03b5\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Oblesevo"
+    ],
+    "name:eng_x_variant":[
+        "Oble\u0161evo"
     ],
     "name:fra_x_preferred":[
         "Obl\u00e9ch\u00e9vo"
@@ -33,6 +39,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Obl\u00e9ch\u00e9vo"
     ],
     "name:nld_x_preferred":[
         "Oble\u0161evo"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890492243,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257551,
     "wof:name":"Obleshevo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

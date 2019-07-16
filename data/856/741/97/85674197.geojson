@@ -39,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430 \u043f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kriva Palanka"
+    ],
     "name:ces_x_preferred":[
         "Op\u0161tina Kriva Palanka"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:msa_x_preferred":[
         "Kriva Palanka Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Kriva Palanka Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Kriva Palanka"
@@ -297,7 +303,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843524,
+    "wof:lastmodified":1563257109,
     "wof:name":"Kriva Palanka",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

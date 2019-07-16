@@ -16,11 +16,143 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0648\u062a\u0634\u0631 \u0633\u0627\u0646\u062f\u064a\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u099a\u09be\u09b0-\u09b8\u09be\u09a8\u09cd\u09a6\u09c7\u09ad\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u0447\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina \u010cu\u010der-Sandevo"
+    ],
+    "name:dan_x_preferred":[
+        "\u010cu\u010der-Sandevo Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina \u010cu\u010der-Sandevo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03c3\u03bf\u03cd\u03c4\u03c3\u03b5\u03c1 \u03a3\u03ac\u03bd\u03c4\u03c3\u03b5\u03b2\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "\u010cu\u010der-Sandevo Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "\u010cu\u010der-Sandevon kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Tchoutcher Sandevo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac1\u0ab8\u0ac7\u0ab0-\u0ab8\u0ac7\u0aa8\u0aa1\u0ac7\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0938\u0947\u0930-\u0938\u0947\u0902\u0926\u0947\u0935\u094b \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u010cu\u010der-Sandevo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya \u010cu\u010der-Sandevo"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30c1\u30a7\u30eb\u30fb\u30b5\u30f3\u30c7\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0caf\u0cc1\u0c95\u0cb0\u0ccd-\u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0cc6\u0cb5\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10e9\u10d4\u10e0-\u10e1\u10d0\u10dc\u10d3\u10d4\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd94\uccb4\ub974\uc0b0\ub370\ubcf4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cu\u010der-Sandevo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cu\u010der-Sandevo savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u0941\u091a\u0947\u0930-\u0938\u0945\u0928\u0921\u0947\u0935\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
     "name:mkd_x_preferred":[
         "\u0427\u0443\u0447\u0435\u0440"
     ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Cucer-Sandevo Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "\u010cu\u010der-Sandevo Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:nob_x_preferred":[
+        "Cucer-Sandevo kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Czuczer-Sandewo"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio Cucer-Sandevo"
+    ],
+    "name:ron_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd4\u0dc3\u0dbb\u0dca-\u0dc3\u0dd0\u0db1\u0dca\u0da9\u0dd9\u0dc0\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e \u00c7u\u00e7er-Sandev\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cu\u010der-Sandevo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb8\u0bcd\u0bb0\u0bcd-\u0b9a\u0ba3\u0bcd\u0b9f\u0bc7\u0bb5\u0bcb  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c42\u0c38\u0c30\u0c4d-\u0c38\u0c3e\u0c02\u0c21\u0c47\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0427\u0443\u0447\u0435\u0440 \u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e39\u0e40\u0e0b\u0e2d-\u0e0b\u0e32\u0e19\u0e40\u0e14\u0e42\u0e27 \u0e21\u0e39\u0e19\u0e34\u0e0b\u0e34\u0e1e\u0e31\u0e25\u0e25\u0e34\u0e15\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Cucer-Sandevo Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0447\u0435\u0440-\u0421\u0430\u043d\u0434\u0435\u0432\u043e"
+    ],
     "name:unk_x_variant":[
         "\u010cu\u010der"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0686\u0648\u0686\u0631-\u0633\u0627\u0646\u062f\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Cucer-Sandevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u695a\u585e\u5c14\u6851\u5fb7\u6c83\u533a"
     ],
     "qs:name":"\u010cu\u010der - Sandevo",
     "qs:name_adm0":"Macedonia",
@@ -58,7 +190,7 @@
         }
     ],
     "wof:id":890491891,
-    "wof:lastmodified":1527736666,
+    "wof:lastmodified":1563257475,
     "wof:name":"\u010cu\u010der - Sandevo",
     "wof:parent_id":85674287,
     "wof:placetype":"locality",

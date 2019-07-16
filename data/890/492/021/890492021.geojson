@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0434\u0430\u0440\u0435\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Podare\u0161"
+    ],
     "name:eng_x_preferred":[
         "Podare\u0161"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0434\u0430\u0440\u0435\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Podarech"
     ],
     "name:nld_x_preferred":[
         "Podares"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890492021,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257630,
     "wof:name":"Podare\u0161",
     "wof:parent_id":85674191,
     "wof:placetype":"locality",

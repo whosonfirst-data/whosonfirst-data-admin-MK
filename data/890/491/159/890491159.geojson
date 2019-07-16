@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0438\u0432\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Slivnik"
+    ],
     "name:eng_x_preferred":[
         "Slivnik"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Slivnik"
     ],
     "name:sqi_x_preferred":[
         "Slimniku"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890491159,
-    "wof:lastmodified":1561843533,
+    "wof:lastmodified":1563257331,
     "wof:name":"Slivnik",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

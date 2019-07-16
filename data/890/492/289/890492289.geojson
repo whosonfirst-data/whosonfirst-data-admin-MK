@@ -84,6 +84,9 @@
     "name:msa_x_preferred":[
         "Vepr\u010dani"
     ],
+    "name:nan_x_preferred":[
+        "Veprtchani"
+    ],
     "name:nds_x_preferred":[
         "Vepr\u010dani"
     ],
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":890492289,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257544,
     "wof:name":"Vepr\u010dani",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

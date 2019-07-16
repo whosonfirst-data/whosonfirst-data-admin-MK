@@ -87,6 +87,9 @@
     "name:msa_x_preferred":[
         "Iveni"
     ],
+    "name:nan_x_preferred":[
+        "Iveni"
+    ],
     "name:nds_x_preferred":[
         "Iveni"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890491145,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257397,
     "wof:name":"Iveni",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

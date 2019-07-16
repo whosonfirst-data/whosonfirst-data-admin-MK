@@ -30,6 +30,9 @@
     "name:mkd_x_variant":[
         "Carevi\u1e31"
     ],
+    "name:nan_x_preferred":[
+        "Tsarevi\u1e31"
+    ],
     "name:sqi_x_preferred":[
         "Careviqi"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890491461,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257482,
     "wof:name":"Carevik",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

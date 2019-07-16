@@ -15,6 +15,9 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "FK Dolno Konjari"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041a\u043e\u045a\u0430\u0440\u0435"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890492357,
-    "wof:lastmodified":1527793025,
+    "wof:lastmodified":1563257596,
     "wof:name":"Dolno Konjari",
     "wof:parent_id":85674173,
     "wof:placetype":"locality",

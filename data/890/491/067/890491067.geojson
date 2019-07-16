@@ -15,10 +15,32 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042a\u0440\u0436\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "R\u017eanovo"
+    ],
+    "name:fra_x_preferred":[
+        "R'janovo"
+    ],
+    "name:hun_x_preferred":[
+        "Rzsanovo"
+    ],
     "name:mkd_x_preferred":[
         "R\u017eanovo"
     ],
     "name:mkd_x_variant":[
+        "\u0420\u0436\u0430\u043d\u043e\u0432\u043e",
+        "\u2019\u0420\u0436\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "R'janovo"
+    ],
+    "name:por_x_preferred":[
+        "R\u017eanovo"
+    ],
+    "name:srp_x_preferred":[
         "\u0420\u0436\u0430\u043d\u043e\u0432\u043e"
     ],
     "qs:name":"R\u017eanovo",
@@ -52,7 +74,7 @@
         }
     ],
     "wof:id":890491067,
-    "wof:lastmodified":1527736667,
+    "wof:lastmodified":1563257487,
     "wof:name":"R\u017eanovo",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

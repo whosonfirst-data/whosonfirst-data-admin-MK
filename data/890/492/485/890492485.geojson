@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u044a\u0440\u0431\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Srpci"
+    ],
     "name:deu_x_preferred":[
         "Srpci"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0440\u043f\u0446\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Srptsi"
     ],
     "name:nld_x_preferred":[
         "Srpci"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890492485,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257538,
     "wof:name":"Srpci",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

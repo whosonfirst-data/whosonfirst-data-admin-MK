@@ -30,6 +30,9 @@
     "name:mkd_x_variant":[
         "\u0415\u0440\u0435\u043a\u043e\u0432\u0446\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Erekovtsi"
+    ],
     "name:nld_x_preferred":[
         "Erekovci"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890491571,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257492,
     "wof:name":"Erekovci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

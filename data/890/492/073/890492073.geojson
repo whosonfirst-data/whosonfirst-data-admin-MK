@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u0430\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Miravci"
+    ],
     "name:deu_x_preferred":[
         "Miravci"
     ],
@@ -34,8 +37,14 @@
     "name:hun_x_preferred":[
         "Miravci"
     ],
+    "name:lit_x_preferred":[
+        "Miravcai"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0438\u0440\u0430\u0432\u0446\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Miravtsi"
     ],
     "name:nld_x_preferred":[
         "Miravci"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890492073,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257614,
     "wof:name":"Miravci",
     "wof:parent_id":85674461,
     "wof:placetype":"locality",

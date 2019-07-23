@@ -16,6 +16,9 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Konopi\u0161te"
+    ],
     "name:eng_x_preferred":[
         "Konopi\u0161te"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890492237,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257646,
     "wof:name":"Konopi\u0161te",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

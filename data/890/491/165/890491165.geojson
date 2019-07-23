@@ -24,11 +24,17 @@
     "name:fra_x_preferred":[
         "Moguilets"
     ],
+    "name:hun_x_preferred":[
+        "Mogilec"
+    ],
     "name:mkd_x_preferred":[
         "Mogilec"
     ],
     "name:mkd_x_variant":[
         "\u041c\u043e\u0433\u0438\u043b\u0435\u0446"
+    ],
+    "name:nan_x_preferred":[
+        "Moguilets"
     ],
     "name:sqi_x_preferred":[
         "Mogillci"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890491165,
-    "wof:lastmodified":1561843537,
+    "wof:lastmodified":1563257425,
     "wof:name":"Mogilec",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Makovo"
+    ],
     "name:eng_x_preferred":[
         "Makovo"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Makovo"
     ],
     "name:nld_x_preferred":[
         "Makovo"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890491811,
-    "wof:lastmodified":1561843534,
+    "wof:lastmodified":1563257353,
     "wof:name":"Makovo",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

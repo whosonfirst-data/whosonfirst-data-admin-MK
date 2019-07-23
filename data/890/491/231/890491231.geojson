@@ -33,6 +33,9 @@
     "name:mkd_x_variant":[
         "\u041a\u0440\u043d\u0438\u043d\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Krnino"
+    ],
     "name:sqi_x_preferred":[
         "K\u00ebrnina"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890491231,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257467,
     "wof:name":"Krnino",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

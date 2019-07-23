@@ -19,8 +19,26 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0633\u062a\u064a\u0641\u0627\u0631"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0441\u0446\u0456\u0432\u0430\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09b8\u09cd\u099f\u09bf\u09ad\u09be\u09b0"
+    ],
+    "name:bos_x_preferred":[
+        "Gostivar"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Gostivar"
+    ],
+    "name:ceb_x_preferred":[
+        "Gostivar"
+    ],
+    "name:ces_x_preferred":[
+        "Gostivar"
     ],
     "name:chu_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440\u0484\u044c"
@@ -37,14 +55,32 @@
     "name:eng_x_preferred":[
         "Gostivar"
     ],
+    "name:est_x_preferred":[
+        "Gostivar"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0634\u062a\u06cc\u0641\u0627\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Gostivar"
+    ],
+    "name:fra_x_preferred":[
+        "Gostivar"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acb\u0ab8\u0acd\u0aa4\u0abf\u0ab5\u0abe\u0ab0"
     ],
     "name:hbs_x_preferred":[
         "Gostivar"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05e1\u05d8\u05d9\u05d1\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u0938\u094d\u0924\u093f\u0935\u093e\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Gostivar"
     ],
     "name:hsb_x_preferred":[
         "Gostivar"
@@ -55,8 +91,20 @@
     "name:hye_x_preferred":[
         "\u0533\u0578\u057d\u057f\u056b\u057e\u0561\u0580"
     ],
+    "name:ile_x_preferred":[
+        "Gostivar"
+    ],
+    "name:ind_x_preferred":[
+        "Gostivar"
+    ],
+    "name:ita_x_preferred":[
+        "Gostivar"
+    ],
     "name:jpn_x_preferred":[
         "\u30b4\u30b9\u30c6\u30a3\u30f4\u30a1\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cca\u0cb8\u0ccd\u0c9f\u0cbf\u0cb5\u0cb0\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10e1\u10e2\u10d8\u10d5\u10d0\u10e0\u10d8"
@@ -70,17 +118,44 @@
     "name:lit_x_preferred":[
         "Gostivaras"
     ],
+    "name:mar_x_preferred":[
+        "\u0917\u094b\u0938\u094d\u0924\u093f\u0935\u094d\u0939\u0930"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Gostivar"
+    ],
+    "name:nan_x_preferred":[
+        "Gostivar"
+    ],
     "name:nld_x_preferred":[
+        "Gostivar"
+    ],
+    "name:nno_x_preferred":[
+        "Gostivar"
+    ],
+    "name:nob_x_preferred":[
         "Gostivar"
     ],
     "name:pol_x_preferred":[
         "Gostiwar"
     ],
+    "name:por_x_preferred":[
+        "Gostivar"
+    ],
+    "name:ron_x_preferred":[
+        "Gostivar"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0ddc\u0dc3\u0dca\u0da7\u0dd2\u0dc0\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Gostivar"
     ],
     "name:sqi_x_preferred":[
         "Gostivari"
@@ -91,11 +166,35 @@
     "name:swe_x_preferred":[
         "Gostivar"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb7\u0bcd\u0b9f\u0bbf\u0bb5\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4b\u0c37\u0c4d\u0c20\u0c3f\u0c35\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e2d\u0e2a\u0e15\u0e34\u0e27\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Gostivar"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
     ],
     "name:unk_x_variant":[
         "Kostovon"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0633\u062a\u06cc\u0648\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Gostivar"
+    ],
+    "name:vol_x_preferred":[
+        "Gostivar"
     ],
     "name:zho_x_preferred":[
         "\u6208\u65af\u8482\u74e6\u5c14"
@@ -140,7 +239,7 @@
         }
     ],
     "wof:id":890492267,
-    "wof:lastmodified":1527793024,
+    "wof:lastmodified":1563257565,
     "wof:name":"Gostivar",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

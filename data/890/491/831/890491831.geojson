@@ -15,11 +15,125 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u099a\u09c7\u099a\u09bf\u09a8\u09cb\u09ad\u09cb-\u0985\u09ac\u09cd\u09b2\u09c7\u099a\u09c7\u09ad\u09cb \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161evo"
+    ],
+    "name:dan_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161evo Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03c3\u03b5\u03c3\u03af\u03bd\u03bf\u03b2\u03bf-\u039f\u03bc\u03c0\u03bb\u03ad\u03c3\u03bf\u03b2\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161evo Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161evon kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Tch\u00e9chinovo-Obl\u00e9ch\u00e9vo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac7\u0ab8\u0abf\u0aa8\u0acb\u0ab5\u0acb-\u0a93\u0aac\u0acd\u0ab2\u0ac7\u0ab8\u0ac7\u0ab5\u0acb \u200b\u200b\u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0938\u093f\u0928\u094b\u0935\u094b-\u0913\u092c\u094d\u0932\u0947\u0938\u0947\u0935\u094b \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u010ce\u0161inovo-Oble\u0161evo"
+    ],
+    "name:hun_x_preferred":[
+        "Csesinovo-Oblesevo"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya \u010ce\u0161inovo-Oble\u0161evo"
+    ],
+    "name:ita_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161evo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30b7\u30ce\u30f4\u30a9\uff1d\u30aa\u30d6\u30ec\u30b7\u30a7\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cc6\u0cb8\u0cbf\u0ca8\u0ccb\u0cb5\u0cca-\u0c93\u0cb2\u0cbf\u0cb8\u0cc6\u0cb5\u0cca \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d4\u10e8\u10d8\u10dc\u10dd\u10d5\u10dd-\u10dd\u10d1\u10da\u10d4\u10e8\u10d4\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\uc2dc\ub178\ubcf4\uc624\ube14\ub808\uc170\ubcf4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161evo pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161ovo savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u0938\u093f\u0928\u094b\u0935\u094b-\u0911\u092c\u094d\u0932\u0947\u0938\u0947\u0935\u094b \u200b\u200b\u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
     "name:mkd_x_preferred":[
         "\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Cesinovo-Oblesevo Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161evo Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "\u010ce\u0161inovo-Oble\u0161evo"
+    ],
+    "name:nob_x_preferred":[
+        "Cesinoco-Oblesevo Kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Czeszinowo-Obleszewo"
+    ],
+    "name:por_x_preferred":[
+        "Cesinoco-Oblesevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cesjinovo-Oblesjevo"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c38\u0c3f\u0c3f\u0c28\u0c4b\u0c35\u0c4b-\u0c13\u0c2c\u0c4d\u0c32\u0c46\u0c38\u0c47\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0a\u0e2a\u0e2a\u0e34\u0e42\u0e19\u0e42\u0e27 \u0e42\u0e2d\u0e40\u0e1a\u0e2a\u0e0a\u0e34\u0e42\u0e27"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
     "name:unk_x_variant":[
         "\u010ce\u0161inovis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0686\u06cc\u0634\u06cc\u0646\u0648\u0648-\u0648\u0628\u0644\u06cc\u0634\u0648\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u5e0c\u8bfa\u6c83-\u5965\u5e03\u83b1\u820d\u6c83\u533a"
     ],
     "qs:name":"\u010ce\u0161inovo",
     "qs:photos_9r":0,
@@ -52,7 +166,7 @@
         }
     ],
     "wof:id":890491831,
-    "wof:lastmodified":1527736666,
+    "wof:lastmodified":1563257470,
     "wof:name":"\u010ce\u0161inovo",
     "wof:parent_id":85674279,
     "wof:placetype":"locality",

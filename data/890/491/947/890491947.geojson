@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u043b\u043e\u043c\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Oslomej"
+    ],
     "name:deu_x_preferred":[
         "Oslomej"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890491947,
-    "wof:lastmodified":1561843537,
+    "wof:lastmodified":1563257407,
     "wof:name":"Oslomej",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

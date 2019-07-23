@@ -18,7 +18,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u043b\u0438\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Kuklish"
+    ],
     "name:eng_x_preferred":[
+        "Kuklis"
+    ],
+    "name:hun_x_preferred":[
         "Kuklis"
     ],
     "name:mkd_x_preferred":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":890491049,
-    "wof:lastmodified":1561843535,
+    "wof:lastmodified":1563257368,
     "wof:name":"\u041a\u0443\u043a\u043b\u0438\u0448",
     "wof:parent_id":85674439,
     "wof:placetype":"locality",

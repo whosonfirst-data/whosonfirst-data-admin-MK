@@ -21,11 +21,20 @@
     "name:eng_x_preferred":[
         "Orashac"
     ],
+    "name:eng_x_variant":[
+        "Ora\u0161ac"
+    ],
     "name:fra_x_preferred":[
         "Orachats"
     ],
+    "name:hun_x_preferred":[
+        "Orasac"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0430\u0448\u0430\u0446"
+    ],
+    "name:nan_x_preferred":[
+        "Orachats"
     ],
     "name:sqi_x_preferred":[
         "Orasheci"
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":890491035,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257472,
     "wof:name":"\u041e\u0440\u0430\u0448\u0430\u0446",
     "wof:parent_id":85674355,
     "wof:placetype":"locality",

@@ -19,8 +19,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0436\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ka\u017eani"
+    ],
     "name:deu_x_preferred":[
         "Ka\u017eani"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b6\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ka\u017eani"
@@ -40,6 +46,9 @@
     "name:mkd_x_variant":[
         "\u041a\u0430\u0436\u0430\u043d\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Kajani"
+    ],
     "name:nld_x_preferred":[
         "Ka\u017eani"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Ka\u017eani"
+    ],
+    "name:zho_x_preferred":[
+        "\u00d0avato"
     ],
     "qs:name":"Ka\u017eani",
     "qs:name_adm0":"Macedonia",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":890491809,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257472,
     "wof:name":"Ka\u017eani",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

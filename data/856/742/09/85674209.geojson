@@ -50,8 +50,14 @@
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03cc\u03c0\u03b9\u03c3\u03c4\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03cc\u03c0\u03b9\u03c3\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Sopiste Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Sopi\u0161te Municipality"
     ],
     "name:fin_x_preferred":[
         "Sopi\u0161ten kunta"
@@ -103,6 +109,9 @@
     ],
     "name:msa_x_preferred":[
         "Sopiste Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Sopicht\u00e9"
     ],
     "name:nld_x_preferred":[
         "Sopi\u0161te"
@@ -299,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843528,
+    "wof:lastmodified":1563257151,
     "wof:name":"Sopiste",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -18,8 +18,20 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Kon\u010de"
+    ],
+    "name:eng_x_preferred":[
+        "Kon\u010de"
+    ],
     "name:fra_x_preferred":[
         "Kontch\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Koncse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30c1\u30a7"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10dc\u10e9\u10d4"
@@ -27,11 +39,20 @@
     "name:mkd_x_preferred":[
         "\u041a\u043e\u043d\u0447\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Kontch\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Kon\u010de"
+    ],
     "name:sqi_x_preferred":[
         "Kon\u00e7e"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u043d\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kon\u010de"
     ],
     "name:tur_x_preferred":[
         "Kon\u00e7e"
@@ -73,7 +94,7 @@
         }
     ],
     "wof:id":890491917,
-    "wof:lastmodified":1527736668,
+    "wof:lastmodified":1563257508,
     "wof:name":"Kon\u010de",
     "wof:parent_id":85674311,
     "wof:placetype":"locality",

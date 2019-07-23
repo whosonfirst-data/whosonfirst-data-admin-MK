@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0439\u0440\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Star Dojran"
+    ],
     "name:chu_x_preferred":[
         "\u0414\u043e\u0438\u0440\u0430\u043d\u044a"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0a9c\u0ab0\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d9\u05e8\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0926\u094b\u091c\u0930\u093e\u0928"
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":890492079,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257538,
     "wof:name":"Dojran",
     "wof:parent_id":85674473,
     "wof:placetype":"locality",

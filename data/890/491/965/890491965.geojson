@@ -16,8 +16,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Saraj"
+    ],
     "name:deu_x_preferred":[
         "Saraj"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Saraj"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890491965,
-    "wof:lastmodified":1561843533,
+    "wof:lastmodified":1563257332,
     "wof:name":"Saraj",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0435\u043e\u0432\u0435\u0446"
     ],
+    "name:nan_x_preferred":[
+        "Oreovets"
+    ],
     "name:nld_x_preferred":[
         "Oreovec"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890492563,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257600,
     "wof:name":"Oreovec",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

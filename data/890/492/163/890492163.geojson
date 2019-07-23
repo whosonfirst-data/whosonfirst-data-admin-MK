@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043a\u043e\u043b\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Nakolec"
+    ],
     "name:eng_x_preferred":[
         "Nakolec"
     ],
@@ -30,7 +33,13 @@
     "name:mkd_x_variant":[
         "\u041d\u0430\u043a\u043e\u043b\u0435\u0446"
     ],
+    "name:nan_x_preferred":[
+        "Nakolets"
+    ],
     "name:nld_x_preferred":[
+        "Nakolec"
+    ],
+    "name:por_x_preferred":[
         "Nakolec"
     ],
     "name:sqi_x_preferred":[
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":890492163,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257602,
     "wof:name":"Nakolec",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

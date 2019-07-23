@@ -33,6 +33,9 @@
     "name:mkd_x_variant":[
         "\u0427\u0430\u043b\u043e\u0448\u0435\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Tchalochevo"
+    ],
     "name:sqi_x_preferred":[
         "\u00c7allosheva"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890492683,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257629,
     "wof:name":"\u010calo\u0161evo",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

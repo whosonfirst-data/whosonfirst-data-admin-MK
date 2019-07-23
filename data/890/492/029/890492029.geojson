@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Vladimirovo"
+    ],
     "name:eng_x_preferred":[
         "Vladimirovo"
     ],
@@ -37,7 +40,13 @@
     "name:mkd_x_variant":[
         "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Vladimirovo"
+    ],
     "name:nld_x_preferred":[
+        "Vladimirovo"
+    ],
+    "name:por_x_preferred":[
         "Vladimirovo"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":890492029,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257621,
     "wof:name":"Vladimirovo",
     "wof:parent_id":85674479,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u043b\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Katlanovo"
+    ],
     "name:eng_x_preferred":[
         "Katlanovo"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0442\u043b\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Katlanovo"
     ],
     "name:nld_x_preferred":[
         "Katlanovo"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890491411,
-    "wof:lastmodified":1561843538,
+    "wof:lastmodified":1563257456,
     "wof:name":"Katlanovo",
     "wof:parent_id":85674173,
     "wof:placetype":"locality",

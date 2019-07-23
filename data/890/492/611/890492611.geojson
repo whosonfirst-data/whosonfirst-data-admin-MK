@@ -27,6 +27,9 @@
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0436\u043b\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Kojl\u00e9"
+    ],
     "name:sqi_x_preferred":[
         "Kozhla"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890492611,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257553,
     "wof:name":"Ko\u017ele",
     "wof:parent_id":85674173,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kalen"
+    ],
     "name:eng_x_preferred":[
         "Kalen"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043b\u0435\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Kalen"
     ],
     "name:nld_x_preferred":[
         "Kalen"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890491423,
-    "wof:lastmodified":1561843535,
+    "wof:lastmodified":1563257370,
     "wof:name":"Kalen",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

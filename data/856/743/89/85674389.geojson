@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0431\u044a\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Debar"
+    ],
     "name:dan_x_preferred":[
         "Debar Municipality"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Debar"
+    ],
+    "name:fra_x_variant":[
+        "Debar"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aac\u0ab0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -100,6 +106,9 @@
     ],
     "name:msa_x_preferred":[
         "Debar Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Debar Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Debar"
@@ -294,7 +303,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843526,
+    "wof:lastmodified":1563257131,
     "wof:name":"Debar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

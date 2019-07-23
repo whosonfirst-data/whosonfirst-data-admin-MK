@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ore\u0161ani"
+    ],
     "name:eng_x_preferred":[
         "Ore\u0161ani"
     ],
@@ -27,11 +30,23 @@
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043d\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Orechani"
+    ],
+    "name:nld_x_preferred":[
+        "Oresjani"
+    ],
     "name:sqi_x_preferred":[
         "Oreshani"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043d\u0438"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u043b\u0443\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Oresjani"
     ],
     "name:unk_x_variant":[
         "Ore\u0161ane"
@@ -67,7 +82,7 @@
         }
     ],
     "wof:id":890492561,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257528,
     "wof:name":"Ore\u0161ani",
     "wof:parent_id":85674245,
     "wof:placetype":"locality",

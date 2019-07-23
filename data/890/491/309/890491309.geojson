@@ -30,6 +30,9 @@
     "name:mkd_x_variant":[
         "\u0422\u043e\u043f\u043b\u0438\u0446\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Toplitsa"
+    ],
     "name:sqi_x_preferred":[
         "Toplica"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890491309,
-    "wof:lastmodified":1561843532,
+    "wof:lastmodified":1563257326,
     "wof:name":"Toplica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

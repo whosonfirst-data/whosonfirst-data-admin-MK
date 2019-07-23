@@ -32,11 +32,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u063a\u0648\u0641\u064a\u0646\u064a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u063a\u0648\u0641\u064a\u0646\u062c"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u0997\u09cb\u09ad\u09bf\u099e\u09cd\u099c\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0432\u0438\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Bogovinje"
     ],
     "name:dan_x_preferred":[
         "Bogovinje Municipality"
@@ -104,6 +110,9 @@
     "name:msa_x_preferred":[
         "Bogovinje Municipality"
     ],
+    "name:nan_x_preferred":[
+        "Bogovinje Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Bogovinje"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:pol_x_preferred":[
         "Bogowi\u0144e"
+    ],
+    "name:pol_x_variant":[
+        "Gmina Bogowi\u0144e"
     ],
     "name:por_x_preferred":[
         "Munic\u00edpio de Bogovinje"
@@ -133,6 +145,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0432\u0438\u045a\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0433\u043e\u0432\u0438\u045a\u0435"
     ],
     "name:swe_x_preferred":[
         "Bogovinje"
@@ -297,7 +312,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843526,
+    "wof:lastmodified":1563257127,
     "wof:name":"Bogovinje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -19,8 +19,14 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u0648\u062a\u0648\u0643\u060c \u063a\u0648\u0633\u062a\u064a\u0641\u0627\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0631\u0648\u062a\u0648\u0643"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0440\u0443\u0442\u043e\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrutok"
     ],
     "name:deu_x_preferred":[
         "Vrutok"
@@ -51,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Vrutok"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0443\u0442\u043e\u043a"
     ],
     "name:unk_x_variant":[
         "Vrutog"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890491889,
-    "wof:lastmodified":1561843534,
+    "wof:lastmodified":1563257355,
     "wof:name":"Vrutok",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

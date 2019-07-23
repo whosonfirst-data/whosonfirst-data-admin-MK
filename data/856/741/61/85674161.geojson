@@ -32,8 +32,14 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u043c\u0438\u0440 \u0425\u0438\u0441\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Demir Hisar"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Demir Hisar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03c4\u03b5\u03bc\u03af\u03c1 \u03a7\u03b9\u03c3\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Demir Hisar Municipality"
@@ -41,11 +47,17 @@
     "name:fas_x_preferred":[
         "\u062f\u0645\u06cc\u0631 \u0647\u0633\u0627\u0631"
     ],
+    "name:fra_x_preferred":[
+        "Demir Hisar"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Demir Hisar"
     ],
     "name:hun_x_preferred":[
         "Demir Hiszar"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Demir Hisar"
     ],
     "name:ita_x_preferred":[
         "Demir Hisar"
@@ -238,7 +250,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843524,
+    "wof:lastmodified":1563257102,
     "wof:name":"Demir Hisar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

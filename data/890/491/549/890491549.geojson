@@ -39,6 +39,9 @@
     "name:mkd_x_variant":[
         "\u041a\u0443\u0442\u043b\u0435\u0448\u0435\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Koutlechevo"
+    ],
     "name:sqi_x_preferred":[
         "Kutlesheva"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890491549,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257491,
     "wof:name":"Kutle\u0161evo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

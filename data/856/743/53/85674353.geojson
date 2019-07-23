@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Krusevo Municipality"
     ],
+    "name:eng_x_variant":[
+        "Kru\u0161evo Municipality"
+    ],
     "name:fin_x_preferred":[
         "Kru\u0161evon kunta"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Krusevo Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Kru\u0161evo Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Kru\u0161evo"
@@ -308,7 +314,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843527,
+    "wof:lastmodified":1563257136,
     "wof:name":"Kru\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

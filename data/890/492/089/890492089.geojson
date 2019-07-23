@@ -16,8 +16,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043f\u0430\u0442\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Lopatica"
+    ],
+    "name:eng_x_preferred":[
+        "Lopatica"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u043f\u0430\u0442\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043f\u0430\u0442\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lopatica"
     ],
     "name:unk_x_variant":[
         "Lopatnica"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":890492089,
-    "wof:lastmodified":1527793026,
+    "wof:lastmodified":1563257611,
     "wof:name":"Lopatica",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

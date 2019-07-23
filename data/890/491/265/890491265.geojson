@@ -18,14 +18,23 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0442\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bitovo"
+    ],
     "name:eng_x_preferred":[
         "Bitovo"
     ],
     "name:fra_x_preferred":[
         "Bitovo"
     ],
+    "name:hun_x_preferred":[
+        "Bitovo"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Bitovo"
     ],
     "name:nld_x_preferred":[
         "Bitovo"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890491265,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257477,
     "wof:name":"Bitovo",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

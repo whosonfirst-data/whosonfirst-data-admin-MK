@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Korenica"
+    ],
     "name:eng_x_preferred":[
         "Korenica"
     ],
@@ -33,6 +36,9 @@
     "name:mkd_x_variant":[
         "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Korenitsa"
+    ],
     "name:nld_x_preferred":[
         "Korenica"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Korenica"
     ],
     "qs:name":"Korenica",
     "qs:photos_9r":0,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890491187,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257395,
     "wof:name":"Korenica",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

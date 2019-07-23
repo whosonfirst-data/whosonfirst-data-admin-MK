@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0442\u043e\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Pretor"
+    ],
     "name:eng_x_preferred":[
         "Pretor"
     ],
@@ -27,7 +30,13 @@
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0435\u0442\u043e\u0440"
     ],
+    "name:nan_x_preferred":[
+        "Pretor"
+    ],
     "name:nld_x_preferred":[
+        "Pretor"
+    ],
+    "name:por_x_preferred":[
         "Pretor"
     ],
     "name:sqi_x_preferred":[
@@ -35,6 +44,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0435\u0442\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Pretor"
     ],
     "name:unk_x_variant":[
         "Pretar"
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":890492511,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257590,
     "wof:name":"Pretor",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

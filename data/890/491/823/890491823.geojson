@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0416\u0432\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "\u017dvan"
+    ],
     "name:deu_x_preferred":[
         "\u017dvan"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0416\u0432\u0430\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Jvan"
     ],
     "name:nld_x_preferred":[
         "\u017dvan"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890491823,
-    "wof:lastmodified":1561843538,
+    "wof:lastmodified":1563257450,
     "wof:name":"\u017dvan",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

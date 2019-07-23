@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u0430\u0440\u0446\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Tearce"
+    ],
     "name:dan_x_preferred":[
         "Tearce Municipality"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:msa_x_preferred":[
         "Tearce Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Tearce Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Tearce"
@@ -297,7 +303,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843526,
+    "wof:lastmodified":1563257127,
     "wof:name":"Tearce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -32,6 +32,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u0432\u0433\u0435\u043b\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Gevgelija"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Gevgelija"
     ],
@@ -41,11 +44,17 @@
     "name:eng_x_preferred":[
         "Gevgelija Municipality"
     ],
+    "name:fra_x_preferred":[
+        "Gevgelija"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Gevgelija"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0587\u0563\u0565\u056c\u056b\u0561\u0575\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Gevgelija"
     ],
     "name:ita_x_preferred":[
         "Gevgelija"
@@ -61,6 +70,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0413\u0435\u0432\u0433\u0435\u043b\u0438\u0458\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Gevgelija Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Gevgelija"
@@ -228,7 +240,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843524,
+    "wof:lastmodified":1563257112,
     "wof:name":"Southeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

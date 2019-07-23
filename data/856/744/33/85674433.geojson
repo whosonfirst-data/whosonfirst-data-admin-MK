@@ -32,11 +32,17 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0633\u062a\u064a\u0641\u0627\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0644\u062f\u064a\u0629 \u063a\u0648\u0633\u062a\u064a\u0641\u0627\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09b8\u09cd\u099f\u09bf\u09ad\u09be\u09b0 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Gostivar"
     ],
     "name:chu_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440\u0484\u044c"
@@ -101,11 +107,20 @@
     "name:kor_x_preferred":[
         "\uace0\uc2a4\ud2f0\ubc14\ub974"
     ],
+    "name:kor_x_variant":[
+        "\uace0\uc2a4\ud2f0\ubc14\ub974 \uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Gostivara"
     ],
+    "name:lav_x_variant":[
+        "Gostivaras pa\u0161vald\u012bba"
+    ],
     "name:lit_x_preferred":[
         "Gostivaras"
+    ],
+    "name:lit_x_variant":[
+        "Gostivaro savivaldyb\u0117"
     ],
     "name:mar_x_preferred":[
         "\u0917\u094b\u0938\u094d\u091f\u0940\u0935\u0930 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
@@ -131,6 +146,9 @@
     "name:pol_x_preferred":[
         "Gostiwar"
     ],
+    "name:pol_x_variant":[
+        "Gmina Gostivar"
+    ],
     "name:por_x_preferred":[
         "Munic\u00edpio de Gostivar"
     ],
@@ -154,6 +172,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440"
     ],
     "name:swe_x_preferred":[
         "Opsjtina Gostivar"
@@ -322,7 +343,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843525,
+    "wof:lastmodified":1563257115,
     "wof:name":"Gostivar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

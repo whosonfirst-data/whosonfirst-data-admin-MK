@@ -18,14 +18,23 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u043e\u0432\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Strovija"
+    ],
     "name:eng_x_preferred":[
         "Strovija"
     ],
     "name:fra_x_preferred":[
         "Stroviya"
     ],
+    "name:hun_x_preferred":[
+        "Sztrovija"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0440\u043e\u0432\u0438\u0458\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Stroviya"
     ],
     "name:nld_x_preferred":[
         "Strovija"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890491507,
-    "wof:lastmodified":1561843537,
+    "wof:lastmodified":1563257433,
     "wof:name":"Strovija",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

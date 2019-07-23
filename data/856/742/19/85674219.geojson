@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u0429\u0438\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina \u0160tip"
+    ],
     "name:dan_x_preferred":[
         "\u0160tip Municipality"
     ],
@@ -50,11 +53,17 @@
     "name:eng_x_preferred":[
         "Stip Municipality"
     ],
+    "name:eng_x_variant":[
+        "\u0160tip Municipality"
+    ],
     "name:fin_x_preferred":[
         "\u0160tipn kunta"
     ],
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Chtip"
+    ],
+    "name:fra_x_variant":[
+        "Chtip"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0abf\u0aaa \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -100,6 +109,9 @@
     ],
     "name:msa_x_preferred":[
         "Stip Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "\u0160tip Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "\u0160tip"
@@ -295,7 +307,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843528,
+    "wof:lastmodified":1563257150,
     "wof:name":"\u0160tip",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

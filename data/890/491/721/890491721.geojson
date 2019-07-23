@@ -18,14 +18,26 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0435\u0439\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Matejche"
+    ],
     "name:eng_x_preferred":[
         "Matejce"
+    ],
+    "name:eng_x_variant":[
+        "Matej\u010de"
     ],
     "name:fra_x_preferred":[
         "Mateytch\u00e9"
     ],
+    "name:hun_x_preferred":[
+        "Matejcse"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0442\u0435\u0458\u0447\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Mateytch\u00e9"
     ],
     "name:sqi_x_preferred":[
         "Mate\u00e7i"
@@ -71,7 +83,7 @@
         }
     ],
     "wof:id":890491721,
-    "wof:lastmodified":1561843540,
+    "wof:lastmodified":1563257498,
     "wof:name":"\u041c\u0430\u0442\u0435\u0458\u0447\u0435",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

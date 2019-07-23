@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Be\u0161i\u0161te"
     ],
+    "name:ceb_x_preferred":[
+        "Be\u0161i\u0161te"
+    ],
     "name:ces_x_preferred":[
         "Be\u0161i\u0161te"
     ],
@@ -83,6 +86,9 @@
     ],
     "name:msa_x_preferred":[
         "Be\u0161i\u0161te"
+    ],
+    "name:nan_x_preferred":[
+        "Bechicht\u00e9"
     ],
     "name:nds_x_preferred":[
         "Be\u0161i\u0161te"
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":890491273,
-    "wof:lastmodified":1561843534,
+    "wof:lastmodified":1563257354,
     "wof:name":"Be\u0161i\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0438\u0445\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dihovo"
+    ],
     "name:eng_x_preferred":[
         "Dihovo"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0438\u0445\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Dihovo"
     ],
     "name:nld_x_preferred":[
         "Dihovo"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890492263,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257648,
     "wof:name":"Dihovo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

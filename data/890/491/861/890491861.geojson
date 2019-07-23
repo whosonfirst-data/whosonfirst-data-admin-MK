@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0440\u0430\u043d\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Vran\u010de"
+    ],
     "name:eng_x_preferred":[
         "Vran\u010de"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0412\u0440\u0430\u043d\u0447\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Vrantch\u00e9"
     ],
     "name:sqi_x_preferred":[
         "Vran\u00e7a"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890491861,
-    "wof:lastmodified":1561843535,
+    "wof:lastmodified":1563257374,
     "wof:name":"Vran\u010de",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

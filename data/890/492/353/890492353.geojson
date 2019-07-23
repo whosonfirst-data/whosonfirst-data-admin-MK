@@ -81,6 +81,9 @@
     "name:msa_x_preferred":[
         "Dolno Kru\u0161je"
     ],
+    "name:nan_x_preferred":[
+        "Dolno Krouchy\u00e9"
+    ],
     "name:nds_x_preferred":[
         "Dolno Kru\u0161je"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890492353,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257525,
     "wof:name":"Dolno Kru\u0161je",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

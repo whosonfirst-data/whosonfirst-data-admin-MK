@@ -33,6 +33,9 @@
     "name:mkd_x_preferred":[
         "\u0411\u0435\u043b\u043e \u041f\u043e\u043b\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Belo Pol\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Belo Pole"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890491097,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257386,
     "wof:name":"Belo Pole",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

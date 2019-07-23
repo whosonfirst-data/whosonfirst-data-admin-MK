@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u043e\u0437\u0430\u0440\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Vozarci"
+    ],
     "name:deu_x_preferred":[
         "Vozarci"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890491859,
-    "wof:lastmodified":1561843535,
+    "wof:lastmodified":1563257372,
     "wof:name":"Vozarci",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

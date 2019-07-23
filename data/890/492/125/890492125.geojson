@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Zhelino"
+    ],
     "name:deu_x_preferred":[
         "\u017delino"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890492125,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257664,
     "wof:name":"\u017delino",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

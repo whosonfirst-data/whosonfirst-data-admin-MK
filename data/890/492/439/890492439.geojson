@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u0440\u0434\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Vardino"
+    ],
     "name:eng_x_preferred":[
         "Vardino"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0430\u0440\u0434\u0438\u043d\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Vardino"
     ],
     "name:pol_x_preferred":[
         "Wardino"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890492439,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257557,
     "wof:name":"Vardino",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

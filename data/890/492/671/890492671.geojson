@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u043d\u043e\u0432\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Crnovec"
+    ],
     "name:eng_x_preferred":[
         "Crnovec"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "Crneec"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u5fb7\u65af\u79d1\u533a"
     ],
     "qs:name":"Crnovec",
     "qs:photos_9r":0,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890492671,
-    "wof:lastmodified":1561843544,
+    "wof:lastmodified":1563257620,
     "wof:name":"Crnovec",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

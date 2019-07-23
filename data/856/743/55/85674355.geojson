@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u0648\u0645\u0627\u0646\u0648\u0641\u0648"
     ],
+    "name:bak_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
     "name:bel_x_preferred":[
         "\u0430\u0431\u0448\u0447\u044b\u043d\u0430 \u041a\u0443\u043c\u0430\u043d\u0430\u0432\u0430"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:cat_x_preferred":[
         "municipi de Kumanovo"
+    ],
+    "name:ceb_x_preferred":[
+        "Kumanovo"
     ],
     "name:ces_x_preferred":[
         "Op\u0161tina Kumanovo"
@@ -64,6 +70,9 @@
     ],
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Koumanovo"
+    ],
+    "name:fra_x_variant":[
+        "Koumanovo"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0aae\u0aa8\u0acb\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -109,6 +118,9 @@
     ],
     "name:msa_x_preferred":[
         "Kumanovo Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Kumanovo Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Kumanovo"
@@ -301,7 +313,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843527,
+    "wof:lastmodified":1563257139,
     "wof:name":"Kumanovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

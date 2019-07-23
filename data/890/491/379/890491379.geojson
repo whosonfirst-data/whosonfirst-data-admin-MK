@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kurbinovo"
+    ],
     "name:eng_x_preferred":[
         "Kurbinovo"
     ],
@@ -36,7 +39,13 @@
     "name:mkd_x_variant":[
         "\u041a\u0443\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Kourbinovo"
+    ],
     "name:nld_x_preferred":[
+        "Kurbinovo"
+    ],
+    "name:por_x_preferred":[
         "Kurbinovo"
     ],
     "name:rus_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890491379,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257393,
     "wof:name":"Kurbinovo",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

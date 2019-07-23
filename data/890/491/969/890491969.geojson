@@ -16,11 +16,53 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u0430\u0440\u0446\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Tearce"
+    ],
+    "name:deu_x_preferred":[
+        "Tearce"
+    ],
     "name:eng_x_preferred":[
         "Tearce"
     ],
+    "name:fra_x_preferred":[
+        "T\u00e9arts\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Tearce"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10d0\u10e0\u10ea\u10d4"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u0435\u0430\u0440\u0446\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "T\u00e9arts\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Tearce"
+    ],
+    "name:pol_x_preferred":[
+        "Tearce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0430\u0440\u0446\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Tearca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0430\u0440\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Tearce"
+    ],
+    "name:tur_x_preferred":[
+        "Tear\u00e7e"
     ],
     "qs:name":"Tearce",
     "qs:name_adm0":"Macedonia",
@@ -58,7 +100,7 @@
         }
     ],
     "wof:id":890491969,
-    "wof:lastmodified":1527736664,
+    "wof:lastmodified":1563257435,
     "wof:name":"Tearce",
     "wof:parent_id":85674413,
     "wof:placetype":"locality",

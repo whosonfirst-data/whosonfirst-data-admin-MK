@@ -15,14 +15,78 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Petrovec"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina Petrovec"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03c4\u03c1\u03bf\u03b2\u03b5\u03c4\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Petrovec Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Petrovets"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Petrovec"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Petrovec"
+    ],
+    "name:ita_x_preferred":[
+        "Petrovec"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c8\u30ed\u30f4\u30a7\u30c4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10d4\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ud2b8\ub85c\ubca0\uce20 \uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u2019R\u017eani\u010dino"
     ],
     "name:mkd_x_variant":[
-        "\u2019\u0420\u0436\u0430\u043d\u0438\u0447\u0438\u043d\u043e"
+        "\u2019\u0420\u0436\u0430\u043d\u0438\u0447\u0438\u043d\u043e",
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446"
+    ],
+    "name:nan_x_preferred":[
+        "Petrovec Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Petrovec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Petrovec"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0442\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "R\u017eani\u010dano"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u062a\u0631\u0648\u0648\u06cc\u062a\u0633 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7c\u5f97\u7f85\u97cb\u8328\u5340"
     ],
     "qs:name":"R\u2019\u017eani\u010dino",
     "qs:photos_9r":0,
@@ -55,7 +119,7 @@
         }
     ],
     "wof:id":890491515,
-    "wof:lastmodified":1527736668,
+    "wof:lastmodified":1563257517,
     "wof:name":"R\u2019\u017eani\u010dino",
     "wof:parent_id":85674173,
     "wof:placetype":"locality",

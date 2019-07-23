@@ -84,6 +84,9 @@
     "name:msa_x_preferred":[
         "Leva Reka"
     ],
+    "name:nan_x_preferred":[
+        "Leva Reka"
+    ],
     "name:nds_x_preferred":[
         "Leva Reka"
     ],
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890491371,
-    "wof:lastmodified":1561843537,
+    "wof:lastmodified":1563257406,
     "wof:name":"Leva Reka",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

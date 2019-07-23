@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Madjari"
     ],
+    "name:eng_x_variant":[
+        "Madzhari"
+    ],
     "name:fra_x_preferred":[
         "Madzari Solidarnost Skopje"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101912603,
-    "wof:lastmodified":1561843532,
+    "wof:lastmodified":1563257312,
     "wof:name":"Mad\u017eari",
     "wof:parent_id":85674297,
     "wof:placetype":"locality",

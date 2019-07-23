@@ -16,14 +16,218 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Brvenica"
+    ],
+    "name:arg_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ast_x_preferred":[
+        "Brvenica"
+    ],
+    "name:bar_x_preferred":[
+        "Brvenica"
+    ],
+    "name:bre_x_preferred":[
+        "Brvenica"
+    ],
+    "name:cat_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ceb_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ces_x_preferred":[
+        "Brvenica"
+    ],
+    "name:cos_x_preferred":[
+        "Brvenica"
+    ],
+    "name:cym_x_preferred":[
+        "Brvenica"
+    ],
+    "name:dan_x_preferred":[
+        "Brvenica"
+    ],
+    "name:deu_x_preferred":[
+        "Brvenica"
+    ],
+    "name:eng_x_preferred":[
+        "Brvenica"
+    ],
+    "name:epo_x_preferred":[
+        "Brvenica"
+    ],
+    "name:est_x_preferred":[
+        "Brvenica"
+    ],
+    "name:eus_x_preferred":[
+        "Brvenica"
+    ],
+    "name:fin_x_preferred":[
+        "Brvenica"
+    ],
+    "name:fra_x_preferred":[
+        "Brvenica"
+    ],
+    "name:frp_x_preferred":[
+        "Brvenica"
+    ],
+    "name:fur_x_preferred":[
+        "Brvenica"
+    ],
+    "name:gla_x_preferred":[
+        "Brvenica"
+    ],
+    "name:gle_x_preferred":[
+        "Brvenica"
+    ],
+    "name:glg_x_preferred":[
+        "Brvenica"
+    ],
+    "name:gsw_x_preferred":[
+        "Brvenica"
+    ],
+    "name:hrv_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ido_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ile_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ina_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ind_x_preferred":[
+        "Brvenica"
+    ],
+    "name:isl_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ita_x_preferred":[
+        "Brvenica"
+    ],
+    "name:kon_x_preferred":[
+        "Brvenica"
+    ],
+    "name:lij_x_preferred":[
+        "Brvenica"
+    ],
+    "name:lim_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ltz_x_preferred":[
+        "Brvenica"
+    ],
+    "name:min_x_preferred":[
+        "Brvenica"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
     ],
     "name:mkd_x_variant":[
         "\u0411\u0440\u0432\u0435\u043d\u0446\u0435"
     ],
+    "name:mlg_x_preferred":[
+        "Brvenica"
+    ],
+    "name:msa_x_preferred":[
+        "Brvenica"
+    ],
+    "name:nap_x_preferred":[
+        "Brvenica"
+    ],
+    "name:nds_x_preferred":[
+        "Brvenica"
+    ],
+    "name:nld_x_preferred":[
+        "Brvenica"
+    ],
+    "name:nno_x_preferred":[
+        "Brvenica"
+    ],
+    "name:nob_x_preferred":[
+        "Brvenica"
+    ],
+    "name:nrm_x_preferred":[
+        "Brvenica"
+    ],
+    "name:oci_x_preferred":[
+        "Brvenica"
+    ],
+    "name:pcd_x_preferred":[
+        "Brvenica"
+    ],
+    "name:pms_x_preferred":[
+        "Brvenica"
+    ],
+    "name:pol_x_preferred":[
+        "Brvenica"
+    ],
+    "name:por_x_preferred":[
+        "Brvenica"
+    ],
+    "name:roh_x_preferred":[
+        "Brvenica"
+    ],
+    "name:ron_x_preferred":[
+        "Brvenica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Brvenica"
+    ],
+    "name:sco_x_preferred":[
+        "Brvenica"
+    ],
+    "name:slk_x_preferred":[
+        "Brvenica"
+    ],
+    "name:slv_x_preferred":[
+        "Brvenica"
+    ],
+    "name:spa_x_preferred":[
+        "Brvenica"
+    ],
+    "name:srd_x_preferred":[
+        "Brvenica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Brvenica"
+    ],
+    "name:swe_x_preferred":[
+        "Brvenica"
+    ],
     "name:unk_x_variant":[
         "B\u00ebrvenic\u00eb"
+    ],
+    "name:vec_x_preferred":[
+        "Brvenica"
+    ],
+    "name:vie_x_preferred":[
+        "Brvenica"
+    ],
+    "name:vls_x_preferred":[
+        "Brvenica"
+    ],
+    "name:vol_x_preferred":[
+        "Brvenica"
+    ],
+    "name:wln_x_preferred":[
+        "Brvenica"
+    ],
+    "name:wol_x_preferred":[
+        "Brvenica"
+    ],
+    "name:zul_x_preferred":[
+        "Brvenica"
     ],
     "qs:name":"Brvenica",
     "qs:name_adm0":"Macedonia",
@@ -63,7 +267,7 @@
         }
     ],
     "wof:id":890492077,
-    "wof:lastmodified":1527793022,
+    "wof:lastmodified":1563257543,
     "wof:name":"Brvenica",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

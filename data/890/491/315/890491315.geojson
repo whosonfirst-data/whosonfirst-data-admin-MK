@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Slavej"
+    ],
     "name:eng_x_preferred":[
         "Slavej"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0435\u0458"
+    ],
+    "name:nan_x_preferred":[
+        "Slavey"
     ],
     "name:sqi_x_preferred":[
         "Sllaveji"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890491315,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257403,
     "wof:name":"Slavej",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

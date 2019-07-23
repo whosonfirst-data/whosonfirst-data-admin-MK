@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0431\u044a\u0440\u0447\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Zabr\u010dani"
+    ],
     "name:eng_x_preferred":[
         "Zabr\u010dani"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0417\u0430\u0431\u0440\u0447\u0430\u043d\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Zabrtchani"
     ],
     "name:sqi_x_preferred":[
         "Zab\u00ebr\u00e7ani"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890492403,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257650,
     "wof:name":"Zabr\u010dani",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

@@ -24,8 +24,14 @@
     "name:fra_x_preferred":[
         "Oraovitsa"
     ],
+    "name:hun_x_preferred":[
+        "Oraovica"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0430\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Oroavitsa"
     ],
     "name:nld_x_preferred":[
         "Oraovica"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890491037,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257389,
     "wof:name":"Oraovica",
     "wof:parent_id":85674191,
     "wof:placetype":"locality",

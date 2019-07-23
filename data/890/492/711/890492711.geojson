@@ -18,10 +18,16 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0442\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Borotino"
+    ],
     "name:eng_x_preferred":[
         "Borotino"
     ],
     "name:fra_x_preferred":[
+        "Borotino"
+    ],
+    "name:hun_x_preferred":[
         "Borotino"
     ],
     "name:mkd_x_preferred":[
@@ -29,6 +35,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0411\u043e\u0440\u043e\u0442\u0438\u043d\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Borotino"
     ],
     "name:nld_x_preferred":[
         "Borotino"
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":890492711,
-    "wof:lastmodified":1561843546,
+    "wof:lastmodified":1563257667,
     "wof:name":"Borotino",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

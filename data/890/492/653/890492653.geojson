@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Dobromiri"
     ],
+    "name:ceb_x_preferred":[
+        "Dobromiri"
+    ],
     "name:ces_x_preferred":[
         "Dobromiri"
     ],
@@ -79,6 +82,9 @@
         "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440\u0438"
     ],
     "name:msa_x_preferred":[
+        "Dobromiri"
+    ],
+    "name:nan_x_preferred":[
         "Dobromiri"
     ],
     "name:nds_x_preferred":[
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":890492653,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257645,
     "wof:name":"Dobromiri",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

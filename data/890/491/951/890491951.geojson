@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u0441\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Rusinovo"
+    ],
     "name:eng_x_preferred":[
         "Rusinovo"
     ],
@@ -38,6 +41,9 @@
         "Roussinovo"
     ],
     "name:nld_x_preferred":[
+        "Rusinovo"
+    ],
+    "name:por_x_preferred":[
         "Rusinovo"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":890491951,
-    "wof:lastmodified":1561843538,
+    "wof:lastmodified":1563257437,
     "wof:name":"Rusinovo",
     "wof:parent_id":85674479,
     "wof:placetype":"locality",

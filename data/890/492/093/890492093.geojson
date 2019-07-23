@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Matka"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c4\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Matka"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0442\u043a\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Matka"
     ],
     "name:nld_x_preferred":[
         "Matka"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890492093,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257649,
     "wof:name":"Matka",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

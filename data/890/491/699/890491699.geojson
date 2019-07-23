@@ -30,6 +30,9 @@
     "name:mkd_x_variant":[
         "\u041f\u043e\u0440\u043e\u0458"
     ],
+    "name:nan_x_preferred":[
+        "Poroy"
+    ],
     "name:sqi_x_preferred":[
         "Poroji"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890491699,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257470,
     "wof:name":"Poroj",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

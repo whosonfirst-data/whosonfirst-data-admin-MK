@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Slivnica"
     ],
+    "name:ceb_x_preferred":[
+        "Slivnica"
+    ],
     "name:ces_x_preferred":[
         "Slivnica"
     ],
@@ -134,6 +137,9 @@
     ],
     "name:msa_x_preferred":[
         "Slivnica"
+    ],
+    "name:nan_x_preferred":[
+        "Slivnitsa"
     ],
     "name:nap_x_preferred":[
         "Slivnica"
@@ -256,7 +262,7 @@
         }
     ],
     "wof:id":890491161,
-    "wof:lastmodified":1561843533,
+    "wof:lastmodified":1563257334,
     "wof:name":"Slivnica",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

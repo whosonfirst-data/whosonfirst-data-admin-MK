@@ -24,11 +24,17 @@
     "name:fra_x_preferred":[
         "Lokvitsa"
     ],
+    "name:hun_x_preferred":[
+        "Lokvica"
+    ],
     "name:mkd_x_preferred":[
         "Lokvica"
     ],
     "name:mkd_x_variant":[
         "\u041b\u043e\u043a\u0432\u0438\u0446\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Lokvitsa"
     ],
     "name:sqi_x_preferred":[
         "Llokvica"
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890491229,
-    "wof:lastmodified":1561843534,
+    "wof:lastmodified":1563257349,
     "wof:name":"Lokvica",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

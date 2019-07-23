@@ -53,8 +53,14 @@
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b9\u03c4\u03c3\u03ad\u03b2\u03bf\u03c5"
     ],
+    "name:ell_x_variant":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03af\u03c4\u03c3\u03b5\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Kicevo Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Ki\u010devo Municipality"
     ],
     "name:fin_x_preferred":[
         "Ki\u010devon kunta"
@@ -109,6 +115,9 @@
     ],
     "name:msa_x_preferred":[
         "Kicevo Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Ki\u010devo Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Ki\u010devo"
@@ -305,7 +314,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843527,
+    "wof:lastmodified":1563257138,
     "wof:name":"Kicevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

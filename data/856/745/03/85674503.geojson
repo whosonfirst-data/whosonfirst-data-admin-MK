@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Rankovce"
+    ],
     "name:ces_x_preferred":[
         "Op\u0161tina Rankovce"
     ],
@@ -72,6 +75,9 @@
     "name:hrv_x_preferred":[
         "Op\u0107ina Rankovce"
     ],
+    "name:hun_x_preferred":[
+        "Rankovce k\u00f6zs\u00e9g"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Rankovce"
     ],
@@ -90,6 +96,9 @@
     "name:kor_x_preferred":[
         "\ub780\ucf54\ube0c\uccb4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub780\ucf54\ud504\uccb4 \uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Rankovces pa\u0161vald\u012bba"
     ],
@@ -104,6 +113,9 @@
     ],
     "name:msa_x_preferred":[
         "Rankovce Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Rankovce Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Rankovce"
@@ -296,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843529,
+    "wof:lastmodified":1563257158,
     "wof:name":"Rankovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

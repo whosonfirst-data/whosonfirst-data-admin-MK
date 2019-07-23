@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u044f\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Kamenjane"
+    ],
     "name:eng_x_preferred":[
         "Kamenjane"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043c\u0435\u045a\u0430\u043d\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Kamenyan\u00e9"
     ],
     "name:nld_x_preferred":[
         "Kamenjane"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890491921,
-    "wof:lastmodified":1561843540,
+    "wof:lastmodified":1563257506,
     "wof:name":"Kamenjane",
     "wof:parent_id":85674425,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
     "name:msa_x_preferred":[
         "Dabnica"
     ],
+    "name:nan_x_preferred":[
+        "Dabnitsa"
+    ],
     "name:nds_x_preferred":[
         "Dabnica"
     ],
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":890491457,
-    "wof:lastmodified":1561843539,
+    "wof:lastmodified":1563257481,
     "wof:name":"Dabnica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

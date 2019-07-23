@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0423\u0442\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Utovo"
+    ],
     "name:deu_x_preferred":[
         "Utovo"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0423\u0442\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Outovo"
     ],
     "name:sqi_x_preferred":[
         "Utova"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890492293,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257567,
     "wof:name":"Utovo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

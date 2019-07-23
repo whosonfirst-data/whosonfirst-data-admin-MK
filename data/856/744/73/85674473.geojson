@@ -32,20 +32,35 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0439\u0440\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Dojran"
+    ],
     "name:ces_x_preferred":[
         "Dojran"
     ],
     "name:deu_x_preferred":[
         "Op\u0161tina Dojran"
     ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03bf\u03ca\u03c1\u03ac\u03bd\u03b7\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Star Dojran Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Dojran Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Dojran"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Dojran"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0575\u0580\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Dojran"
     ],
     "name:ita_x_preferred":[
         "Dojran"
@@ -61,6 +76,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u043e\u0458\u0440\u0430\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Dojran Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Dojran"
@@ -233,7 +251,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843525,
+    "wof:lastmodified":1563257118,
     "wof:name":"Dojran",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

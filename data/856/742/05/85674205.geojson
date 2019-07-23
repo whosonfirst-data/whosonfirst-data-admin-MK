@@ -35,11 +35,17 @@
     "name:cat_x_preferred":[
         "Sarai"
     ],
+    "name:ceb_x_preferred":[
+        "Saraj"
+    ],
     "name:deu_x_preferred":[
         "Sarai"
     ],
     "name:deu_x_variant":[
         "Op\u0161tina Saraj"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03b1\u03c1\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Saraj Municipality"
@@ -56,6 +62,9 @@
     "name:ind_x_preferred":[
         "Sarai"
     ],
+    "name:ind_x_variant":[
+        "Munisipalitas Saraj"
+    ],
     "name:ita_x_preferred":[
         "Saraj"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0440\u0430\u0458"
+    ],
+    "name:nan_x_preferred":[
+        "Sara\u00ef"
     ],
     "name:nld_x_preferred":[
         "Saraj"
@@ -235,7 +247,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843528,
+    "wof:lastmodified":1563257145,
     "wof:name":"Saraj",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

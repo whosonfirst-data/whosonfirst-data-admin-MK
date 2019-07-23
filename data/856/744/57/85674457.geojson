@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bosilovo"
+    ],
     "name:ces_x_preferred":[
         "Op\u0161tina Bosilovo"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03c0\u03bf\u03c3\u03b9\u03bb\u03cc\u03b2\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03c0\u03bf\u03c3\u03af\u03bb\u03bf\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bosilovo Municipality"
@@ -106,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Perbandaran Bosilovo"
+    ],
+    "name:nan_x_preferred":[
+        "Bosilovo Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Bosilovo"
@@ -297,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843524,
+    "wof:lastmodified":1563257114,
     "wof:name":"Bosilovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

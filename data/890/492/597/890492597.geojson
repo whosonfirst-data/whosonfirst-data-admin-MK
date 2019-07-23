@@ -24,8 +24,14 @@
     "name:fra_x_preferred":[
         "Margari"
     ],
+    "name:hun_x_preferred":[
+        "Margari"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0430\u0440\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Margari"
     ],
     "name:nld_x_preferred":[
         "Margari"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890492597,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1563257600,
     "wof:name":"Margari",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

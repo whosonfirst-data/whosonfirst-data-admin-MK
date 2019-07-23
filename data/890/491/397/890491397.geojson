@@ -27,6 +27,9 @@
     "name:mkd_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0435\u0432\u0438\u0446\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Krouchevitsa"
+    ],
     "name:sqi_x_preferred":[
         "Krushevica"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890491397,
-    "wof:lastmodified":1561843534,
+    "wof:lastmodified":1563257344,
     "wof:name":"Kru\u0161evica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

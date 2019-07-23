@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043b\u0435\u043f\u0430\u0447"
     ],
+    "name:ceb_x_preferred":[
+        "Klepa\u010d"
+    ],
     "name:eng_x_preferred":[
         "Klepa\u010d"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_variant":[
         "\u041a\u043b\u0435\u043f\u0430\u0447"
+    ],
+    "name:nan_x_preferred":[
+        "Klepatch"
     ],
     "name:sqi_x_preferred":[
         "Klepa\u00e7i"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890491407,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257384,
     "wof:name":"Klepa\u010d",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

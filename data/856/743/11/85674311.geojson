@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Konce Municipality"
     ],
+    "name:eng_x_variant":[
+        "Kon\u010de Municipality"
+    ],
     "name:fin_x_preferred":[
         "Kon\u010den kunta"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:msa_x_preferred":[
         "Konce Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Kon\u010de Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Kon\u010de"
@@ -299,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843526,
+    "wof:lastmodified":1563257131,
     "wof:name":"Konce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0442\u043b\u0430\u0440\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kanatlarci"
+    ],
     "name:deu_x_preferred":[
         "Kanatlarci"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890491949,
-    "wof:lastmodified":1561843537,
+    "wof:lastmodified":1563257410,
     "wof:name":"Kanatlarci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

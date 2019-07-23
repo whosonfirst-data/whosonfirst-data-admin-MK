@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u043d\u043e\u0431\u0443\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Crnobuki"
+    ],
     "name:eng_x_preferred":[
         "Crnobuki"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "Crnobok"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u56fe\u4ee3\u5c3c\u67e5\u5c3c\u533a"
     ],
     "qs:name":"Crnobuki",
     "qs:photos_9r":0,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890492673,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257549,
     "wof:name":"Crnobuki",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

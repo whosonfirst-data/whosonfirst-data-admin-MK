@@ -34,7 +34,13 @@
     "name:mkd_x_preferred":[
         "\u041b\u0443\u043a\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Loukovo"
+    ],
     "name:nld_x_preferred":[
+        "Lukovo"
+    ],
+    "name:por_x_preferred":[
         "Lukovo"
     ],
     "name:sqi_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890492397,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257532,
     "wof:name":"Lukovo",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

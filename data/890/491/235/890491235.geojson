@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0435\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kriveni"
+    ],
     "name:eng_x_preferred":[
         "Kriveni"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_variant":[
         "\u041a\u0440\u0438\u0432\u0435\u043d\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Kriveni"
     ],
     "name:nld_x_preferred":[
         "Kriveni"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890491235,
-    "wof:lastmodified":1561843535,
+    "wof:lastmodified":1563257377,
     "wof:name":"Kriveni",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

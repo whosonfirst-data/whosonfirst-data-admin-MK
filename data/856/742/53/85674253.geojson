@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Aracinovo Municipality"
     ],
+    "name:eng_x_variant":[
+        "Ara\u010dinovo Municipality"
+    ],
     "name:fin_x_preferred":[
         "Ara\u010dinovon kunta"
     ],
@@ -308,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843528,
+    "wof:lastmodified":1563257153,
     "wof:name":"Aracinovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

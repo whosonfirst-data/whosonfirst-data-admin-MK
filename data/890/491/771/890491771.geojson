@@ -30,6 +30,9 @@
     "name:mkd_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
     ],
+    "name:nan_x_preferred":[
+        "Tchelopek"
+    ],
     "name:nld_x_preferred":[
         "\u010celopek"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890491771,
-    "wof:lastmodified":1561843536,
+    "wof:lastmodified":1563257403,
     "wof:name":"\u010celopek",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

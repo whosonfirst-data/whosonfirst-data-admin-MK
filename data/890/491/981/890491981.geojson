@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0443\u043f\u0447\u0430\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Slupchane"
+    ],
     "name:deu_x_preferred":[
         "Slup\u010dane"
     ],
@@ -28,8 +31,14 @@
     "name:fra_x_preferred":[
         "Slouptchan\u00e9"
     ],
+    "name:hun_x_preferred":[
+        "Szlupcsane"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u043b\u0443\u043f\u0447\u0430\u043d\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Slouptchan\u00e9"
     ],
     "name:nld_x_preferred":[
         "Slup\u010dane"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890491981,
-    "wof:lastmodified":1561843540,
+    "wof:lastmodified":1563257515,
     "wof:name":"Slup\u010dane",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

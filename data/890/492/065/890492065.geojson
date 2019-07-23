@@ -25,8 +25,14 @@
     "name:fra_x_preferred":[
         "Jeglyan\u00e9"
     ],
+    "name:hun_x_preferred":[
+        "Zseglyane"
+    ],
     "name:mkd_x_preferred":[
         "\u0416\u0435\u0433\u0459\u0430\u043d\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Jeglyan\u00e9"
     ],
     "name:nld_x_preferred":[
         "\u017degljane"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890492065,
-    "wof:lastmodified":1561843542,
+    "wof:lastmodified":1563257555,
     "wof:name":"\u017degljane",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

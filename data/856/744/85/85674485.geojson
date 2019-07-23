@@ -56,11 +56,17 @@
     "name:eng_x_preferred":[
         "Delcevo Municipality"
     ],
+    "name:eng_x_variant":[
+        "Del\u010devo Municipality"
+    ],
     "name:fin_x_preferred":[
         "Del\u010devon kunta"
     ],
     "name:fra_x_preferred":[
         "Municipalit\u00e9 de Deltchevo"
+    ],
+    "name:fra_x_variant":[
+        "Deltchevo"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0ab2\u0a95\u0ac7\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -106,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Delcevo Municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Del\u010devo Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Del\u010devo"
@@ -302,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1561843525,
+    "wof:lastmodified":1563257125,
     "wof:name":"Delcevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0447\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Vesel\u010dani"
+    ],
     "name:eng_x_preferred":[
         "Vesel\u010dani"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0447\u0430\u043d\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Veseltchani"
     ],
     "name:nld_x_preferred":[
         "Vesel\u010dani"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890492435,
-    "wof:lastmodified":1561843545,
+    "wof:lastmodified":1563257648,
     "wof:name":"Vesel\u010dani",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

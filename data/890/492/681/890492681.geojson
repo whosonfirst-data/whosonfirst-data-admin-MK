@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "\u010cepigovo"
+    ],
     "name:eng_x_preferred":[
         "\u010cepigovo"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:mkd_x_variant":[
         "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Tchepigovo"
     ],
     "name:sqi_x_preferred":[
         "\u00c7epigova"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890492681,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1563257536,
     "wof:name":"\u010cepigovo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

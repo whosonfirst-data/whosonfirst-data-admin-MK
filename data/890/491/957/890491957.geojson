@@ -20,7 +20,16 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
+    "name:abk_x_preferred":[
+        "\u0421\u043a\u043e\u043f\u044c\u0435"
+    ],
+    "name:ace_x_preferred":[
+        "Skopje"
+    ],
     "name:afr_x_preferred":[
+        "Skopje"
+    ],
+    "name:aka_x_preferred":[
         "Skopje"
     ],
     "name:amh_x_preferred":[
@@ -29,20 +38,35 @@
     "name:ara_x_preferred":[
         "\u0633\u0643\u0648\u0628\u064a\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0633\u0643\u0648\u0628\u064a\u0629"
+    ],
     "name:arg_x_preferred":[
         "Scopia"
     ],
     "name:ast_x_preferred":[
         "Skopje"
     ],
+    "name:ava_x_preferred":[
+        "\u0421\u043a\u043e\u043f\u0435"
+    ],
     "name:aze_x_preferred":[
         "Skopye"
+    ],
+    "name:aze_x_variant":[
+        "\u00dcskub"
     ],
     "name:bak_x_preferred":[
         "\u0421\u043a\u043e\u043f\u044c\u0435"
     ],
+    "name:bcl_x_preferred":[
+        "Skopje"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043a\u043e\u043f'\u0435"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u043a\u043e\u043f\u2019\u0435"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u0995\u09cb\u09aa\u099c\u09c7"
@@ -63,6 +87,9 @@
         "Skopje"
     ],
     "name:cdo_x_preferred":[
+        "Skopje"
+    ],
+    "name:ceb_x_preferred":[
         "Skopje"
     ],
     "name:ces_x_preferred":[
@@ -137,6 +164,9 @@
     "name:glv_x_preferred":[
         "Skopje"
     ],
+    "name:gsw_x_preferred":[
+        "Skopje"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a95\u0acb\u0aaa\u0acd\u0a9c\u0ac7"
     ],
@@ -174,6 +204,9 @@
         "Skopje"
     ],
     "name:ile_x_preferred":[
+        "Skopje"
+    ],
+    "name:ina_x_preferred":[
         "Skopje"
     ],
     "name:ind_x_preferred":[
@@ -314,6 +347,9 @@
     "name:pap_x_preferred":[
         "Skopje"
     ],
+    "name:pih_x_preferred":[
+        "Skopie"
+    ],
     "name:pms_x_preferred":[
         "Skopje"
     ],
@@ -326,6 +362,12 @@
     "name:por_x_preferred":[
         "Esc\u00f3pia"
     ],
+    "name:por_x_variant":[
+        "Skopje"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0633\u06a9\u0648\u067e\u06cc\u0647"
+    ],
     "name:que_x_preferred":[
         "Skopje"
     ],
@@ -334,6 +376,9 @@
     ],
     "name:ron_x_preferred":[
         "Skopje"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u043a\u043e\u043f\u2019\u0454"
     ],
     "name:rup_x_preferred":[
         "Scopia"
@@ -364,6 +409,9 @@
     ],
     "name:spa_x_preferred":[
         "Skopje"
+    ],
+    "name:spa_x_variant":[
+        "Skopie"
     ],
     "name:sqi_x_preferred":[
         "Shkupi"
@@ -599,7 +647,7 @@
         }
     ],
     "wof:id":890491957,
-    "wof:lastmodified":1561843537,
+    "wof:lastmodified":1563257422,
     "wof:name":"Skopje",
     "wof:parent_id":85674273,
     "wof:placetype":"locality",

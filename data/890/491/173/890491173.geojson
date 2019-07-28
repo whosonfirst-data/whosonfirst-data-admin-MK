@@ -15,11 +15,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Malino"
+    ],
+    "name:ceb_x_preferred":[
+        "Malino"
+    ],
     "name:mkd_x_preferred":[
         "Malino"
     ],
     "name:mkd_x_variant":[
         "\u041c\u0430\u043b\u0438\u043d\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Malino"
     ],
     "qs:name":"Malino",
     "qs:photos_9r":0,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":890491173,
-    "wof:lastmodified":1527736662,
+    "wof:lastmodified":1564308564,
     "wof:name":"Malino",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

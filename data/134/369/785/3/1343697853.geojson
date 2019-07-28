@@ -25,8 +25,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Roga\u010devo"
+    ],
+    "name:fra_x_preferred":[
+        "Rogatchevo"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Roga\u00e7eva"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Roga\u010devo"
     ],
     "name:und_x_variant":[
         "Roga\u010devo"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343697853,
-    "wof:lastmodified":1537664856,
+    "wof:lastmodified":1564308360,
     "wof:name":"Rogacevo",
     "wof:parent_id":85674437,
     "wof:placetype":"locality",

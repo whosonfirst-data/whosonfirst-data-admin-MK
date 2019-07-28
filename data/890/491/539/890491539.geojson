@@ -15,8 +15,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0441\u043a\u0430\u0440\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Laskarci"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c3\u03ba\u03b1\u03c1\u03c4\u03c3\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Laskartsi"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0430\u0441\u043a\u0430\u0440\u0446\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "Llaskarca"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441\u043a\u0430\u0440\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Laskarci"
     ],
     "name:unk_x_variant":[
         "Laskrce"
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":890491539,
-    "wof:lastmodified":1505343793,
+    "wof:lastmodified":1564308569,
     "wof:name":"Laskarci",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

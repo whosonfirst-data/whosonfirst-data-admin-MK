@@ -25,11 +25,38 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ratkovica"
+    ],
+    "name:ceb_x_preferred":[
+        "Ratkovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Ratkovica"
+    ],
     "name:mkd_x_preferred":[
         "Ratkovica"
     ],
     "name:mkd_x_variant":[
         "\u0420\u0430\u0442\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Ratkovica"
+    ],
+    "name:slv_x_preferred":[
+        "Ratkovica"
+    ],
+    "name:spa_x_preferred":[
+        "Ratkovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0442\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ratkovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0442\u043a\u043e\u0432\u0438\u0446\u044f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1226778627,
-    "wof:lastmodified":1537664941,
+    "wof:lastmodified":1564308686,
     "wof:name":"Ratkovica",
     "wof:parent_id":85674197,
     "wof:placetype":"locality",

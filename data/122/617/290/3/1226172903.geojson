@@ -25,8 +25,20 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u043e\u0441\u043e\u0432\u0440\u0430\u0441\u0442\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Gorno Kosovrasti"
+    ],
+    "name:hun_x_preferred":[
+        "Gorno Koszovraszti"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u041a\u043e\u0441\u043e\u0432\u0440\u0430\u0441\u0442\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u041a\u043e\u0441\u043e\u0432\u0440\u0430\u0441\u0442\u0438"
     ],
     "name:und_x_variant":[
         "Kosovrashti i Sip\u00ebrme",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226172903,
-    "wof:lastmodified":1537664891,
+    "wof:lastmodified":1564308665,
     "wof:name":"Gorno Kosovrasti",
     "wof:parent_id":85674389,
     "wof:placetype":"locality",

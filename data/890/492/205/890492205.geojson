@@ -16,11 +16,32 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010celopeci"
+    ],
+    "name:fra_x_preferred":[
+        "Tchelopetsi"
+    ],
+    "name:hun_x_preferred":[
+        "Cselopeci"
+    ],
     "name:mkd_x_preferred":[
         "\u010celopeci"
     ],
     "name:mkd_x_variant":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u0446\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7ellopeci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u010celopeci"
     ],
     "qs:name":"\u010celopeci",
     "qs:name_adm0":"Macedonia",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":890492205,
-    "wof:lastmodified":1505343797,
+    "wof:lastmodified":1564308594,
     "wof:name":"\u010celopeci",
     "wof:parent_id":85674241,
     "wof:placetype":"locality",

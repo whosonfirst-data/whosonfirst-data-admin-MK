@@ -25,11 +25,53 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0435 \u0421\u044f\u043b\u043e"
+    ],
+    "name:bos_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:deu_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Staro selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Staro Selo"
+    ],
     "name:mkd_x_preferred":[
         "Staro Selo"
     ],
     "name:mkd_x_variant":[
         "\u0421\u0442\u0430\u0440\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:ron_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0435 \u0421\u0435\u043b\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Staro Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Staro Selo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1226682469,
-    "wof:lastmodified":1537664850,
+    "wof:lastmodified":1564308673,
     "wof:name":"Staro Selo",
     "wof:parent_id":85674437,
     "wof:placetype":"locality",

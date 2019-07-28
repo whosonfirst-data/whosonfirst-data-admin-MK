@@ -25,8 +25,38 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043d\u0430\u0440\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Budinarci"
+    ],
+    "name:fra_x_preferred":[
+        "Boudinartsi"
+    ],
+    "name:hun_x_preferred":[
+        "Budinarci"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0434\u0438\u043d\u0430\u0440\u0446\u0438"
+    ],
+    "name:por_x_preferred":[
+        "Budinarci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043d\u0430\u0440\u0446\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "Budinarca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043d\u0430\u0440\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Budinarci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043d\u0430\u0440\u0446\u0456"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1310411815,
-    "wof:lastmodified":1537664908,
+    "wof:lastmodified":1564308509,
     "wof:name":"Budinarci",
     "wof:parent_id":85674479,
     "wof:placetype":"locality",

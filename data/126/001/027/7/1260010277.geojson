@@ -25,11 +25,32 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Leskovica"
+    ],
+    "name:ceb_x_preferred":[
+        "Leskovica"
+    ],
+    "name:fra_x_preferred":[
+        "Leskovica"
+    ],
     "name:mkd_x_preferred":[
         "Leskovica"
     ],
     "name:mkd_x_variant":[
         "\u041b\u0435\u0441\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Leskovica"
+    ],
+    "name:slv_x_preferred":[
+        "Leskovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Leskovica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1260010277,
-    "wof:lastmodified":1537664877,
+    "wof:lastmodified":1564308497,
     "wof:name":"Leskovica",
     "wof:parent_id":85674219,
     "wof:placetype":"locality",

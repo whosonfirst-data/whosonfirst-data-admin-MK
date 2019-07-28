@@ -25,10 +25,25 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kunovo"
+    ],
+    "name:fra_x_preferred":[
+        "Kunovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kunovo"
+    ],
     "name:mkd_x_preferred":[
         "Kunovo"
     ],
     "name:mkd_x_variant":[
+        "\u041a\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Kunovo"
+    ],
+    "name:srp_x_preferred":[
         "\u041a\u0443\u043d\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209448895,
-    "wof:lastmodified":1537664879,
+    "wof:lastmodified":1564308478,
     "wof:name":"Kunovo",
     "wof:parent_id":85632373,
     "wof:placetype":"locality",

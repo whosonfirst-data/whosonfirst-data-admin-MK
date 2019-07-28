@@ -25,7 +25,25 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u043a\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Kocharka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e8\u10d0\u10e0\u10d9\u10d0"
+    ],
     "name:mkd_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u043a\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Ko\u0161arka"
+    ],
+    "name:sqi_x_preferred":[
+        "Kosharka"
+    ],
+    "name:srp_x_preferred":[
         "\u041a\u043e\u0448\u0430\u0440\u043a\u0430"
     ],
     "name:und_x_variant":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343416415,
-    "wof:lastmodified":1537664881,
+    "wof:lastmodified":1564308351,
     "wof:name":"Kosarka",
     "wof:parent_id":85674289,
     "wof:placetype":"locality",

@@ -15,8 +15,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0439\u043b\u0430\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010cajlane"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ac\u03b9\u03bb\u03b1\u03bd\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "Tcha\u00eflan\u00e9"
+    ],
     "name:mkd_x_preferred":[
         "\u0427\u0430\u0458\u043b\u0430\u043d\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7ajlana"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u0458\u043b\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cajlane"
     ],
     "name:unk_x_variant":[
         "Cajljane"
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":890492687,
-    "wof:lastmodified":1505343799,
+    "wof:lastmodified":1564308591,
     "wof:name":"\u010cajlane",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

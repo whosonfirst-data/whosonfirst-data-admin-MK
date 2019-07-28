@@ -25,7 +25,22 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043b\u044f\u0434\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Delyadrovtsi"
+    ],
     "name:mkd_x_preferred":[
+        "\u0414\u0435\u0459\u0430\u0434\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:por_x_preferred":[
+        "Deljadrovci"
+    ],
+    "name:sqi_x_preferred":[
+        "Deladroci"
+    ],
+    "name:srp_x_preferred":[
         "\u0414\u0435\u0459\u0430\u0434\u0440\u043e\u0432\u0446\u0438"
     ],
     "name:und_x_variant":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1242722321,
-    "wof:lastmodified":1537664904,
+    "wof:lastmodified":1564308619,
     "wof:name":"Deljadrovci",
     "wof:parent_id":85674315,
     "wof:placetype":"locality",

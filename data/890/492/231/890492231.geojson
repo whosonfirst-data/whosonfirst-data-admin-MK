@@ -16,11 +16,44 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Izvor"
+    ],
+    "name:deu_x_preferred":[
+        "Izvor"
+    ],
     "name:eng_x_preferred":[
+        "Izvor"
+    ],
+    "name:fra_x_preferred":[
         "Izvor"
     ],
     "name:mkd_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Izvor"
+    ],
+    "name:pol_x_preferred":[
+        "Izwor"
+    ],
+    "name:ron_x_preferred":[
+        "Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Izvor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Izvor"
     ],
     "qs:name":"Izvor",
     "qs:name_adm0":"Macedonia",
@@ -57,7 +90,7 @@
         }
     ],
     "wof:id":890492231,
-    "wof:lastmodified":1527793028,
+    "wof:lastmodified":1564308605,
     "wof:name":"Izvor",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

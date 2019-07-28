@@ -25,11 +25,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0421\u0432\u0438\u043b\u0430\u0440\u0435"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bb\u03bd\u03bf \u03a3\u03b2\u03b9\u03bb\u03ac\u03c1\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "Dolno Svilar\u00e9"
+    ],
     "name:mkd_x_preferred":[
         "Dolno Svilare"
     ],
     "name:mkd_x_variant":[
         "\u0414\u043e\u043b\u043d\u043e \u0421\u0432\u0438\u043b\u0430\u0440\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Sullara e Poshtme"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0435 \u0421\u0432\u0438\u043b\u0430\u0440\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259417855,
-    "wof:lastmodified":1537664901,
+    "wof:lastmodified":1564308649,
     "wof:name":"Dolno Svilare",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

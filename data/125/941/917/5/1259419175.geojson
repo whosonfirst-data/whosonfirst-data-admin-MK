@@ -25,8 +25,53 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Malo"
+    ],
+    "name:deu_x_preferred":[
+        "Malo"
+    ],
+    "name:epo_x_preferred":[
+        "Malo"
+    ],
+    "name:eus_x_preferred":[
+        "Malo"
+    ],
+    "name:fin_x_preferred":[
+        "Malo"
+    ],
+    "name:fra_x_preferred":[
+        "Malo"
+    ],
+    "name:glg_x_preferred":[
+        "Malo"
+    ],
+    "name:ind_x_preferred":[
+        "Malo"
+    ],
+    "name:ita_x_preferred":[
+        "Malo"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Malo"
+    ],
+    "name:ron_x_preferred":[
+        "Malo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Malo"
+    ],
+    "name:swe_x_preferred":[
+        "Malo"
     ],
     "name:und_x_variant":[
         "Maalo"
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1259419175,
-    "wof:lastmodified":1537664947,
+    "wof:lastmodified":1564308650,
     "wof:name":"Malo",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

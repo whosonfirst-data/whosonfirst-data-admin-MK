@@ -25,11 +25,44 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dren"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Dren"
+    ],
+    "name:deu_x_preferred":[
+        "Dren"
+    ],
+    "name:fra_x_preferred":[
+        "Dren"
+    ],
     "name:mkd_x_preferred":[
         "Dren"
     ],
     "name:mkd_x_variant":[
         "\u0414\u0440\u0435\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Dren"
+    ],
+    "name:ron_x_preferred":[
+        "Dren"
+    ],
+    "name:sco_x_preferred":[
+        "Dren"
+    ],
+    "name:slv_x_preferred":[
+        "Dren"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dren"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1343813521,
-    "wof:lastmodified":1537664899,
+    "wof:lastmodified":1564308371,
     "wof:name":"Dren",
     "wof:parent_id":85674289,
     "wof:placetype":"locality",

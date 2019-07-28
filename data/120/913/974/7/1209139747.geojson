@@ -25,8 +25,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u0432\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Godivje"
+    ],
+    "name:fra_x_preferred":[
+        "Godivy\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Godivje"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0434\u0438\u0432\u0458\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Godivja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0434\u0438\u0432\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Godivje"
     ],
     "name:und_x_variant":[
         "Godivije",
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1209139747,
-    "wof:lastmodified":1537664893,
+    "wof:lastmodified":1564308465,
     "wof:name":"Godivje",
     "wof:parent_id":85632373,
     "wof:placetype":"locality",

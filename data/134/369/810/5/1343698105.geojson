@@ -25,10 +25,19 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Marinkovci"
+    ],
+    "name:fra_x_preferred":[
+        "Marinkovci"
+    ],
     "name:mkd_x_preferred":[
         "Marinkovci"
     ],
     "name:mkd_x_variant":[
+        "\u041c\u0430\u0440\u0438\u043d\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0438\u043d\u043a\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343698105,
-    "wof:lastmodified":1537664931,
+    "wof:lastmodified":1564308359,
     "wof:name":"Marinkovci",
     "wof:parent_id":85674197,
     "wof:placetype":"locality",

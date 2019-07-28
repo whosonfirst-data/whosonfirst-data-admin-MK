@@ -26,6 +26,15 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lopate"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043f\u0430\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lopate"
+    ],
     "name:und_x_variant":[
         "Lopatje",
         "Lopate"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326544585,
-    "wof:lastmodified":1537664875,
+    "wof:lastmodified":1564308331,
     "wof:name":"Lopate",
     "wof:parent_id":85674355,
     "wof:placetype":"locality",

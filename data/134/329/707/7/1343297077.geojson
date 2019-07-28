@@ -25,11 +25,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Drac"
+    ],
+    "name:fra_x_preferred":[
+        "Drac"
+    ],
+    "name:ita_x_preferred":[
+        "Drac"
+    ],
     "name:mkd_x_preferred":[
         "Dra\u010d"
     ],
     "name:mkd_x_variant":[
         "\u0414\u0440\u0430\u0447"
+    ],
+    "name:oci_x_preferred":[
+        "Drac"
+    ],
+    "name:ron_x_preferred":[
+        "Drac"
+    ],
+    "name:swe_x_preferred":[
+        "Drac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343297077,
-    "wof:lastmodified":1537664932,
+    "wof:lastmodified":1564308366,
     "wof:name":"Drac",
     "wof:parent_id":85674187,
     "wof:placetype":"locality",

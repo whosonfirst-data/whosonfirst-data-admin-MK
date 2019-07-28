@@ -25,8 +25,32 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u0435\u0448\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Bare\u0161ani"
+    ],
+    "name:fra_x_preferred":[
+        "Barechani"
+    ],
+    "name:hun_x_preferred":[
+        "Baresani"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0440\u0435\u0448\u0430\u043d\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Bareszani"
+    ],
+    "name:sqi_x_preferred":[
+        "Bareshani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0435\u0448\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bare\u0161ani"
     ],
     "name:und_x_variant":[
         "Bare\u0161ane",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1343383449,
-    "wof:lastmodified":1537664913,
+    "wof:lastmodified":1564308338,
     "wof:name":"Baresani",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

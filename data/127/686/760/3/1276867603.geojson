@@ -25,10 +25,25 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u043d\u043e \u0415\u0433\u0440\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Sredno Egri"
+    ],
+    "name:hun_x_preferred":[
+        "Szredno Egri"
+    ],
     "name:mkd_x_preferred":[
         "Sredno Egri"
     ],
     "name:mkd_x_variant":[
+        "\u0421\u0440\u0435\u0434\u043d\u043e \u0415\u0433\u0440\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Sredno Egri"
+    ],
+    "name:srp_x_preferred":[
         "\u0421\u0440\u0435\u0434\u043d\u043e \u0415\u0433\u0440\u0438"
     ],
     "src:geom":"geonames",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276867603,
-    "wof:lastmodified":1537664851,
+    "wof:lastmodified":1564308419,
     "wof:name":"Sredno Egri",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

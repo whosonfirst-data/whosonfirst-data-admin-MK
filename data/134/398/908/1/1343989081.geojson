@@ -25,10 +25,28 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rabrovo"
+    ],
+    "name:fra_x_preferred":[
+        "Rabrovo"
+    ],
     "name:mkd_x_preferred":[
         "Rabrovo"
     ],
     "name:mkd_x_variant":[
+        "\u0420\u0430\u0431\u0440\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Rabrovo"
+    ],
+    "name:por_x_preferred":[
+        "Rabrovo"
+    ],
+    "name:slv_x_preferred":[
+        "Rabrovo"
+    ],
+    "name:srp_x_preferred":[
         "\u0420\u0430\u0431\u0440\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343989081,
-    "wof:lastmodified":1537664859,
+    "wof:lastmodified":1564308339,
     "wof:name":"Rabrovo",
     "wof:parent_id":85674443,
     "wof:placetype":"locality",

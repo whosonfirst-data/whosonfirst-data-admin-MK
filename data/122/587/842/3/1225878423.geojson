@@ -25,8 +25,23 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041a\u043e\u0441\u043e\u0432\u0440\u0430\u0441\u0442\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Dolno Kosovrasti"
+    ],
+    "name:hun_x_preferred":[
+        "Dolno Koszovraszti"
+    ],
+    "name:ita_x_preferred":[
+        "Dolno Kosovrasti"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041a\u043e\u0441\u043e\u0432\u0440\u0430\u0441\u0442\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u041a\u043e\u0441\u043e\u0432\u0440\u0430\u0441\u0442\u0438"
     ],
     "name:und_x_variant":[
         "Kosovrashti i Posht\u00ebm",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1225878423,
-    "wof:lastmodified":1537664902,
+    "wof:lastmodified":1564308676,
     "wof:name":"Dolno Kosovrasti",
     "wof:parent_id":85674389,
     "wof:placetype":"locality",

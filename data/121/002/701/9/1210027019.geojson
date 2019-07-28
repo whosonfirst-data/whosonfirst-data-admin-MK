@@ -24,10 +24,43 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0415\u043b\u0448\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "El&"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03bb\u03c3\u03b1\u03bd\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Elchani"
+    ],
+    "name:glg_x_preferred":[
+        "Elshani"
+    ],
+    "name:hun_x_preferred":[
+        "Elsani"
+    ],
     "name:mkd_x_preferred":[
         "\u0415\u043b\u0448\u0430\u043d\u0438"
     ],
     "name:mkd_x_variant":[
+        "El\u0161ani"
+    ],
+    "name:pol_x_preferred":[
+        "E\u0142szani"
+    ],
+    "name:por_x_preferred":[
+        "El\u0161ani"
+    ],
+    "name:sqi_x_preferred":[
+        "Helshani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b\u0448\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
         "El\u0161ani"
     ],
     "src:geom":"geonames",
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1210027019,
-    "wof:lastmodified":1537664952,
+    "wof:lastmodified":1564308483,
     "wof:name":"El&#353ani",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

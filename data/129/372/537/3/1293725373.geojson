@@ -25,11 +25,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u044a\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "R'nkovts\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Rinkovce"
+    ],
     "name:mkd_x_preferred":[
         "R\u2019nkovce"
     ],
     "name:mkd_x_variant":[
         "\u0420\u2019\u043d\u043a\u043e\u0432\u0446\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "H\u00ebrkoci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043d\u043a\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Rnkovce"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293725373,
-    "wof:lastmodified":1537664919,
+    "wof:lastmodified":1564308414,
     "wof:name":"R'nkovce",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

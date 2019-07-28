@@ -25,8 +25,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043f\u043e\u0442\u0441\u043a\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sopotsko"
+    ],
+    "name:fra_x_preferred":[
+        "Sopotsko"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u043e\u043f\u043e\u0442\u0441\u043a\u043e"
+    ],
+    "name:por_x_preferred":[
+        "Sopotsko"
+    ],
+    "name:sqi_x_preferred":[
+        "Sopocka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043f\u043e\u0442\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sopotsko"
     ],
     "name:und_x_variant":[
         "Spotsko",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1293518611,
-    "wof:lastmodified":1537664851,
+    "wof:lastmodified":1564308406,
     "wof:name":"Sopotsko",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

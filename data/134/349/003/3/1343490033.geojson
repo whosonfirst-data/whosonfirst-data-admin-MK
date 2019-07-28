@@ -25,7 +25,22 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043a\u043e\u0432"
+    ],
+    "name:fra_x_preferred":[
+        "Lokov"
+    ],
+    "name:hun_x_preferred":[
+        "Lokov"
+    ],
     "name:mkd_x_preferred":[
+        "\u041b\u043e\u043a\u043e\u0432"
+    ],
+    "name:por_x_preferred":[
+        "Lokov"
+    ],
+    "name:srp_x_preferred":[
         "\u041b\u043e\u043a\u043e\u0432"
     ],
     "name:und_x_variant":[
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343490033,
-    "wof:lastmodified":1537664875,
+    "wof:lastmodified":1564308353,
     "wof:name":"Lokov",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

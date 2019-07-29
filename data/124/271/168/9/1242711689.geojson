@@ -25,8 +25,20 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u0419\u0435\u043b\u043e\u0432\u0446\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Gorno Yelovts\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Gorno Jelovce"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u0408\u0435\u043b\u043e\u0432\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0408\u0435\u043b\u043e\u0432\u0446\u0435"
     ],
     "name:und_x_variant":[
         "Gorno Jelovci"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242711689,
-    "wof:lastmodified":1537664891,
+    "wof:lastmodified":1564308632,
     "wof:name":"Gorno Jelovce",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

@@ -25,10 +25,40 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nikolinci"
+    ],
+    "name:epo_x_preferred":[
+        "Nikolinci"
+    ],
+    "name:fra_x_preferred":[
+        "Nikolinci"
+    ],
+    "name:hrv_x_preferred":[
+        "Nikolinci"
+    ],
+    "name:hun_x_preferred":[
+        "Temesmikl\u00f3s"
+    ],
+    "name:ita_x_preferred":[
+        "Nikolinci"
+    ],
     "name:mkd_x_preferred":[
         "Nikolinci"
     ],
     "name:mkd_x_variant":[
+        "\u041d\u0438\u043a\u043e\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Nikolinci"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Nikolinci"
+    ],
+    "name:srp_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0438\u043d\u0446\u0438"
     ],
     "src:geom":"geonames",
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1344093427,
-    "wof:lastmodified":1537664981,
+    "wof:lastmodified":1564308347,
     "wof:name":"Nikolinci",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

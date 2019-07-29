@@ -26,6 +26,12 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041d\u0435\u0440\u0435\u0437\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041d\u0435\u0440\u0435\u0437\u0438"
+    ],
     "name:und_x_variant":[
         "Dolno Nerez",
         "Dolno Nereze",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326940311,
-    "wof:lastmodified":1537664901,
+    "wof:lastmodified":1564308314,
     "wof:name":"Dolno Nerezi",
     "wof:parent_id":85674323,
     "wof:placetype":"locality",

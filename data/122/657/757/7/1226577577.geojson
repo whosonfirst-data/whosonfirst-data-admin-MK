@@ -25,8 +25,35 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Orah"
+    ],
+    "name:ceb_x_preferred":[
+        "Orah"
+    ],
+    "name:fra_x_preferred":[
+        "Orah"
+    ],
+    "name:hrv_x_preferred":[
+        "Orah"
+    ],
+    "name:hun_x_preferred":[
+        "Orah"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0430\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u0445"
+    ],
+    "name:slv_x_preferred":[
+        "Orah"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Orah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1226577577,
-    "wof:lastmodified":1537664867,
+    "wof:lastmodified":1564308674,
     "wof:name":"Orah",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

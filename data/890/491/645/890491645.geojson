@@ -15,10 +15,25 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Grechnitsa"
+    ],
+    "name:hun_x_preferred":[
+        "Gresnica"
+    ],
     "name:mkd_x_preferred":[
         "Gre\u0161nica"
     ],
     "name:mkd_x_variant":[
+        "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Greshnica"
+    ],
+    "name:srp_x_preferred":[
         "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0430"
     ],
     "qs:name":"Gre\u0161nica",
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":890491645,
-    "wof:lastmodified":1505343794,
+    "wof:lastmodified":1564308559,
     "wof:name":"Gre\u0161nica",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

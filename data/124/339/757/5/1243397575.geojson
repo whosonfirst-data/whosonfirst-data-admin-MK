@@ -25,8 +25,32 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0434\u0440\u0438\u0447"
+    ],
+    "name:deu_x_preferred":[
+        "Modri\u010d"
+    ],
+    "name:fra_x_preferred":[
+        "Modritch"
+    ],
+    "name:hun_x_preferred":[
+        "Modrics"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u0434\u0440\u0438\u0447"
+    ],
+    "name:por_x_preferred":[
+        "Modri\u010d"
+    ],
+    "name:sqi_x_preferred":[
+        "Modri\u00e7i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0434\u0440\u0438\u0447"
+    ],
+    "name:tur_x_preferred":[
+        "Modri\u00e7"
     ],
     "name:und_x_variant":[
         "Madri\u00e7",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1243397575,
-    "wof:lastmodified":1537664872,
+    "wof:lastmodified":1564308617,
     "wof:name":"Modric",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

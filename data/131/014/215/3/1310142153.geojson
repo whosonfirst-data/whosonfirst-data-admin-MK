@@ -28,6 +28,12 @@
     "name:mkd_x_preferred":[
         "\u0420\u0443\u0433\u0438\u043d\u0446\u0435"
     ],
+    "name:mkd_x_variant":[
+        "\u0420\u0443\u0453\u0438\u043d\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0452\u0438\u043d\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Runica",
         "Ru\u0111ince",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1310142153,
-    "wof:lastmodified":1537664856,
+    "wof:lastmodified":1564308511,
     "wof:name":"Rugince",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

@@ -15,8 +15,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0433\u043b\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Preglovo"
+    ],
+    "name:fra_x_preferred":[
+        "Preglovo"
+    ],
+    "name:hun_x_preferred":[
+        "Preglovo"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0435\u0433\u043b\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Pregllova"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0433\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Preglovo"
     ],
     "name:unk_x_variant":[
         "Preglevo"
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":890492521,
-    "wof:lastmodified":1505343799,
+    "wof:lastmodified":1564308596,
     "wof:name":"Preglovo",
     "wof:parent_id":85674179,
     "wof:placetype":"locality",

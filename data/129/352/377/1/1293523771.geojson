@@ -25,11 +25,32 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0431\u044f\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Vrbjani"
+    ],
+    "name:fra_x_preferred":[
+        "Vrbyani"
+    ],
+    "name:hun_x_preferred":[
+        "Vrbjani"
+    ],
     "name:mkd_x_preferred":[
         "Vrbjani"
     ],
     "name:mkd_x_variant":[
         "\u0412\u0440\u0431\u0458\u0430\u043d\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "V\u00ebrbjani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0431\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vrbjani"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1293523771,
-    "wof:lastmodified":1537664838,
+    "wof:lastmodified":1564308384,
     "wof:name":"Vrbjani",
     "wof:parent_id":85674169,
     "wof:placetype":"locality",

@@ -15,8 +15,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u043d\u0430\u043a\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Arnakija"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03bd\u03ac\u03ba\u03b9\u03b3\u03b9\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Arnakiya"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0440\u043d\u0430\u043a\u0438\u0458\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Arnaqia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u043d\u0430\u043a\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Arnakija"
     ],
     "name:unk_x_variant":[
         "Arna\u0107ija"
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":890492723,
-    "wof:lastmodified":1505343800,
+    "wof:lastmodified":1564308598,
     "wof:name":"Arnakija",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

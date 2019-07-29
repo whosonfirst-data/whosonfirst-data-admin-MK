@@ -25,7 +25,25 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0442\u0438\u043c\u0438\u0440"
+    ],
+    "name:fra_x_preferred":[
+        "Metimir"
+    ],
+    "name:hun_x_preferred":[
+        "Metimir"
+    ],
     "name:mkd_x_preferred":[
+        "\u041c\u0435\u0442\u0438\u043c\u0438\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "Metimir"
+    ],
+    "name:sqi_x_preferred":[
+        "Metimiri"
+    ],
+    "name:srp_x_preferred":[
         "\u041c\u0435\u0442\u0438\u043c\u0438\u0440"
     ],
     "name:und_x_variant":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1344249781,
-    "wof:lastmodified":1537664873,
+    "wof:lastmodified":1564308345,
     "wof:name":"Metimir",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

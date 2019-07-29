@@ -25,10 +25,28 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u043e\u0441\u043f\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:fra_x_preferred":[
+        "Monospitovo"
+    ],
+    "name:hun_x_preferred":[
+        "Monoszpitovo"
+    ],
     "name:mkd_x_preferred":[
         "Monospitovo"
     ],
     "name:mkd_x_variant":[
+        "\u041c\u043e\u043d\u043e\u0441\u043f\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Monospitowo"
+    ],
+    "name:sqi_x_preferred":[
+        "Monospitova"
+    ],
+    "name:srp_x_preferred":[
         "\u041c\u043e\u043d\u043e\u0441\u043f\u0438\u0442\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310293183,
-    "wof:lastmodified":1537664917,
+    "wof:lastmodified":1564308520,
     "wof:name":"Monospitovo",
     "wof:parent_id":85674457,
     "wof:placetype":"locality",

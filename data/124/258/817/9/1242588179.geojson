@@ -24,6 +24,9 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043b\u0430\u0435"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u043b\u0430\u0435"
     ],
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242588179,
-    "wof:lastmodified":1537552762,
+    "wof:lastmodified":1564308622,
     "wof:name":"Vlae",
     "wof:parent_id":85674323,
     "wof:placetype":"locality",

@@ -25,8 +25,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0435\u043d\u0438\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Stenje"
+    ],
+    "name:fra_x_preferred":[
+        "Steny\u00e9"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0435\u045a\u0435"
+    ],
+    "name:por_x_preferred":[
+        "Stenje"
+    ],
+    "name:sqi_x_preferred":[
+        "Stenja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0435\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Stenje"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1327368361,
-    "wof:lastmodified":1537664850,
+    "wof:lastmodified":1564308304,
     "wof:name":"Stenje",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

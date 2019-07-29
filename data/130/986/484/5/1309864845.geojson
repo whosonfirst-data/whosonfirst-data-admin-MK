@@ -25,11 +25,62 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Smokvica"
+    ],
+    "name:cat_x_preferred":[
+        "Smokvica"
+    ],
+    "name:ceb_x_preferred":[
+        "Smokvica"
+    ],
+    "name:deu_x_preferred":[
+        "Smokvica"
+    ],
+    "name:fra_x_preferred":[
+        "Smokvica"
+    ],
+    "name:hrv_x_preferred":[
+        "Smokvica"
+    ],
+    "name:hun_x_preferred":[
+        "Smokvica"
+    ],
+    "name:ita_x_preferred":[
+        "Smoquizza"
+    ],
     "name:mkd_x_preferred":[
         "Smokvica"
     ],
     "name:mkd_x_variant":[
         "\u0421\u043c\u043e\u043a\u0432\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Smokvica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Smokvica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Smokvica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u043a\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Smokvica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043c\u043e\u043a\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Smokvica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u043e\u043a\u0432\u0438\u0446\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Smokvica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1309864845,
-    "wof:lastmodified":1537664852,
+    "wof:lastmodified":1564308552,
     "wof:name":"Smokvica",
     "wof:parent_id":85674461,
     "wof:placetype":"locality",

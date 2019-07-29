@@ -15,11 +15,29 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u044a\u0440\u0446\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Dobarce"
+    ],
+    "name:fra_x_preferred":[
+        "Dobarts\u00e9"
+    ],
     "name:mkd_x_preferred":[
         "Dobarce"
     ],
     "name:mkd_x_variant":[
         "\u0414\u043e\u0431\u0430\u0440\u0446\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Dob\u00ebrca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0430\u0440\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dobarce"
     ],
     "qs:name":"Dobarce",
     "qs:photos_9r":0,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":890491749,
-    "wof:lastmodified":1505343794,
+    "wof:lastmodified":1564308566,
     "wof:name":"Dobarce",
     "wof:parent_id":85674251,
     "wof:placetype":"locality",

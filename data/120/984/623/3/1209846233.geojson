@@ -25,10 +25,28 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0442\u0438\u0440\u0446\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Tch\u00e9tirts\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Csetirce"
+    ],
     "name:mkd_x_preferred":[
         "\u010cetirce"
     ],
     "name:mkd_x_variant":[
+        "\u0427\u0435\u0442\u0438\u0440\u0446\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7etirca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0442\u0438\u0440\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u0427\u0435\u0442\u0438\u0440\u0446\u0435"
     ],
     "src:geom":"geonames",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209846233,
-    "wof:lastmodified":1537664906,
+    "wof:lastmodified":1564308458,
     "wof:name":"Cetirce",
     "wof:parent_id":85674355,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0439\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Bouykovtsi"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0458\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0443\u0458\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:por_x_preferred":[
+        "Bujkovci"
+    ],
+    "name:sqi_x_preferred":[
+        "Bujkoci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0458\u043a\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1276557751,
-    "wof:lastmodified":1537664908,
+    "wof:lastmodified":1564308440,
     "wof:name":"Bujkovci",
     "wof:parent_id":85674315,
     "wof:placetype":"locality",

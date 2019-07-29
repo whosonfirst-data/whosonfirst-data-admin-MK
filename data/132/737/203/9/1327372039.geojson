@@ -25,7 +25,22 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u0435\u0432\u043e"
+    ],
+    "name:fra_x_preferred":[
+        "Inyevo"
+    ],
+    "name:hun_x_preferred":[
+        "Inyevo"
+    ],
     "name:mkd_x_preferred":[
+        "\u0418\u045a\u0435\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Injeva"
+    ],
+    "name:srp_x_preferred":[
         "\u0418\u045a\u0435\u0432\u043e"
     ],
     "name:und_x_variant":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1327372039,
-    "wof:lastmodified":1537664887,
+    "wof:lastmodified":1564308302,
     "wof:name":"Injevo",
     "wof:parent_id":85674191,
     "wof:placetype":"locality",

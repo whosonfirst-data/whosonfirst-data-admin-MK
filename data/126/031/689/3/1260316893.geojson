@@ -25,10 +25,31 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043b\u043d\u043e"
+    ],
+    "name:epo_x_preferred":[
+        "Bolno"
+    ],
+    "name:fra_x_preferred":[
+        "Bolno"
+    ],
+    "name:hun_x_preferred":[
+        "Bolno"
+    ],
     "name:mkd_x_preferred":[
         "Bolno"
     ],
     "name:mkd_x_variant":[
+        "\u0411\u043e\u043b\u043d\u043e"
+    ],
+    "name:por_x_preferred":[
+        "Bolno"
+    ],
+    "name:sqi_x_preferred":[
+        "Bouna"
+    ],
+    "name:srp_x_preferred":[
         "\u0411\u043e\u043b\u043d\u043e"
     ],
     "src:geom":"geonames",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1260316893,
-    "wof:lastmodified":1537664911,
+    "wof:lastmodified":1564308493,
     "wof:name":"Bolno",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

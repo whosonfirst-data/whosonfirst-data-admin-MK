@@ -25,7 +25,34 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0428\u043b\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160legovo"
+    ],
+    "name:fra_x_preferred":[
+        "Chlegovo"
+    ],
+    "name:hun_x_preferred":[
+        "Slegovo"
+    ],
     "name:mkd_x_preferred":[
+        "\u0428\u043b\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Sz\u0142egowo"
+    ],
+    "name:sqi_x_preferred":[
+        "Shlegova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043b\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160legovo"
+    ],
+    "name:ukr_x_preferred":[
         "\u0428\u043b\u0435\u0433\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1242712311,
-    "wof:lastmodified":1537664852,
+    "wof:lastmodified":1564308633,
     "wof:name":"Slegovo",
     "wof:parent_id":85674345,
     "wof:placetype":"locality",

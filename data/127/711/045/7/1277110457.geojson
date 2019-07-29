@@ -25,11 +25,65 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0438\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Op\u0161tina \u010cair"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03c3\u03ac\u03b9\u03c1"
+    ],
+    "name:fra_x_preferred":[
+        "Tcha\u00efr"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina \u010cair"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas \u010cair"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cair"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10d8\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc28\uc774\ub974 \uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u0427\u0430\u0438\u0440"
     ],
+    "name:mkd_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u0438\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cair"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0438\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cair"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0427\u0430\u0438\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0457\u0440"
+    ],
     "name:und_x_variant":[
         "\u010cair"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062f\u06cc\u06c1 \u0686\u0627\u0626\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u4f0a\u5c14\u533a"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +108,7 @@
         }
     ],
     "wof:id":1277110457,
-    "wof:lastmodified":1537664919,
+    "wof:lastmodified":1564308449,
     "wof:name":"Cair",
     "wof:parent_id":85674227,
     "wof:placetype":"locality",

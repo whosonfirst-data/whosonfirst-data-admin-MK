@@ -15,6 +15,9 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Tuin"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u0438\u043d"
     ],
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890492133,
-    "wof:lastmodified":1527793021,
+    "wof:lastmodified":1564308587,
     "wof:name":"Tuin",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

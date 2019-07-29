@@ -59,8 +59,14 @@
     "name:kat_x_preferred":[
         "\u10e8\u10e3\u10e2\u10dd-\u10dd\u10e0\u10d8\u10d6\u10d0\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0443\u0442\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438"
+    ],
     "name:spa_x_preferred":[
         "Municipio de \u0160uto Orizari"
+    ],
+    "name:sqi_x_preferred":[
+        "Shutka"
     ],
     "name:und_x_preferred":[
         "Centar"
@@ -129,7 +135,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1553550458,
+    "wof:lastmodified":1564308379,
     "wof:name":"\u0160uto Orizari",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

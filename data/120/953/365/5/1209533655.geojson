@@ -26,11 +26,57 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Lyubotin da\u011f\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0442\u0440\u044a\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ljuboten"
+    ],
+    "name:deu_x_preferred":[
+        "Ljuboten"
+    ],
+    "name:fra_x_preferred":[
+        "Ljuboten"
+    ],
+    "name:hun_x_preferred":[
+        "Ljuboten"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0575\u0578\u0582\u0562\u0578\u057f\u056b\u0576"
+    ],
     "name:mkd_x_preferred":[
         "Luboten"
     ],
     "name:mkd_x_variant":[
+        "Ljuboten",
+        "\u0409\u0443\u0431\u043e\u0442\u0435\u043d"
+    ],
+    "name:nno_x_preferred":[
         "Ljuboten"
+    ],
+    "name:pol_x_preferred":[
+        "Ljuboten"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ljuboten"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0431\u043e\u0442\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ljuboten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0442\u0435\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +95,7 @@
         }
     ],
     "wof:id":1209533655,
-    "wof:lastmodified":1537664875,
+    "wof:lastmodified":1564308452,
     "wof:name":"Ljuboten",
     "wof:parent_id":85632373,
     "wof:placetype":"locality",

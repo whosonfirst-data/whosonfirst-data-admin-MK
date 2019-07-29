@@ -25,11 +25,26 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u0414\u0443\u043f\u0435\u043d\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Gorno Doupeni"
+    ],
+    "name:hun_x_preferred":[
+        "Gorno Dupeni"
+    ],
     "name:mkd_x_preferred":[
         "Gorno Dupeni"
     ],
     "name:mkd_x_variant":[
         "\u0413\u043e\u0440\u043d\u043e \u0414\u0443\u043f\u0435\u043d\u0438"
+    ],
+    "name:por_x_preferred":[
+        "Gorno Dupeni"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0414\u0443\u043f\u0435\u043d\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209243659,
-    "wof:lastmodified":1537664891,
+    "wof:lastmodified":1564308459,
     "wof:name":"Gorno Dupeni",
     "wof:parent_id":85632373,
     "wof:placetype":"locality",

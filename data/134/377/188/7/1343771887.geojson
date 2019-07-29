@@ -25,6 +25,42 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u0440\u043f\u0435\u0439\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Trpejca"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03c0\u03ad\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Trpeytsa"
+    ],
+    "name:hun_x_preferred":[
+        "Trpejca"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u043f\u0435\u0458\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Trpejca"
+    ],
+    "name:pol_x_preferred":[
+        "Trpejca"
+    ],
+    "name:por_x_preferred":[
+        "Trpejca"
+    ],
+    "name:sqi_x_preferred":[
+        "Trepezica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u043f\u0435\u0458\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Trpejca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +83,7 @@
         }
     ],
     "wof:id":1343771887,
-    "wof:lastmodified":1537568382,
+    "wof:lastmodified":1564308351,
     "wof:name":"Trpejca",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

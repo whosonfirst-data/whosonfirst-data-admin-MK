@@ -25,8 +25,14 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Turje"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u0440\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Turje"
     ],
     "name:und_x_variant":[
         "Turie",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326964251,
-    "wof:lastmodified":1537664842,
+    "wof:lastmodified":1564308330,
     "wof:name":"Turje",
     "wof:parent_id":85674169,
     "wof:placetype":"locality",

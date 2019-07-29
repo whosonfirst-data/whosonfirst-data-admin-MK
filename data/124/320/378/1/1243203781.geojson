@@ -25,10 +25,34 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0438\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Podvis"
+    ],
+    "name:fra_x_preferred":[
+        "Podvis"
+    ],
     "name:mkd_x_preferred":[
         "Podvis"
     ],
     "name:mkd_x_variant":[
+        "\u041f\u043e\u0434\u0432\u0438\u0441"
+    ],
+    "name:ron_x_preferred":[
+        "Podvis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0438\u0441"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0432\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Podvis"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0432\u0438\u0441"
     ],
     "src:geom":"geonames",
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1243203781,
-    "wof:lastmodified":1537664862,
+    "wof:lastmodified":1564308637,
     "wof:name":"Podvis",
     "wof:parent_id":85674395,
     "wof:placetype":"locality",

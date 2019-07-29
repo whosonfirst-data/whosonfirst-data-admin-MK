@@ -25,10 +25,31 @@
     "iso:country":"MK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u043e\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Leskoec"
+    ],
+    "name:fra_x_preferred":[
+        "Leskoets"
+    ],
+    "name:hun_x_preferred":[
+        "Leszkoec"
+    ],
     "name:mkd_x_preferred":[
         "Leskoec"
     ],
     "name:mkd_x_variant":[
+        "\u041b\u0435\u0441\u043a\u043e\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141eskoec"
+    ],
+    "name:por_x_preferred":[
+        "Leskoec"
+    ],
+    "name:srp_x_preferred":[
         "\u041b\u0435\u0441\u043a\u043e\u0435\u0446"
     ],
     "src:geom":"geonames",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1277113717,
-    "wof:lastmodified":1537664877,
+    "wof:lastmodified":1564308448,
     "wof:name":"Leskoec",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

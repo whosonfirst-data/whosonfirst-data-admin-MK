@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DE"
+    ],
     "lbl:latitude":41.464972,
     "lbl:longitude":21.412667,
     "meso:adm1_alt":"\u0414\u043e\u043b\u043d\u0435\u043d\u0438",
@@ -300,9 +303,6 @@
         }
     ],
     "wof:id":85674293,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -310,7 +310,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257145,
+    "wof:lastmodified":1565727582,
     "wof:name":"Dolneni",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

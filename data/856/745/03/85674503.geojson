@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RN"
+    ],
     "lbl:latitude":42.206161,
     "lbl:longitude":22.144207,
     "meso:adm1_alt":"\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435",
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85674503,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -308,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257158,
+    "wof:lastmodified":1565727583,
     "wof:name":"Rankovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

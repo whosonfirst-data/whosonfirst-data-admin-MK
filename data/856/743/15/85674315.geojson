@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IL"
+    ],
     "lbl:latitude":42.003022,
     "lbl:longitude":21.634907,
     "meso:adm1_alt":"\u0418\u043b\u0438\u043d\u0434\u0435\u043d",
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85674315,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -305,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257141,
+    "wof:lastmodified":1565727582,
     "wof:name":"Ilinden",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

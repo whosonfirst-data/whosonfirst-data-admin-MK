@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MD"
+    ],
     "lbl:latitude":41.640745,
     "lbl:longitude":21.232545,
     "meso:adm1_alt":"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434",
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85674361,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -295,7 +295,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257128,
+    "wof:lastmodified":1565727581,
     "wof:name":"Brod",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

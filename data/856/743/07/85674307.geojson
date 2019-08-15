@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LO"
+    ],
     "lbl:latitude":41.767224,
     "lbl:longitude":21.916212,
     "meso:adm1_alt":"\u041b\u043e\u0437\u043e\u0432\u043e",
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85674307,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -307,7 +307,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257134,
+    "wof:lastmodified":1565727581,
     "wof:name":"Lozovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

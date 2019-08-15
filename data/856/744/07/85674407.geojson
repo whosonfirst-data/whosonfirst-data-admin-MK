@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OS"
+    ],
     "lbl:latitude":41.60594,
     "lbl:longitude":21.034213,
     "meso:adm1_alt":"\u041e\u0441\u043b\u043e\u043c\u0435\u0458",
@@ -286,9 +289,6 @@
         }
     ],
     "wof:id":85674407,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -296,7 +296,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257121,
+    "wof:lastmodified":1565727580,
     "wof:name":"Oslomej",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

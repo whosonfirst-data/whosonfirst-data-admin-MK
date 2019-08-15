@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KX"
+    ],
     "lbl:latitude":42.006639,
     "lbl:longitude":21.395355,
     "meso:adm1_alt":"\u041a\u0430\u0440\u043f\u043e\u0448",
@@ -231,9 +234,6 @@
         }
     ],
     "wof:id":85674323,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -241,7 +241,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257140,
+    "wof:lastmodified":1565727582,
     "wof:name":"Karpo\u0161",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

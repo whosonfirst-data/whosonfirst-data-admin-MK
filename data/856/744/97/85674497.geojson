@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UG"
+    ],
     "lbl:latitude":41.331544,
     "lbl:longitude":20.61108,
     "meso:adm1_alt":"\u0421\u0442\u0440\u0443\u0433\u0430",
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85674497,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -307,7 +307,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257124,
+    "wof:lastmodified":1565727581,
     "wof:name":"Struga",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

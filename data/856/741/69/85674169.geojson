@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":41.342956,
     "lbl:longitude":20.827975,
     "meso:adm1_alt":"\u0414\u0435\u0431\u0430\u0440\u0446\u0430",
@@ -291,9 +294,6 @@
         }
     ],
     "wof:id":85674169,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -301,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257104,
+    "wof:lastmodified":1565727579,
     "wof:name":"Debarca",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

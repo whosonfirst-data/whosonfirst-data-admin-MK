@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZE"
+    ],
     "lbl:latitude":41.943286,
     "lbl:longitude":21.128168,
     "meso:adm1_alt":"\u0416\u0435\u043b\u0438\u043d\u043e",
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85674251,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -308,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257144,
+    "wof:lastmodified":1565727582,
     "wof:name":"\u017delino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

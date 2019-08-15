@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BS"
+    ],
     "lbl:latitude":41.481739,
     "lbl:longitude":22.779412,
     "meso:adm1_alt":"\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e",
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85674457,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -306,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257114,
+    "wof:lastmodified":1565727580,
     "wof:name":"Bosilovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

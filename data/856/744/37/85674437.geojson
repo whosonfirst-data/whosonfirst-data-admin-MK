@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JG"
+    ],
     "lbl:latitude":42.156783,
     "lbl:longitude":21.137679,
     "meso:adm1_alt":"\u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435",
@@ -300,9 +303,6 @@
         }
     ],
     "wof:id":85674437,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -310,7 +310,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257122,
+    "wof:lastmodified":1565727580,
     "wof:name":"Jegunovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

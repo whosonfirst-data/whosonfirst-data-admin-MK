@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CZ"
+    ],
     "lbl:latitude":41.458177,
     "lbl:longitude":20.598876,
     "meso:adm1_alt":"\u0426\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430",
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85674385,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -308,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257142,
+    "wof:lastmodified":1565727582,
     "wof:name":"Centar \u017eupa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":42.100784,
     "lbl:longitude":21.049818,
     "meso:adm1_alt":"\u0422\u0435\u0430\u0440\u0446\u0435",
@@ -293,9 +296,6 @@
         }
     ],
     "wof:id":85674413,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -303,7 +303,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257127,
+    "wof:lastmodified":1565727581,
     "wof:name":"Tearce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

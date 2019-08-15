@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DB"
+    ],
     "lbl:latitude":41.52771,
     "lbl:longitude":20.521057,
     "meso:adm1_alt":"\u0414\u0435\u0431\u0430\u0440",
@@ -293,9 +296,6 @@
         }
     ],
     "wof:id":85674389,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -303,7 +303,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257131,
+    "wof:lastmodified":1565727581,
     "wof:name":"Debar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

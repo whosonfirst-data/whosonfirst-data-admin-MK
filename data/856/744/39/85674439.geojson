@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RU"
+    ],
     "lbl:latitude":41.393031,
     "lbl:longitude":22.636305,
     "meso:adm1_alt":"\u0421\u0442\u0440\u0443\u043c\u0438\u0446\u0430",
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85674439,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -306,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257123,
+    "wof:lastmodified":1565727581,
     "wof:name":"Southeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

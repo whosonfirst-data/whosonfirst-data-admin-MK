@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":41.524895,
     "lbl:longitude":22.395934,
     "meso:adm1_alt":"\u041a\u043e\u043d\u0447\u0435",
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85674311,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -305,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257131,
+    "wof:lastmodified":1565727581,
     "wof:name":"Konce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

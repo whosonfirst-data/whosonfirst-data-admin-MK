@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DL"
+    ],
     "lbl:latitude":41.951145,
     "lbl:longitude":22.797017,
     "meso:adm1_alt":"\u0414\u0435\u043b\u0447\u0435\u0432\u043e",
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85674485,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -311,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257125,
+    "wof:lastmodified":1565727581,
     "wof:name":"Delcevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

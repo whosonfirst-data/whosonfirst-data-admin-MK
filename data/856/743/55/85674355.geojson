@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UM"
+    ],
     "lbl:latitude":42.055688,
     "lbl:longitude":21.792126,
     "meso:adm1_alt":"\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e",
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85674355,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -313,7 +313,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257139,
+    "wof:lastmodified":1565727582,
     "wof:name":"Kumanovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

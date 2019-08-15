@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PT"
+    ],
     "lbl:latitude":41.973894,
     "lbl:longitude":22.161677,
     "meso:adm1_alt":"\u041f\u0440\u043e\u0431\u0438\u0448\u0442\u0438\u043f",
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85674187,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -308,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257107,
+    "wof:lastmodified":1565727579,
     "wof:name":"Probistip",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

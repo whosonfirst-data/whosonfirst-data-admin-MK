@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":41.641962,
     "lbl:longitude":22.842812,
     "meso:adm1_alt":"\u0411\u0435\u0440\u043e\u0432\u043e",
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85674479,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -306,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257125,
+    "wof:lastmodified":1565727581,
     "wof:name":"Berovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LI"
+    ],
     "lbl:latitude":42.184383,
     "lbl:longitude":21.586826,
     "meso:adm1_alt":"\u041b\u0438\u043f\u043a\u043e\u0432\u043e",
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85674257,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -305,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257143,
+    "wof:lastmodified":1565727582,
     "wof:name":"Lipkovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

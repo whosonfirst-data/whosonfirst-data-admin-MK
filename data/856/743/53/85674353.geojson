@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KS"
+    ],
     "lbl:latitude":41.369991,
     "lbl:longitude":21.257565,
     "meso:adm1_alt":"\u041a\u0440\u0443\u0448\u0435\u0432\u043e",
@@ -304,9 +307,6 @@
         }
     ],
     "wof:id":85674353,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -314,7 +314,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257136,
+    "wof:lastmodified":1565727582,
     "wof:name":"Kru\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

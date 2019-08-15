@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NG"
+    ],
     "lbl:latitude":41.519282,
     "lbl:longitude":22.124969,
     "meso:adm1_alt":"\u041d\u0435\u0433\u043e\u0442\u0438\u043d\u043e",
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85674369,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -307,7 +307,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257129,
+    "wof:lastmodified":1565727581,
     "wof:name":"Negotino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TL"
+    ],
     "lbl:latitude":41.044829,
     "lbl:longitude":21.267615,
     "meso:adm1_alt":"\u0411\u0438\u0442\u043e\u043b\u0430",
@@ -291,9 +294,6 @@
         }
     ],
     "wof:id":85674157,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -301,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257103,
+    "wof:lastmodified":1565727579,
     "wof:name":"Bitola",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

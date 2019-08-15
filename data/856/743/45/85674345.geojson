@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KY"
+    ],
     "lbl:latitude":42.090523,
     "lbl:longitude":22.061664,
     "meso:adm1_alt":"\u041a\u0440\u0430\u0442\u043e\u0432\u043e",
@@ -351,9 +354,6 @@
         }
     ],
     "wof:id":85674345,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -361,7 +361,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257132,
+    "wof:lastmodified":1565727581,
     "wof:name":"Kratovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

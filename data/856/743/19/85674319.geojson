@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KB"
+    ],
     "lbl:latitude":41.772255,
     "lbl:longitude":22.338201,
     "meso:adm1_alt":"\u041a\u0430\u0440\u0431\u0438\u043d\u0446\u0438",
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85674319,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -311,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257133,
+    "wof:lastmodified":1565727581,
     "wof:name":"Karbinci",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

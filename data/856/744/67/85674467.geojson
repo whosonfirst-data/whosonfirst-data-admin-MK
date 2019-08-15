@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":41.423193,
     "lbl:longitude":22.89151,
     "meso:adm1_alt":"\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e",
@@ -291,9 +294,6 @@
         }
     ],
     "wof:id":85674467,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -301,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257115,
+    "wof:lastmodified":1565727580,
     "wof:name":"Novo Selo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VE"
+    ],
     "lbl:latitude":41.745984,
     "lbl:longitude":21.752719,
     "meso:adm1_alt":"\u0412\u0435\u043b\u0435\u0441",
@@ -261,9 +264,6 @@
         }
     ],
     "wof:id":85674237,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -271,7 +271,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257153,
+    "wof:lastmodified":1565727583,
     "wof:name":"Veles",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

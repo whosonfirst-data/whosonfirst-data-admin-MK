@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VV"
+    ],
     "lbl:latitude":41.240192,
     "lbl:longitude":20.571099,
     "meso:adm1_alt":"\u0412\u0435\u0432\u0447\u0430\u043d\u0438",
@@ -232,9 +235,6 @@
         }
     ],
     "wof:id":85674151,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -242,7 +242,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257104,
+    "wof:lastmodified":1565727579,
     "wof:name":"Vev\u010dani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

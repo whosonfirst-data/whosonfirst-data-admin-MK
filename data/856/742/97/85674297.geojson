@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GB"
+    ],
     "lbl:latitude":42.036804,
     "lbl:longitude":21.507993,
     "meso:adm1_alt":"\u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430",
@@ -227,9 +230,6 @@
         }
     ],
     "wof:id":85674297,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -237,7 +237,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257154,
+    "wof:lastmodified":1565727583,
     "wof:name":"Gazi Baba",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

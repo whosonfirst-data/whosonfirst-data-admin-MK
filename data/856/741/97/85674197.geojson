@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KZ"
+    ],
     "lbl:latitude":42.230903,
     "lbl:longitude":22.324099,
     "meso:adm1_alt":"\u041a\u0440\u0438\u0432\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430",
@@ -293,9 +296,6 @@
         }
     ],
     "wof:id":85674197,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -303,7 +303,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257109,
+    "wof:lastmodified":1565727579,
     "wof:name":"Kriva Palanka",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

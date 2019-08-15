@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VJ"
+    ],
     "lbl:latitude":41.962702,
     "lbl:longitude":20.86337,
     "meso:adm1_alt":"\u0411\u043e\u0433\u043e\u0432\u0438\u045a\u0435",
@@ -302,9 +305,6 @@
         }
     ],
     "wof:id":85674425,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -312,7 +312,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257127,
+    "wof:lastmodified":1565727581,
     "wof:name":"Bogovinje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

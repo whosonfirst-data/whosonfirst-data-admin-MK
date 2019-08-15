@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VC"
+    ],
     "lbl:latitude":41.536436,
     "lbl:longitude":21.082863,
     "meso:adm1_alt":"\u0412\u0440\u0430\u043d\u0435\u0448\u0442\u0438\u0446\u0430",
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85674241,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -305,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257155,
+    "wof:lastmodified":1565727583,
     "wof:name":"Vrane\u0161tica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

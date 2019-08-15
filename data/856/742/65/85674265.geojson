@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CA"
+    ],
     "lbl:latitude":41.60387,
     "lbl:longitude":21.587072,
     "meso:adm1_alt":"\u0427\u0430\u0448\u043a\u0430",
@@ -308,9 +311,6 @@
         }
     ],
     "wof:id":85674265,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -318,7 +318,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257152,
+    "wof:lastmodified":1565727583,
     "wof:name":"Ca\u0161ka",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

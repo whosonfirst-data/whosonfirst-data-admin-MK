@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":41.89822,
     "lbl:longitude":21.98044,
     "meso:adm1_alt":"\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0435",
@@ -294,9 +297,6 @@
         }
     ],
     "wof:id":85674229,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -304,7 +304,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257146,
+    "wof:lastmodified":1565727582,
     "wof:name":"Sveti Nikole",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

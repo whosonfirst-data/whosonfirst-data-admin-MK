@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":41.247433,
     "lbl:longitude":22.707534,
     "meso:adm1_alt":"\u0414\u043e\u0458\u0440\u0430\u043d",
@@ -241,9 +244,6 @@
         }
     ],
     "wof:id":85674473,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -251,7 +251,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257118,
+    "wof:lastmodified":1565727580,
     "wof:name":"Dojran",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

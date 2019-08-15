@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZK"
+    ],
     "lbl:latitude":41.817148,
     "lbl:longitude":21.571305,
     "meso:adm1_alt":"\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u043e\u0432\u043e",
@@ -294,9 +297,6 @@
         }
     ],
     "wof:id":85674245,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -304,7 +304,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257148,
+    "wof:lastmodified":1565727582,
     "wof:name":"Zelenikovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

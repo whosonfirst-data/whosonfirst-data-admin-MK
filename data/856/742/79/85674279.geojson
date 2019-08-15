@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":41.888631,
     "lbl:longitude":22.297852,
     "meso:adm1_alt":"\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e - \u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e",
@@ -308,9 +311,6 @@
         }
     ],
     "wof:id":85674279,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -318,7 +318,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257155,
+    "wof:lastmodified":1565727583,
     "wof:name":"Ce\u0161inovo-Oble\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

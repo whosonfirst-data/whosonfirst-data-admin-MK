@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RV"
+    ],
     "lbl:latitude":41.668567,
     "lbl:longitude":22.502663,
     "meso:adm1_alt":"\u0420\u0430\u0434\u043e\u0432\u0438\u0448",
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85674191,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -307,7 +307,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257108,
+    "wof:lastmodified":1565727579,
     "wof:name":"Radovis",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

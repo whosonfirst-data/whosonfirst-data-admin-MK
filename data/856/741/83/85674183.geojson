@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PP"
+    ],
     "lbl:latitude":41.299898,
     "lbl:longitude":21.661014,
     "meso:adm1_alt":"\u041f\u0440\u0438\u043b\u0435\u043f",
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85674183,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -313,7 +313,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257111,
+    "wof:lastmodified":1565727580,
     "wof:name":"Prilep",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

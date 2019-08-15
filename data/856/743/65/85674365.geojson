@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MG"
+    ],
     "lbl:latitude":41.15117,
     "lbl:longitude":21.414202,
     "meso:adm1_alt":"\u041c\u043e\u0433\u0438\u043b\u0430",
@@ -230,9 +233,6 @@
         }
     ],
     "wof:id":85674365,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -240,7 +240,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257135,
+    "wof:lastmodified":1565727581,
     "wof:name":"Pelagonia",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

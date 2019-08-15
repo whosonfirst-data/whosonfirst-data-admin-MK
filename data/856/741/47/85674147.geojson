@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RE"
+    ],
     "lbl:latitude":40.987573,
     "lbl:longitude":21.010887,
     "meso:adm1_alt":"\u0420\u0435\u0441\u0435\u043d",
@@ -306,9 +309,6 @@
         }
     ],
     "wof:id":85674147,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -316,7 +316,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257111,
+    "wof:lastmodified":1565727580,
     "wof:name":"Resen",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

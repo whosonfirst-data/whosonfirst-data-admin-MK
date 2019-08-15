@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":42.218459,
     "lbl:longitude":21.911193,
     "meso:adm1_alt":"\u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435",
@@ -210,9 +213,6 @@
         }
     ],
     "wof:id":85674215,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -220,7 +220,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257157,
+    "wof:lastmodified":1565727583,
     "wof:name":"Northeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PE"
+    ],
     "lbl:latitude":41.905046,
     "lbl:longitude":21.695855,
     "meso:adm1_alt":"\u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446",
@@ -226,9 +229,6 @@
         }
     ],
     "wof:id":85674173,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -236,7 +236,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257107,
+    "wof:lastmodified":1565727579,
     "wof:name":"Skopje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

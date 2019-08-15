@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PN"
+    ],
     "lbl:latitude":41.452324,
     "lbl:longitude":21.119626,
     "meso:adm1_alt":"\u041f\u043b\u0430\u0441\u043d\u0438\u0446\u0430",
@@ -294,9 +297,6 @@
         }
     ],
     "wof:id":85674179,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -304,7 +304,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257110,
+    "wof:lastmodified":1565727579,
     "wof:name":"Plasnica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BU"
+    ],
     "lbl:latitude":42.097668,
     "lbl:longitude":21.460544,
     "meso:adm1_alt":"\u0411\u0443\u0442\u0435\u043b",
@@ -236,9 +239,6 @@
         }
     ],
     "wof:id":85674261,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -246,7 +246,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257143,
+    "wof:lastmodified":1565727582,
     "wof:name":"Butel",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

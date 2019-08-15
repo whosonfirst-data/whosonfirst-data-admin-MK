@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RM"
+    ],
     "lbl:latitude":41.49427,
     "lbl:longitude":21.901917,
     "meso:adm1_alt":"\u0420\u043e\u0441\u043e\u043c\u0430\u043d",
@@ -233,9 +236,6 @@
         }
     ],
     "wof:id":85674201,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -243,7 +243,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257154,
+    "wof:lastmodified":1565727583,
     "wof:name":"Vardar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

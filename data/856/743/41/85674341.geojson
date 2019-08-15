@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OC"
+    ],
     "lbl:latitude":41.994857,
     "lbl:longitude":22.416984,
     "meso:adm1_alt":"\u041a\u043e\u0447\u0430\u043d\u0438",
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85674341,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -311,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257139,
+    "wof:lastmodified":1565727582,
     "wof:name":"Kocani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

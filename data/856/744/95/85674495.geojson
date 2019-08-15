@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PH"
+    ],
     "lbl:latitude":41.789283,
     "lbl:longitude":22.898553,
     "meso:adm1_alt":"\u041f\u0435\u0445\u0447\u0435\u0432\u043e",
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85674495,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -311,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257113,
+    "wof:lastmodified":1565727580,
     "wof:name":"Phecevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

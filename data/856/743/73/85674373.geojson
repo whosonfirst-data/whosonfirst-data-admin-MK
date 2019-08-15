@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NV"
+    ],
     "lbl:latitude":41.02379,
     "lbl:longitude":21.626705,
     "meso:adm1_alt":"\u041d\u043e\u0432\u0430\u0446\u0438",
@@ -228,9 +231,6 @@
         }
     ],
     "wof:id":85674373,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -238,7 +238,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257132,
+    "wof:lastmodified":1565727581,
     "wof:name":"Novatsi",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

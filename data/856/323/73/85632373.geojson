@@ -19,6 +19,9 @@
     "itu:country_code":[
         "389"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MKD"
+    ],
     "lbl:latitude":41.569245,
     "lbl:longitude":21.547313,
     "mps:latitude":41.569245,
@@ -1314,13 +1317,14 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257101,
+    "wof:lastmodified":1565901042,
     "wof:name":"Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
     "wof:population":2062294,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:shortcode":"MKD",
     "wof:superseded_by":[],
     "wof:supersedes":[
         1108955787

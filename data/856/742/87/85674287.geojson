@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CS"
+    ],
     "lbl:latitude":42.154689,
     "lbl:longitude":21.386753,
     "meso:adm1_alt":"\u0427\u0443\u0447\u0435\u0440 - \u0421\u0430\u043d\u0434\u0435\u0432\u043e",
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85674287,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -313,7 +313,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257149,
+    "wof:lastmodified":1565727583,
     "wof:name":"Cucer Sandevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

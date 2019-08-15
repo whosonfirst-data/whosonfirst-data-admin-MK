@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CI"
+    ],
     "lbl:latitude":42.011727,
     "lbl:longitude":21.43977,
     "meso:adm1_alt":"\u0427\u0430\u0438\u0440",
@@ -228,9 +231,6 @@
         }
     ],
     "wof:id":85674227,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "mkd"
     ],
@@ -238,7 +238,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1563257145,
+    "wof:lastmodified":1565727582,
     "wof:name":"Cair",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

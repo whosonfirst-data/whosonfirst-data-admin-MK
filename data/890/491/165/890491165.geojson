@@ -11,10 +11,14 @@
     "geom:longitude":21.22361,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":114,
+    "gn:population":114,
     "iso:country":"MK",
+    "lbl:bbox":"21.20361,41.63083,21.24361,41.67083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0435\u0446"
     ],
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":787874,
-        "qs:id":83653,
+        "qs_pg:id":83653,
         "wd:id":"Q3139533",
         "wk:page":"Makedonski Brod Municipality"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890491165,
-    "wof:lastmodified":1563257425,
+    "wof:lastmodified":1566605460,
     "wof:name":"Mogilec",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

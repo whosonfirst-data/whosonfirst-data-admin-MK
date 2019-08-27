@@ -11,10 +11,14 @@
     "geom:longitude":20.80194,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":54908,
+    "gn:population":54908,
     "iso:country":"MK",
+    "lbl:bbox":"20.78194,41.09722,20.82194,41.13722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062e\u0631\u064a\u062f"
     ],
@@ -240,7 +244,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0445\u0440\u0438\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akhris"
     ],
     "name:urd_x_preferred":[
@@ -273,12 +277,12 @@
     "wof:concordances":{
         "gn:id":787487,
         "gp:id":482645,
-        "qs:id":129496,
+        "qs_pg:id":129496,
         "wd:id":"Q1223508",
         "wk:page":"Ohrid"
     },
     "wof:concordances_alt":{
-        "qs:id":474474
+        "qs_pg:id":474474
     },
     "wof:country":"MK",
     "wof:created":1469054838,
@@ -292,7 +296,7 @@
         }
     ],
     "wof:id":890491039,
-    "wof:lastmodified":1563257392,
+    "wof:lastmodified":1566605456,
     "wof:name":"Ohrid",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.73917,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":34,
+    "gn:population":34,
     "iso:country":"MK",
+    "lbl:bbox":"21.71917,41.35167,21.75917,41.39167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u043e\u044f\u0446\u0438"
     ],
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":784895,
-        "qs:id":83555,
+        "qs_pg:id":83555,
         "wd:id":"Q3074224",
         "wk:page":"Trojaci"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890491501,
-    "wof:lastmodified":1563257423,
+    "wof:lastmodified":1566605460,
     "wof:name":"Trojaci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

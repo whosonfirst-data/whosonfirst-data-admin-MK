@@ -11,10 +11,14 @@
     "geom:longitude":21.97806,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":168,
+    "gn:population":168,
     "iso:country":"MK",
+    "lbl:bbox":"21.95806,41.91972,21.99806,41.95972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0440\u043e\u043b"
     ],
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":787430,
         "gp:id":483067,
-        "qs:id":553785,
+        "qs_pg:id":553785,
         "wk:page":"Orel"
     },
     "wof:country":"MK",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890492565,
-    "wof:lastmodified":1564308602,
+    "wof:lastmodified":1566605492,
     "wof:name":"Orel",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

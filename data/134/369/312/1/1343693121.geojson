@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.19056,42.065,21.23056,42.105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0434\u0443\u0448\u0430"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343693121,
-    "wof:lastmodified":1537664859,
+    "wof:lastmodified":1566605350,
     "wof:name":"Radusa",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

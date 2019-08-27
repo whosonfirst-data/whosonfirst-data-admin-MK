@@ -11,10 +11,14 @@
     "geom:longitude":21.37556,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":195,
+    "gn:population":195,
     "iso:country":"MK",
+    "lbl:bbox":"21.35556,41.51528,21.39556,41.55528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u0433\u0430\u0435\u0446"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Dolgaec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolgavec"
     ],
     "qs:name":"Dolgaec",
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791383,
-        "qs:id":554000,
+        "qs_pg:id":554000,
         "wd:id":"Q3033902",
         "wk:page":"Dolgaec"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890492649,
-    "wof:lastmodified":1563257616,
+    "wof:lastmodified":1566605493,
     "wof:name":"Dolgaec",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

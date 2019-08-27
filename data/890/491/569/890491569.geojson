@@ -11,10 +11,14 @@
     "geom:longitude":21.80111,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":134,
+    "gn:population":134,
     "iso:country":"MK",
+    "lbl:bbox":"21.78111,41.43306,21.82111,41.47306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0438\u0448"
     ],
@@ -33,7 +37,7 @@
     "name:srp_x_preferred":[
         "\u0424\u0430\u0440\u0438\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varit"
     ],
     "qs:name":"Fari\u0161",
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":790824,
-        "qs:id":83734
+        "qs_pg:id":83734
     },
     "wof:country":"MK",
     "wof:created":1469054858,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890491569,
-    "wof:lastmodified":1564308553,
+    "wof:lastmodified":1566605443,
     "wof:name":"Fari\u0161",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

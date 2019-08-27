@@ -11,10 +11,14 @@
     "geom:longitude":21.4875,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":75,
+    "gn:population":75,
     "iso:country":"MK",
+    "lbl:bbox":"21.4675,41.39389,21.5075,41.43389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043e \u041c\u0440\u0430\u043c\u043e\u0440\u0430\u043d\u0438"
     ],
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":788204,
-        "qs:id":83661,
+        "qs_pg:id":83661,
         "wd:id":"Q3074986",
         "wk:page":"Malo Mramorani"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890492177,
-    "wof:lastmodified":1563257657,
+    "wof:lastmodified":1566605501,
     "wof:name":"Malo Mramorani",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

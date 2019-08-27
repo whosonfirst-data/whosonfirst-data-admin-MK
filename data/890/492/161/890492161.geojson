@@ -11,10 +11,14 @@
     "geom:longitude":21.21889,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":95,
+    "gn:population":95,
     "iso:country":"MK",
+    "lbl:bbox":"21.19889,41.10472,21.23889,41.14472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u043b\u0430\u043a\u043e\u0432\u043e"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":787528,
         "gp:id":481746,
-        "qs:id":83625,
+        "qs_pg:id":83625,
         "wd:id":"Q3086075",
         "wk:page":"Oblakovo"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890492161,
-    "wof:lastmodified":1563257526,
+    "wof:lastmodified":1566605478,
     "wof:name":"Oblakovo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

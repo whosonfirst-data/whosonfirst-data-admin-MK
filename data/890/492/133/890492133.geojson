@@ -11,17 +11,21 @@
     "geom:longitude":21.04528,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1346,
+    "gn:population":1346,
     "iso:country":"MK",
+    "lbl:bbox":"21.02528,41.59944,21.06528,41.63944",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Tuin"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tujna"
     ],
     "qs:name":"Tuin",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":784854,
-        "qs:id":56500,
+        "qs_pg:id":56500,
         "wk:page":"Tuin"
     },
     "wof:country":"MK",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890492133,
-    "wof:lastmodified":1564308587,
+    "wof:lastmodified":1566605478,
     "wof:name":"Tuin",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

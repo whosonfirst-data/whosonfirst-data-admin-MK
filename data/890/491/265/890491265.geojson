@@ -11,10 +11,14 @@
     "geom:longitude":21.08083,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":216,
+    "gn:population":216,
     "iso:country":"MK",
+    "lbl:bbox":"21.06083,41.72583,21.10083,41.76583",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0442\u043e\u0432\u043e"
     ],
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":792575,
         "gp:id":482156,
-        "qs:id":554087,
+        "qs_pg:id":554087,
         "wd:id":"Q2904932",
         "wk:page":"Bitovo"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890491265,
-    "wof:lastmodified":1563257477,
+    "wof:lastmodified":1566605470,
     "wof:name":"Bitovo",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

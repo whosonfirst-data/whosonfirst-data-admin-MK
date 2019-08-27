@@ -11,10 +11,14 @@
     "geom:longitude":21.39167,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":389,
+    "gn:population":389,
     "iso:country":"MK",
+    "lbl:bbox":"21.37167,40.99611,21.41167,41.03611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u0435\u0448\u0435\u0432\u043e"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Pojesjevo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poje\u0161evo"
     ],
     "qs:name":"Poe\u0161evo",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":786943,
         "gp:id":481746,
-        "qs:id":553752,
+        "qs_pg:id":553752,
         "wd:id":"Q3039766",
         "wk:page":"Poe\u0161evo"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890491079,
-    "wof:lastmodified":1563257354,
+    "wof:lastmodified":1566605449,
     "wof:name":"Poe\u0161evo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

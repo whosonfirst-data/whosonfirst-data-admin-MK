@@ -11,11 +11,15 @@
     "geom:longitude":22.89056,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":2440,
+    "gn:population":2440,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"22.87056,41.73944,22.91056,41.77944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0647\u062a\u0634\u064a\u0641\u0648"
     ],
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":787147,
         "gp:id":482712,
-        "qs:id":129467,
+        "qs_pg:id":129467,
         "wd:id":"Q162952",
         "wk:page":"Peh\u010devo"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":890491985,
-    "wof:lastmodified":1563257409,
+    "wof:lastmodified":1566605458,
     "wof:name":"Peh\u010devo",
     "wof:parent_id":85674495,
     "wof:placetype":"locality",

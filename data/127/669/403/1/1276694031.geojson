@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.02553,41.78945,22.06553,41.82945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0434\u0440\u0438\u0444\u0430\u043a\u043e\u0432\u043e"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276694031,
-    "wof:lastmodified":1537664886,
+    "wof:lastmodified":1566605387,
     "wof:name":"Kadrifakovo",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

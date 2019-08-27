@@ -11,10 +11,14 @@
     "geom:longitude":21.58556,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":53,
+    "gn:population":53,
     "iso:country":"MK",
+    "lbl:bbox":"21.56556,41.27556,21.60556,41.31556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0435\u043f\u0435\u0446"
     ],
@@ -42,7 +46,7 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0435\u043f\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prilepac"
     ],
     "qs:name":"Prilepec",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":786727,
         "gp:id":482783,
-        "qs:id":553729,
+        "qs_pg:id":553729,
         "wd:id":"Q642163",
         "wk:page":"Prilepec"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890492507,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1566605492,
     "wof:name":"Prilepec",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

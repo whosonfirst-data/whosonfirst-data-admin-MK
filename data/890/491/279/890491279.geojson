@@ -11,10 +11,14 @@
     "geom:longitude":21.00111,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":245,
+    "gn:population":245,
     "iso:country":"MK",
+    "lbl:bbox":"20.98111,41.62167,21.02111,41.66167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043a\u043e\u0432\u043e"
     ],
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":792669,
         "gp:id":482276,
-        "qs:id":554094
+        "qs_pg:id":554094
     },
     "wof:country":"MK",
     "wof:created":1469054847,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890491279,
-    "wof:lastmodified":1564308573,
+    "wof:lastmodified":1566605464,
     "wof:name":"Berikovo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

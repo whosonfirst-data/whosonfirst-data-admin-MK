@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.56466,41.70429,20.60466,41.74429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0435\u043a\u0430\u043d\u0435"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1260317713,
-    "wof:lastmodified":1564308494,
+    "wof:lastmodified":1566605416,
     "wof:name":"Grekaj",
     "wof:parent_id":85674403,
     "wof:placetype":"locality",

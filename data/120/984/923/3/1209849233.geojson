@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.0393,42.11813,22.0793,42.15813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Krpuzovci"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209849233,
-    "wof:lastmodified":1537664985,
+    "wof:lastmodified":1566605400,
     "wof:name":"Krpuzovci",
     "wof:parent_id":85674345,
     "wof:placetype":"locality",

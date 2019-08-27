@@ -11,10 +11,14 @@
     "geom:longitude":21.56444,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":343,
+    "gn:population":343,
     "iso:country":"MK",
+    "lbl:bbox":"21.54444,41.18,21.58444,41.22",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u0434\u043c\u043e\u043b"
     ],
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":786956,
-        "qs:id":553754,
+        "qs_pg:id":553754,
         "wd:id":"Q3135608",
         "wk:page":"Podmol"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890492525,
-    "wof:lastmodified":1563257660,
+    "wof:lastmodified":1566605502,
     "wof:name":"Podmol",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

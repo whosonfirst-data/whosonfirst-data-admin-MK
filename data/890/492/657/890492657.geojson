@@ -11,10 +11,14 @@
     "geom:longitude":21.40389,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":476,
+    "gn:population":476,
     "iso:country":"MK",
+    "lbl:bbox":"21.38389,41.90694,21.42389,41.94694",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438 \u0434\u043e\u043b"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":791442,
         "gp:id":482940,
-        "qs:id":554006,
+        "qs_pg:id":554006,
         "wk:page":"Dobri dol"
     },
     "wof:country":"MK",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890492657,
-    "wof:lastmodified":1564308594,
+    "wof:lastmodified":1566605486,
     "wof:name":"Dobri Dol",
     "wof:parent_id":85674209,
     "wof:placetype":"locality",

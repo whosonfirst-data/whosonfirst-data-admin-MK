@@ -11,10 +11,14 @@
     "geom:longitude":21.21167,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":513,
+    "gn:population":513,
     "iso:country":"MK",
+    "lbl:bbox":"21.19167,41.03722,21.23167,41.07722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0442\u0438\u043d\u043e"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":786237,
         "gp:id":481746,
-        "qs:id":83600,
+        "qs_pg:id":83600,
         "wd:id":"Q645644",
         "wk:page":"Rotino"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890491523,
-    "wof:lastmodified":1563257513,
+    "wof:lastmodified":1566605475,
     "wof:name":"Rotino",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

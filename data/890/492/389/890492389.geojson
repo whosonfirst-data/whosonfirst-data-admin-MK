@@ -11,10 +11,14 @@
     "geom:longitude":21.48889,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":40,
+    "gn:population":40,
     "iso:country":"MK",
+    "lbl:bbox":"21.46889,41.61389,21.50889,41.65389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0627\u0634\u0643\u0627"
     ],
@@ -132,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cre\u0161njevo"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +160,7 @@
     "wof:concordances":{
         "gn:id":791882,
         "gp:id":483099,
-        "qs:id":83755,
+        "qs_pg:id":83755,
         "wd:id":"Q1994547",
         "wk:page":"\u010ca\u0161ka Municipality"
     },
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":890492389,
-    "wof:lastmodified":1563257657,
+    "wof:lastmodified":1566605501,
     "wof:name":"\u0426\u0440\u0435\u0448\u043d\u0435\u0432\u043e",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

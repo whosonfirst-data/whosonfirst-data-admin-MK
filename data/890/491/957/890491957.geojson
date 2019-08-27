@@ -11,11 +11,13 @@
     "geom:longitude":21.45029,
     "gn:country":"MK",
     "gn:fcode":"PPLC",
-    "gn:pop":474889,
+    "gn:population":474889,
     "gp:adm0":23424890,
     "iso:country":"MK",
     "lbl:latitude":42.00122,
     "lbl:longitude":21.42878,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -464,9 +466,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u043e\u043f'\u0454"
     ],
-    "name:unk_x_variant":[
-        "Skopie"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u06a9\u0648\u067e\u06cc\u06c1"
     ],
@@ -631,7 +630,7 @@
     "wof:concordances":{
         "gn:id":785842,
         "gp:id":482940,
-        "qs:id":275728,
+        "qs_pg:id":275728,
         "wd:id":"Q384",
         "wk:page":"Skopje"
     },
@@ -647,7 +646,7 @@
         }
     ],
     "wof:id":890491957,
-    "wof:lastmodified":1563257422,
+    "wof:lastmodified":1566605460,
     "wof:name":"Skopje",
     "wof:parent_id":85674273,
     "wof:placetype":"locality",

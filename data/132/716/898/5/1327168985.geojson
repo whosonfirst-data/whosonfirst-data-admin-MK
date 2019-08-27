@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.59368,41.87361,22.63368,41.91361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Krivoramska Maala"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327168985,
-    "wof:lastmodified":1537664971,
+    "wof:lastmodified":1566605340,
     "wof:name":"Krivoramska Maala",
     "wof:parent_id":85674475,
     "wof:placetype":"locality",

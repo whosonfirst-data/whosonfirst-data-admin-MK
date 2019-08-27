@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.011727,
     "lbl:longitude":21.43977,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0427\u0430\u0438\u0440",
     "meso:adm1_loc":"\u010cair",
     "meso:gadm_adm1":"Karpo\u0161",
@@ -102,14 +103,8 @@
         "Cair",
         "Opstina Cair"
     ],
-    "name:und_x_preferred":[
-        "\u010cair"
-    ],
     "name:und_x_variant":[
         "Opstina \u010cair"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina \u010cair"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u062f\u06cc\u06c1 \u0686\u0627\u0626\u0631"
@@ -190,9 +185,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"53",
     "statoids:area_mi":"20",
     "statoids:as_of_date":"2002-10-31",
@@ -217,7 +212,7 @@
         "gp:id":24550752,
         "hasc:id":"MK.CI",
         "iso:id":"MK-79",
-        "qs:id":1191262,
+        "qs_pg:id":1191262,
         "unlc:id":"MK-79",
         "wd:id":"Q1419314"
     },
@@ -238,11 +233,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727582,
+    "wof:lastmodified":1566605364,
     "wof:name":"Cair",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":64773,
     "wof:population_rank":8,

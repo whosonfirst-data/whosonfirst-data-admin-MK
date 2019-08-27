@@ -11,14 +11,18 @@
     "geom:longitude":21.84694,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":205,
+    "gn:population":205,
     "iso:country":"MK",
+    "lbl:bbox":"21.82694,41.40417,21.86694,41.44417",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rajec"
     ],
     "qs:name":"Raec",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":786551,
-        "qs:id":553723
+        "qs_pg:id":553723
     },
     "wof:country":"MK",
     "wof:created":1469054848,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890491307,
-    "wof:lastmodified":1505343792,
+    "wof:lastmodified":1566605442,
     "wof:name":"Raec",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

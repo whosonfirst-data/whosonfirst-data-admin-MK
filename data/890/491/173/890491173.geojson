@@ -11,10 +11,14 @@
     "geom:longitude":21.84417,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":139,
+    "gn:population":139,
     "iso:country":"MK",
+    "lbl:bbox":"21.82417,41.92944,21.86417,41.96944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Malino"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":788252,
         "gp:id":483067,
-        "qs:id":83666,
+        "qs_pg:id":83666,
         "wk:page":"Malino"
     },
     "wof:country":"MK",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890491173,
-    "wof:lastmodified":1564308564,
+    "wof:lastmodified":1566605456,
     "wof:name":"Malino",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.40556,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":474,
+    "gn:population":474,
     "iso:country":"MK",
+    "lbl:bbox":"21.38556,41.15306,21.42556,41.19306",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Va\u0161arejca"
     ],
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":784702,
         "gp:id":481746,
-        "qs:id":553603
+        "qs_pg:id":553603
     },
     "wof:country":"MK",
     "wof:created":1469054890,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890492437,
-    "wof:lastmodified":1505343798,
+    "wof:lastmodified":1566605483,
     "wof:name":"Va\u0161arejca",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

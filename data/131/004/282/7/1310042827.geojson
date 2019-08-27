@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.57582,42.03488,22.61582,42.07488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Pavli\u0161 Dol"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310042827,
-    "wof:lastmodified":1537664958,
+    "wof:lastmodified":1566605429,
     "wof:name":"Pavlis Dol",
     "wof:parent_id":85674489,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":21.31361,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":11656,
+    "gn:population":11656,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.29361,41.99167,21.33361,42.03167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0434\u043e\u0432\u043e"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":789339,
         "gp:id":482308,
-        "qs:id":1029056,
+        "qs_pg:id":1029056,
         "wd:id":"Q1781281",
         "wk:page":"Kondovo"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890491915,
-    "wof:lastmodified":1563257400,
+    "wof:lastmodified":1566605457,
     "wof:name":"Kondovo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

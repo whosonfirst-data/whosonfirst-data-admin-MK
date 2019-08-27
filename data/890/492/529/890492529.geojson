@@ -11,14 +11,18 @@
     "geom:longitude":21.81778,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":129,
+    "gn:population":129,
     "iso:country":"MK",
+    "lbl:bbox":"21.79778,41.50833,21.83778,41.54833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0434\u043b\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podlec"
     ],
     "qs:name":"Podles",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":786959,
-        "qs:id":553757,
+        "qs_pg:id":553757,
         "wk:page":"Podle\u015b"
     },
     "wof:country":"MK",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890492529,
-    "wof:lastmodified":1527793025,
+    "wof:lastmodified":1566605489,
     "wof:name":"Podles",
     "wof:parent_id":85674301,
     "wof:placetype":"locality",

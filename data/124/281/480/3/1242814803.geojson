@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.12508,42.00318,22.16508,42.04318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u041a\u0443\u043d\u0434\u0438\u043d\u043e"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242814803,
-    "wof:lastmodified":1537664879,
+    "wof:lastmodified":1566605508,
     "wof:name":"Kundino",
     "wof:parent_id":85674187,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.785,41.14861,20.825,41.18861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u041b\u0430\u043a\u043e\u0447\u0435\u0440\u0435\u0458"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276260299,
-    "wof:lastmodified":1537664891,
+    "wof:lastmodified":1566605384,
     "wof:name":"Gorno Lakocerej",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

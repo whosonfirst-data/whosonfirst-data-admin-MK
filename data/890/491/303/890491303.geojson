@@ -11,10 +11,14 @@
     "geom:longitude":21.45944,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":6,
+    "gn:population":6,
     "iso:country":"MK",
+    "lbl:bbox":"21.43944,41.605,21.47944,41.645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0627\u0634\u0643\u0627"
     ],
@@ -153,7 +157,7 @@
     "wof:concordances":{
         "gn:id":789590,
         "gp:id":483099,
-        "qs:id":553909,
+        "qs_pg:id":553909,
         "wd:id":"Q1994547",
         "wk:page":"\u010ca\u0161ka Municipality"
     },
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":890491303,
-    "wof:lastmodified":1563257427,
+    "wof:lastmodified":1566605461,
     "wof:name":"\u041a\u0430\u043f\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

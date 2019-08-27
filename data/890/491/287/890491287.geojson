@@ -11,10 +11,14 @@
     "geom:longitude":21.18222,
     "gn:country":"MK",
     "gn:fcode":"PPLL",
-    "gn:pop":130,
+    "gn:population":130,
     "iso:country":"MK",
+    "lbl:bbox":"21.16222,41.56611,21.20222,41.60611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u06cc\u0626\u0627"
     ],
@@ -108,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Slatino"
     ],
     "qs:name":"Slatina",
@@ -125,7 +129,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":796070,
-        "qs:id":554131,
+        "qs_pg:id":554131,
         "wd:id":"Q1289460",
         "wk:page":"Slatina"
     },
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":890491287,
-    "wof:lastmodified":1563257356,
+    "wof:lastmodified":1566605449,
     "wof:name":"Slatina",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

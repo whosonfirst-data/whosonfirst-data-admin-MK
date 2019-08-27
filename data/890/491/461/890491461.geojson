@@ -11,10 +11,14 @@
     "geom:longitude":21.77194,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":32,
+    "gn:population":32,
     "iso:country":"MK",
+    "lbl:bbox":"21.75194,41.33639,21.79194,41.37639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440\u0435\u0432\u0438\u043a"
     ],
@@ -39,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u0426\u0430\u0440\u0435\u0432\u0438\u045b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carevi\u0107"
     ],
     "qs:name":"Carevik",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":792039,
         "gp:id":482271,
-        "qs:id":554045,
+        "qs_pg:id":554045,
         "wd:id":"Q3073918",
         "wk:page":"Carevikj"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890491461,
-    "wof:lastmodified":1563257482,
+    "wof:lastmodified":1566605470,
     "wof:name":"Carevik",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

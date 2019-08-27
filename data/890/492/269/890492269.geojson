@@ -11,11 +11,15 @@
     "geom:longitude":22.50141,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":20664,
+    "gn:population":20664,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"22.48141,41.12166,22.52141,41.16166",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0641\u063a\u0644\u064a\u0627"
     ],
@@ -175,9 +179,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0432\u0433\u0435\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Gevgeli"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u0648\u062c\u06cc\u0644\u06cc\u062c\u0627"
     ],
@@ -214,7 +215,7 @@
     "wof:concordances":{
         "gn:id":790744,
         "gp:id":482081,
-        "qs:id":900220,
+        "qs_pg:id":900220,
         "wd:id":"Q157061",
         "wk:page":"Gevgelija"
     },
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":890492269,
-    "wof:lastmodified":1563257571,
+    "wof:lastmodified":1566605486,
     "wof:name":"Gevgelija",
     "wof:parent_id":85674461,
     "wof:placetype":"locality",

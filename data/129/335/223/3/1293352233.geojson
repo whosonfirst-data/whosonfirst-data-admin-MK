@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.31884,42.12725,21.35884,42.16725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0424\u0435\u0440\u0430 \u041c\u0430\u0430\u043b\u0430"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293352233,
-    "wof:lastmodified":1537664922,
+    "wof:lastmodified":1566605378,
     "wof:name":"Fera Maala",
     "wof:parent_id":85674287,
     "wof:placetype":"locality",

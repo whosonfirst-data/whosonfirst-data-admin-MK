@@ -11,10 +11,14 @@
     "geom:longitude":21.44778,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1956,
+    "gn:population":1956,
     "iso:country":"MK",
+    "lbl:bbox":"21.42778,42.04111,21.46778,42.08111",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Radishani"
     ],
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":786595,
         "gp:id":482940,
-        "qs:id":275736
+        "qs_pg:id":275736
     },
     "wof:country":"MK",
     "wof:created":1469054860,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890491639,
-    "wof:lastmodified":1505343794,
+    "wof:lastmodified":1566605469,
     "wof:name":"\u0420\u0430\u0434\u0438\u0448\u0430\u043d\u0438",
     "wof:parent_id":85674261,
     "wof:placetype":"locality",

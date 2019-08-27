@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.56917,41.60833,20.60917,41.64833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0438\u0449\u0435"
     ],
@@ -47,7 +51,6 @@
         "Trebi\u015fte"
     ],
     "name:und_x_variant":[
-        "Trebi\u0161te",
         "Trebishte"
     ],
     "src:geom":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1326863663,
-    "wof:lastmodified":1564308306,
+    "wof:lastmodified":1566605328,
     "wof:name":"Trebiste",
     "wof:parent_id":85674403,
     "wof:placetype":"locality",

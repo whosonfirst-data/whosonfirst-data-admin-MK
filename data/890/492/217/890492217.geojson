@@ -11,10 +11,14 @@
     "geom:longitude":20.90417,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":3751,
+    "gn:population":3751,
     "iso:country":"MK",
+    "lbl:bbox":"20.88417,41.87611,20.92417,41.91611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0435\u0446"
     ],
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":790248,
         "gp:id":482573,
-        "qs:id":129598,
+        "qs_pg:id":129598,
         "wk:page":"Gradec"
     },
     "wof:country":"MK",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890492217,
-    "wof:lastmodified":1564308590,
+    "wof:lastmodified":1566605482,
     "wof:name":"Gradec",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

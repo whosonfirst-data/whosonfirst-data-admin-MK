@@ -11,10 +11,14 @@
     "geom:longitude":21.15889,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":552,
+    "gn:population":552,
     "iso:country":"MK",
+    "lbl:bbox":"21.13889,41.94389,21.17889,41.98389",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Novo Selo"
     ],
@@ -170,7 +174,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":787563,
-        "qs:id":83631,
+        "qs_pg:id":83631,
         "wd:id":"Q644996",
         "wk:page":"Novo Selo"
     },
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":890491533,
-    "wof:lastmodified":1563257330,
+    "wof:lastmodified":1566605444,
     "wof:name":"Novo Selo",
     "wof:parent_id":85674251,
     "wof:placetype":"locality",

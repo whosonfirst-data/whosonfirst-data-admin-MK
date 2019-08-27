@@ -11,10 +11,14 @@
     "geom:longitude":21.2975,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":116,
+    "gn:population":116,
     "iso:country":"MK",
+    "lbl:bbox":"21.2775,41.18056,21.3175,41.22056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u0432\u0435\u043d\u0438\u043a"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Drevenik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drvenik"
     ],
     "qs:name":"Drevenik",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":791022,
         "gp:id":481746,
-        "qs:id":553972,
+        "qs_pg:id":553972,
         "wd:id":"Q3039399",
         "wk:page":"Drevenik"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890492351,
-    "wof:lastmodified":1563257601,
+    "wof:lastmodified":1566605491,
     "wof:name":"Drevenik",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

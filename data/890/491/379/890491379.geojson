@@ -11,10 +11,14 @@
     "geom:longitude":21.06848,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":182,
+    "gn:population":182,
     "iso:country":"MK",
+    "lbl:bbox":"21.04848,40.96491,21.08848,41.00491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
     ],
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":788864,
         "gp:id":481667,
-        "qs:id":553860,
+        "qs_pg:id":553860,
         "wd:id":"Q2379840",
         "wk:page":"Kurbinovo"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890491379,
-    "wof:lastmodified":1563257393,
+    "wof:lastmodified":1566605456,
     "wof:name":"Kurbinovo",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

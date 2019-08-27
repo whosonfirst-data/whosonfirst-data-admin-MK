@@ -11,10 +11,14 @@
     "geom:longitude":21.56944,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":95,
+    "gn:population":95,
     "iso:country":"MK",
+    "lbl:bbox":"21.54944,41.26222,21.58944,41.30222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0443\u043c\u043e\u0432\u043e"
     ],
@@ -39,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u0427\u0443\u043c\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u010cmovo"
     ],
     "qs:name":"\u010cumovo",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":791905,
         "gp:id":482783,
-        "qs:id":83760,
+        "qs_pg:id":83760,
         "wd:id":"Q3136283",
         "wk:page":"\u010cumovo"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890491603,
-    "wof:lastmodified":1563257383,
+    "wof:lastmodified":1566605454,
     "wof:name":"\u010cumovo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

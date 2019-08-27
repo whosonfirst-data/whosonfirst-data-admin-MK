@@ -11,10 +11,14 @@
     "geom:longitude":21.41389,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":82,
+    "gn:population":82,
     "iso:country":"MK",
+    "lbl:bbox":"21.39389,41.38778,21.43389,41.42778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0442\u043b\u0435\u0448\u0435\u0432\u043e"
     ],
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":788835,
         "gp:id":483224,
-        "qs:id":83683,
+        "qs_pg:id":83683,
         "wd:id":"Q3074650",
         "wk:page":"Kutle\u0161evo"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890491549,
-    "wof:lastmodified":1563257491,
+    "wof:lastmodified":1566605472,
     "wof:name":"Kutle\u0161evo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.23722,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":59,
+    "gn:population":59,
     "iso:country":"MK",
+    "lbl:bbox":"21.21722,41.44528,21.25722,41.48528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u043e"
     ],
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":791028,
         "gp:id":482372,
-        "qs:id":553974,
+        "qs_pg:id":553974,
         "wd:id":"Q276658",
         "wk:page":"Drenovo"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890492311,
-    "wof:lastmodified":1563257654,
+    "wof:lastmodified":1566605501,
     "wof:name":"Drenovo",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":21.50278,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1033,
+    "gn:population":1033,
     "iso:country":"MK",
+    "lbl:bbox":"21.48278,42.05056,21.52278,42.09056",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bula\u010dane"
     ],
     "qs:name":"\u0411\u0443\u043b\u0430\u0447\u0430\u043d\u0438",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":792129,
         "gp:id":482940,
-        "qs:id":129650
+        "qs_pg:id":129650
     },
     "wof:country":"MK",
     "wof:created":1469054865,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890491795,
-    "wof:lastmodified":1505343795,
+    "wof:lastmodified":1566605463,
     "wof:name":"\u0411\u0443\u043b\u0430\u0447\u0430\u043d\u0438",
     "wof:parent_id":85674297,
     "wof:placetype":"locality",

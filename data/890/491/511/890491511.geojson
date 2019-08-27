@@ -11,10 +11,14 @@
     "geom:longitude":21.18778,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":366,
+    "gn:population":366,
     "iso:country":"MK",
+    "lbl:bbox":"21.16778,41.11694,21.20778,41.15694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0435\u0436\u0435\u0432\u043e"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":785421,
         "gp:id":481746,
-        "qs:id":83564,
+        "qs_pg:id":83564,
         "wd:id":"Q3085958",
         "wk:page":"Stre\u017eevo"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890491511,
-    "wof:lastmodified":1563257411,
+    "wof:lastmodified":1566605458,
     "wof:name":"Stre\u017eevo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

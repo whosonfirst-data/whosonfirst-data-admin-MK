@@ -11,10 +11,14 @@
     "geom:longitude":21.55889,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":217,
+    "gn:population":217,
     "iso:country":"MK",
+    "lbl:bbox":"21.53889,41.42889,21.57889,41.46889",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0435\u0431\u0440\u0435\u0433\u043e\u0432\u043e"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":787725,
         "gp:id":482783,
-        "qs:id":553805,
+        "qs_pg:id":553805,
         "wd:id":"Q3084662",
         "wk:page":"Nebregovo"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890491871,
-    "wof:lastmodified":1563257458,
+    "wof:lastmodified":1566605466,
     "wof:name":"Nebregovo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

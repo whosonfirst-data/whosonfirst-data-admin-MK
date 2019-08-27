@@ -11,10 +11,14 @@
     "geom:longitude":21.90972,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"MK",
+    "lbl:bbox":"21.88972,41.35028,21.92972,41.39028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0160e\u0161kovo"
     ],
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":785950,
         "gp:id":482271,
-        "qs:id":553675
+        "qs_pg:id":553675
     },
     "wof:country":"MK",
     "wof:created":1469054848,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890491301,
-    "wof:lastmodified":1505343792,
+    "wof:lastmodified":1566605446,
     "wof:name":"\u0160e\u0161kovo",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

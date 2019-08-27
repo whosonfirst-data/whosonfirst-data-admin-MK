@@ -11,10 +11,14 @@
     "geom:longitude":21.635,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":44,
+    "gn:population":44,
     "iso:country":"MK",
+    "lbl:bbox":"21.615,41.36806,21.655,41.40806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u043e\u0432\u0435\u0446"
     ],
@@ -39,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u041e\u0440\u0435\u043e\u0432\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orahovec"
     ],
     "qs:name":"Oreovec",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":787427,
         "gp:id":482741,
-        "qs:id":553784,
+        "qs_pg:id":553784,
         "wd:id":"Q3074129",
         "wk:page":"Oreovec"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890492563,
-    "wof:lastmodified":1563257600,
+    "wof:lastmodified":1566605491,
     "wof:name":"Oreovec",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

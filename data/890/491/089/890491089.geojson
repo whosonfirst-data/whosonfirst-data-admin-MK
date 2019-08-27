@@ -11,10 +11,14 @@
     "geom:longitude":21.09833,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":122,
+    "gn:population":122,
     "iso:country":"MK",
+    "lbl:bbox":"21.07833,41.67222,21.11833,41.71222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0447\u0435"
     ],
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":792684,
         "gp:id":482892,
-        "qs:id":554095,
+        "qs_pg:id":554095,
         "wd:id":"Q6488107"
     },
     "wof:country":"MK",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890491089,
-    "wof:lastmodified":1563257443,
+    "wof:lastmodified":1566605463,
     "wof:name":"Ben\u010de",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

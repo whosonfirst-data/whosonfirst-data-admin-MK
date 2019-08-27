@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.60546,41.12479,20.64546,41.16479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0440\u044a\u043d\u0433\u043e\u0432\u043e"
     ],
@@ -50,8 +54,7 @@
         "\u0424\u0440\u0430\u043d\u0433\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Frngovo",
-        "Frangovo"
+        "Frngovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343796555,
-    "wof:lastmodified":1564308350,
+    "wof:lastmodified":1566605346,
     "wof:name":"Frangovo",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

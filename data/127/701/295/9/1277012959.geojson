@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.5144,41.93617,21.5544,41.97617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041b\u0438\u0441\u0438\u0447\u0435"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277012959,
-    "wof:lastmodified":1537664901,
+    "wof:lastmodified":1566605383,
     "wof:name":"Dolno Lisice",
     "wof:parent_id":85674331,
     "wof:placetype":"locality",

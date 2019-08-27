@@ -11,10 +11,14 @@
     "geom:longitude":21.00833,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":208,
+    "gn:population":208,
     "iso:country":"MK",
+    "lbl:bbox":"20.98833,41.29667,21.02833,41.33667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u043c\u0438\u0440 \u0425\u0438\u0441\u0430\u0440"
     ],
@@ -93,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043c\u0438\u0440-\u0425\u0438\u0441\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velike Ilino"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":790609,
         "gp:id":482276,
-        "qs:id":553955,
+        "qs_pg:id":553955,
         "wd:id":"Q856278",
         "wk:page":"Demir Hisar Municipality"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890491445,
-    "wof:lastmodified":1563257466,
+    "wof:lastmodified":1566605467,
     "wof:name":"Golemo Ilino",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

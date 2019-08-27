@@ -11,14 +11,18 @@
     "geom:longitude":21.43889,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":507,
+    "gn:population":507,
     "iso:country":"MK",
+    "lbl:bbox":"21.41889,41.12056,21.45889,41.16056",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u0427\u0430\u0440\u043b\u0438\u0458\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolno \u010carlija"
     ],
     "qs:name":"Dolna \u010carlija",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791355,
-        "qs:id":83744
+        "qs_pg:id":83744
     },
     "wof:country":"MK",
     "wof:created":1469054858,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890491587,
-    "wof:lastmodified":1505343793,
+    "wof:lastmodified":1566605459,
     "wof:name":"Dolna \u010carlija",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

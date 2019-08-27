@@ -11,10 +11,14 @@
     "geom:longitude":21.77944,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":16,
+    "gn:population":16,
     "iso:country":"MK",
+    "lbl:bbox":"21.75944,41.81472,21.79944,41.85472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0441"
     ],
@@ -78,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lugunce"
     ],
     "name:urd_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":788435,
-        "qs:id":553835,
+        "qs_pg:id":553835,
         "wd:id":"Q2088561",
         "wk:page":"Veles Municipality"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890491223,
-    "wof:lastmodified":1563257454,
+    "wof:lastmodified":1566605465,
     "wof:name":"Lugunci",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.097668,
     "lbl:longitude":21.460544,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0411\u0443\u0442\u0435\u043b",
     "meso:adm1_loc":"Butel",
     "meso:gadm_adm1":"\u010cu\u010der Sandevo",
@@ -110,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442\u0435\u043b"
     ],
-    "name:und_x_preferred":[
-        "Butel"
-    ],
     "name:und_x_variant":[
         "Opstina Butel"
     ],
@@ -198,9 +196,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2002-10-31",
@@ -225,7 +223,7 @@
         "gp:id":55848399,
         "hasc:id":"MK.BU",
         "iso:id":"MK-09",
-        "qs:id":46447,
+        "qs_pg:id":46447,
         "unlc:id":"MK-09",
         "wd:id":"Q935620"
     },
@@ -246,11 +244,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727582,
+    "wof:lastmodified":1566605363,
     "wof:name":"Butel",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":36154,
     "wof:population_rank":7,

@@ -11,10 +11,14 @@
     "geom:longitude":21.53472,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":430,
+    "gn:population":430,
     "iso:country":"MK",
+    "lbl:bbox":"21.51472,41.045,21.55472,41.085",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u0445\u043e\u0434\u043e\u043b"
     ],
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":785224,
         "gp:id":481746,
-        "qs:id":553644,
+        "qs_pg:id":553644,
         "wd:id":"Q3074552",
         "wk:page":"Suvodol"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890492471,
-    "wof:lastmodified":1563257537,
+    "wof:lastmodified":1566605480,
     "wof:name":"Suvodol",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

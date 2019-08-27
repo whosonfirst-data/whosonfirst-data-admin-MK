@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.49427,
     "lbl:longitude":21.901917,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0420\u043e\u0441\u043e\u043c\u0430\u043d",
     "meso:adm1_loc":"Rosoman",
     "meso:gadm_adm1":"Rosoman",
@@ -107,14 +108,8 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
-    "name:und_x_preferred":[
-        "Rosoman"
-    ],
     "name:und_x_variant":[
         "Opstina Rosoman"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Rosoman"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0633\u0648\u0645\u0627\u0646 \u0628\u0644\u062f\u06cc\u06c1"
@@ -194,9 +189,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"133",
     "statoids:area_mi":"51",
     "statoids:as_of_date":"2002-10-31",
@@ -221,7 +216,7 @@
         "gp:id":24550801,
         "hasc:id":"MK.RM",
         "iso:id":"MK-67",
-        "qs:id":1103584,
+        "qs_pg:id":1103584,
         "unlc:id":"MK-67",
         "wd:id":"Q2088585",
         "wk:page":"Rosoman Municipality"
@@ -243,11 +238,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727583,
+    "wof:lastmodified":1566605365,
     "wof:name":"Vardar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":4141,
     "wof:population_rank":4,

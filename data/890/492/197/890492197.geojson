@@ -11,10 +11,14 @@
     "geom:longitude":21.04,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":921,
+    "gn:population":921,
     "iso:country":"MK",
+    "lbl:bbox":"21.02,41.96222,21.06,42.00222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nis\u00edda Sarakin\u00f3"
     ],
@@ -49,7 +53,7 @@
     "name:tur_x_preferred":[
         "Sarakin Adas\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sara\u0107ino"
     ],
     "qs:name":"Sarakino",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":829541,
         "gp:id":483266,
-        "qs:id":83839,
+        "qs_pg:id":83839,
         "wk:page":"Sarakino"
     },
     "wof:country":"MK",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890492197,
-    "wof:lastmodified":1564308601,
+    "wof:lastmodified":1566605492,
     "wof:name":"Sarakino",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

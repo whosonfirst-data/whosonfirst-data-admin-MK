@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.97582,41.18746,22.01582,41.22746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Mre\u017ei\u010dko"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326764201,
-    "wof:lastmodified":1537664871,
+    "wof:lastmodified":1566605334,
     "wof:name":"Mrezicko",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

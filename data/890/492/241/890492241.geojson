@@ -11,11 +11,15 @@
     "geom:longitude":21.36278,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1138,
+    "gn:population":1138,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.34278,41.26222,21.38278,41.30222",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u044a\u0440\u0448\u0430\u043d\u0438"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":787512,
         "gp:id":482639,
-        "qs:id":1213605,
+        "qs_pg:id":1213605,
         "wd:id":"Q3074771",
         "wk:page":"Obr\u0161ani"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890492241,
-    "wof:lastmodified":1563257615,
+    "wof:lastmodified":1566605493,
     "wof:name":"Obr\u0161ani",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

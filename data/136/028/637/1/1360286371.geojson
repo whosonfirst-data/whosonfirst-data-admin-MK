@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.82318,41.7169,22.86318,41.7569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043c\u043e\u0439\u043c\u0438\u0440\u043e\u0432\u043e"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1360286371,
-    "wof:lastmodified":1564308537,
+    "wof:lastmodified":1566605434,
     "wof:name":"Smojmirovo",
     "wof:parent_id":85674479,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.15833,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":139,
+    "gn:population":139,
     "iso:country":"MK",
+    "lbl:bbox":"21.13833,41.11889,21.17833,41.15889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0432\u0438\u043d\u0438\u0449\u0435"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Svinisjte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svinji\u0161te"
     ],
     "qs:name":"Svini\u0161te",
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":785181,
-        "qs:id":553635,
+        "qs_pg:id":553635,
         "wd:id":"Q3084544",
         "wk:page":"Svini\u0161te"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890492457,
-    "wof:lastmodified":1563257644,
+    "wof:lastmodified":1566605499,
     "wof:name":"Svini\u0161te",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

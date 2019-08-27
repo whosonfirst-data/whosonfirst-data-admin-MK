@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.82222,42.25944,21.86222,42.29944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Mi\u0161inci"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276695661,
-    "wof:lastmodified":1537664935,
+    "wof:lastmodified":1566605386,
     "wof:name":"Misinci",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

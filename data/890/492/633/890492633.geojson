@@ -11,10 +11,14 @@
     "geom:longitude":21.90611,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"MK",
+    "lbl:bbox":"21.88611,41.37556,21.92611,41.41556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Dradnja"
     ],
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":791129,
         "gp:id":482011,
-        "qs:id":553981
+        "qs_pg:id":553981
     },
     "wof:country":"MK",
     "wof:created":1469054901,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890492633,
-    "wof:lastmodified":1505343799,
+    "wof:lastmodified":1566605483,
     "wof:name":"Dradnja",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

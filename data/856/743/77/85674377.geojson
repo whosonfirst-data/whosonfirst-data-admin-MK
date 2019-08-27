@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.07287,
     "lbl:longitude":21.308684,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0403\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432",
     "meso:adm1_loc":"Gjor\u010de Petrov",
     "meso:gadm_adm1":"Gjor\u010de Petrov",
@@ -107,14 +108,10 @@
         "Gjorce Petrov",
         "Opstina Gjorce Petrov"
     ],
-    "name:und_x_preferred":[
-        "Gjor\u010de Petrov"
-    ],
     "name:und_x_variant":[
+        "Gjor\u010de Petrov",
         "Dorce Petrov",
-        "Opstina Gjor\u010de Petrov"
-    ],
-    "name:unk_x_variant":[
+        "Opstina Gjor\u010de Petrov",
         "\u00d0or\u010de Petrov"
     ],
     "name:urd_x_preferred":[
@@ -196,9 +193,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"63",
     "statoids:area_mi":"24",
     "statoids:as_of_date":"2002-10-31",
@@ -223,7 +220,7 @@
         "gp:id":24550839,
         "hasc:id":"MK.GP",
         "iso:id":"MK-29",
-        "qs:id":502097,
+        "qs_pg:id":502097,
         "unlc:id":"MK-29",
         "wd:id":"Q924278"
     },
@@ -244,11 +241,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727582,
+    "wof:lastmodified":1566605363,
     "wof:name":"Gjorce Petrov",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":41634,
     "wof:population_rank":7,

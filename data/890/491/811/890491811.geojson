@@ -11,11 +11,15 @@
     "geom:longitude":21.60944,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":319,
+    "gn:population":319,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.58944,41.09861,21.62944,41.13861",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u043e\u0432\u043e"
     ],
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Makovo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manovo"
     ],
     "qs:name":"Makovo",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":788345,
         "gp:id":482479,
-        "qs:id":269937,
+        "qs_pg:id":269937,
         "wd:id":"Q3136357",
         "wk:page":"Makovo"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890491811,
-    "wof:lastmodified":1563257353,
+    "wof:lastmodified":1566605449,
     "wof:name":"Makovo",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

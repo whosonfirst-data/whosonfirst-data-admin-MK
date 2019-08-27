@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.10056,41.20194,21.14056,41.24194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leskovo"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1309749239,
-    "wof:lastmodified":1564308549,
+    "wof:lastmodified":1566605441,
     "wof:name":"Leskovo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

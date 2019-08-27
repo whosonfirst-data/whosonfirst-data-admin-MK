@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.74709,41.30062,20.78709,41.34062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u0432\u0435\u043d\u0430 \u0432\u043e\u0434\u0430"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276589139,
-    "wof:lastmodified":1564308429,
+    "wof:lastmodified":1566605388,
     "wof:name":"Crvena Voda",
     "wof:parent_id":85674169,
     "wof:placetype":"locality",

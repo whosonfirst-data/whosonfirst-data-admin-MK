@@ -11,11 +11,15 @@
     "geom:longitude":21.0525,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":23096,
+    "gn:population":23096,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.0325,42.05444,21.0725,42.09444",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u0430\u0440\u0446\u0435"
     ],
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":785113,
         "gp:id":483088,
-        "qs:id":129395,
+        "qs_pg:id":129395,
         "wd:id":"Q653186",
         "wk:page":"Tearce"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890491969,
-    "wof:lastmodified":1563257435,
+    "wof:lastmodified":1566605462,
     "wof:name":"Tearce",
     "wof:parent_id":85674413,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.39556,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":218,
+    "gn:population":218,
     "iso:country":"MK",
+    "lbl:bbox":"21.37556,41.22778,21.41556,41.26778",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u043f\u0438\u0433\u043e\u0432\u043e"
     ],
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791995,
-        "qs:id":554044,
+        "qs_pg:id":554044,
         "wd:id":"Q2371860",
         "wk:page":"\u010cepigovo"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890492681,
-    "wof:lastmodified":1563257536,
+    "wof:lastmodified":1566605480,
     "wof:name":"\u010cepigovo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

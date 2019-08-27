@@ -11,10 +11,14 @@
     "geom:longitude":21.79806,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":31,
+    "gn:population":31,
     "iso:country":"MK",
+    "lbl:bbox":"21.77806,41.35306,21.81806,41.39306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b \u0420\u0430\u0434\u043e\u0431\u0438\u043b"
     ],
@@ -36,7 +40,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u0420\u0430\u0434\u043e\u0431\u0438\u0459"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mali Radobili"
     ],
     "qs:name":"Mal Radobil",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":788190,
         "gp:id":482271,
-        "qs:id":553832,
+        "qs_pg:id":553832,
         "wd:id":"Q3074061",
         "wk:page":"Mal Radobil"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890492603,
-    "wof:lastmodified":1563257566,
+    "wof:lastmodified":1566605485,
     "wof:name":"Mal Radobil",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

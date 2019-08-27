@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.83333,42.27444,21.87333,42.31444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Beli Vlajkovci"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326465165,
-    "wof:lastmodified":1537664918,
+    "wof:lastmodified":1566605336,
     "wof:name":"Beli Vlajkovci",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

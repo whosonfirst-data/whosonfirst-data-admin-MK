@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.14214,42.04529,22.18214,42.08529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0428\u043b\u0435\u0433\u043e\u0432\u043e"
     ],
@@ -56,8 +60,7 @@
         "\u0428\u043b\u0435\u0433\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "\u0160legovs",
-        "\u0160legovo"
+        "\u0160legovs"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1242712311,
-    "wof:lastmodified":1564308633,
+    "wof:lastmodified":1566605513,
     "wof:name":"Slegovo",
     "wof:parent_id":85674345,
     "wof:placetype":"locality",

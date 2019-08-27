@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.58006,41.31793,20.62006,41.35793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u0435\u0440\u0435\u0437\u0438"
     ],
@@ -60,8 +64,7 @@
     ],
     "name:und_x_variant":[
         "Dolno Nerezi",
-        "Gorno Nerezi",
-        "Nerezi"
+        "Gorno Nerezi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1327064469,
-    "wof:lastmodified":1564308297,
+    "wof:lastmodified":1566605324,
     "wof:name":"Nerezi",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.09986,41.79752,22.13986,41.83752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Vrsakovo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276266551,
-    "wof:lastmodified":1537664838,
+    "wof:lastmodified":1566605385,
     "wof:name":"Vrsakovo",
     "wof:parent_id":85674219,
     "wof:placetype":"locality",

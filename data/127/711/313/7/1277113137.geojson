@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.91499,41.77219,20.95499,41.81219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d \u0434\u043e\u043b"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1277113137,
-    "wof:lastmodified":1564308448,
+    "wof:lastmodified":1566605396,
     "wof:name":"Balin Dol",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

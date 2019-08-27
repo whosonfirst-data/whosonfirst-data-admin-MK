@@ -11,10 +11,14 @@
     "geom:longitude":21.60833,
     "gn:country":"MK",
     "gn:fcode":"PPLL",
-    "gn:pop":178,
+    "gn:population":178,
     "iso:country":"MK",
+    "lbl:bbox":"21.58833,41.77861,21.62833,41.81861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438\u043d\u043e"
     ],
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":791435,
         "gp:id":482940,
-        "qs:id":554005,
+        "qs_pg:id":554005,
         "wd:id":"Q3033353"
     },
     "wof:country":"MK",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890492655,
-    "wof:lastmodified":1563257632,
+    "wof:lastmodified":1566605496,
     "wof:name":"Dobrino",
     "wof:parent_id":85674245,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":22.5675,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1720,
+    "gn:population":1720,
     "iso:country":"MK",
+    "lbl:bbox":"22.5475,41.45611,22.5875,41.49611",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u044e\u0441\u0430"
     ],
@@ -48,9 +52,6 @@
     "name:swe_x_preferred":[
         "Veljusa"
     ],
-    "name:unk_x_variant":[
-        "Veljusa"
-    ],
     "qs:name":"Velusa",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":784505,
         "gp:id":483177,
-        "qs:id":129386,
+        "qs_pg:id":129386,
         "wd:id":"Q3135127",
         "wk:page":"Velu\u0161a"
     },
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":890491031,
-    "wof:lastmodified":1563257380,
+    "wof:lastmodified":1566605454,
     "wof:name":"Velusa",
     "wof:parent_id":85674439,
     "wof:placetype":"locality",

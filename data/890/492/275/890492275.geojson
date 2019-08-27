@@ -11,11 +11,15 @@
     "geom:longitude":20.75556,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":914,
+    "gn:population":914,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"20.73556,41.68056,20.77556,41.72056",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0432\u0440\u043e\u0432\u0438 \u0445\u0430\u043d\u043e\u0432\u0435"
     ],
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Mavrovi Anovi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Han Mavrovo"
     ],
     "qs:name":"Mavrovi Anovi",
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":788099,
         "gp:id":482510,
-        "qs:id":211217,
+        "qs_pg:id":211217,
         "wd:id":"Q374264",
         "wk:page":"Mavrovi Anovi"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890492275,
-    "wof:lastmodified":1563257554,
+    "wof:lastmodified":1566605483,
     "wof:name":"Mavrovi Anovi",
     "wof:parent_id":85674403,
     "wof:placetype":"locality",

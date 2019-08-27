@@ -11,11 +11,14 @@
     "geom:longitude":21.42855,
     "gn:country":"MK",
     "gn:fcode":"CMP",
-    "gn:pop":70,
+    "gn:population":70,
     "iso:country":"MK",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Ceples",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7626134,
-        "qs:id":694079
+        "qs_pg:id":694079
     },
     "wof:country":"MK",
     "wof:created":1469054889,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890492401,
-    "wof:lastmodified":1505343798,
+    "wof:lastmodified":1566605483,
     "wof:name":"Ceples",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":22.24889,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"22.22889,42.04972,22.26889,42.08972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u0646\u0648\u0641\u0648"
     ],
@@ -245,7 +249,7 @@
     "wof:concordances":{
         "gn:id":788874,
         "gp:id":482389,
-        "qs:id":1082817,
+        "qs_pg:id":1082817,
         "wd:id":"Q54452",
         "wk:page":"Kumanovo"
     },
@@ -261,7 +265,7 @@
         }
     ],
     "wof:id":890492127,
-    "wof:lastmodified":1563257586,
+    "wof:lastmodified":1566605488,
     "wof:name":"Kumanovo",
     "wof:parent_id":85674345,
     "wof:placetype":"locality",

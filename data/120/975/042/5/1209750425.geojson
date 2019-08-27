@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.63539,41.87828,22.67539,41.91828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Maksimci"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209750425,
-    "wof:lastmodified":1537664931,
+    "wof:lastmodified":1566605410,
     "wof:name":"Maksimci",
     "wof:parent_id":85674475,
     "wof:placetype":"locality",

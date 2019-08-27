@@ -11,11 +11,15 @@
     "geom:longitude":21.4275,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":9460,
+    "gn:population":9460,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.4075,41.93472,21.4475,41.97472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043f\u0438\u0449\u0435"
     ],
@@ -55,9 +59,6 @@
     "name:swe_x_preferred":[
         "Sopisjte"
     ],
-    "name:unk_x_variant":[
-        "Sopi\u0161te"
-    ],
     "qs:name":"Sopishte",
     "qs:name_adm0":"Macedonia",
     "qs:name_adm1":"Sopi\u0161te",
@@ -84,7 +85,7 @@
     "wof:concordances":{
         "gn:id":785679,
         "gp:id":482973,
-        "qs:id":1174706,
+        "qs_pg:id":1174706,
         "wd:id":"Q2564102",
         "wk:page":"Sopi\u0161te"
     },
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":890492199,
-    "wof:lastmodified":1563257605,
+    "wof:lastmodified":1566605492,
     "wof:name":"Sopishte",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":21.50333,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1041,
+    "gn:population":1041,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.48333,41.19028,21.52333,41.23028",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0442\u043b\u0430\u0440\u0446\u0438"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":789603,
         "gp:id":482260,
-        "qs:id":1064885,
+        "qs_pg:id":1064885,
         "wd:id":"Q932777",
         "wk:page":"Kanatlarci"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890491949,
-    "wof:lastmodified":1563257410,
+    "wof:lastmodified":1566605458,
     "wof:name":"Kanatlarci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.342956,
     "lbl:longitude":20.827975,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0414\u0435\u0431\u0430\u0440\u0446\u0430",
     "meso:adm1_loc":"Debartsa",
     "meso:gadm_adm1":"Debarca",
@@ -163,11 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0431\u0430\u0440\u0446\u044f"
     ],
-    "name:und_x_preferred":[
-        "Debarca"
-    ],
     "name:und_x_variant":[
-        "Debartsa",
         "Opstina Debarca"
     ],
     "name:urd_x_preferred":[
@@ -252,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"423",
     "statoids:area_mi":"163",
     "statoids:as_of_date":"2002-10-31",
@@ -279,7 +276,7 @@
         "gp:id":24550746,
         "hasc:id":"MK.DA",
         "iso:id":"MK-22",
-        "qs:id":1193161,
+        "qs_pg:id":1193161,
         "unlc:id":"MK-22",
         "wd:id":"Q1323340",
         "wk:page":"Debarca Municipality"
@@ -301,11 +298,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727579,
+    "wof:lastmodified":1566605357,
     "wof:name":"Debarca",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":5507,
     "wof:population_rank":5,

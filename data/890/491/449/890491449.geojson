@@ -11,10 +11,14 @@
     "geom:longitude":21.88194,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":173,
+    "gn:population":173,
     "iso:country":"MK",
+    "lbl:bbox":"21.86194,41.43972,21.90194,41.47972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
@@ -102,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791582,
-        "qs:id":554022,
+        "qs_pg:id":554022,
         "wd:id":"Q2088585",
         "wk:page":"Rosoman Municipality"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890491449,
-    "wof:lastmodified":1563257353,
+    "wof:lastmodified":1566605449,
     "wof:name":"Debri\u0161te",
     "wof:parent_id":85674201,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":21.18139,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":535,
+    "gn:population":535,
     "gp:adm0":23424833,
     "iso:country":"MK",
+    "lbl:bbox":"21.16139,41.17972,21.20139,41.21972",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0443\u0433\u043e\u0432\u043e"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":785381,
         "gp:id":958622,
-        "qs:id":1284854,
+        "qs_pg:id":1284854,
         "wd:id":"Q3074585",
         "wk:page":"Ostrovo"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890491841,
-    "wof:lastmodified":1563257443,
+    "wof:lastmodified":1566605463,
     "wof:name":"Ostrovo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

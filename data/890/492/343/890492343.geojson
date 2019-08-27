@@ -11,10 +11,14 @@
     "geom:longitude":21.48583,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":977,
+    "gn:population":977,
     "iso:country":"MK",
+    "lbl:bbox":"21.46583,41.7025,21.50583,41.7425",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0627\u0634\u0643\u0627"
     ],
@@ -127,7 +131,7 @@
         "Casjka"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bb8\u0bcd\u0b95\u0bbe  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b95\u0bb8\u0bcd\u0b95\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c38\u0c4d\u0c15\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -144,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gornje Jabol\u010di\u0161te"
     ],
     "name:urd_x_preferred":[
@@ -168,7 +172,7 @@
     "wof:concordances":{
         "gn:id":790334,
         "gp:id":483099,
-        "qs:id":553934,
+        "qs_pg:id":553934,
         "wd:id":"Q1994547",
         "wk:page":"\u010ca\u0161ka Municipality"
     },
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":890492343,
-    "wof:lastmodified":1563257670,
+    "wof:lastmodified":1566605503,
     "wof:name":"\u0413\u043e\u0440\u043d\u043e \u0408\u0430\u0431\u043e\u043b\u0447\u0438\u0448\u0442\u0435",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

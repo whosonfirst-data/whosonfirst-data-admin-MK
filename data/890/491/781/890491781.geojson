@@ -11,14 +11,18 @@
     "geom:longitude":21.69458,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":26,
+    "gn:population":26,
     "iso:country":"MK",
+    "lbl:bbox":"21.67458,41.03242,21.71458,41.07242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0443\u043d\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gruni\u0161te"
     ],
     "qs:name":"Gruni\u0161ta",
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":790119,
         "gp:id":481746,
-        "qs:id":83721
+        "qs_pg:id":83721
     },
     "wof:country":"MK",
     "wof:created":1469054865,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890491781,
-    "wof:lastmodified":1505343794,
+    "wof:lastmodified":1566605473,
     "wof:name":"Gruni\u0161ta",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

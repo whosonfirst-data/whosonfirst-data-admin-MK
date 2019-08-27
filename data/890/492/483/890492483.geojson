@@ -11,10 +11,14 @@
     "geom:longitude":21.90333,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":178,
+    "gn:population":178,
     "iso:country":"MK",
+    "lbl:bbox":"21.88333,41.9375,21.92333,41.9775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stanjevci"
     ],
@@ -51,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u043d\u0454\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanjevce"
     ],
     "qs:name":"Stanjevci",
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":785577,
         "gp:id":483067,
-        "qs:id":553653,
+        "qs_pg:id":553653,
         "wk:page":"Stanjevci"
     },
     "wof:country":"MK",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890492483,
-    "wof:lastmodified":1564308590,
+    "wof:lastmodified":1566605481,
     "wof:name":"Stanjevci",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

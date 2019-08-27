@@ -11,10 +11,14 @@
     "geom:longitude":21.14472,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":69,
+    "gn:population":69,
     "iso:country":"MK",
+    "lbl:bbox":"21.12472,41.57417,21.16472,41.61417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Dolno Kru\u0161je"
     ],
@@ -123,7 +127,7 @@
     "name:swe_x_preferred":[
         "Dolno Kru\u0161je"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donje Kru\u0161je"
     ],
     "qs:name":"Dolno Kru\u0161je",
@@ -141,7 +145,7 @@
     "wof:concordances":{
         "gn:id":791340,
         "gp:id":481793,
-        "qs:id":553992,
+        "qs_pg:id":553992,
         "wd:id":"Q3034223",
         "wk:page":"Makedonski Brod Municipality"
     },
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":890492353,
-    "wof:lastmodified":1563257525,
+    "wof:lastmodified":1566605478,
     "wof:name":"Dolno Kru\u0161je",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

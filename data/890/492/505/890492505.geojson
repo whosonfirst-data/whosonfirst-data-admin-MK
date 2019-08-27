@@ -11,10 +11,14 @@
     "geom:longitude":21.74972,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":24,
+    "gn:population":24,
     "iso:country":"MK",
+    "lbl:bbox":"21.72972,41.40194,21.76972,41.44194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u043b\u0435"
     ],
@@ -36,7 +40,7 @@
     "name:srp_x_preferred":[
         "\u0420\u0430\u043a\u0459\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Raklje"
     ],
     "qs:name":"Rakle",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":786515,
         "gp:id":482271,
-        "qs:id":553719,
+        "qs_pg:id":553719,
         "wd:id":"Q612334",
         "wk:page":"Rakhlah"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890492505,
-    "wof:lastmodified":1561843541,
+    "wof:lastmodified":1566605478,
     "wof:name":"Rakle",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

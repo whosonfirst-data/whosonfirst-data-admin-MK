@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.77167,41.44194,20.81167,41.48194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0418\u0432\u0430\u043d\u0447\u0438\u0448\u0442\u0430"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293919343,
-    "wof:lastmodified":1537664887,
+    "wof:lastmodified":1566605367,
     "wof:name":"Ivancista",
     "wof:parent_id":85674395,
     "wof:placetype":"locality",

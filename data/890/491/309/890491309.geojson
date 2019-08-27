@@ -11,10 +11,14 @@
     "geom:longitude":21.74194,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"MK",
+    "lbl:bbox":"21.72194,41.38056,21.76194,41.42056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043f\u043b\u0438\u0446\u0430"
     ],
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":785030,
-        "qs:id":553623,
+        "qs_pg:id":553623,
         "wd:id":"Q3074140",
         "wk:page":"Toplica"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890491309,
-    "wof:lastmodified":1563257326,
+    "wof:lastmodified":1566605443,
     "wof:name":"Toplica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

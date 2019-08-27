@@ -11,10 +11,14 @@
     "geom:longitude":21.73,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":66,
+    "gn:population":66,
     "iso:country":"MK",
+    "lbl:bbox":"21.71,41.42333,21.75,41.46333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0434\u0438\u043d"
     ],
@@ -36,7 +40,7 @@
     "name:srp_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0434\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nikodim"
     ],
     "qs:name":"Nikodin",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":787669,
         "gp:id":483099,
-        "qs:id":553801,
+        "qs_pg:id":553801,
         "wd:id":"Q3074380",
         "wk:page":"Nikodin"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890492575,
-    "wof:lastmodified":1563257583,
+    "wof:lastmodified":1566605488,
     "wof:name":"Nikodin",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

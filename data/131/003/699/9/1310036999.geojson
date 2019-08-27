@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.81694,41.1125,20.85694,41.1525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0433\u043e\u0449\u0438"
     ],
@@ -61,9 +65,6 @@
     "name:swe_x_preferred":[
         "Velgo\u0161ti"
     ],
-    "name:und_x_variant":[
-        "Velgo\u0161ti"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1310036999,
-    "wof:lastmodified":1564308524,
+    "wof:lastmodified":1566605428,
     "wof:name":"Velgosti",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

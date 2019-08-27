@@ -11,10 +11,14 @@
     "geom:longitude":21.75917,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":237,
+    "gn:population":237,
     "iso:country":"MK",
+    "lbl:bbox":"21.73917,41.97444,21.77917,42.01444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u0446\u0435"
     ],
@@ -51,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vinci"
     ],
     "qs:name":"Vince",
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":784426,
-        "qs:id":83547,
+        "qs_pg:id":83547,
         "wd:id":"Q3072542",
         "wk:page":"Vince"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890491497,
-    "wof:lastmodified":1563257378,
+    "wof:lastmodified":1566605454,
     "wof:name":"Vince",
     "wof:parent_id":85674355,
     "wof:placetype":"locality",

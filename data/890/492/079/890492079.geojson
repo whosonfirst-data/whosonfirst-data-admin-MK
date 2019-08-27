@@ -11,11 +11,15 @@
     "geom:longitude":22.7203,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":3348,
+    "gn:population":3348,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"22.7003,41.16647,22.7403,41.20647",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u064a\u0631\u0627\u0646"
     ],
@@ -151,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0439\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stari Dojran"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +188,7 @@
     "wof:concordances":{
         "gn:id":785537,
         "gp:id":483003,
-        "qs:id":1342841,
+        "qs_pg:id":1342841,
         "wd:id":"Q956963",
         "wk:page":"Dojran"
     },
@@ -200,7 +204,7 @@
         }
     ],
     "wof:id":890492079,
-    "wof:lastmodified":1563257538,
+    "wof:lastmodified":1566605480,
     "wof:name":"Dojran",
     "wof:parent_id":85674473,
     "wof:placetype":"locality",

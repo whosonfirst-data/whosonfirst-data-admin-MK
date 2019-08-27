@@ -11,11 +11,15 @@
     "geom:longitude":20.88056,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"20.86056,41.7975,20.90056,41.8375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0435\u0448\u0435"
     ],
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":791584,
         "gp:id":481897,
-        "qs:id":1010553
+        "qs_pg:id":1010553
     },
     "wof:country":"MK",
     "wof:created":1469054877,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890492099,
-    "wof:lastmodified":1564308593,
+    "wof:lastmodified":1566605485,
     "wof:name":"Debre\u0161e",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

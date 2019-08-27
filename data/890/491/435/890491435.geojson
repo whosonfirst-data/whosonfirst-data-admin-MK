@@ -11,10 +11,14 @@
     "geom:longitude":21.86167,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":85,
+    "gn:population":85,
     "iso:country":"MK",
+    "lbl:bbox":"21.84167,41.53333,21.88167,41.57333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u063a\u0631\u0627\u062f\u0633\u0643\u0648"
     ],
@@ -121,7 +125,7 @@
         "Gradsko"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcd\u0bb0\u0bbe\u0b9f\u0bcd\u0bb8\u0bcd\u0b95\u0bca  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b95\u0bcd\u0bb0\u0bbe\u0b9f\u0bcd\u0bb8\u0bcd\u0b95\u0bca \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c21\u0c4d\u0c38\u0c4d\u0c15\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -138,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0441\u044c\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gornje \u010ci\u010devo"
     ],
     "name:urd_x_preferred":[
@@ -162,7 +166,7 @@
     "wof:concordances":{
         "gn:id":790341,
         "gp:id":483099,
-        "qs:id":553938,
+        "qs_pg:id":553938,
         "wd:id":"Q1992701",
         "wk:page":"Gradsko Municipality"
     },
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":890491435,
-    "wof:lastmodified":1563257485,
+    "wof:lastmodified":1566605471,
     "wof:name":"Gorno \u010ci\u010devo",
     "wof:parent_id":85674301,
     "wof:placetype":"locality",

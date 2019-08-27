@@ -11,10 +11,14 @@
     "geom:longitude":21.54,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":140,
+    "gn:population":140,
     "iso:country":"MK",
+    "lbl:bbox":"21.52,41.10472,21.56,41.14472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Crni\u010dani"
     ],
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791828,
-        "qs:id":83751
+        "qs_pg:id":83751
     },
     "wof:country":"MK",
     "wof:created":1469054888,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890492385,
-    "wof:lastmodified":1505343798,
+    "wof:lastmodified":1566605488,
     "wof:name":"Crni\u010dani",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

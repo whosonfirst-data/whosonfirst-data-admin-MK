@@ -11,11 +11,15 @@
     "geom:longitude":21.89778,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":640,
+    "gn:population":640,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.87778,41.58083,21.91778,41.62083",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u064a\u062a\u0633\u0627"
     ],
@@ -132,7 +136,7 @@
     "wof:concordances":{
         "gn:id":784422,
         "gp:id":483194,
-        "qs:id":215405,
+        "qs_pg:id":215405,
         "wd:id":"Q928405",
         "wk:page":"Vinica, Macedonia"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":890492287,
-    "wof:lastmodified":1563257541,
+    "wof:lastmodified":1566605481,
     "wof:name":"Vini\u010dani",
     "wof:parent_id":85674301,
     "wof:placetype":"locality",

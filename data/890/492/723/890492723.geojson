@@ -11,10 +11,14 @@
     "geom:longitude":21.28682,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":699,
+    "gn:population":699,
     "iso:country":"MK",
+    "lbl:bbox":"21.26682,41.96616,21.30682,42.00616",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u043d\u0430\u043a\u0438\u044f"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Arnakija"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arna\u0107ija"
     ],
     "qs:name":"Arnakija",
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":793089,
-        "qs:id":554110
+        "qs_pg:id":554110
     },
     "wof:country":"MK",
     "wof:created":1469054904,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890492723,
-    "wof:lastmodified":1564308598,
+    "wof:lastmodified":1566605489,
     "wof:name":"Arnakija",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

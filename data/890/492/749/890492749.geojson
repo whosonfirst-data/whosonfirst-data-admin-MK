@@ -11,10 +11,14 @@
     "geom:longitude":21.41278,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":580,
+    "gn:population":580,
     "iso:country":"MK",
+    "lbl:bbox":"21.39278,41.92139,21.43278,41.96139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u0648\u0628\u064a\u062a\u0634\u0647"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043f\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rakotinci"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +151,7 @@
     "wof:concordances":{
         "gn:id":863664,
         "gp:id":55856831,
-        "qs:id":554586,
+        "qs_pg:id":554586,
         "wd:id":"Q2282240",
         "wk:page":"Sopi\u0161te Municipality"
     },
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":890492749,
-    "wof:lastmodified":1563257586,
+    "wof:lastmodified":1566605488,
     "wof:name":"\u0420\u0430\u043a\u043e\u0442\u0438\u043d\u0446\u0438",
     "wof:parent_id":85674209,
     "wof:placetype":"locality",

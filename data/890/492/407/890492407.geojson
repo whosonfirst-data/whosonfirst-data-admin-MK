@@ -11,10 +11,14 @@
     "geom:longitude":21.16861,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":98,
+    "gn:population":98,
     "iso:country":"MK",
+    "lbl:bbox":"21.14861,41.30222,21.18861,41.34222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u043e\u0432\u043e"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":786561,
         "gp:id":482372,
-        "qs:id":553724,
+        "qs_pg:id":553724,
         "wd:id":"Q3086058",
         "wk:page":"Radovo"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890492407,
-    "wof:lastmodified":1563257567,
+    "wof:lastmodified":1566605485,
     "wof:name":"Radovo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

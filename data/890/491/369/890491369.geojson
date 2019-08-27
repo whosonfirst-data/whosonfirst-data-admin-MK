@@ -11,14 +11,18 @@
     "geom:longitude":21.60833,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":329,
+    "gn:population":329,
     "iso:country":"MK",
+    "lbl:bbox":"21.58833,41.65556,21.62833,41.69556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u041b\u0438\u0441\u0438\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lisi\u010dje"
     ],
     "qs:name":"Lisi\u010de",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":788609,
-        "qs:id":553849
+        "qs_pg:id":553849
     },
     "wof:country":"MK",
     "wof:created":1469054850,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890491369,
-    "wof:lastmodified":1505343792,
+    "wof:lastmodified":1566605462,
     "wof:name":"Lisi\u010de",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

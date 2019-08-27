@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.96001,41.87273,21.00001,41.91273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u043d\u043e\u0432\u043e"
     ],
@@ -47,8 +51,7 @@
         "\u0422\u0435\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Tenava",
-        "Tenovo"
+        "Tenava"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1293763813,
-    "wof:lastmodified":1564308394,
+    "wof:lastmodified":1566605373,
     "wof:name":"Tenovo",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

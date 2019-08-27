@@ -11,10 +11,14 @@
     "geom:longitude":21.0,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":102,
+    "gn:population":102,
     "iso:country":"MK",
+    "lbl:bbox":"20.98,41.55722,21.02,41.59722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u043b\u043e\u043c\u0435\u0439"
     ],
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":796037,
         "gp:id":482276,
-        "qs:id":1029164,
+        "qs_pg:id":1029164,
         "wd:id":"Q2740577",
         "wk:page":"Oslomej"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890491947,
-    "wof:lastmodified":1563257407,
+    "wof:lastmodified":1566605458,
     "wof:name":"Oslomej",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

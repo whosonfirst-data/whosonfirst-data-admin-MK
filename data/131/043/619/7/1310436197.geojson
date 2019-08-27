@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.21599,41.61853,22.25599,41.65853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kriva Lakavica"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310436197,
-    "wof:lastmodified":1564308521,
+    "wof:lastmodified":1566605427,
     "wof:name":"Lakavica",
     "wof:parent_id":85674219,
     "wof:placetype":"locality",

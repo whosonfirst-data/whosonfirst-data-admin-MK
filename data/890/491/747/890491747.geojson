@@ -11,10 +11,14 @@
     "geom:longitude":21.03472,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1831,
+    "gn:population":1831,
     "iso:country":"MK",
+    "lbl:bbox":"21.01472,41.9475,21.05472,41.9875",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0438\u043c\u043d\u0438\u0446\u0430"
     ],
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":796095,
-        "qs:id":1029167
+        "qs_pg:id":1029167
     },
     "wof:country":"MK",
     "wof:created":1469054864,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890491747,
-    "wof:lastmodified":1564308566,
+    "wof:lastmodified":1566605457,
     "wof:name":"Strimnica",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

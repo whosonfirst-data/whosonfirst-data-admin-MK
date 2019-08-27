@@ -11,9 +11,12 @@
     "geom:longitude":20.97139,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":72944,
+    "gn:population":72944,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"20.95139,41.99056,20.99139,42.03056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -209,9 +212,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0442\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Kalkandelen"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u062a\u0648\u0648\u0648"
     ],
@@ -340,7 +340,7 @@
     "wof:concordances":{
         "gn:id":785082,
         "gp:id":483096,
-        "qs:id":1342842,
+        "qs_pg:id":1342842,
         "wd:id":"Q157024",
         "wk:page":"Tetovo"
     },
@@ -356,7 +356,7 @@
         }
     ],
     "wof:id":890492209,
-    "wof:lastmodified":1563257634,
+    "wof:lastmodified":1566605497,
     "wof:name":"Tetovo",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.22667,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":171,
+    "gn:population":171,
     "iso:country":"MK",
+    "lbl:bbox":"21.20667,41.53111,21.24667,41.57111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u0432\u0438\u0447\u043a\u0438 \u043c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
     ],
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791504,
-        "qs:id":554010,
+        "qs_pg:id":554010,
         "wd:id":"Q1282446",
         "wk:page":"Devi\u010d"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890492663,
-    "wof:lastmodified":1563257635,
+    "wof:lastmodified":1566605497,
     "wof:name":"Devi\u010d",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

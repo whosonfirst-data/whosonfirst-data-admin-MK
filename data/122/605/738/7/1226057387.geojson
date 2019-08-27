@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.51222,42.02611,21.55222,42.06611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Stra\u010dince",
         "Stra\u010dinci"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226057387,
-    "wof:lastmodified":1537664849,
+    "wof:lastmodified":1566605527,
     "wof:name":"Strachinci",
     "wof:parent_id":85674297,
     "wof:placetype":"locality",

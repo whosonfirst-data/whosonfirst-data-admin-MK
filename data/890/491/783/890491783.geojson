@@ -11,10 +11,14 @@
     "geom:longitude":21.60639,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":225,
+    "gn:population":225,
     "iso:country":"MK",
+    "lbl:bbox":"21.58639,41.84,21.62639,41.88",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0445\u043e\u044f\u0434\u0438\u0446\u0430"
     ],
@@ -30,7 +34,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0445\u043e\u0458\u0430\u0434\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strahodacica"
     ],
     "qs:name":"Strahojadica",
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":785446,
         "gp:id":482940,
-        "qs:id":83566
+        "qs_pg:id":83566
     },
     "wof:country":"MK",
     "wof:created":1469054865,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890491783,
-    "wof:lastmodified":1564308567,
+    "wof:lastmodified":1566605458,
     "wof:name":"Strahojadica",
     "wof:parent_id":85674245,
     "wof:placetype":"locality",

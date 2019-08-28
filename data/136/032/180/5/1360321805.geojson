@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.94361,42.27472,21.98361,42.31472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Martinovce"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360321805,
-    "wof:lastmodified":1537664939,
+    "wof:lastmodified":1566605436,
     "wof:name":"Martinovce",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

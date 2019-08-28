@@ -11,10 +11,14 @@
     "geom:longitude":21.09,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":345,
+    "gn:population":345,
     "iso:country":"MK",
+    "lbl:bbox":"21.07,41.21278,21.11,41.25278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u0440\u043e\u0432\u043e"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":784411,
         "gp:id":482563,
-        "qs:id":83545,
+        "qs_pg:id":83545,
         "wd:id":"Q3135614",
         "wk:page":"Virovo"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890491493,
-    "wof:lastmodified":1563257466,
+    "wof:lastmodified":1566605468,
     "wof:name":"Virovo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

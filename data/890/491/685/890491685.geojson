@@ -11,10 +11,14 @@
     "geom:longitude":21.35972,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1264,
+    "gn:population":1264,
     "iso:country":"MK",
+    "lbl:bbox":"21.33972,41.13889,21.37972,41.17889",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Beranci"
     ],
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":792676,
-        "qs:id":275781
+        "qs_pg:id":275781
     },
     "wof:country":"MK",
     "wof:created":1469054862,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890491685,
-    "wof:lastmodified":1505343794,
+    "wof:lastmodified":1566605465,
     "wof:name":"Beranci",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

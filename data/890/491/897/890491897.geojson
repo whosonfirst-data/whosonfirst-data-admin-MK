@@ -11,10 +11,14 @@
     "geom:longitude":21.5325,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":3175,
+    "gn:population":3175,
     "iso:country":"MK",
+    "lbl:bbox":"21.5125,41.33722,21.5525,41.37722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Varo\u0161"
     ],
@@ -39,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u043e\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Markov Grad"
     ],
     "qs:name":"Varo\u0161",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":784711,
         "gp:id":482783,
-        "qs:id":1028943,
+        "qs_pg:id":1028943,
         "wk:page":"Varo\u0161"
     },
     "wof:country":"MK",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890491897,
-    "wof:lastmodified":1564308582,
+    "wof:lastmodified":1566605472,
     "wof:name":"Varo\u0161",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

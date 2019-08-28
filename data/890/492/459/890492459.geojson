@@ -11,10 +11,14 @@
     "geom:longitude":21.305,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":614,
+    "gn:population":614,
     "iso:country":"MK",
+    "lbl:bbox":"21.285,41.30139,21.325,41.34139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Sveto Mitrani"
     ],
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":785188,
         "gp:id":482783,
-        "qs:id":553639
+        "qs_pg:id":553639
     },
     "wof:country":"MK",
     "wof:created":1469054890,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890492459,
-    "wof:lastmodified":1505343798,
+    "wof:lastmodified":1566605499,
     "wof:name":"Sveto Mitrani",
     "wof:parent_id":85674353,
     "wof:placetype":"locality",

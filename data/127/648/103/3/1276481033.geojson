@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.87163,42.16328,21.91163,42.20328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Popovci"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276481033,
-    "wof:lastmodified":1564308439,
+    "wof:lastmodified":1566605392,
     "wof:name":"Popovci",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

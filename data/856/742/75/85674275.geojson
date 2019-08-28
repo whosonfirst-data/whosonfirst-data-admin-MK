@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.839402,
     "lbl:longitude":22.431828,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0417\u0440\u043d\u043e\u0432\u0446\u0438",
     "meso:adm1_loc":"Zrnovci",
     "meso:gadm_adm1":"Zrnovci",
@@ -150,7 +151,7 @@
         "Zrnovci"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0bb0\u0ba9\u0bcb\u0bb5\u0b9a\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0bb8\u0bcd\u0bb0\u0ba9\u0bcb\u0bb5\u0b9a\u0bbf \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c30\u0c4d\u0c28\u0c4b\u0c35\u0c4d\u0c1a\u0c40 \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -167,14 +168,8 @@
     "name:ukr_x_preferred":[
         "\u0417\u0440\u043d\u043e\u0432\u0446\u0456"
     ],
-    "name:und_x_preferred":[
-        "Zrnovci"
-    ],
     "name:und_x_variant":[
         "Opstina Zrnovci"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Zrnovci"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0631\u0646\u0648\u0648\u062a\u0633\u06cc \u0628\u0644\u062f\u06cc\u06c1"
@@ -260,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"52",
     "statoids:area_mi":"20",
     "statoids:as_of_date":"2002-10-31",
@@ -287,7 +282,7 @@
         "gp:id":24550824,
         "hasc:id":"MK.ZR",
         "iso:id":"MK-33",
-        "qs:id":59751,
+        "qs_pg:id":59751,
         "unlc:id":"MK-33",
         "wd:id":"Q950881",
         "wk:page":"Zrnovci Municipality"
@@ -309,11 +304,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727583,
+    "wof:lastmodified":1566605365,
     "wof:name":"Zrnovci",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":3264,
     "wof:population_rank":4,

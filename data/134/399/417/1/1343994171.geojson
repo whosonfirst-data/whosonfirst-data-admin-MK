@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.6125,41.66361,20.6525,41.70361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u044a\u0440\u0431\u044f\u043d\u0438"
     ],
@@ -50,8 +54,7 @@
         "Vrbjani"
     ],
     "name:und_x_variant":[
-        "Vrbjane",
-        "Vrbjani"
+        "Vrbjane"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343994171,
-    "wof:lastmodified":1564308344,
+    "wof:lastmodified":1566605343,
     "wof:name":"Vrbjani",
     "wof:parent_id":85674403,
     "wof:placetype":"locality",

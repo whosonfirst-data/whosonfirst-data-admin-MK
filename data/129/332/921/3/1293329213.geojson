@@ -23,8 +23,12 @@
     "gn:population":58216,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.48278,41.92889,21.52278,41.96889",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0435\u043b\u0430 \u0432\u043e\u0434\u0430"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1293329213,
-    "wof:lastmodified":1564308405,
+    "wof:lastmodified":1566605378,
     "wof:name":"Kisela Voda",
     "wof:parent_id":85674337,
     "wof:placetype":"locality",

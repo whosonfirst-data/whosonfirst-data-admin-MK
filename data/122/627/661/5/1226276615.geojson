@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.2067,42.2927,22.2467,42.3327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pavlovci"
     ],
@@ -44,8 +48,7 @@
         "\u041f\u0430\u0432\u043b\u043e\u0432\u0446\u0438"
     ],
     "name:und_x_variant":[
-        "Pavlovci Mahala",
-        "Pavlovci"
+        "Pavlovci Mahala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226276615,
-    "wof:lastmodified":1564308667,
+    "wof:lastmodified":1566605526,
     "wof:name":"Pavlovci",
     "wof:parent_id":85674197,
     "wof:placetype":"locality",

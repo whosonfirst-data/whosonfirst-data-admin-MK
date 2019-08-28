@@ -11,10 +11,14 @@
     "geom:longitude":20.59611,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":8805,
+    "gn:population":8805,
     "iso:country":"MK",
+    "lbl:bbox":"20.57611,41.24861,20.61611,41.28861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0431\u0443\u043d\u0438\u0449\u0430"
     ],
@@ -54,7 +58,7 @@
     "name:srp_x_preferred":[
         "\u041b\u0430\u0431\u0443\u043d\u0438\u0448\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Labuni\u0161te"
     ],
     "qs:name":"\u041b\u0430\u0431\u0443\u043d\u0438\u0448\u0442\u0430",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":788819,
         "gp:id":482404,
-        "qs:id":129545,
+        "qs_pg:id":129545,
         "wd:id":"Q614871"
     },
     "wof:country":"MK",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890491727,
-    "wof:lastmodified":1563257516,
+    "wof:lastmodified":1566605476,
     "wof:name":"\u041b\u0430\u0431\u0443\u043d\u0438\u0448\u0442\u0430",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

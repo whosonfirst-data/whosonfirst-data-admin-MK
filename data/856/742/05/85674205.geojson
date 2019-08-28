@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.992067,
     "lbl:longitude":21.255809,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0421\u0430\u0440\u0430\u0458",
     "meso:adm1_loc":"Saraj",
     "meso:gadm_adm1":"Saraj",
@@ -110,14 +111,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0439"
     ],
-    "name:und_x_preferred":[
-        "Saraj"
-    ],
     "name:und_x_variant":[
         "Opstina Saraj"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Saraj"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0631\u0627\u06cc \u0628\u0644\u062f\u06cc\u06c1"
@@ -198,9 +193,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"230",
     "statoids:area_mi":"89",
     "statoids:as_of_date":"2002-10-31",
@@ -226,7 +221,7 @@
         "gp:id":24550803,
         "hasc:id":"MK.AJ",
         "iso:id":"MK-68",
-        "qs:id":1191297,
+        "qs_pg:id":1191297,
         "unlc:id":"MK-68",
         "wd:id":"Q1309481"
     },
@@ -247,11 +242,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727582,
+    "wof:lastmodified":1566605364,
     "wof:name":"Saraj",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":35408,
     "wof:population_rank":7,

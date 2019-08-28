@@ -11,10 +11,14 @@
     "geom:longitude":21.13861,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":523,
+    "gn:population":523,
     "iso:country":"MK",
+    "lbl:bbox":"21.11861,41.06083,21.15861,41.10083",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0110avato"
     ],
@@ -22,7 +26,7 @@
         "\u0403\u0430\u0432\u0430\u0442\u043e",
         "\u01f4avato"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gavato"
     ],
     "qs:name":"\u00d0avato",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":791616,
         "gp:id":482274,
-        "qs:id":554023
+        "qs_pg:id":554023
     },
     "wof:country":"MK",
     "wof:created":1469054853,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890491451,
-    "wof:lastmodified":1505343793,
+    "wof:lastmodified":1566605469,
     "wof:name":"\u00d0avato",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

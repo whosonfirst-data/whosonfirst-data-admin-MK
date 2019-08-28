@@ -11,10 +11,14 @@
     "geom:longitude":21.25972,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":209,
+    "gn:population":209,
     "iso:country":"MK",
+    "lbl:bbox":"21.23972,41.4275,21.27972,41.4675",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u042f\u043a\u0440\u0435\u043d\u043e\u0432\u043e"
     ],
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":789911,
         "gp:id":482372,
-        "qs:id":83705
+        "qs_pg:id":83705
     },
     "wof:country":"MK",
     "wof:created":1469054888,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890492379,
-    "wof:lastmodified":1564308595,
+    "wof:lastmodified":1566605487,
     "wof:name":"Jakrenovo",
     "wof:parent_id":85674353,
     "wof:placetype":"locality",

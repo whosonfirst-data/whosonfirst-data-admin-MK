@@ -11,10 +11,14 @@
     "geom:longitude":21.41556,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1303,
+    "gn:population":1303,
     "iso:country":"MK",
+    "lbl:bbox":"21.39556,41.51083,21.43556,41.55083",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u043d\u0438\u043b\u0438\u0449\u0435"
     ],
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791819,
-        "qs:id":1029121,
+        "qs_pg:id":1029121,
         "wd:id":"Q339762",
         "wk:page":"Crnili\u0161te"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890491767,
-    "wof:lastmodified":1563257425,
+    "wof:lastmodified":1566605461,
     "wof:name":"Crnili\u0161te",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

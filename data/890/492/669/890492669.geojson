@@ -11,10 +11,14 @@
     "geom:longitude":21.37778,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":773,
+    "gn:population":773,
     "iso:country":"MK",
+    "lbl:bbox":"21.35778,41.79194,21.39778,41.83194",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Crn Vrv"
     ],
@@ -24,7 +28,7 @@
     "name:swe_x_preferred":[
         "Crn Vrv"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Crni Vrv"
     ],
     "qs:name":"Crn Vrv",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":791752,
         "gp:id":482940,
-        "qs:id":554032,
+        "qs_pg:id":554032,
         "wk:page":"Crn Vrv"
     },
     "wof:country":"MK",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890492669,
-    "wof:lastmodified":1564308593,
+    "wof:lastmodified":1566605484,
     "wof:name":"Crn Vrv",
     "wof:parent_id":85674223,
     "wof:placetype":"locality",

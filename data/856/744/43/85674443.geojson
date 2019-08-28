@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.392228,
     "lbl:longitude":22.460631,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0412\u0430\u043b\u0430\u043d\u0434\u043e\u0432\u043e",
     "meso:adm1_loc":"Valandovo",
     "meso:gadm_adm1":"Valandovo",
@@ -104,14 +105,8 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u0430\u043d\u0434\u043e\u0432\u043e"
     ],
-    "name:und_x_preferred":[
-        "Valandovo"
-    ],
     "name:und_x_variant":[
         "Opstina Valandovo"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Valandovo"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0644\u0627\u0646\u062f\u0648\u0648 \u0628\u0644\u062f\u06cc\u06c1"
@@ -192,9 +187,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"331",
     "statoids:area_mi":"128",
     "statoids:as_of_date":"2002-10-31",
@@ -219,7 +214,7 @@
         "gp:id":24550813,
         "hasc:id":"MK.VA",
         "iso:id":"MK-10",
-        "qs:id":1103587,
+        "qs_pg:id":1103587,
         "unlc:id":"MK-10",
         "wd:id":"Q2018965",
         "wk:page":"Valandovo Municipality"
@@ -241,11 +236,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727580,
+    "wof:lastmodified":1566605360,
     "wof:name":"Valandovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":11890,
     "wof:population_rank":6,

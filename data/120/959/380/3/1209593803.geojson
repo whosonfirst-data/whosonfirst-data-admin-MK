@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.72306,41.46972,22.76306,41.50972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u043c\u0437\u0430\u043b\u0438"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209593803,
-    "wof:lastmodified":1564308468,
+    "wof:lastmodified":1566605404,
     "wof:name":"Hamzali",
     "wof:parent_id":85632373,
     "wof:placetype":"locality",

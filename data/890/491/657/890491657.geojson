@@ -11,10 +11,14 @@
     "geom:longitude":22.19583,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":48279,
+    "gn:population":48279,
     "iso:country":"MK",
+    "lbl:bbox":"22.17583,41.72583,22.21583,41.76583",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0429\u0438\u043f"
     ],
@@ -51,7 +55,7 @@
     "name:tur_x_preferred":[
         "\u0130\u015ftip"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ishtib"
     ],
     "qs:name":"Shtip",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":785482,
         "gp:id":483020,
-        "qs:id":275723
+        "qs_pg:id":275723
     },
     "wof:country":"MK",
     "wof:created":1469054860,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890491657,
-    "wof:lastmodified":1505343794,
+    "wof:lastmodified":1566605456,
     "wof:name":"Shtip",
     "wof:parent_id":85674219,
     "wof:placetype":"locality",

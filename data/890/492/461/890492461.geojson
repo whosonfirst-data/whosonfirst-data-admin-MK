@@ -11,14 +11,18 @@
     "geom:longitude":21.33694,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":447,
+    "gn:population":447,
     "iso:country":"MK",
+    "lbl:bbox":"21.31694,41.20944,21.35694,41.24944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043e \u0422\u043e\u0434\u043e\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveti Todor"
     ],
     "qs:name":"Sveto Todori",
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":785194,
         "gp:id":481746,
-        "qs:id":553640
+        "qs_pg:id":553640
     },
     "wof:country":"MK",
     "wof:created":1469054891,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890492461,
-    "wof:lastmodified":1505343798,
+    "wof:lastmodified":1566605499,
     "wof:name":"Sveto Todori",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

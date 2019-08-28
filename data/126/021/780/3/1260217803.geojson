@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Belgrade",
     "iso:country":"MK",
+    "lbl:bbox":"22.17026,42.28248,22.21026,42.32248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Pi\u017einska Maala"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260217803,
-    "wof:lastmodified":1537664941,
+    "wof:lastmodified":1566605420,
     "wof:name":"Pizinska Maala",
     "wof:parent_id":85674197,
     "wof:placetype":"locality",

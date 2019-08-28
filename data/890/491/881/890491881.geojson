@@ -11,10 +11,14 @@
     "geom:longitude":21.02444,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":553,
+    "gn:population":553,
     "iso:country":"MK",
+    "lbl:bbox":"21.00444,41.57472,21.04444,41.61472",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Arangel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aran\u0111el"
     ],
     "qs:name":"Arangel",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":793109,
         "gp:id":482276,
-        "qs:id":554119
+        "qs_pg:id":554119
     },
     "wof:country":"MK",
     "wof:created":1469054869,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890491881,
-    "wof:lastmodified":1564308561,
+    "wof:lastmodified":1566605452,
     "wof:name":"Arangel",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.95274,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":13292,
+    "gn:population":13292,
     "iso:country":"MK",
+    "lbl:bbox":"21.93274,41.84956,21.97274,41.88956",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0641\u064a\u062a\u064a \u0646\u064a\u0643\u0648\u0644\u0627"
     ],
@@ -105,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0456-\u041d\u0438\u043a\u043e\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kilisseli"
     ],
     "name:vol_x_preferred":[
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":785201,
         "gp:id":483067,
-        "qs:id":129398,
+        "qs_pg:id":129398,
         "wd:id":"Q366907",
         "wk:page":"Sveti Nikole"
     },
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":890491713,
-    "wof:lastmodified":1563257398,
+    "wof:lastmodified":1566605456,
     "wof:name":"Sveti Nikole",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

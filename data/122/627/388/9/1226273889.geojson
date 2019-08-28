@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.82923,42.13828,21.86923,42.17828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Trendafilci"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226273889,
-    "wof:lastmodified":1537664977,
+    "wof:lastmodified":1566605527,
     "wof:name":"Trendafilci",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

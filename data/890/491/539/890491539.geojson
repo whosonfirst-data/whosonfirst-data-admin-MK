@@ -11,10 +11,14 @@
     "geom:longitude":21.20889,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":990,
+    "gn:population":990,
     "iso:country":"MK",
+    "lbl:bbox":"21.18889,41.95194,21.22889,41.99194",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441\u043a\u0430\u0440\u0446\u0438"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Laskarci"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laskrce"
     ],
     "qs:name":"Laskarci",
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":788789,
-        "qs:id":83677
+        "qs_pg:id":83677
     },
     "wof:country":"MK",
     "wof:created":1469054856,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890491539,
-    "wof:lastmodified":1564308569,
+    "wof:lastmodified":1566605460,
     "wof:name":"Laskarci",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

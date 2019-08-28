@@ -11,10 +11,14 @@
     "geom:longitude":21.42861,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":35,
+    "gn:population":35,
     "iso:country":"MK",
+    "lbl:bbox":"21.40861,41.84806,21.44861,41.88806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u062a\u0648\u062f\u0646\u064a\u062a\u0634\u0627\u0646\u064a"
     ],
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":784762,
         "gp:id":482940,
-        "qs:id":553609,
+        "qs_pg:id":553609,
         "wd:id":"Q2088034",
         "wk:page":"Studeni\u010dani Municipality"
     },
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":890492441,
-    "wof:lastmodified":1563257549,
+    "wof:lastmodified":1566605482,
     "wof:name":"Umovo",
     "wof:parent_id":85674223,
     "wof:placetype":"locality",

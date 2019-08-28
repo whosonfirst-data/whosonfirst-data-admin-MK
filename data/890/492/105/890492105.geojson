@@ -11,11 +11,15 @@
     "geom:longitude":21.94278,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":3737,
+    "gn:population":3737,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.92278,41.5575,21.96278,41.5975",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gradsko"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":790217,
         "gp:id":482169,
-        "qs:id":900218,
+        "qs_pg:id":900218,
         "wd:id":"Q799464",
         "wk:page":"Gradsko"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890492105,
-    "wof:lastmodified":1563257528,
+    "wof:lastmodified":1566605478,
     "wof:name":"Gradsko",
     "wof:parent_id":85674301,
     "wof:placetype":"locality",

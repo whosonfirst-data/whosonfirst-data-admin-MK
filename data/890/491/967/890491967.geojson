@@ -11,11 +11,15 @@
     "geom:longitude":20.88528,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":8652,
+    "gn:population":8652,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"20.86528,41.81389,20.90528,41.85389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u0628\u062a\u0634\u064a\u0634\u062a\u064a"
     ],
@@ -61,7 +65,7 @@
     "name:tur_x_preferred":[
         "Vrap\u00e7i\u015fte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vrap\u010di\u0161ta"
     ],
     "qs:name":"Vrap\u010di\u0161te",
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":784212,
         "gp:id":483230,
-        "qs:id":129383,
+        "qs_pg:id":129383,
         "wd:id":"Q2535034",
         "wk:page":"Vrap\u010di\u0161te"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890491967,
-    "wof:lastmodified":1563257432,
+    "wof:lastmodified":1566605462,
     "wof:name":"Vrap\u010di\u0161te",
     "wof:parent_id":85674421,
     "wof:placetype":"locality",

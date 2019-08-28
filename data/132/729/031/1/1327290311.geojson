@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.71114,41.93676,22.75114,41.97676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u043e\u0432\u043e \u0414\u044a\u0431\u0435"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1327290311,
-    "wof:lastmodified":1564308337,
+    "wof:lastmodified":1566605340,
     "wof:name":"Kosovo Dabje",
     "wof:parent_id":85674485,
     "wof:placetype":"locality",

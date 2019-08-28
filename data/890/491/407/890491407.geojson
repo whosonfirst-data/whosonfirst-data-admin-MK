@@ -11,10 +11,14 @@
     "geom:longitude":21.46028,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":366,
+    "gn:population":366,
     "iso:country":"MK",
+    "lbl:bbox":"21.44028,41.18444,21.48028,41.22444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043b\u0435\u043f\u0430\u0447"
     ],
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":789461,
-        "qs:id":553900,
+        "qs_pg:id":553900,
         "wd:id":"Q3087235",
         "wk:page":"Klepa\u010d"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890491407,
-    "wof:lastmodified":1563257384,
+    "wof:lastmodified":1566605455,
     "wof:name":"Klepa\u010d",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

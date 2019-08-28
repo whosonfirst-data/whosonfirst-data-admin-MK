@@ -11,10 +11,14 @@
     "geom:longitude":21.69833,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":40,
+    "gn:population":40,
     "iso:country":"MK",
+    "lbl:bbox":"21.67833,41.74333,21.71833,41.78333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0441"
     ],
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":792763,
         "gp:id":483099,
-        "qs:id":554101,
+        "qs_pg:id":554101,
         "wd:id":"Q2088561",
         "wk:page":"Veles Municipality"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890491099,
-    "wof:lastmodified":1563257381,
+    "wof:lastmodified":1566605454,
     "wof:name":"Bele\u0161tevica",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

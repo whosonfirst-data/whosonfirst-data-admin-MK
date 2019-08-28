@@ -11,10 +11,14 @@
     "geom:longitude":21.06417,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":25422,
+    "gn:population":25422,
     "iso:country":"MK",
+    "lbl:bbox":"21.04417,41.96028,21.08417,42.00028",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0632\u064a\u0644\u064a\u0646\u0648"
     ],
@@ -132,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043b\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u017deljino"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +160,7 @@
     "wof:concordances":{
         "gn:id":783926,
         "gp:id":483266,
-        "qs:id":129366,
+        "qs_pg:id":129366,
         "wd:id":"Q1996410",
         "wk:page":"\u017delino Municipality"
     },
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":890491705,
-    "wof:lastmodified":1563257419,
+    "wof:lastmodified":1566605459,
     "wof:name":"\u0416\u0435\u043b\u0438\u043d\u043e",
     "wof:parent_id":85674251,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.85333,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":97,
+    "gn:population":97,
     "iso:country":"MK",
+    "lbl:bbox":"21.83333,41.46333,21.87333,41.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u044a\u0440\u0437\u0435\u043d \u041e\u0440\u0430\u043e\u0432\u0435\u0446"
     ],
@@ -42,7 +46,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0440\u0437\u0435\u043d \u041e\u0440\u0430\u043e\u0432\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mrzen"
     ],
     "qs:name":"Mrzen Oraovec",
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":787800,
-        "qs:id":83647,
+        "qs_pg:id":83647,
         "wd:id":"Q3073220",
         "wk:page":"Rosoman Municipality"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890492167,
-    "wof:lastmodified":1563257532,
+    "wof:lastmodified":1566605479,
     "wof:name":"Mrzen Oraovec",
     "wof:parent_id":85674201,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.86002,42.15364,21.90002,42.19364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Pe\u010denjaci"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209249313,
-    "wof:lastmodified":1537664979,
+    "wof:lastmodified":1566605400,
     "wof:name":"Pecenjaci",
     "wof:parent_id":85632373,
     "wof:placetype":"locality",

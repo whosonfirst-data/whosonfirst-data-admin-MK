@@ -11,17 +11,21 @@
     "geom:longitude":21.98528,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":37,
+    "gn:population":37,
     "iso:country":"MK",
+    "lbl:bbox":"21.96528,41.97361,22.00528,42.01361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Gorno \u01f4u\u01f5ance"
     ],
     "name:mkd_x_variant":[
         "\u0413\u043e\u0440\u043d\u043e \u0403\u0443\u0453\u0430\u043d\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorno Dzugance"
     ],
     "qs:name":"Gorno \u00d0ugance",
@@ -37,7 +41,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":790337,
-        "qs:id":553935
+        "qs_pg:id":553935
     },
     "wof:country":"MK",
     "wof:created":1469054852,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890491429,
-    "wof:lastmodified":1505343792,
+    "wof:lastmodified":1566605466,
     "wof:name":"Gorno \u00d0ugance",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

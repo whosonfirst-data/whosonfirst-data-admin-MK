@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.66309,41.48136,20.70309,41.52136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0440\u0438"
     ],
@@ -73,8 +77,7 @@
     "name:und_x_variant":[
         "Sajre",
         "Gare",
-        "Gaire",
-        "Gari"
+        "Gaire"
     ],
     "name:vie_x_preferred":[
         "Gari"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1343798261,
-    "wof:lastmodified":1564308348,
+    "wof:lastmodified":1566605345,
     "wof:name":"Gari",
     "wof:parent_id":85674389,
     "wof:placetype":"locality",

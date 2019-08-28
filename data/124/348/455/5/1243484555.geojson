@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.9571,42.29945,21.9971,42.33945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ivankovac"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1243484555,
-    "wof:lastmodified":1564308624,
+    "wof:lastmodified":1566605510,
     "wof:name":"Ivankovac",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

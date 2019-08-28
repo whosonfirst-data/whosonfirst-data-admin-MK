@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.34779,41.48116,22.38779,41.52116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Lubnica"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1327467779,
-    "wof:lastmodified":1564308321,
+    "wof:lastmodified":1566605333,
     "wof:name":"Lubnica",
     "wof:parent_id":85674311,
     "wof:placetype":"locality",

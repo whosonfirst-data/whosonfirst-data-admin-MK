@@ -11,10 +11,14 @@
     "geom:longitude":21.37139,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":12,
+    "gn:population":12,
     "iso:country":"MK",
+    "lbl:bbox":"21.35139,41.87056,21.39139,41.91056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u062a\u0648\u062f\u0646\u064a\u062a\u0634\u0627\u0646\u064a"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u0447\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Osi\u010dani"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +151,7 @@
     "wof:concordances":{
         "gn:id":787368,
         "gp:id":482940,
-        "qs:id":553779,
+        "qs_pg:id":553779,
         "wd:id":"Q2088034",
         "wk:page":"Studeni\u010dani Municipality"
     },
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":890492559,
-    "wof:lastmodified":1563257527,
+    "wof:lastmodified":1566605478,
     "wof:name":"Osin\u010dani",
     "wof:parent_id":85674223,
     "wof:placetype":"locality",

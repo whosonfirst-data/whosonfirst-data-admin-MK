@@ -11,10 +11,14 @@
     "geom:longitude":21.43444,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":394,
+    "gn:population":394,
     "iso:country":"MK",
+    "lbl:bbox":"21.41444,41.24361,21.45444,41.28361",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u0433\u043e\u0440\u0430\u043d\u0438"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Zagorani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zagorane"
     ],
     "qs:name":"Zagorani",
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":784043,
-        "qs:id":553567,
+        "qs_pg:id":553567,
         "wd:id":"Q3073970",
         "wk:page":"Zagorani"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890492425,
-    "wof:lastmodified":1563257541,
+    "wof:lastmodified":1566605481,
     "wof:name":"Zagorani",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

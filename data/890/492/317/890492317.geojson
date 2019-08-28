@@ -11,10 +11,14 @@
     "geom:longitude":21.38333,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":93,
+    "gn:population":93,
     "iso:country":"MK",
+    "lbl:bbox":"21.36333,41.47444,21.40333,41.51444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043b\u0438\u0432\u0438\u0435"
     ],
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":785784,
-        "qs:id":83590,
+        "qs_pg:id":83590,
         "wd:id":"Q3074972",
         "wk:page":"Slivje"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890492317,
-    "wof:lastmodified":1563257663,
+    "wof:lastmodified":1566605502,
     "wof:name":"Slivje",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

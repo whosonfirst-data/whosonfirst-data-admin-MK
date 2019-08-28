@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.67861,41.50639,22.71861,41.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u043c\u0430\u0445\u0430\u043b\u0430"
     ],
@@ -53,8 +57,7 @@
         "Nova Maala"
     ],
     "name:und_x_variant":[
-        "Nova Mala",
-        "Nova Maala"
+        "Nova Mala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1310634771,
-    "wof:lastmodified":1564308517,
+    "wof:lastmodified":1566605426,
     "wof:name":"Nova Maala",
     "wof:parent_id":85674449,
     "wof:placetype":"locality",

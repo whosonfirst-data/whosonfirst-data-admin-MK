@@ -11,17 +11,21 @@
     "geom:longitude":21.62528,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":482,
+    "gn:population":482,
     "iso:country":"MK",
+    "lbl:bbox":"21.60528,41.925,21.64528,41.965",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u040c\u043e\u0458\u043b\u0438\u0458\u0430"
     ],
     "name:mkd_x_variant":[
         "\u1e30ojlija"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kjojlija"
     ],
     "qs:name":"\u0106ojlija",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":791902,
         "gp:id":482940,
-        "qs:id":83759
+        "qs_pg:id":83759
     },
     "wof:country":"MK",
     "wof:created":1469054858,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890491601,
-    "wof:lastmodified":1505343793,
+    "wof:lastmodified":1566605470,
     "wof:name":"\u0106ojlija",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

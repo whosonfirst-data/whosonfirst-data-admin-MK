@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.02379,
     "lbl:longitude":21.626705,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u041d\u043e\u0432\u0430\u0446\u0438",
     "meso:adm1_loc":"Novatsi",
     "meso:gadm_adm1":"Novatsi",
@@ -101,15 +102,8 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430\u0446\u0456"
     ],
-    "name:und_x_preferred":[
-        "Novaci"
-    ],
     "name:und_x_variant":[
-        "Novatsi",
         "Opstina Novaci"
-    ],
-    "name:unk_x_variant":[
-        "Novaci"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0627\u062a\u0633\u06cc \u0628\u0644\u062f\u06cc\u06c1"
@@ -190,9 +184,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"755",
     "statoids:area_mi":"292",
     "statoids:as_of_date":"2002-10-31",
@@ -217,7 +211,7 @@
         "gp:id":24550791,
         "hasc:id":"MK.NV",
         "iso:id":"MK-55",
-        "qs:id":1197779,
+        "qs_pg:id":1197779,
         "unlc:id":"MK-55",
         "wd:id":"Q2088022"
     },
@@ -238,11 +232,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727581,
+    "wof:lastmodified":1566605362,
     "wof:name":"Novatsi",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":3549,
     "wof:population_rank":4,

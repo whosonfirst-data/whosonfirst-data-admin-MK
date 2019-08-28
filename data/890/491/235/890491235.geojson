@@ -11,10 +11,14 @@
     "geom:longitude":21.02389,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":145,
+    "gn:population":145,
     "iso:country":"MK",
+    "lbl:bbox":"21.00389,41.12028,21.04389,41.16028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0435\u043d\u0438"
     ],
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":789035,
-        "qs:id":553882,
+        "qs_pg:id":553882,
         "wd:id":"Q3074432",
         "wk:page":"Kriveni"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890491235,
-    "wof:lastmodified":1563257377,
+    "wof:lastmodified":1566605453,
     "wof:name":"Kriveni",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

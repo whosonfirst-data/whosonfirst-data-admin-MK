@@ -11,10 +11,14 @@
     "geom:longitude":21.10278,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1159,
+    "gn:population":1159,
     "iso:country":"MK",
+    "lbl:bbox":"21.08278,41.82583,21.12278,41.86583",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0443\u0440\u0433\u0443\u0440\u043d\u0438\u0446\u0430"
     ],
@@ -45,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0440\u0433\u0443\u0440\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grgurnica"
     ],
     "qs:name":"Gurgurnica",
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":790084,
-        "qs:id":1029092
+        "qs_pg:id":1029092
     },
     "wof:country":"MK",
     "wof:created":1469054870,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890491927,
-    "wof:lastmodified":1564308583,
+    "wof:lastmodified":1566605473,
     "wof:name":"Gurgurnica",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.218459,
     "lbl:longitude":21.911193,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435",
     "meso:adm1_loc":"Staro Nagori\u010dane",
     "meso:gadm_adm1":"Staro Nagori\u010dane",
@@ -87,14 +88,8 @@
         "Opstina Staro Nagoricane",
         "Staro Nagoricane"
     ],
-    "name:und_x_preferred":[
-        "Staro Nagori\u010dane"
-    ],
     "name:und_x_variant":[
         "Opstina Staro Nagori\u010dane"
-    ],
-    "name:unk_x_variant":[
-        "Staro Nagori\u010dane"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5854\u7f85\u7d0d\u6208\u91cc\u67e5\u5167\u5340"
@@ -171,9 +166,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"515",
     "statoids:area_mi":"199",
     "statoids:as_of_date":"2002-10-31",
@@ -198,7 +193,7 @@
         "gp:id":24550856,
         "hasc:id":"MK.NA",
         "iso:id":"MK-71",
-        "qs:id":1103590,
+        "qs_pg:id":1103590,
         "unlc:id":"MK-71",
         "wd:id":"Q2128903",
         "wk:page":"Staro Nagori\u010dane Municipality"
@@ -220,11 +215,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727583,
+    "wof:lastmodified":1566605366,
     "wof:name":"Northeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":4840,
     "wof:population_rank":4,

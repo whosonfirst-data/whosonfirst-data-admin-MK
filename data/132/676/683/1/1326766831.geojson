@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.16034,41.73173,21.20034,41.77173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Sapatoec"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326766831,
-    "wof:lastmodified":1537664948,
+    "wof:lastmodified":1566605334,
     "wof:name":"Sapatoec",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

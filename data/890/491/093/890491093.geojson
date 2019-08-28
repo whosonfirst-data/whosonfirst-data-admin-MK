@@ -11,10 +11,14 @@
     "geom:longitude":21.70361,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":73,
+    "gn:population":73,
     "iso:country":"MK",
+    "lbl:bbox":"21.68361,41.31667,21.72361,41.35667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Belovodica"
     ],
@@ -123,7 +127,7 @@
     "name:swe_x_preferred":[
         "Belovodica"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bela Vodica"
     ],
     "qs:name":"Belovodica",
@@ -143,7 +147,7 @@
     "wof:concordances":{
         "gn:id":792691,
         "gp:id":482783,
-        "qs:id":554097,
+        "qs_pg:id":554097,
         "wd:id":"Q2895108",
         "wk:page":"Belovodica"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":890491093,
-    "wof:lastmodified":1563257487,
+    "wof:lastmodified":1566605471,
     "wof:name":"Belovodica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

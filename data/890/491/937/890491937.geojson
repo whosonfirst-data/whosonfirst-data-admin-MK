@@ -11,10 +11,14 @@
     "geom:longitude":21.49111,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1317,
+    "gn:population":1317,
     "iso:country":"MK",
+    "lbl:bbox":"21.47111,41.44278,21.51111,41.48278",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u0441\u043e\u0432\u043e"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":791517,
         "gp:id":482783,
-        "qs:id":1029108,
+        "qs_pg:id":1029108,
         "wd:id":"Q3024547",
         "wk:page":"Desovo"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890491937,
-    "wof:lastmodified":1563257340,
+    "wof:lastmodified":1566605446,
     "wof:name":"Desovo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

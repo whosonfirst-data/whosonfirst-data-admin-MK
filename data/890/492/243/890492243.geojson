@@ -11,11 +11,15 @@
     "geom:longitude":22.33389,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":4972,
+    "gn:population":4972,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"22.31389,41.86333,22.35389,41.90333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e"
     ],
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":787526,
         "gp:id":482638,
-        "qs:id":1213606,
+        "qs_pg:id":1213606,
         "wd:id":"Q15410065",
         "wk:page":"\u010ce\u0161inovo-Oble\u0161evo Municipality"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890492243,
-    "wof:lastmodified":1563257551,
+    "wof:lastmodified":1566605482,
     "wof:name":"Obleshevo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

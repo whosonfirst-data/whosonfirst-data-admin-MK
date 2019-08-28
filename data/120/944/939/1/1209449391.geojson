@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.97862,41.01276,21.01862,41.05276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u044a\u0440\u043c\u0435\u043d\u0438"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1209449391,
-    "wof:lastmodified":1564308477,
+    "wof:lastmodified":1566605409,
     "wof:name":"Drmeni",
     "wof:parent_id":85632373,
     "wof:placetype":"locality",

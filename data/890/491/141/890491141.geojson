@@ -11,10 +11,14 @@
     "geom:longitude":21.08583,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":72,
+    "gn:population":72,
     "iso:country":"MK",
+    "lbl:bbox":"21.06583,41.46833,21.10583,41.50833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u0436\u0438\u0449\u0435"
     ],
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":789970,
-        "qs:id":83711
+        "qs_pg:id":83711
     },
     "wof:country":"MK",
     "wof:created":1469054842,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890491141,
-    "wof:lastmodified":1564308584,
+    "wof:lastmodified":1566605474,
     "wof:name":"I\u017ei\u0161te",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

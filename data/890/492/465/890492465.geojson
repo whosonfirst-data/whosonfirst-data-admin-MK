@@ -11,10 +11,14 @@
     "geom:longitude":21.27278,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":590,
+    "gn:population":590,
     "iso:country":"MK",
+    "lbl:bbox":"21.25278,41.24667,21.29278,41.28667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0430"
     ],
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":785212,
         "gp:id":482783,
-        "qs:id":553641,
+        "qs_pg:id":553641,
         "wd:id":"Q3074547"
     },
     "wof:country":"MK",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890492465,
-    "wof:lastmodified":1563257574,
+    "wof:lastmodified":1566605486,
     "wof:name":"Sveta",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.68139,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":91,
+    "gn:population":91,
     "iso:country":"MK",
+    "lbl:bbox":"21.66139,41.65556,21.70139,41.69556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0627\u0634\u0643\u0627"
     ],
@@ -129,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otitino"
     ],
     "name:urd_x_preferred":[
@@ -152,7 +156,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":787302,
-        "qs:id":553778,
+        "qs_pg:id":553778,
         "wd:id":"Q1994547",
         "wk:page":"\u010ca\u0161ka Municipality"
     },
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":890492557,
-    "wof:lastmodified":1563257529,
+    "wof:lastmodified":1566605478,
     "wof:name":"Oti\u0161tino",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

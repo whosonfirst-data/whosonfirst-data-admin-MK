@@ -11,11 +11,15 @@
     "geom:longitude":20.83917,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":5999,
+    "gn:population":5999,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"20.81917,41.74861,20.85917,41.78861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0648\u062a\u0648\u0643\u060c \u063a\u0648\u0633\u062a\u064a\u0641\u0627\u0631"
     ],
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0443\u0442\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vrutog"
     ],
     "qs:name":"Vrutok",
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":784114,
         "gp:id":483243,
-        "qs:id":925462,
+        "qs_pg:id":925462,
         "wd:id":"Q915991",
         "wk:page":"Vrutok"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890491889,
-    "wof:lastmodified":1563257355,
+    "wof:lastmodified":1566605449,
     "wof:name":"Vrutok",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

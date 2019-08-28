@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.89822,
     "lbl:longitude":21.98044,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0435",
     "meso:adm1_loc":"Sveti Nikole",
     "meso:gadm_adm1":"Sveti Nikole",
@@ -147,7 +148,7 @@
         "Sveti Nikole"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0bb5\u0bc6\u0b9f\u0bbf  \u0ba8\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0bb2\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0bb8\u0bcd\u0bb5\u0bc6\u0b9f\u0bbf \u0ba8\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0bb2\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c35\u0c46\u0c46\u0c1f\u0c3f \u0c28\u0c3f\u0c15\u0c4b\u0c32\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -164,14 +165,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u041d\u0438\u043a\u043e\u043b\u0435"
     ],
-    "name:und_x_preferred":[
-        "Sveti Nikole"
-    ],
     "name:und_x_variant":[
         "Opstina Sveti Nikole"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Sveti Nikole"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06cc\u062a\u06cc \u0646\u06cc\u0644\u0648\u0644\u06d2 \u0628\u0644\u062f\u06cc\u06c1"
@@ -255,9 +250,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"483",
     "statoids:area_mi":"186",
     "statoids:as_of_date":"2002-10-31",
@@ -282,7 +277,7 @@
         "gp:id":24550811,
         "hasc:id":"MK.SL",
         "iso:id":"MK-69",
-        "qs:id":1103586,
+        "qs_pg:id":1103586,
         "unlc:id":"MK-69",
         "wd:id":"Q2308277",
         "wk:page":"Sveti Nikole Municipality"
@@ -304,11 +299,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727582,
+    "wof:lastmodified":1566605364,
     "wof:name":"Sveti Nikole",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":18497,
     "wof:population_rank":6,

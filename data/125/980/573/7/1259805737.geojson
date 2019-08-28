@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.24036,41.12216,21.28036,41.16216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Zulica"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259805737,
-    "wof:lastmodified":1537664933,
+    "wof:lastmodified":1566605523,
     "wof:name":"Zulica",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

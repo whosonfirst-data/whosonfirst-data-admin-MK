@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.312664,
     "lbl:longitude":21.375271,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438",
     "meso:adm1_loc":"Krivoga\u0161tani",
     "meso:gadm_adm1":"Krivoga\u0161tani",
@@ -147,7 +148,7 @@
         "Krivogasjtani"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcd\u0bb0\u0bbf\u0bb5\u0bcb\u0b95\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b95\u0bcd\u0bb0\u0bbf\u0bb5\u0bcb\u0b95\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c30\u0c3f\u0c35\u0c4b\u0c17\u0c3e\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -168,14 +169,8 @@
         "Krivogastani",
         "Opstina Krivogastani"
     ],
-    "name:und_x_preferred":[
-        "Krivoga\u0161tani"
-    ],
     "name:und_x_variant":[
         "Opstina Krivoga\u0161tani"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Krivoga\u0161tani"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u062f\u06cc\u06c1 \u06a9\u0631\u06cc\u0648\u0648\u06af\u0627\u0634\u062a\u0627\u0646\u06cc"
@@ -259,9 +254,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"88",
     "statoids:area_mi":"34",
     "statoids:as_of_date":"2002-10-31",
@@ -286,7 +281,7 @@
         "gp:id":24550781,
         "hasc:id":"MK.KG",
         "iso:id":"MK-45",
-        "qs:id":59736,
+        "qs_pg:id":59736,
         "unlc:id":"MK-45",
         "wd:id":"Q2018930",
         "wk:page":"Krivoga\u0161tani Municipality"
@@ -308,11 +303,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727582,
+    "wof:lastmodified":1566605363,
     "wof:name":"Krivoga\u0161tani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":6150,
     "wof:population_rank":5,

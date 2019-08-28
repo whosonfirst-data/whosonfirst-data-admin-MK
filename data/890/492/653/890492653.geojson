@@ -11,10 +11,14 @@
     "geom:longitude":21.45583,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":565,
+    "gn:population":565,
     "iso:country":"MK",
+    "lbl:bbox":"21.43583,41.04944,21.47583,41.08944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Dobromiri"
     ],
@@ -126,7 +130,7 @@
     "name:swe_x_preferred":[
         "Dobromiri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobromir"
     ],
     "qs:name":"Dobromiri",
@@ -143,7 +147,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791429,
-        "qs:id":554004,
+        "qs_pg:id":554004,
         "wd:id":"Q3033405",
         "wk:page":"Novaci Municipality"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":890492653,
-    "wof:lastmodified":1563257645,
+    "wof:lastmodified":1566605499,
     "wof:name":"Dobromiri",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

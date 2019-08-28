@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.52444,41.45667,20.56444,41.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0435\u043c \u041f\u0430\u043f\u0440\u0430\u0434\u043d\u0438\u043a"
     ],
@@ -45,8 +49,7 @@
         "Golem Papranik",
         "Veliki-Papranik",
         "Golem Papradink",
-        "Mal-Papradnik",
-        "Golem Papradnik"
+        "Mal-Papradnik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1243417519,
-    "wof:lastmodified":1564308623,
+    "wof:lastmodified":1566605509,
     "wof:name":"Golem Papradnik",
     "wof:parent_id":85674385,
     "wof:placetype":"locality",

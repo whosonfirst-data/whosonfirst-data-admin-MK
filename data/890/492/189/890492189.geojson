@@ -11,10 +11,14 @@
     "geom:longitude":21.13389,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":235,
+    "gn:population":235,
     "iso:country":"MK",
+    "lbl:bbox":"21.11389,41.70861,21.15389,41.74861",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "Kosov\u00f4"
     ],
@@ -576,7 +580,7 @@
     "wof:concordances":{
         "gn:id":789230,
         "gp:id":481793,
-        "qs:id":83693,
+        "qs_pg:id":83693,
         "wd:id":"Q1246",
         "wk:page":"Kosovo"
     },
@@ -592,7 +596,7 @@
         }
     ],
     "wof:id":890492189,
-    "wof:lastmodified":1563257581,
+    "wof:lastmodified":1566605487,
     "wof:name":"Kosovo",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

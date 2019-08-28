@@ -11,10 +11,14 @@
     "geom:longitude":21.49806,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":133,
+    "gn:population":133,
     "iso:country":"MK",
+    "lbl:bbox":"21.47806,41.40917,21.51806,41.44917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u0431\u044a\u0440\u0447\u0430\u043d\u0438"
     ],
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":784057,
         "gp:id":482783,
-        "qs:id":553568,
+        "qs_pg:id":553568,
         "wd:id":"Q3074786",
         "wk:page":"Zabr\u010dani"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890492403,
-    "wof:lastmodified":1563257650,
+    "wof:lastmodified":1566605500,
     "wof:name":"Zabr\u010dani",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

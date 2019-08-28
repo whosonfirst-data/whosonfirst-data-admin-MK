@@ -11,10 +11,14 @@
     "geom:longitude":21.41222,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":125,
+    "gn:population":125,
     "iso:country":"MK",
+    "lbl:bbox":"21.39222,41.41583,21.43222,41.45583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0434\u0438\u043d\u043e\u0432\u043e"
     ],
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":786091,
         "gp:id":482783,
-        "qs:id":553689,
+        "qs_pg:id":553689,
         "wd:id":"Q3075372",
         "wk:page":"Sarandinovo"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890492491,
-    "wof:lastmodified":1563257575,
+    "wof:lastmodified":1566605487,
     "wof:name":"Sarandinovo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

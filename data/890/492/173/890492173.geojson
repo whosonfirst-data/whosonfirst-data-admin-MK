@@ -11,10 +11,14 @@
     "geom:longitude":21.51611,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":68,
+    "gn:population":68,
     "iso:country":"MK",
+    "lbl:bbox":"21.49611,41.24194,21.53611,41.28194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043e \u0420\u0443\u0432\u0446\u0438"
     ],
@@ -39,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u0420\u0443\u0432\u0446\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ruvci"
     ],
     "qs:name":"Malo Ruvci",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":788198,
         "gp:id":482783,
-        "qs:id":83660,
+        "qs_pg:id":83660,
         "wd:id":"Q378242",
         "wk:page":"Malo Ruvci"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890492173,
-    "wof:lastmodified":1561843543,
+    "wof:lastmodified":1566605487,
     "wof:name":"Malo Ruvci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

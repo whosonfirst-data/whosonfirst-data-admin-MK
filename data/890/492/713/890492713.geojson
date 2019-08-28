@@ -11,10 +11,14 @@
     "geom:longitude":21.27944,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":474,
+    "gn:population":474,
     "iso:country":"MK",
+    "lbl:bbox":"21.25944,41.41222,21.29944,41.45222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u043d\u043e"
     ],
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":792446,
-        "qs:id":554071,
+        "qs_pg:id":554071,
         "wk:page":"Borino"
     },
     "wof:country":"MK",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890492713,
-    "wof:lastmodified":1564308596,
+    "wof:lastmodified":1566605487,
     "wof:name":"Borino",
     "wof:parent_id":85674353,
     "wof:placetype":"locality",

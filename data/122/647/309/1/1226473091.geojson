@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.82737,42.26688,21.86737,42.30688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u043b\u0438\u043d\u0446\u0435"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226473091,
-    "wof:lastmodified":1564308680,
+    "wof:lastmodified":1566605532,
     "wof:name":"Pelince",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

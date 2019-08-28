@@ -11,10 +11,14 @@
     "geom:longitude":21.69639,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":2256,
+    "gn:population":2256,
     "iso:country":"MK",
+    "lbl:bbox":"21.67639,42.12167,21.71639,42.16167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0434\u0438\u043d\u0435"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":792809,
         "gp:id":482389,
-        "qs:id":1029160
+        "qs_pg:id":1029160
     },
     "wof:country":"MK",
     "wof:created":1469054871,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890491945,
-    "wof:lastmodified":1564308584,
+    "wof:lastmodified":1566605474,
     "wof:name":"Bedinje",
     "wof:parent_id":85674355,
     "wof:placetype":"locality",

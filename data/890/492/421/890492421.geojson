@@ -11,10 +11,14 @@
     "geom:longitude":21.09444,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":72,
+    "gn:population":72,
     "iso:country":"MK",
+    "lbl:bbox":"21.07444,41.73444,21.11444,41.77444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0430\u0434"
     ],
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":784037,
         "gp:id":482156,
-        "qs:id":553565,
+        "qs_pg:id":553565,
         "wd:id":"Q3139626",
         "wk:page":"Zagrad"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890492421,
-    "wof:lastmodified":1563257612,
+    "wof:lastmodified":1566605493,
     "wof:name":"Zagrad",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

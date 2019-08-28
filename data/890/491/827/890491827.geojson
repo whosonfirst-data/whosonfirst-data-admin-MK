@@ -11,10 +11,14 @@
     "geom:longitude":21.0375,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":3422,
+    "gn:population":3422,
     "iso:country":"MK",
+    "lbl:bbox":"21.0175,42.04778,21.0575,42.08778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Slatina"
     ],
     "qs:name":"Slatino",
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":785802,
-        "qs:id":275726,
+        "qs_pg:id":275726,
         "wd:id":"Q1170965",
         "wk:page":"Slatino"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890491827,
-    "wof:lastmodified":1563257349,
+    "wof:lastmodified":1566605448,
     "wof:name":"Slatino",
     "wof:parent_id":85674413,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.13222,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":119,
+    "gn:population":119,
     "iso:country":"MK",
+    "lbl:bbox":"21.11222,41.65917,21.15222,41.69917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":789188,
         "gp:id":482892,
-        "qs:id":83690,
+        "qs_pg:id":83690,
         "wd:id":"Q3137334",
         "wk:page":"Kova\u010d"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890492185,
-    "wof:lastmodified":1563257670,
+    "wof:lastmodified":1566605503,
     "wof:name":"Kova\u010d",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

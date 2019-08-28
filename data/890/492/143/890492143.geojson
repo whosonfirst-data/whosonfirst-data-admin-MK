@@ -11,14 +11,18 @@
     "geom:longitude":22.90399,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":913,
+    "gn:population":913,
     "iso:country":"MK",
+    "lbl:bbox":"22.88399,41.35496,22.92399,41.39496",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Smolare"
     ],
     "qs:name":"Smolari",
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":785733,
         "gp:id":483041,
-        "qs:id":83580
+        "qs_pg:id":83580
     },
     "wof:country":"MK",
     "wof:created":1469054879,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890492143,
-    "wof:lastmodified":1505343796,
+    "wof:lastmodified":1566605488,
     "wof:name":"Smolari",
     "wof:parent_id":85674467,
     "wof:placetype":"locality",

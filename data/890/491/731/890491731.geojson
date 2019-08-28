@@ -11,10 +11,14 @@
     "geom:longitude":21.73361,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":1999,
+    "gn:population":1999,
     "iso:country":"MK",
+    "lbl:bbox":"21.71361,41.66583,21.75361,41.70583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Gorno Orizari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gornji-\u010celtiki"
     ],
     "qs:name":"Gorno Orizari",
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":790319,
         "gp:id":482141,
-        "qs:id":129604,
+        "qs_pg:id":129604,
         "wd:id":"Q3073867",
         "wk:page":"Gorno Orizari"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890491731,
-    "wof:lastmodified":1563257344,
+    "wof:lastmodified":1566605447,
     "wof:name":"Gorno Orizari",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

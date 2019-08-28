@@ -11,10 +11,14 @@
     "geom:longitude":21.69083,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":104,
+    "gn:population":104,
     "iso:country":"MK",
+    "lbl:bbox":"21.67083,41.68,21.71083,41.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043b\u0443\u043a\u043e\u0432\u0435\u0446"
     ],
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":863696,
-        "qs:id":554587
+        "qs_pg:id":554587
     },
     "wof:country":"MK",
     "wof:created":1469054905,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890492753,
-    "wof:lastmodified":1564308587,
+    "wof:lastmodified":1566605478,
     "wof:name":"Klukovec",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

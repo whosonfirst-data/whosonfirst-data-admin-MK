@@ -11,10 +11,14 @@
     "geom:longitude":20.9925,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":2370,
+    "gn:population":2370,
     "iso:country":"MK",
+    "lbl:bbox":"20.9725,42.01083,21.0125,42.05083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u043e\u0439"
     ],
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":795062,
         "gp:id":482037,
-        "qs:id":129694,
+        "qs_pg:id":129694,
         "wd:id":"Q3075934"
     },
     "wof:country":"MK",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890491699,
-    "wof:lastmodified":1563257470,
+    "wof:lastmodified":1566605468,
     "wof:name":"Poroj",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.52541,41.79492,21.56541,41.83492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Cenovska Maala"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1225875211,
-    "wof:lastmodified":1537664950,
+    "wof:lastmodified":1566605530,
     "wof:name":"Cenovska Maala",
     "wof:parent_id":85674245,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":21.13083,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":159,
+    "gn:population":159,
     "iso:country":"MK",
+    "lbl:bbox":"21.11083,41.63861,21.15083,41.67861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u041b\u0443\u043f\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorno Lup\u0161te"
     ],
     "qs:name":"Lup\u0161te",
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":788402,
         "gp:id":483288,
-        "qs:id":83673
+        "qs_pg:id":83673
     },
     "wof:country":"MK",
     "wof:created":1469054848,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890491291,
-    "wof:lastmodified":1505343792,
+    "wof:lastmodified":1566605469,
     "wof:name":"Lup\u0161te",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

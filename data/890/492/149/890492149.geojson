@@ -11,10 +11,14 @@
     "geom:longitude":21.67167,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":63,
+    "gn:population":63,
     "iso:country":"MK",
+    "lbl:bbox":"21.65167,41.26,21.69167,41.3",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0449\u0430\u043d\u0438"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":787108,
         "gp:id":482783,
-        "qs:id":83614,
+        "qs_pg:id":83614,
         "wd:id":"Q3073906",
         "wk:page":"Pe\u0161tani"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890492149,
-    "wof:lastmodified":1563257668,
+    "wof:lastmodified":1566605503,
     "wof:name":"Pe\u0161tani",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

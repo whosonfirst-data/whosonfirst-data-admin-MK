@@ -11,10 +11,14 @@
     "geom:longitude":22.46472,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":24984,
+    "gn:population":24984,
     "iso:country":"MK",
+    "lbl:bbox":"22.44472,41.61833,22.48472,41.65833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u062f\u0648\u0641\u064a\u062a\u0634"
     ],
@@ -114,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043e\u0432\u0438\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radovi\u0161te"
     ],
     "name:vol_x_preferred":[
@@ -138,7 +142,7 @@
     "wof:concordances":{
         "gn:id":786565,
         "gp:id":482818,
-        "qs:id":275733,
+        "qs_pg:id":275733,
         "wd:id":"Q991318",
         "wk:page":"Radovi\u0161 Municipality"
     },
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":890491663,
-    "wof:lastmodified":1563257471,
+    "wof:lastmodified":1566605468,
     "wof:name":"\u0420\u0430\u0434\u043e\u0432\u0438\u0448",
     "wof:parent_id":85674191,
     "wof:placetype":"locality",

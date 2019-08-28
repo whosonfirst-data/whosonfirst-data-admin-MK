@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.52771,
     "lbl:longitude":20.521057,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0414\u0435\u0431\u0430\u0440",
     "meso:adm1_loc":"Debar",
     "meso:gadm_adm1":"Debar",
@@ -161,14 +162,8 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0431\u0430\u0440"
     ],
-    "name:und_x_preferred":[
-        "Debar"
-    ],
     "name:und_x_variant":[
         "Opstina Debar"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Debar"
     ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0628\u0627\u0631 \u0628\u0644\u062f\u06cc\u06c1"
@@ -252,9 +247,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"85",
     "statoids:area_mi":"33",
     "statoids:as_of_date":"2002-10-31",
@@ -281,7 +276,7 @@
         "gp:id":24550837,
         "hasc:id":"MK.DB",
         "iso:id":"MK-21",
-        "qs:id":220916,
+        "qs_pg:id":220916,
         "unlc:id":"MK-21",
         "wd:id":"Q1344996",
         "wk:page":"Debar Municipality"
@@ -303,11 +298,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727581,
+    "wof:lastmodified":1566605361,
     "wof:name":"Debar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":19542,
     "wof:population_rank":6,

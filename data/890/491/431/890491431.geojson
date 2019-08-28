@@ -11,10 +11,14 @@
     "geom:longitude":21.17306,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":121,
+    "gn:population":121,
     "iso:country":"MK",
+    "lbl:bbox":"21.15306,41.39556,21.19306,41.43556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Gorno Divjaci"
     ],
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":790339,
-        "qs:id":553936
+        "qs_pg:id":553936
     },
     "wof:country":"MK",
     "wof:created":1469054852,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890491431,
-    "wof:lastmodified":1505343792,
+    "wof:lastmodified":1566605454,
     "wof:name":"Gorno Divjaci",
     "wof:parent_id":85674353,
     "wof:placetype":"locality",

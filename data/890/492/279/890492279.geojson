@@ -11,11 +11,15 @@
     "geom:longitude":21.58528,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":28102,
+    "gn:population":28102,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.56528,42.13639,21.60528,42.17639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u043f\u043a\u043e\u0432\u043e"
     ],
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipkov\u00eb"
     ],
     "qs:name":"Lipkovo",
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":788654,
         "gp:id":482441,
-        "qs:id":215391,
+        "qs_pg:id":215391,
         "wd:id":"Q3044293",
         "wk:page":"Lipkovo"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890492279,
-    "wof:lastmodified":1563257616,
+    "wof:lastmodified":1566605493,
     "wof:name":"Lipkovo",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

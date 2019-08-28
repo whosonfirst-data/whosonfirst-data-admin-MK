@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.15117,
     "lbl:longitude":21.414202,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u041c\u043e\u0433\u0438\u043b\u0430",
     "meso:adm1_loc":"Mogila",
     "meso:gadm_adm1":"Mogila",
@@ -104,14 +105,8 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0430"
     ],
-    "name:und_x_preferred":[
-        "Mogila"
-    ],
     "name:und_x_variant":[
         "Opstina Mogila"
-    ],
-    "name:unk_x_variant":[
-        "Mogila"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u06af\u06cc\u0644\u0627 \u0628\u0644\u062f\u06cc\u06c1"
@@ -191,9 +186,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"255",
     "statoids:area_mi":"98",
     "statoids:as_of_date":"2002-10-31",
@@ -218,7 +213,7 @@
         "gp:id":24550789,
         "hasc:id":"MK.MG",
         "iso:id":"MK-53",
-        "qs:id":911157,
+        "qs_pg:id":911157,
         "unlc:id":"MK-53",
         "wd:id":"Q1839369",
         "wk:page":"Mogila Municipality"
@@ -240,11 +235,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727581,
+    "wof:lastmodified":1566605362,
     "wof:name":"Pelagonia",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":6710,
     "wof:population_rank":5,

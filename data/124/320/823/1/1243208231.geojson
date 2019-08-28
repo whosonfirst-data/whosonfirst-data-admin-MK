@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.70361,41.67278,20.74361,41.71278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Ki\u010dinica"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243208231,
-    "wof:lastmodified":1537664924,
+    "wof:lastmodified":1566605515,
     "wof:name":"Kicinica",
     "wof:parent_id":85674403,
     "wof:placetype":"locality",

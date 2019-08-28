@@ -23,8 +23,12 @@
     "gn:population":45412,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.53945,41.45849,20.57945,41.49849",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u043f\u0430"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1243031197,
-    "wof:lastmodified":1564308628,
+    "wof:lastmodified":1566605511,
     "wof:name":"Centar Zupa",
     "wof:parent_id":85674385,
     "wof:placetype":"locality",

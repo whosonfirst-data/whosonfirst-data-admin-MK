@@ -11,10 +11,14 @@
     "geom:longitude":21.605,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":49,
+    "gn:population":49,
     "iso:country":"MK",
+    "lbl:bbox":"21.585,41.39611,21.625,41.43611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0441\u0430\u0434"
     ],
@@ -39,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u0441\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novi Prisad"
     ],
     "qs:name":"Prisad",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":838714,
         "gp:id":482783,
-        "qs:id":554515,
+        "qs_pg:id":554515,
         "wd:id":"Q3074378",
         "wk:page":"Prisad"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890491069,
-    "wof:lastmodified":1563257484,
+    "wof:lastmodified":1566605471,
     "wof:name":"Prisad",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

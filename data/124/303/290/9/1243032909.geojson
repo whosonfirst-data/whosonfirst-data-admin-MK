@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.42236,42.11969,21.46236,42.15969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Brodec"
     ],
@@ -32,8 +36,7 @@
         "\u0411\u0440\u043e\u0434\u0435\u0446"
     ],
     "name:und_x_variant":[
-        "Brodac",
-        "Brodec"
+        "Brodac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243032909,
-    "wof:lastmodified":1537664909,
+    "wof:lastmodified":1566605511,
     "wof:name":"Brodec",
     "wof:parent_id":85674287,
     "wof:placetype":"locality",

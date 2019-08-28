@@ -11,11 +11,15 @@
     "geom:longitude":21.94972,
     "gn:country":"MK",
     "gn:fcode":"PPLA",
-    "gn:pop":4106,
+    "gn:population":4106,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"21.92972,41.49611,21.96972,41.53611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rasoman"
     ],
     "qs:name":"Rosoman",
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":786239,
         "gp:id":482879,
-        "qs:id":129458,
+        "qs_pg:id":129458,
         "wd:id":"Q2990800",
         "wk:page":"Rosoman"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890492223,
-    "wof:lastmodified":1563257620,
+    "wof:lastmodified":1566605494,
     "wof:name":"Rosoman",
     "wof:parent_id":85674201,
     "wof:placetype":"locality",

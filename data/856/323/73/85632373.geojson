@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":41.569245,
     "lbl:longitude":21.547313,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":41.569245,
     "mps:longitude":21.547313,
     "mz:hierarchy_label":1,
@@ -1084,17 +1086,10 @@
         "Proin Giougkoslaviki Dimokratia tis Makedonias"
     ],
     "name:und_x_variant":[
-        "Maced\u00f2nia",
-        "Maced\u00f3nsko",
-        "Makedonie",
-        "Makedonija",
         "Makedon\u00eda",
         "Makedon\u00edas",
         "Nekdanja jugoslovanska republika Makedonija",
         "Pr\u00f3in Giougkoslavik\u00ed Dimokrat\u00eda tis Makedon\u00edas",
-        "Republika Makedonija"
-    ],
-    "name:unk_x_variant":[
         "Peoples Republic of Macedonia"
     ],
     "name:urd_x_preferred":[
@@ -1254,7 +1249,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"389",
     "statoids:ds":"MK",
@@ -1294,7 +1289,7 @@
         "mzb:id":"macedonia",
         "ne:adm0_a3":"MKD",
         "nyt:id":"N10179867412688300691",
-        "qs:id":220227,
+        "qs_pg:id":220227,
         "uncrt:id":"MK",
         "wd:id":"Q221",
         "wk:page":"Republic of Macedonia",
@@ -1317,7 +1312,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565901042,
+    "wof:lastmodified":1566605356,
     "wof:name":"Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

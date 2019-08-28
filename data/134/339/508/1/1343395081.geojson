@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.0418,42.06823,21.0818,42.10823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Glo\u01f5i"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343395081,
-    "wof:lastmodified":1537664893,
+    "wof:lastmodified":1566605342,
     "wof:name":"Glogi",
     "wof:parent_id":85674413,
     "wof:placetype":"locality",

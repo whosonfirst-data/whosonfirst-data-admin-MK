@@ -11,10 +11,14 @@
     "geom:longitude":21.60361,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":401,
+    "gn:population":401,
     "iso:country":"MK",
+    "lbl:bbox":"21.58361,41.87861,21.62361,41.91861",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043d\u0438"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Oresjani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ore\u0161ane"
     ],
     "qs:name":"Ore\u0161ani",
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":787421,
         "gp:id":483262,
-        "qs:id":553783,
+        "qs_pg:id":553783,
         "wd:id":"Q3071618",
         "wk:page":"Ore\u0161ani"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":890492561,
-    "wof:lastmodified":1563257528,
+    "wof:lastmodified":1566605478,
     "wof:name":"Ore\u0161ani",
     "wof:parent_id":85674245,
     "wof:placetype":"locality",

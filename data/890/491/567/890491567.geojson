@@ -11,10 +11,14 @@
     "geom:longitude":21.49556,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"MK",
+    "lbl:bbox":"21.47556,41.50639,21.51556,41.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gabrovnik"
     ],
@@ -36,9 +40,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0413\u0430\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
-    ],
     "qs:name":"Gabrovnik",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -53,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":790801,
-        "qs:id":83733,
+        "qs_pg:id":83733,
         "wk:page":"Gabrovnik"
     },
     "wof:country":"MK",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":890491567,
-    "wof:lastmodified":1564308553,
+    "wof:lastmodified":1566605443,
     "wof:name":"Gabrovnik",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":22.5775,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":2125,
+    "gn:population":2125,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"22.5575,41.13556,22.5975,41.17556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Stojakovo"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":785466,
         "gp:id":483021,
-        "qs:id":129422
+        "qs_pg:id":129422
     },
     "wof:country":"MK",
     "wof:created":1469054872,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890491971,
-    "wof:lastmodified":1505343796,
+    "wof:lastmodified":1566605458,
     "wof:name":"Stojakovo",
     "wof:parent_id":85674453,
     "wof:placetype":"locality",

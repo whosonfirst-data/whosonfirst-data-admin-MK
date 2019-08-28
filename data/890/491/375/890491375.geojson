@@ -11,10 +11,14 @@
     "geom:longitude":21.17278,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":444,
+    "gn:population":444,
     "iso:country":"MK",
+    "lbl:bbox":"21.15278,41.08167,21.19278,41.12167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0440\u0430"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":788728,
         "gp:id":481746,
-        "qs:id":553855,
+        "qs_pg:id":553855,
         "wd:id":"Q3084622"
     },
     "wof:country":"MK",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890491375,
-    "wof:lastmodified":1563257512,
+    "wof:lastmodified":1566605475,
     "wof:name":"Lera",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

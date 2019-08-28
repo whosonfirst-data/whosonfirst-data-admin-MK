@@ -11,10 +11,14 @@
     "geom:longitude":21.65389,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":340,
+    "gn:population":340,
     "iso:country":"MK",
+    "lbl:bbox":"21.63389,41.54722,21.67389,41.58722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Martolci"
     ],
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":788121,
         "gp:id":483099,
-        "qs:id":553823
+        "qs_pg:id":553823
     },
     "wof:country":"MK",
     "wof:created":1469054900,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890492595,
-    "wof:lastmodified":1505343799,
+    "wof:lastmodified":1566605478,
     "wof:name":"Martolci",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

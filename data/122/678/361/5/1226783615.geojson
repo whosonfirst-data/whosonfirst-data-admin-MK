@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.9263,42.15539,21.9663,42.19539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Suljevac"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226783615,
-    "wof:lastmodified":1537664980,
+    "wof:lastmodified":1566605533,
     "wof:name":"Suljevac",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",

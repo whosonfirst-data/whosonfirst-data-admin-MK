@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.155221,
     "lbl:longitude":20.84704,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u041e\u0445\u0440\u0438\u0434",
     "meso:adm1_loc":"Ohrid",
     "meso:gadm_adm1":"Ohrid",
@@ -167,14 +168,8 @@
     "name:ukr_x_preferred":[
         "\u041e\u0445\u0440\u0438\u0434"
     ],
-    "name:und_x_preferred":[
-        "Ohrid"
-    ],
     "name:und_x_variant":[
         "Opstina Ohrid"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Ohrid"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u062e\u0631\u06cc\u062f \u0628\u0644\u062f\u06cc\u06c1"
@@ -258,9 +253,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"392",
     "statoids:area_mi":"151",
     "statoids:as_of_date":"2002-10-31",
@@ -285,7 +280,7 @@
         "gp:id":24550834,
         "hasc:id":"MK.OD",
         "iso:id":"MK-58",
-        "qs:id":1193221,
+        "qs_pg:id":1193221,
         "unlc:id":"MK-58",
         "wd:id":"Q1125333",
         "wk:page":"Ohrid Municipality"
@@ -307,11 +302,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727579,
+    "wof:lastmodified":1566605358,
     "wof:name":"Ohrid",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":55749,
     "wof:population_rank":8,

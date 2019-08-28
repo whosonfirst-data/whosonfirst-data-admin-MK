@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.154689,
     "lbl:longitude":21.386753,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0427\u0443\u0447\u0435\u0440 - \u0421\u0430\u043d\u0434\u0435\u0432\u043e",
     "meso:adm1_loc":"\u010cu\u010der Sandevo",
     "meso:gadm_adm1":"\u010cu\u010der Sandevo",
@@ -151,7 +152,7 @@
         "\u010cu\u010der-Sandevo"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bb8\u0bcd\u0bb0\u0bcd-\u0b9a\u0ba3\u0bcd\u0b9f\u0bc7\u0bb5\u0bcb  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b95\u0bb8\u0bcd\u0bb0\u0bcd-\u0b9a\u0ba3\u0bcd\u0b9f\u0bc7\u0bb5\u0bcb \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c2f\u0c42\u0c38\u0c30\u0c4d-\u0c38\u0c3e\u0c02\u0c21\u0c47\u0c35\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -172,15 +173,9 @@
         "Cucer-Sandevo",
         "Opstina Cucer-Sandevo"
     ],
-    "name:und_x_preferred":[
-        "\u010cu\u010der-Sandevo"
-    ],
     "name:und_x_variant":[
         "Chucher - Sandevo",
         "Opstina \u010cu\u010der-Sandevo"
-    ],
-    "name:unk_x_variant":[
-        "\u010cu\u010der-Sandevo"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644\u062f\u06cc\u06c1 \u0686\u0648\u0686\u0631-\u0633\u0627\u0646\u062f\u0648\u0648"
@@ -264,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"215",
     "statoids:area_mi":"83",
     "statoids:as_of_date":"2002-10-31",
@@ -291,7 +286,7 @@
         "gp:id":24550830,
         "hasc:id":"MK.CS",
         "iso:id":"MK-82",
-        "qs:id":1311349,
+        "qs_pg:id":1311349,
         "unlc:id":"MK-82",
         "wd:id":"Q629720",
         "wk:page":"\u010cu\u010der-Sandevo Municipality"
@@ -313,11 +308,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727583,
+    "wof:lastmodified":1566605365,
     "wof:name":"Cucer Sandevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":8493,
     "wof:population_rank":5,

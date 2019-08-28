@@ -11,10 +11,14 @@
     "geom:longitude":21.07972,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":194,
+    "gn:population":194,
     "iso:country":"MK",
+    "lbl:bbox":"21.05972,41.27944,21.09972,41.31944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u0431\u0438\u043d\u043e"
     ],
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":793047,
         "gp:id":482563,
-        "qs:id":554107,
+        "qs_pg:id":554107,
         "wd:id":"Q787967"
     },
     "wof:country":"MK",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890491103,
-    "wof:lastmodified":1563257328,
+    "wof:lastmodified":1566605443,
     "wof:name":"Babino",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

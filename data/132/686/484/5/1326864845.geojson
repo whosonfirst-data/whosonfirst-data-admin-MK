@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.1591,41.56832,21.1991,41.60832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Veljanovci"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326864845,
-    "wof:lastmodified":1537664947,
+    "wof:lastmodified":1566605327,
     "wof:name":"Veljanovci",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

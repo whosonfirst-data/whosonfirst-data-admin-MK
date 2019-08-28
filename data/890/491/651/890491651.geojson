@@ -11,10 +11,14 @@
     "geom:longitude":20.64389,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":8646,
+    "gn:population":8646,
     "iso:country":"MK",
+    "lbl:bbox":"20.62389,41.22083,20.66389,41.26083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0634\u062a\u0627\u060c \u0633\u062a\u0631\u0648\u063a\u0627"
     ],
@@ -60,7 +64,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0448\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vele\u0161te"
     ],
     "qs:name":"Velesta",
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":784679,
         "gp:id":483174,
-        "qs:id":129390,
+        "qs_pg:id":129390,
         "wd:id":"Q2038677",
         "wk:page":"Vele\u0161ta"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890491651,
-    "wof:lastmodified":1563257376,
+    "wof:lastmodified":1566605453,
     "wof:name":"Velesta",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

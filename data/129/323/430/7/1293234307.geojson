@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.21816,42.31297,22.25816,42.35297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Gove\u01f5ak"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293234307,
-    "wof:lastmodified":1537664931,
+    "wof:lastmodified":1566605372,
     "wof:name":"Govegak",
     "wof:parent_id":85674197,
     "wof:placetype":"locality",

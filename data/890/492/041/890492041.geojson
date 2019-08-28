@@ -11,10 +11,14 @@
     "geom:longitude":21.00722,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":293,
+    "gn:population":293,
     "iso:country":"MK",
+    "lbl:bbox":"20.98722,41.59444,21.02722,41.63444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u044f\u043d\u0438"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Popovjani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Popovljani"
     ],
     "qs:name":"Popovjani",
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":786864,
         "gp:id":482276,
-        "qs:id":553747,
+        "qs_pg:id":553747,
         "wd:id":"Q3084350",
         "wk:page":"Popovjani"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890492041,
-    "wof:lastmodified":1563257539,
+    "wof:lastmodified":1566605480,
     "wof:name":"Popovjani",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

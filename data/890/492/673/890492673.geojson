@@ -11,10 +11,14 @@
     "geom:longitude":21.32306,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":830,
+    "gn:population":830,
     "iso:country":"MK",
+    "lbl:bbox":"21.30306,41.10417,21.34306,41.14417",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u043d\u043e\u0431\u0443\u043a\u0438"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Crnobuki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Crnobok"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":791769,
-        "qs:id":554034,
+        "qs_pg:id":554034,
         "wd:id":"Q869850",
         "wk:page":"Crnobuki"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890492673,
-    "wof:lastmodified":1563257549,
+    "wof:lastmodified":1566605482,
     "wof:name":"Crnobuki",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

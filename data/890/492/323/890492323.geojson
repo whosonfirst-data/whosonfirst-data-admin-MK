@@ -11,10 +11,14 @@
     "geom:longitude":21.37056,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":979,
+    "gn:population":979,
     "iso:country":"MK",
+    "lbl:bbox":"21.35056,41.25444,21.39056,41.29444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0448\u0438\u043d\u043e \u0420\u0443\u0432\u0446\u0438"
     ],
@@ -39,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u041f\u0430\u0448\u0438\u043d\u0438 \u0420\u0443\u0432\u0446\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pa\u0161ini Ruvci"
     ],
     "qs:name":"Pa\u0161ino Ruvci",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":787190,
         "gp:id":482639,
-        "qs:id":83622,
+        "qs_pg:id":83622,
         "wd:id":"Q3075192",
         "wk:page":"Pa\u0161ino Ruvci"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890492323,
-    "wof:lastmodified":1563257582,
+    "wof:lastmodified":1566605488,
     "wof:name":"Pa\u0161ino Ruvci",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

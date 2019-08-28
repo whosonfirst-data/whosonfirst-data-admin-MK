@@ -11,10 +11,14 @@
     "geom:longitude":21.61467,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":8,
+    "gn:population":8,
     "iso:country":"MK",
+    "lbl:bbox":"21.59467,40.98922,21.63467,41.02922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Polo\u0161ka kotlina"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":786909,
         "gp:id":481746,
-        "qs:id":553750,
+        "qs_pg:id":553750,
         "wd:id":"Q2604025",
         "wk:page":"Polog"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890491209,
-    "wof:lastmodified":1563257469,
+    "wof:lastmodified":1566605468,
     "wof:name":"Polog",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

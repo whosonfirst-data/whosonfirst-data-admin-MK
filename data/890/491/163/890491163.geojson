@@ -11,10 +11,14 @@
     "geom:longitude":21.56667,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":198,
+    "gn:population":198,
     "iso:country":"MK",
+    "lbl:bbox":"21.54667,41.12944,21.58667,41.16944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "Mojno"
     ],
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":787868,
-        "qs:id":83652
+        "qs_pg:id":83652
     },
     "wof:country":"MK",
     "wof:created":1469054843,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890491163,
-    "wof:lastmodified":1505343791,
+    "wof:lastmodified":1566605462,
     "wof:name":"Mojno",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

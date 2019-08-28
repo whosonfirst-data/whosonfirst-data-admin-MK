@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.76812,41.30757,20.80812,41.34757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Peso\u010dani"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327268881,
-    "wof:lastmodified":1537664864,
+    "wof:lastmodified":1566605338,
     "wof:name":"Pesocani",
     "wof:parent_id":85674169,
     "wof:placetype":"locality",

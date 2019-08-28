@@ -11,10 +11,14 @@
     "geom:longitude":21.87611,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":128,
+    "gn:population":128,
     "iso:country":"MK",
+    "lbl:bbox":"21.85611,41.80806,21.89611,41.84806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0110uzemelci"
     ],
@@ -22,7 +26,7 @@
         "\u0403\u0443\u0437\u0435\u043c\u0435\u043b\u0446\u0438",
         "\u01f4uzemelci"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gjuzemelci"
     ],
     "qs:name":"\u00d0uzemelci",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":790873,
         "gp:id":483067,
-        "qs:id":553967
+        "qs_pg:id":553967
     },
     "wof:country":"MK",
     "wof:created":1469054875,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890492053,
-    "wof:lastmodified":1505343796,
+    "wof:lastmodified":1566605484,
     "wof:name":"\u00d0uzemelci",
     "wof:parent_id":85674307,
     "wof:placetype":"locality",

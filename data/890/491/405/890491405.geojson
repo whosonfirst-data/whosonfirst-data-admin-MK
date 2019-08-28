@@ -11,10 +11,14 @@
     "geom:longitude":21.90528,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":101,
+    "gn:population":101,
     "iso:country":"MK",
+    "lbl:bbox":"21.88528,41.8275,21.92528,41.8675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0430"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u041d\u0438\u043a\u043e\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kne\u017ee"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":789418,
         "gp:id":483067,
-        "qs:id":553897,
+        "qs_pg:id":553897,
         "wd:id":"Q2308277",
         "wk:page":"Sveti Nikole Municipality"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890491405,
-    "wof:lastmodified":1563257474,
+    "wof:lastmodified":1566605469,
     "wof:name":"Kne\u017eje",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.80208,41.74667,22.84208,41.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0431\u043e\u0432\u043e"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1225875757,
-    "wof:lastmodified":1564308677,
+    "wof:lastmodified":1566605530,
     "wof:name":"Robovo",
     "wof:parent_id":85674495,
     "wof:placetype":"locality",

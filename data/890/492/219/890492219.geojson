@@ -11,11 +11,15 @@
     "geom:longitude":20.95778,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "gp:adm0":23424890,
     "iso:country":"MK",
+    "lbl:bbox":"20.93778,41.9725,20.97778,42.0125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0440\u0435\u0447\u0438\u0446\u0430"
     ],
@@ -37,7 +41,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0420\u0435\u0447\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Recice e Vogel"
     ],
     "qs:name":"Mala Re\u010dica",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":788311,
         "gp:id":482483,
-        "qs:id":1213604,
+        "qs_pg:id":1213604,
         "wd:id":"Q3075878",
         "wk:page":"Tetovo Municipality"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890492219,
-    "wof:lastmodified":1563257548,
+    "wof:lastmodified":1566605481,
     "wof:name":"Mala Re\u010dica",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

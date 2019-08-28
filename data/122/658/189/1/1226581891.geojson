@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.46278,41.61028,22.50278,41.65028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u043b\u0438\u0448"
     ],
@@ -49,9 +53,6 @@
     "name:swe_x_preferred":[
         "Rakli\u0161"
     ],
-    "name:und_x_variant":[
-        "Rakli\u0161"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1226581891,
-    "wof:lastmodified":1564308670,
+    "wof:lastmodified":1566605527,
     "wof:name":"Raklis",
     "wof:parent_id":85674191,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":21.79611,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":197,
+    "gn:population":197,
     "iso:country":"MK",
+    "lbl:bbox":"21.77611,41.73472,21.81611,41.77472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0430\u043b\u043e\u0448\u0435\u0432\u043e"
     ],
@@ -42,7 +46,7 @@
     "name:srp_x_preferred":[
         "\u0427\u0430\u043b\u043e\u0448\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u010colo\u0161evo"
     ],
     "qs:name":"\u010calo\u0161evo",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":792063,
         "gp:id":483099,
-        "qs:id":554047,
+        "qs_pg:id":554047,
         "wd:id":"Q3136057",
         "wk:page":"\u010calo\u0161evo"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890492683,
-    "wof:lastmodified":1563257629,
+    "wof:lastmodified":1566605496,
     "wof:name":"\u010calo\u0161evo",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

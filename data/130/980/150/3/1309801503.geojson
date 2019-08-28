@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"21.32648,40.97209,21.36648,41.01209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u044a\u0440\u0441\u0442\u043e\u0430\u0440"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1309801503,
-    "wof:lastmodified":1564308551,
+    "wof:lastmodified":1566605441,
     "wof:name":"Krstoar",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

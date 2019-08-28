@@ -11,14 +11,18 @@
     "geom:longitude":21.94111,
     "gn:country":"MK",
     "gn:fcode":"PPLW",
-    "gn:pop":25,
+    "gn:population":25,
     "iso:country":"MK",
+    "lbl:bbox":"21.92111,41.66,21.96111,41.7",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mkd_x_preferred":[
         "\u0411\u0435\u043a\u0438\u0440\u043b\u0438\u0458\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bekirli"
     ],
     "qs:name":"Bekirlija",
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":792799,
         "gp:id":483099,
-        "qs:id":83774
+        "qs_pg:id":83774
     },
     "wof:country":"MK",
     "wof:created":1469054859,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890491619,
-    "wof:lastmodified":1505343794,
+    "wof:lastmodified":1566605450,
     "wof:name":"Bekirlija",
     "wof:parent_id":85674307,
     "wof:placetype":"locality",

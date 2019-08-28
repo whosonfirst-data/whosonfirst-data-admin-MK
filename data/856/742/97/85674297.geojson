@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.036804,
     "lbl:longitude":21.507993,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430",
     "meso:adm1_loc":"Gazi Baba",
     "meso:gadm_adm1":"Gazi Baba",
@@ -101,14 +102,8 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0437\u0438-\u0411\u0430\u0431\u0430"
     ],
-    "name:und_x_preferred":[
-        "Gazi Baba"
-    ],
     "name:und_x_variant":[
         "Opstina Gazi Baba"
-    ],
-    "name:unk_x_variant":[
-        "Op\u0161tina Gazi Baba"
     ],
     "name:urd_x_preferred":[
         "\u063a\u0627\u0632\u06cc \u0628\u0627\u0628\u0627 \u0628\u0644\u062f\u06cc\u06c1"
@@ -189,9 +184,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"92",
     "statoids:area_mi":"36",
     "statoids:as_of_date":"2002-10-31",
@@ -216,7 +211,7 @@
         "gp:id":24550766,
         "hasc:id":"MK.GB",
         "iso:id":"MK-17",
-        "qs:id":1191272,
+        "qs_pg:id":1191272,
         "unlc:id":"MK-17",
         "wd:id":"Q2019836"
     },
@@ -237,11 +232,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727583,
+    "wof:lastmodified":1566605365,
     "wof:name":"Gazi Baba",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":72617,
     "wof:population_rank":8,

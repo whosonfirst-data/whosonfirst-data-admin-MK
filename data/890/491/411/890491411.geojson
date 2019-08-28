@@ -11,10 +11,14 @@
     "geom:longitude":21.68306,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":811,
+    "gn:population":811,
     "iso:country":"MK",
+    "lbl:bbox":"21.66306,41.87444,21.70306,41.91444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u043b\u0430\u043d\u043e\u0432\u043e"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":789545,
         "gp:id":482940,
-        "qs:id":553905,
+        "qs_pg:id":553905,
         "wd:id":"Q2720683",
         "wk:page":"Katlanovo"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890491411,
-    "wof:lastmodified":1563257456,
+    "wof:lastmodified":1566605466,
     "wof:name":"Katlanovo",
     "wof:parent_id":85674173,
     "wof:placetype":"locality",

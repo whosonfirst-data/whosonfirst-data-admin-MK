@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.668567,
     "lbl:longitude":22.502663,
+    "lbl:min_zoom":8.0,
     "meso:adm1_alt":"\u0420\u0430\u0434\u043e\u0432\u0438\u0448",
     "meso:adm1_loc":"Radovi\u0161",
     "meso:gadm_adm1":"Radovi\u0161",
@@ -132,7 +133,7 @@
         "Radovi\u0161 Municipality"
     ],
     "name:sin_x_preferred":[
-        "\u0dbb\u0da9\u0ddc\u0dc0\u0dd2\u0dc3\u0dca  \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+        "\u0dbb\u0da9\u0ddc\u0dc0\u0dd2\u0dc3\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Radovi\u0161"
@@ -168,14 +169,8 @@
         "Opstina Radovis",
         "Radovis"
     ],
-    "name:und_x_preferred":[
-        "Radovi\u0161"
-    ],
     "name:und_x_variant":[
         "Opstina Radovi\u0161"
-    ],
-    "name:unk_x_variant":[
-        "Radovi\u0161"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u062f\u0648\u0648\u06cc\u0634 \u0628\u0644\u062f\u06cc\u06c1"
@@ -259,9 +254,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-10-31",
+    "src:population_date":"2002-10-31",
     "statoids:area_km":"502",
     "statoids:area_mi":"194",
     "statoids:as_of_date":"2002-10-31",
@@ -286,7 +281,7 @@
         "gp:id":24550865,
         "hasc:id":"MK.RV",
         "iso:id":"MK-64",
-        "qs:id":1103591,
+        "qs_pg:id":1103591,
         "unlc:id":"MK-64",
         "wd:id":"Q2738284"
     },
@@ -307,11 +302,10 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1565727579,
+    "wof:lastmodified":1566605358,
     "wof:name":"Radovis",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":28244,
     "wof:population_rank":7,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"20.90583,41.59778,20.94583,41.63778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u041c\u0438\u0434\u0438\u043d\u0446\u0438"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293137339,
-    "wof:lastmodified":1537664873,
+    "wof:lastmodified":1566605374,
     "wof:name":"Midinci",
     "wof:parent_id":85674381,
     "wof:placetype":"locality",

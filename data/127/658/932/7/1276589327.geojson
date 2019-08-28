@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"MK",
+    "lbl:bbox":"22.60592,42.04396,22.64592,42.08396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "Parovska Maala"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276589327,
-    "wof:lastmodified":1537664992,
+    "wof:lastmodified":1566605388,
     "wof:name":"Parovska Maala",
     "wof:parent_id":85674489,
     "wof:placetype":"locality",

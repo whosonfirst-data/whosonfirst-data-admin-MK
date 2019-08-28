@@ -11,10 +11,14 @@
     "geom:longitude":21.27611,
     "gn:country":"MK",
     "gn:fcode":"PPL",
-    "gn:pop":76,
+    "gn:population":76,
     "iso:country":"MK",
+    "lbl:bbox":"21.25611,41.58278,21.29611,41.62278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vir"
     ],
@@ -110,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":784414,
-        "qs:id":83546,
+        "qs_pg:id":83546,
         "wk:page":"Vir"
     },
     "wof:country":"MK",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":890491495,
-    "wof:lastmodified":1564308579,
+    "wof:lastmodified":1566605470,
     "wof:name":"Vir",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

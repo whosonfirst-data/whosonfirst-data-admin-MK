@@ -287,6 +287,9 @@
         "wk:page":"Krivoga\u0161tani Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a0d7777495b163b73ab3959ab9895541",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1582392767,
     "wof:name":"Krivoga\u0161tani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

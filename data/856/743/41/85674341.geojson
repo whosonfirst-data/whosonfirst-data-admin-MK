@@ -290,6 +290,9 @@
         "wk:page":"Ko\u010dani Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a1d87ac58cf10002509735d446059745",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1582392766,
     "wof:name":"Kocani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

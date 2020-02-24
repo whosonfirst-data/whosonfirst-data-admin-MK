@@ -281,6 +281,9 @@
         "wk:page":"Lipkovo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dbb779fc6494aece6b8190fa3930a977",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1582392767,
     "wof:name":"Lipkovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

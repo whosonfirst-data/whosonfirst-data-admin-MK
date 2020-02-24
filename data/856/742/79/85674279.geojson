@@ -298,6 +298,9 @@
         "wd:id":"Q281898"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee963246c76395eb4adfe06b43c9da46",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605366,
+    "wof:lastmodified":1582392767,
     "wof:name":"Ce\u0161inovo-Oble\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

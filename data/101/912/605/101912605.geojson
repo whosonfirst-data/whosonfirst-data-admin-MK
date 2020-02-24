@@ -120,6 +120,9 @@
         "wd:id":"Q924278"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3367ec77aa292bb979272e1b52781c69",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101912605,
-    "wof:lastmodified":1566605437,
+    "wof:lastmodified":1582392769,
     "wof:name":"Gjor\u010de Petrov",
     "wof:parent_id":85674323,
     "wof:placetype":"locality",

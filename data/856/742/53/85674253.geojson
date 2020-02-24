@@ -290,6 +290,9 @@
         "wk:page":"Ara\u010dinovo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cb5a410ad3bee3d6c54e052936eeb28a",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1582392767,
     "wof:name":"Aracinovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

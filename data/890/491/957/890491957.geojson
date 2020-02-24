@@ -636,6 +636,9 @@
     },
     "wof:country":"MK",
     "wof:created":1469054871,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"ef1e2ba9051677f4032425a5e3193e22",
     "wof:hierarchy":[
         {
@@ -646,7 +649,7 @@
         }
     ],
     "wof:id":890491957,
-    "wof:lastmodified":1566605460,
+    "wof:lastmodified":1582392770,
     "wof:name":"Skopje",
     "wof:parent_id":85674273,
     "wof:placetype":"locality",

@@ -289,6 +289,9 @@
         "wk:page":"Karbinci Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2597c720d97dfdd0365da0e0534f4c6f",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1582392766,
     "wof:name":"Karbinci",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

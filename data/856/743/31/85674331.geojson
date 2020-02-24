@@ -222,6 +222,9 @@
         "wd:id":"Q1992708"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07de26e4da17ecdb5b42a9d5fd919893",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1582392766,
     "wof:name":"Aerodrom",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

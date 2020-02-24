@@ -287,6 +287,9 @@
         "wk:page":"Sopi\u0161te Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de7d446c855f601c055f87ba31eee1f1",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1582392767,
     "wof:name":"Sopiste",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

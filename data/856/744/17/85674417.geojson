@@ -288,6 +288,9 @@
         "wk:page":"Tetovo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"113b1af2e34d3a499bb1afb5d46754d6",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605359,
+    "wof:lastmodified":1582392765,
     "wof:name":"Tetovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

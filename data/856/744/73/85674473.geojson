@@ -230,6 +230,9 @@
         "wk:page":"Dojran Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b31cf8275c54439879d7249184abfcc3",
     "wof:hierarchy":[
         {
@@ -246,7 +249,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605359,
+    "wof:lastmodified":1582392765,
     "wof:name":"Dojran",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

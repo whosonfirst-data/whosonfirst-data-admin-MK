@@ -291,6 +291,9 @@
         "wd:id":"Q9035785"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c3c364efeb8a9f7a09e4a50d63db76f",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1582392766,
     "wof:name":"Bogovinje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -280,6 +280,9 @@
         "wk:page":"Novo Selo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10e9f387e15b37fbe309bb42416feedc",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605359,
+    "wof:lastmodified":1582392765,
     "wof:name":"Novo Selo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

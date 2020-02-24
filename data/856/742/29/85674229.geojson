@@ -283,6 +283,9 @@
         "wk:page":"Sveti Nikole Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b64e42bd2115ff7ccd0ebcc75135f35",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1582392767,
     "wof:name":"Sveti Nikole",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

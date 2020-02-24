@@ -163,6 +163,9 @@
         "wk:page":"Kisela Voda Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4aaf036a9fbcedd040ad0ee559b3d882",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1582392766,
     "wof:name":"Kisela Voda",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

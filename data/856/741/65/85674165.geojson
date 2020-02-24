@@ -286,6 +286,9 @@
         "wk:page":"Ohrid Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd0bf5bc0c152c50e60c74667773a2e5",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605358,
+    "wof:lastmodified":1582392765,
     "wof:name":"Ohrid",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

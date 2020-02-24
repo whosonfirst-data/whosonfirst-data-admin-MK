@@ -217,6 +217,9 @@
         "wd:id":"Q1419314"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f446070c212fb7f9af5f409e1b2fa9f",
     "wof:hierarchy":[
         {
@@ -233,7 +236,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1582392767,
     "wof:name":"Cair",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -282,6 +282,9 @@
         "wk:page":"Debar Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf85971d129d6cced79993acb7532953",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1582392766,
     "wof:name":"Debar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

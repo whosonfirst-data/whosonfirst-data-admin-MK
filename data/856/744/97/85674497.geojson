@@ -286,6 +286,9 @@
         "wk:page":"Struga Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b316334319b10e2ca2d1bcd871b32a4c",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605360,
+    "wof:lastmodified":1582392766,
     "wof:name":"Struga",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

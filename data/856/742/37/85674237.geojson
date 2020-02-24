@@ -250,6 +250,9 @@
         "wd:id":"Q2088561"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"270dd5979b37b118b17593ccfd05644b",
     "wof:hierarchy":[
         {
@@ -266,7 +269,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1582392767,
     "wof:name":"Veles",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

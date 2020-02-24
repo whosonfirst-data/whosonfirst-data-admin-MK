@@ -282,6 +282,9 @@
         "wk:page":"Plasnica Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dfba837f6ae6b78b09b5897231d9fbcb",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605358,
+    "wof:lastmodified":1582392765,
     "wof:name":"Plasnica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -225,6 +225,9 @@
         "wd:id":"Q924278"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f443db585c7403f66d3a2b86b309f75",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1582392766,
     "wof:name":"Gjorce Petrov",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

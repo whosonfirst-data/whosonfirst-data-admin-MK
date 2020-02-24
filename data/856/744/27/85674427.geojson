@@ -286,6 +286,9 @@
         "wk:page":"Brvenica Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"000b8a0eaa9e92746037e4511531bdcf",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605359,
+    "wof:lastmodified":1582392765,
     "wof:name":"Brvenica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

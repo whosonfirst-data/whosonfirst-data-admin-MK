@@ -224,6 +224,9 @@
         "wk:page":"Vrap\u010di\u0161te Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"baa7b925242dc0638ef24afbc95e0020",
     "wof:hierarchy":[
         {
@@ -240,7 +243,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605360,
+    "wof:lastmodified":1582392765,
     "wof:name":"Polog",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

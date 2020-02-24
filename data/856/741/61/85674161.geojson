@@ -229,6 +229,9 @@
         "wk:page":"Demir Hisar Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c9c34b9b432a1c025a798c95c014a484",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605357,
+    "wof:lastmodified":1582392764,
     "wof:name":"Demir Hisar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

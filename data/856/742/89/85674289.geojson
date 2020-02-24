@@ -216,6 +216,9 @@
         "wd:id":"Q2370973"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed2a298e9bc566a9386af8ab77d26e7a",
     "wof:hierarchy":[
         {
@@ -232,7 +235,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1582392767,
     "wof:name":"Demir Kapija",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

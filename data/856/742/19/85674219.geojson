@@ -286,6 +286,9 @@
         "wd:id":"Q2423082"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"52da536a5720396632c67c6a3d40cbb3",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1582392767,
     "wof:name":"\u0160tip",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

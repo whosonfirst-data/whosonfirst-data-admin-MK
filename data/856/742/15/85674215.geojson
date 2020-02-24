@@ -199,6 +199,9 @@
         "wk:page":"Staro Nagori\u010dane Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e2f8d18702e7ce5efb09708698737e8",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605366,
+    "wof:lastmodified":1582392767,
     "wof:name":"Northeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

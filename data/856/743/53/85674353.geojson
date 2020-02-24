@@ -293,6 +293,9 @@
         "wk:page":"Kru\u0161evo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"286fd551e8d93e136316e2035d8fd997",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1582392766,
     "wof:name":"Kru\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

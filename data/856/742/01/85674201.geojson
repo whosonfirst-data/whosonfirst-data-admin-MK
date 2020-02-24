@@ -222,6 +222,9 @@
         "wk:page":"Rosoman Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9bf1dcc9970db6e0ae95f2f21d7bcbb",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1582392767,
     "wof:name":"Vardar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

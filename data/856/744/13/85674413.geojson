@@ -282,6 +282,9 @@
         "wk:page":"Tearce Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ced461331e0342b2e8e1030c3f3d5279",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1582392766,
     "wof:name":"Tearce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

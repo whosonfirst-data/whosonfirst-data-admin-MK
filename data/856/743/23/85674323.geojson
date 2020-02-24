@@ -220,6 +220,9 @@
         "wd:id":"Q1463246"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f64fc5f132e3cc41e7ce57271fc7e40b",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1582392767,
     "wof:name":"Karpo\u0161",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

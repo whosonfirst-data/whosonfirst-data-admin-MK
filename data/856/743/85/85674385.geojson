@@ -287,6 +287,9 @@
         "wk:page":"Centar \u017dupa Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b4f7d61c7682162ad7bd3b312934a82",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1582392767,
     "wof:name":"Centar \u017eupa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

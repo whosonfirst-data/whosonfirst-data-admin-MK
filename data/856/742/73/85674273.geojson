@@ -165,6 +165,9 @@
         "wd:id":"Q1463152"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47da05fedeff6e85e9ad460c7e7c7300",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1582392767,
     "wof:name":"Centar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

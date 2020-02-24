@@ -216,6 +216,9 @@
         "wd:id":"Q2088022"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"566fd832dfb9a432f86e28bd21aa7b90",
     "wof:hierarchy":[
         {
@@ -232,7 +235,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1582392766,
     "wof:name":"Novatsi",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -1297,6 +1297,11 @@
     },
     "wof:country":"MK",
     "wof:country_alpha3":"MKD",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"3879dd936ab56da3855616a3cd0b655e",
     "wof:hierarchy":[
         {
@@ -1312,7 +1317,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605356,
+    "wof:lastmodified":1582392764,
     "wof:name":"Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

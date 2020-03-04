@@ -283,6 +283,9 @@
         "wk:page":"Vinica Municipality, Macedonia"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb43e83f157b0769e05fb3d98d6c4917",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605360,
+    "wof:lastmodified":1582392765,
     "wof:name":"Vinitsa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

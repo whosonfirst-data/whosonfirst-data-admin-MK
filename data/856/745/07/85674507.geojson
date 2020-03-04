@@ -121,6 +121,9 @@
         "unlc:id":"MK-84"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c098ef64cdcfa8ea7c6acb86faea6be",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605366,
+    "wof:lastmodified":1582392768,
     "wof:name":"\u0160uto Orizari",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

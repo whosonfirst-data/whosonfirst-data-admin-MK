@@ -274,6 +274,9 @@
         "wk:page":"Makedonski Brod Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1681b44155730757138c7096c85d1415",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1582392766,
     "wof:name":"Brod",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

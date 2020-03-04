@@ -287,6 +287,9 @@
         "wk:page":"Studeni\u010dani Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f8e96388cb6b294358abbae3c0d04c97",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605366,
+    "wof:lastmodified":1582392767,
     "wof:name":"Sveti Nikole",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

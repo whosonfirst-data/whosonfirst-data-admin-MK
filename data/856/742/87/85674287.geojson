@@ -292,6 +292,9 @@
         "wk:page":"\u010cu\u010der-Sandevo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"27012eeeeb47945f53a3721fa8097295",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1582392767,
     "wof:name":"Cucer Sandevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

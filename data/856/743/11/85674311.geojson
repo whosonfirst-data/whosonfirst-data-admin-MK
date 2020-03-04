@@ -284,6 +284,9 @@
         "wk:page":"Kon\u010de Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b79beb4d95a59568ca91b76879f63cce",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1582392766,
     "wof:name":"Konce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

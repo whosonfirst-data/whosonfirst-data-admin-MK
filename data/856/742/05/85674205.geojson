@@ -226,6 +226,9 @@
         "wd:id":"Q1309481"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7c93d7ef691183e5838ba333ca9e75da",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1582392767,
     "wof:name":"Saraj",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

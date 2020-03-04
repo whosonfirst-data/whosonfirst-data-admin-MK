@@ -293,6 +293,9 @@
         "wk:page":"Ki\u010devo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"979770646a545c30a10df852724cc9b4",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1582392766,
     "wof:name":"Kicevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

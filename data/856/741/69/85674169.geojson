@@ -282,6 +282,9 @@
         "wk:page":"Debarca Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae52ecf3127fdaca6607892e6c250493",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605357,
+    "wof:lastmodified":1582392764,
     "wof:name":"Debarca",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

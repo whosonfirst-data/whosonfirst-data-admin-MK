@@ -285,6 +285,9 @@
         "wd:id":"Q793727"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b76f64038dfe419359e817190c308803",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605360,
+    "wof:lastmodified":1582392766,
     "wof:name":"Berovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

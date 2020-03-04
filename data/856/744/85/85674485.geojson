@@ -290,6 +290,9 @@
         "wk:page":"Del\u010devo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d320b7de7e5f1b9b7ca30f985827e237",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605360,
+    "wof:lastmodified":1582392766,
     "wof:name":"Delcevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

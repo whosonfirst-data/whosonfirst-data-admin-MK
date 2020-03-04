@@ -297,6 +297,9 @@
         "wk:page":"\u010ca\u0161ka Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f188c3cea38a829ce34a52d4d7d652cf",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1582392767,
     "wof:name":"Ca\u0161ka",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

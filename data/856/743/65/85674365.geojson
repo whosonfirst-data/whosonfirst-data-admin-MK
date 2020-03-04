@@ -219,6 +219,9 @@
         "wk:page":"Mogila Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a165815dbfa344981de81df3c4d4c96f",
     "wof:hierarchy":[
         {
@@ -235,7 +238,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1582392766,
     "wof:name":"Pelagonia",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -216,6 +216,9 @@
         "wd:id":"Q2019836"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34b7b89ffc1167174eeaf5d4e6ca31b0",
     "wof:hierarchy":[
         {
@@ -232,7 +235,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605365,
+    "wof:lastmodified":1582392767,
     "wof:name":"Gazi Baba",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -283,6 +283,9 @@
         "wk:page":"Zelenikovo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc920be9b424203d6f64cd8f3128c64a",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1582392767,
     "wof:name":"Zelenikovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

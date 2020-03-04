@@ -221,6 +221,9 @@
         "wk:page":"Vev\u010dani Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c30d8cacc760964cd119ffce6d873b3",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605357,
+    "wof:lastmodified":1582392764,
     "wof:name":"Vev\u010dani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

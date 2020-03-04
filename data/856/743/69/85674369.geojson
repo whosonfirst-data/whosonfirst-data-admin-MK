@@ -286,6 +286,9 @@
         "wk:page":"Negotino Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"726c1fc768d210f831e79843837295f8",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1582392766,
     "wof:name":"Negotino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

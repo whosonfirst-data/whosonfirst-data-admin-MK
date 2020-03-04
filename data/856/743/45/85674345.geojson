@@ -340,6 +340,9 @@
         "wk:page":"Kratovo, Macedonia"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"201b113013c184519532b87e9ef75555",
     "wof:hierarchy":[
         {
@@ -356,7 +359,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1582392766,
     "wof:name":"Kratovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

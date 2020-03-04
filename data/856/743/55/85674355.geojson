@@ -292,6 +292,9 @@
         "wk:page":"Kumanovo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"00a3c4e19b092414367c44d0ec5e3142",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605363,
+    "wof:lastmodified":1582392766,
     "wof:name":"Kumanovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

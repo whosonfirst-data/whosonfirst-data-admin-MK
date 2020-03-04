@@ -280,6 +280,9 @@
         "wk:page":"Bitola Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34f61d0fc7afddf336b9c3e076d12f02",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605357,
+    "wof:lastmodified":1582392764,
     "wof:name":"Bitola",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

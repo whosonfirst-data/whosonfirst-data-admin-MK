@@ -289,6 +289,9 @@
         "wk:page":"Vasilevo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ee3f2ec7372c38169b02f9abe82ddbd",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605361,
+    "wof:lastmodified":1582392766,
     "wof:name":"Vasilevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

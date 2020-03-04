@@ -277,6 +277,9 @@
         "wk:page":"Zajas Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"abfd0ba40353f08195bc32de71caab00",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1582392766,
     "wof:name":"Zajas",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

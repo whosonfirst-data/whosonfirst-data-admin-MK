@@ -322,6 +322,9 @@
         "wk:page":"Gostivar Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17417210c5ca5314ae38ea4355f21bde",
     "wof:hierarchy":[
         {
@@ -338,7 +341,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605359,
+    "wof:lastmodified":1582392765,
     "wof:name":"Gostivar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

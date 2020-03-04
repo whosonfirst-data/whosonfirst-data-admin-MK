@@ -286,6 +286,9 @@
         "wk:page":"Lozovo Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"05ba8ff68600a1fb5bc7d3051cf36afc",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605362,
+    "wof:lastmodified":1582392766,
     "wof:name":"Lozovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

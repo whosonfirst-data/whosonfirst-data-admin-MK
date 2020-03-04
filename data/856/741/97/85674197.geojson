@@ -282,6 +282,9 @@
         "wk:page":"Kriva Palanka Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"99afd32b14f32f21930e05291b3cf8cb",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605358,
+    "wof:lastmodified":1582392765,
     "wof:name":"Kriva Palanka",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

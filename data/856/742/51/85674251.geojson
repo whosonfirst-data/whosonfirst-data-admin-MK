@@ -287,6 +287,9 @@
         "wk:page":"\u017delino Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9630e8a5da6e875a581a3b3832e3cee6",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605364,
+    "wof:lastmodified":1582392767,
     "wof:name":"\u017delino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

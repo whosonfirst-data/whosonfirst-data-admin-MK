@@ -294,6 +294,9 @@
         "wd:id":"Q1323332"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77d28a406375dc26700e47daec8506d7",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605359,
+    "wof:lastmodified":1582392765,
     "wof:name":"Mavrovo and Rostusa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

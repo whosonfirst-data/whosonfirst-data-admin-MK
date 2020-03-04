@@ -292,6 +292,9 @@
         "wk:page":"Prilep Municipality"
     },
     "wof:country":"MK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7dff0b83d7d3212d2d8a6c1b67f0da29",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1566605358,
+    "wof:lastmodified":1582392765,
     "wof:name":"Prilep",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

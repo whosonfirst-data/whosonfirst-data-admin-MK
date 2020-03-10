@@ -1274,9 +1274,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Republic_of_Macedonia",
-        "digitalenvoy:country_code":[
-            807
-        ],
+        "digitalenvoy:country_code":807,
         "fb:id":"en.republic_of_macedonia",
         "fifa:id":"MKD",
         "fips:code":"MK",
@@ -1320,7 +1318,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1583529181,
+    "wof:lastmodified":1583797389,
     "wof:name":"Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

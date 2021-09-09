@@ -35,10 +35,19 @@
     "name:abk_x_historical":[
         "\u0410\u04a9\u0430\u0434\u0430\u0442\u04d9\u0438 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0430"
     ],
+    "name:abk_x_preferred":[
+        "\u0410\u04a9\u0430\u0434\u0430\u0442\u04d9\u0438 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0430"
+    ],
     "name:ace_x_historical":[
         "Mak\u00e8donia Utara"
     ],
+    "name:ace_x_preferred":[
+        "Mak\u00e8donia Utara"
+    ],
     "name:ady_x_historical":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d\u0443 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0435"
+    ],
+    "name:ady_x_preferred":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d\u0443 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0435"
     ],
     "name:afr_x_historical":[
@@ -46,8 +55,14 @@
         "Macedoni\u00eb",
         "Republiek Noord-Masedoni\u00eb"
     ],
+    "name:afr_x_preferred":[
+        "Republiek Noord-Masedoni\u00eb"
+    ],
     "name:aka_x_historical":[
         "Masedonia"
+    ],
+    "name:aka_x_preferred":[
+        "Republic of Macedonia"
     ],
     "name:als_x_historical":[
         "Mazedonien (Begriffskl\u00e4rung)"
@@ -56,7 +71,13 @@
         "\u121b\u12a8\u12f6\u1292\u12eb",
         "\u12e8\u1218\u1244\u12f6\u1295\u12eb \u122c\u1351\u1265\u120a\u12ad"
     ],
+    "name:amh_x_preferred":[
+        "\u12e8\u1218\u1244\u12f6\u1295\u12eb \u122c\u1351\u1265\u120a\u12ad"
+    ],
     "name:ang_x_historical":[
+        "Cynew\u012bse Macedonia"
+    ],
+    "name:ang_x_preferred":[
         "Cynew\u012bse Macedonia"
     ],
     "name:ara_x_historical":[
@@ -64,42 +85,87 @@
         "\u0645\u0642\u062f\u0648\u0646\u064a\u0627",
         "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
     "name:arc_x_historical":[
         "\u0721\u0729\u0715\u0718\u0722\u071d\u0710",
+        "\u0729\u0718\u071b\u0722\u071d\u0718\u072c\u0710 \u0715\u0721\u0729\u0715\u0718\u0722\u071d\u0710"
+    ],
+    "name:arc_x_preferred":[
         "\u0729\u0718\u071b\u0722\u071d\u0718\u072c\u0710 \u0715\u0721\u0729\u0715\u0718\u0722\u071d\u0710"
     ],
     "name:arg_x_historical":[
         "Macedonia"
     ],
+    "name:arg_x_preferred":[
+        "Macedonia d'o Norte"
+    ],
+    "name:ary_x_preferred":[
+        "\u0634\u0645\u0627\u0644 \u0645\u0642\u062f\u0648\u0646\u064a\u0627"
+    ],
     "name:arz_x_historical":[
         "\u0645\u0642\u062f\u0648\u0646\u064a\u0627",
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0645\u0642\u062f\u0648\u0646\u064a\u0627"
+    ],
+    "name:arz_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0645\u0642\u062f\u0648\u0646\u064a\u0627"
     ],
     "name:ast_x_historical":[
         "Macedonia (dixebra)",
         "Rep\u00fablica de Macedonia"
     ],
+    "name:ast_x_preferred":[
+        "Macedonia del Norte"
+    ],
     "name:ava_x_historical":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:ava_x_preferred":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Makedonia"
+    ],
+    "name:awa_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930 \u092e\u0948\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:azb_x_historical":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647",
         "\u0645\u0648\u0644\u062f\u0627\u0648\u06cc"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0645\u0627\u0644\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u0647"
     ],
     "name:aze_x_historical":[
         "Makedoniya",
         "Masedoniya",
         "\u015eimali Makedoniya"
     ],
+    "name:aze_x_preferred":[
+        "\u015eimali Makedoniya"
+    ],
     "name:bak_x_historical":[
+        "\u0422\u04e9\u043d\u044c\u044f\u04a1 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:bak_x_preferred":[
         "\u0422\u04e9\u043d\u044c\u044f\u04a1 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
     "name:bam_x_historical":[
         "Maced\u0254ni"
     ],
+    "name:ban_x_preferred":[
+        "Macedonia Utara"
+    ],
     "name:bar_x_historical":[
         "Mazedonien (Begriffskl\u00e4rung)",
         "Noadmazedonien"
+    ],
+    "name:bar_x_preferred":[
+        "Noadmazedonien"
+    ],
+    "name:bcl_x_preferred":[
+        "Republika kan Masedonya"
     ],
     "name:bel_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f, \u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0456",
@@ -108,17 +174,32 @@
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f, \u0411\u042e\u0420",
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
+    ],
     "name:ben_x_historical":[
         "\u09ae\u09cd\u09af\u09be\u09b8\u09be\u09a1\u09cb\u09a8\u09bf\u09af\u09bc\u09be",
         "\u0989\u09a4\u09cd\u09a4\u09b0 \u09ae\u09cd\u09af\u09be\u09b8\u09c7\u09a1\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u09a4\u09cd\u09a4\u09b0 \u09ae\u09c7\u09b8\u09bf\u09a1\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
     "name:bho_x_historical":[
+        "\u092e\u0947\u0938\u0940\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:bho_x_preferred":[
         "\u092e\u0947\u0938\u0940\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:bis_x_historical":[
         "Not Macedonia"
     ],
+    "name:bis_x_preferred":[
+        "Not Macedonia"
+    ],
     "name:bod_x_historical":[
+        "\u0f58\u0f0b\u0f66\u0f7a\u0f0b\u0f4c\u0f7c\u0f0b\u0f53\u0f72\u0f61\u0f0d"
+    ],
+    "name:bod_x_preferred":[
         "\u0f58\u0f0b\u0f66\u0f7a\u0f0b\u0f4c\u0f7c\u0f0b\u0f53\u0f72\u0f61\u0f0d"
     ],
     "name:bos_x_historical":[
@@ -126,12 +207,21 @@
         "Republika Makedonija",
         "Makedonija"
     ],
+    "name:bos_x_preferred":[
+        "Sjeverna Makedonija"
+    ],
     "name:bpy_x_historical":[
+        "\u09ae\u09c7\u09b8\u09bf\u09a1\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bpy_x_preferred":[
         "\u09ae\u09c7\u09b8\u09bf\u09a1\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
     ],
     "name:bre_x_historical":[
         "Republik Makedonia",
         "Makedonia"
+    ],
+    "name:bre_x_preferred":[
+        "Makedonia an Norzh"
     ],
     "name:bul_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
@@ -139,18 +229,33 @@
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
     "name:bxr_x_historical":[
+        "\u0425\u043e\u0439\u0442\u043e \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438"
+    ],
+    "name:bxr_x_preferred":[
         "\u0425\u043e\u0439\u0442\u043e \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438"
     ],
     "name:cat_x_historical":[
         "Maced\u00f2nia",
         "Rep\u00fablica de Maced\u00f2nia"
     ],
+    "name:cat_x_preferred":[
+        "Maced\u00f2nia del Nord"
+    ],
     "name:cdo_x_historical":[
+        "B\u00e1e\u0324k M\u0101-g\u00ec-d\u00f3ng"
+    ],
+    "name:cdo_x_preferred":[
         "B\u00e1e\u0324k M\u0101-g\u00ec-d\u00f3ng"
     ],
     "name:ceb_x_historical":[
         "Macedonia (pagklaro)"
+    ],
+    "name:ceb_x_preferred":[
+        "Republika sa Amihanan Makedoniya"
     ],
     "name:ces_x_historical":[
         "Makedonie (rozcestn\u00edk)",
@@ -159,35 +264,65 @@
         "Makedonie",
         "Severn\u00ed Makedonie"
     ],
+    "name:ces_x_preferred":[
+        "Severn\u00ed Makedonie"
+    ],
     "name:che_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438"
+    ],
     "name:chr_x_historical":[
+        "\u13b9\u13ce\u13d9\u13c2\u13ef"
+    ],
+    "name:chr_x_preferred":[
         "\u13b9\u13ce\u13d9\u13c2\u13ef"
     ],
     "name:chu_x_historical":[
         "\u041c\u0430\u043a\u0454\u0434\u043e\u043d\u0457\ua657 \u00b7 \u0441\u044a\u043c\ua651\u0441\u043b\u0438",
         "\u0421\u0463\u0432\u0454\u0440\u044c\u043d\u0430 \u041c\u0430\u043a\u0454\u0434\u043e\u043d\u0457\ua657"
     ],
+    "name:chu_x_preferred":[
+        "\u0421\u0463\u0432\u0454\u0440\u044c\u043d\u0430 \u041c\u0430\u043a\u0454\u0434\u043e\u043d\u0457\ua657"
+    ],
     "name:chv_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
+    ],
+    "name:chv_x_preferred":[
+        "\u00c7\u0443\u0440\u00e7\u0115\u0440 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438"
     ],
     "name:ckb_x_historical":[
         "\u06a9\u06c6\u0645\u0627\u0631\u06cc \u0645\u06d5\u0642\u062f\u0648\u0648\u0646\u06cc\u0627"
     ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06c6\u0645\u0627\u0631\u06cc \u0645\u06d5\u0642\u062f\u0648\u0648\u0646\u06cc\u0627"
+    ],
     "name:cor_x_historical":[
+        "Repoblek Makedoni"
+    ],
+    "name:cor_x_preferred":[
         "Repoblek Makedoni"
     ],
     "name:crh_x_historical":[
         "Makedoniya",
         "\u015eimaliy Makedoniya"
     ],
+    "name:crh_x_preferred":[
+        "\u015eimaliy Makedoniya"
+    ],
     "name:csb_x_historical":[
+        "Nordow\u00f4 Macedo\u0144sk\u00f4"
+    ],
+    "name:csb_x_preferred":[
         "Nordow\u00f4 Macedo\u0144sk\u00f4"
     ],
     "name:cym_x_historical":[
         "Macedonia",
         "Gweriniaeth Macedonia",
+        "Gogledd Macedonia"
+    ],
+    "name:cym_x_preferred":[
         "Gogledd Macedonia"
     ],
     "name:cze_x_historical":[
@@ -200,6 +335,9 @@
         "Tidligere Jugoslaviske Republik Makedonien",
         "Nordmakedonien"
     ],
+    "name:dan_x_preferred":[
+        "Nordmakedonien"
+    ],
     "name:deu_x_historical":[
         "Mazedonien (Begriffskl\u00e4rung)",
         "Mazedonien",
@@ -207,16 +345,31 @@
         "Ehemalige jugoslawische Republik Mazedonien",
         "Nordmazedonien"
     ],
+    "name:deu_x_preferred":[
+        "Nordmazedonien"
+    ],
     "name:diq_x_historical":[
         "Cumur\u00eat\u00ea Makedonya"
     ],
+    "name:diq_x_preferred":[
+        "Makedonya Z\u0131mey"
+    ],
     "name:div_x_historical":[
+        "\u0789\u07ac\u0790\u07ac\u0791\u07af\u0782\u07a8\u0787\u07a7"
+    ],
+    "name:div_x_preferred":[
         "\u0789\u07ac\u0790\u07ac\u0791\u07af\u0782\u07a8\u0787\u07a7"
     ],
     "name:dsb_x_historical":[
         "Makedo\u0144ska"
     ],
+    "name:dsb_x_preferred":[
+        "P\u00f3dpo\u0142nocna Makedo\u0144ska"
+    ],
     "name:dty_x_historical":[
+        "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:dty_x_preferred":[
         "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:efi_x_historical":[
@@ -227,6 +380,9 @@
         "\u03a0\u0393\u0394 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
         "\u03a0\u03c1\u03ce\u03b7\u03bd \u0393\u03b9\u03bf\u03c5\u03b3\u03ba\u03bf\u03c3\u03bb\u03b1\u03b2\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03b7\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
         "\u03a0.\u0393.\u0394. \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1"
+    ],
+    "name:ell_x_preferred":[
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1"
     ],
     "name:eng_x_colloquial":[
@@ -247,6 +403,9 @@
         "Macedonia, The Former Yugoslav Republic Of",
         "North Macedonia"
     ],
+    "name:eng_x_preferred":[
+        "North Macedonia"
+    ],
     "name:eng_x_unknown":[
         "MK",
         "MKD"
@@ -257,9 +416,15 @@
         "Respubliko Makedonio",
         "Nord-Makedonio"
     ],
+    "name:epo_x_preferred":[
+        "Nord-Makedonio"
+    ],
     "name:est_x_historical":[
         "Makedoonia Vabariik",
         "Makedoonia",
+        "P\u00f5hja-Makedoonia"
+    ],
+    "name:est_x_preferred":[
         "P\u00f5hja-Makedoonia"
     ],
     "name:eus_x_historical":[
@@ -268,16 +433,31 @@
         "Mazedoniako Errepublika",
         "Ipar Mazedonia"
     ],
+    "name:eus_x_preferred":[
+        "Ipar Mazedonia"
+    ],
     "name:ewe_x_historical":[
         "Makedonia nutome"
+    ],
+    "name:ewe_x_preferred":[
+        "North Macedonia"
+    ],
+    "name:ext_x_preferred":[
+        "Maced\u00f3nia del Norti"
     ],
     "name:fao_x_historical":[
         "Maked\u00f3nia",
         "L\u00fd\u00f0veldi\u00f0 Maked\u00f3nia"
     ],
+    "name:fao_x_preferred":[
+        "L\u00fd\u00f0veldi\u00f0 Maked\u00f3nia"
+    ],
     "name:fas_x_historical":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647",
         "\u0645\u06a9\u062f\u0648\u0646\u06cc\u0627",
+        "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:fas_x_preferred":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647 \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:fin_x_historical":[
@@ -288,6 +468,9 @@
         "Makedonian valtakunta",
         "Pohjois-Makedonia"
     ],
+    "name:fin_x_preferred":[
+        "Pohjois-Makedonia"
+    ],
     "name:fra_x_colloquial":[
         "Macedoine"
     ],
@@ -296,53 +479,113 @@
         "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine",
         "Mac\u00e9doine"
     ],
+    "name:fra_x_preferred":[
+        "Mac\u00e9doine du Nord"
+    ],
     "name:frp_x_historical":[
         "R\u00e8publica de Mac\u00e8donie"
     ],
+    "name:frp_x_preferred":[
+        "Mac\u00e8donie du Nord"
+    ],
     "name:frr_x_historical":[
+        "Nuurd-Matsedoonien"
+    ],
+    "name:frr_x_preferred":[
         "Nuurd-Matsedoonien"
     ],
     "name:fry_x_historical":[
         "Masedoanje",
         "Noard-Masedoanje"
     ],
+    "name:fry_x_preferred":[
+        "Noard-Masedoanje"
+    ],
     "name:ful_x_historical":[
         "Meceduwaan",
+        "Masedoniya"
+    ],
+    "name:ful_x_preferred":[
         "Masedoniya"
     ],
     "name:fur_x_historical":[
         "Macedonie"
     ],
+    "name:fur_x_preferred":[
+        "Macedonie dal Nort"
+    ],
     "name:gag_x_historical":[
         "Poyraz Makedoniya"
     ],
+    "name:gag_x_preferred":[
+        "Poyraz Makedoniya"
+    ],
+    "name:gcr_x_preferred":[
+        "Mas\u00e9dwann"
+    ],
+    "name:gla_x_preferred":[
+        "Poblachd na Masadoine"
+    ],
     "name:gle_x_historical":[
         "An Mhacad\u00f3in"
+    ],
+    "name:gle_x_preferred":[
+        "An Mhacad\u00f3in Thuaidh"
     ],
     "name:glg_x_historical":[
         "Macedonia",
         "Rep\u00fablica de Macedonia"
     ],
+    "name:glv_x_preferred":[
+        "Pobblaght y Vassadoan Hwoaie"
+    ],
     "name:gom_x_historical":[
+        "\u092e\u0945\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:gom_x_preferred":[
         "\u092e\u0945\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:got_x_historical":[
         "\ud800\udf3c\ud800\udf30\ud800\udf3a\ud800\udf30\ud800\udf39\ud800\udf33\ud800\udf49\ud800\udf3d\ud800\udf3e\ud800\udf30"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf3c\ud800\udf30\ud800\udf3a\ud800\udf30\ud800\udf39\ud800\udf33\ud800\udf49\ud800\udf3d\ud800\udf3e\ud800\udf30"
+    ],
     "name:grn_x_historical":[
+        "Yvate Masendo\u00f1a"
+    ],
+    "name:grn_x_preferred":[
         "Yvate Masendo\u00f1a"
     ],
     "name:gsw_x_historical":[
         "Republik Mazedonie"
     ],
+    "name:gsw_x_preferred":[
+        "Republik Mazedonie"
+    ],
     "name:guj_x_historical":[
+        "\u0aae\u0ac7\u0ab8\u0ac7\u0aa1\u0acb\u0aa8\u0abf\u0aaf\u0abe"
+    ],
+    "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab8\u0ac7\u0aa1\u0acb\u0aa8\u0abf\u0aaf\u0abe"
     ],
     "name:hak_x_historical":[
         "Pet Macedonia"
     ],
+    "name:hak_x_preferred":[
+        "Pet Macedonia"
+    ],
+    "name:hat_x_preferred":[
+        "Repiblik d Masedoni"
+    ],
     "name:hau_x_historical":[
         "Masedoniya"
+    ],
+    "name:hau_x_preferred":[
+        "Masadoiniya ta Arewa"
+    ],
+    "name:haw_x_preferred":[
+        "Repupalika o \u2018\u0100kau Masedonia"
     ],
     "name:hbs_x_historical":[
         "Masidonija",
@@ -353,9 +596,18 @@
         "\u05de\u05e7\u05d3\u05d5\u05e0\u05d9\u05d4",
         "\u05de\u05e7\u05d3\u05d5\u05e0\u05d9\u05d4 \u05d4\u05e6\u05e4\u05d5\u05e0\u05d9\u05ea"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d3\u05d5\u05e0\u05d9\u05d4 \u05d4\u05e6\u05e4\u05d5\u05e0\u05d9\u05ea"
+    ],
+    "name:hif_x_preferred":[
+        "Republic of Macedonia"
+    ],
     "name:hin_x_historical":[
         "\u092e\u0948\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e",
         "\u092e\u0948\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e",
+        "\u0909\u0924\u094d\u0924\u0930 \u092e\u0948\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u092e\u0948\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:hrv_x_historical":[
@@ -365,8 +617,14 @@
         "Makedonija",
         "Sjeverna Makedonija"
     ],
+    "name:hrv_x_preferred":[
+        "Sjeverna Makedonija"
+    ],
     "name:hsb_x_historical":[
         "Makedonska",
+        "Sewjerna Makedonska"
+    ],
+    "name:hsb_x_preferred":[
         "Sewjerna Makedonska"
     ],
     "name:hun_x_historical":[
@@ -377,20 +635,38 @@
         "Maked\u00f3nia",
         "\u00c9szak-Maced\u00f3nia"
     ],
+    "name:hun_x_preferred":[
+        "\u00c9szak-Maced\u00f3nia"
+    ],
     "name:hye_x_historical":[
         "\u0544\u0561\u056f\u0565\u0564\u0578\u0576\u056b\u0561 (\u0561\u0575\u056c \u056f\u056b\u0580\u0561\u057c\u0578\u0582\u0574\u0576\u0565\u0580)",
         "\u0544\u0561\u056f\u0565\u0564\u0578\u0576\u056b\u0561",
         "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0544\u0561\u056f\u0565\u0564\u0578\u0576\u056b\u0561"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0544\u0561\u056f\u0565\u0564\u0578\u0576\u056b\u0561"
+    ],
     "name:ibo_x_historical":[
+        "Macedonia"
+    ],
+    "name:ibo_x_preferred":[
         "Macedonia"
     ],
     "name:ido_x_historical":[
         "Republiko Macedonia",
         "Republiko Norda-Macedonia"
     ],
+    "name:ido_x_preferred":[
+        "Republiko Norda-Macedonia"
+    ],
     "name:ile_x_historical":[
         "Macedonia"
+    ],
+    "name:ile_x_preferred":[
+        "Nord-Macedonia"
+    ],
+    "name:ilo_x_preferred":[
+        "Amianan a Macedonia"
     ],
     "name:ina_x_historical":[
         "Macedonia (disambiguation)",
@@ -401,9 +677,15 @@
         "Republik Makedonia",
         "Makedonia"
     ],
+    "name:ind_x_preferred":[
+        "Republik Makedonia Utara"
+    ],
     "name:isl_x_historical":[
         "Maked\u00f3n\u00eda",
         "L\u00fd\u00f0veldi\u00f0 Maked\u00f3n\u00eda",
+        "Nor\u00f0ur-Maked\u00f3n\u00eda"
+    ],
+    "name:isl_x_preferred":[
         "Nor\u00f0ur-Maked\u00f3n\u00eda"
     ],
     "name:ita_x_historical":[
@@ -413,11 +695,20 @@
         "Macedonia, Repubblica",
         "Ex Repubblica Jugoslava di Macedonia"
     ],
+    "name:ita_x_preferred":[
+        "Macedonia del Nord"
+    ],
     "name:jam_x_historical":[
         "Ripoblik a Masiduonia",
         "Masiduonia"
     ],
+    "name:jam_x_preferred":[
+        "Ripoblik a Masiduonia"
+    ],
     "name:jav_x_historical":[
+        "R\u00e9publik Makedonia"
+    ],
+    "name:jav_x_preferred":[
         "R\u00e9publik Makedonia"
     ],
     "name:jpn_x_historical":[
@@ -427,29 +718,53 @@
         "\u30de\u30b1\u30c9\u30cb\u30a2\u65e7\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u5171\u548c\u56fd",
         "\u5317\u30de\u30b1\u30c9\u30cb\u30a2"
     ],
+    "name:jpn_x_preferred":[
+        "\u5317\u30de\u30b1\u30c9\u30cb\u30a2"
+    ],
     "name:kaa_x_historical":[
         "Makedoniya"
     ],
+    "name:kaa_x_preferred":[
+        "Makedoniya"
+    ],
     "name:kal_x_historical":[
+        "Makedonia"
+    ],
+    "name:kal_x_preferred":[
         "Makedonia"
     ],
     "name:kan_x_historical":[
         "\u0cae\u0ccd\u0caf\u0cbe\u0cb8\u0cbf\u0ca1\u0ccb\u0ca8\u0cbf\u0caf\u0cbe",
         "\u0cae\u0ccd\u0caf\u0cbe\u0cb8\u0cc6\u0ca1\u0cca\u0ca8\u0cbf\u0caf \u0c97\u0ca3\u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kan_x_preferred":[
+        "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0cae\u0ccd\u0caf\u0cbe\u0cb8\u0cc6\u0ca1\u0cca\u0ca8\u0cbf\u0caf"
+    ],
     "name:kat_x_historical":[
         "\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0 (\u10db\u10e0\u10d0\u10d5\u10d0\u10da\u10db\u10dc\u10d8\u10e8\u10d5\u10dc\u10d4\u10da\u10dd\u10d5\u10d0\u10dc\u10d8)",
         "\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0",
         "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0"
+    ],
     "name:kaz_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u043b\u0442\u04af\u0441\u0442\u0456\u043a \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
     "name:kbd_x_historical":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044d"
     ],
+    "name:kbd_x_preferred":[
+        "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044d"
+    ],
     "name:khm_x_historical":[
         "\u1798\u17c9\u17b6\u179f\u17c1\u178a\u1793",
+        "\u1798\u17c9\u17b6\u179f\u17c1\u178a\u17bc\u1793\u17b6\u1781\u17b6\u1784\u178f\u17d2\u1794\u17bc\u1784"
+    ],
+    "name:khm_x_preferred":[
         "\u1798\u17c9\u17b6\u179f\u17c1\u178a\u17bc\u1793\u17b6\u1781\u17b6\u1784\u178f\u17d2\u1794\u17bc\u1784"
     ],
     "name:kik_x_historical":[
@@ -458,16 +773,31 @@
     "name:kin_x_historical":[
         "Masedoniya"
     ],
+    "name:kin_x_preferred":[
+        "Masedoniya ya Ruguru"
+    ],
     "name:kir_x_historical":[
+        "\u0422\u04af\u043d\u0434\u04af\u043a \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:kir_x_preferred":[
         "\u0422\u04af\u043d\u0434\u04af\u043a \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
     "name:koi_x_historical":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
+    "name:koi_x_preferred":[
+        "\u041e\u0439\u0432\u044b\u0432 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
     "name:kom_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
+    "name:kom_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
     "name:kon_x_historical":[
+        "Makedonia"
+    ],
+    "name:kon_x_preferred":[
         "Makedonia"
     ],
     "name:kor_x_historical":[
@@ -477,50 +807,98 @@
         "\uc804 \uc720\uace0\uc2ac\ub77c\ube44\uc544 \ub9c8\ucf00\ub3c4\ub2c8\uc544",
         "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544"
     ],
+    "name:kor_x_preferred":[
+        "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544"
+    ],
     "name:krc_x_historical":[
+        "\u0428\u0438\u043c\u0430\u043b \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:krc_x_preferred":[
         "\u0428\u0438\u043c\u0430\u043b \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
     "name:kur_x_historical":[
         "Komara Makedonyay\u00ea",
         "Makedonyaya Bakur"
     ],
+    "name:kur_x_preferred":[
+        "Makedonyaya Bakur"
+    ],
     "name:lad_x_historical":[
+        "Makedonia"
+    ],
+    "name:lad_x_preferred":[
         "Makedonia"
     ],
     "name:lao_x_historical":[
         "\u0ec1\u0ea1\u0e8a\u0eb4\u0ec2\u0e84\u0ec0\u0e99\u0e8d",
         "\u0ea1\u0eb2\u0e8a\u0eb4\u0ec2\u0e94\u0ec0\u0e99\u0e8d\u0ec0\u0edc\u0eb7\u0ead"
     ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0eb2\u0e8a\u0eb4\u0ec2\u0e94\u0ec0\u0e99\u0e8d\u0ec0\u0edc\u0eb7\u0ead"
+    ],
     "name:lat_x_historical":[
         "Macedonia",
         "Res publica Macedonica"
+    ],
+    "name:lat_x_preferred":[
+        "Macedonia Septentrionalis"
     ],
     "name:lav_x_historical":[
         "Ma\u0137edonija",
         "Ma\u0137edonijas Republika",
         "Zieme\u013cma\u0137edonija"
     ],
+    "name:lav_x_preferred":[
+        "Zieme\u013cma\u0137edonija"
+    ],
     "name:lfn_x_historical":[
         "Macedonia"
+    ],
+    "name:lfn_x_preferred":[
+        "Macedonia Norde"
     ],
     "name:lim_x_historical":[
         "Macedoni\u00eb",
         "Noord-Macedoni\u00eb"
     ],
+    "name:lim_x_preferred":[
+        "Noord-Macedoni\u00eb"
+    ],
     "name:lin_x_historical":[
         "Masedwan\u025b"
+    ],
+    "name:lin_x_preferred":[
+        "Masedoni ya Nola"
     ],
     "name:lit_x_historical":[
         "Makedonija",
         "\u0160iaur\u0117s Makedonija"
     ],
+    "name:lit_x_preferred":[
+        "\u0160iaur\u0117s Makedonija"
+    ],
+    "name:lld_x_preferred":[
+        "Macedonia dl Nort"
+    ],
     "name:lmo_x_historical":[
         "Macedonia"
+    ],
+    "name:lmo_x_preferred":[
+        "Macedonia del Nord"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0645\u0671\u0642\u062f\u06ca\u0646\u06cc\u0671"
     ],
     "name:ltg_x_historical":[
         "Makedonejis Republika"
     ],
+    "name:ltg_x_preferred":[
+        "Z\u012bme\u013cmakedoneja"
+    ],
     "name:ltz_x_historical":[
+        "Nordmazedonien"
+    ],
+    "name:ltz_x_preferred":[
         "Nordmazedonien"
     ],
     "name:lub_x_historical":[
@@ -532,44 +910,83 @@
     "name:lzh_x_historical":[
         "\u5317\u99ac\u5176\u9813"
     ],
+    "name:lzh_x_preferred":[
+        "\u5317\u99ac\u5176\u9813"
+    ],
+    "name:mad_x_preferred":[
+        "Makedonia"
+    ],
     "name:mai_x_historical":[
+        "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:mai_x_preferred":[
         "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:mal_x_historical":[
         "\u0d2e\u0d3e\u0d38\u0d3f\u0d21\u0d4b\u0d23\u0d3f\u0d2f",
         "\u0d28\u0d4b\u0d7c\u0d24\u0d4d\u0d24\u0d4d \u0d2e\u0d3e\u0d38\u0d3f\u0d21\u0d4b\u0d23\u0d3f\u0d2f"
     ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4b\u0d7c\u0d24\u0d4d\u0d24\u0d4d \u0d2e\u0d3e\u0d38\u0d3f\u0d21\u0d4b\u0d23\u0d3f\u0d2f"
+    ],
     "name:mar_x_historical":[
         "\u092e\u0945\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e",
+        "\u0909\u0924\u094d\u0924\u0930 \u092e\u0945\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u092e\u0945\u0938\u093f\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:mdf_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0435"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0435"
+    ],
     "name:mhr_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0439"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0419\u04f1\u0434\u0432\u0435\u043b \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0439"
     ],
     "name:mkd_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430 (\u043f\u043e\u0458\u0430\u0441\u043d\u0443\u0432\u0430\u045a\u0435)",
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
     ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    ],
     "name:mlg_x_historical":[
         "Makedonia",
         "Masedonia"
     ],
+    "name:mlg_x_preferred":[
+        "Mased\u00f4nia Avaratra"
+    ],
     "name:mlt_x_historical":[
         "Ma\u010bedonja"
     ],
+    "name:mlt_x_preferred":[
+        "Ma\u010bedonja ta' Fuq"
+    ],
     "name:mon_x_historical":[
+        "\u0423\u043c\u0430\u0440\u0434 \u041c\u0430\u043a\u0435\u0434\u043e\u043d"
+    ],
+    "name:mon_x_preferred":[
         "\u0423\u043c\u0430\u0440\u0434 \u041c\u0430\u043a\u0435\u0434\u043e\u043d"
     ],
     "name:mri_x_historical":[
         "Maker\u014dnia"
     ],
+    "name:mri_x_preferred":[
+        "Maker\u014dnia"
+    ],
     "name:msa_x_historical":[
         "Macedonia",
         "Republik Macedonia"
+    ],
+    "name:msa_x_preferred":[
+        "Makedonia Utara"
     ],
     "name:mwl_x_historical":[
         "Maced\u00f3nia"
@@ -578,20 +995,38 @@
         "\u1019\u102c\u1005\u102e\u1012\u102d\u102f\u1038\u1014\u102e\u1038\u101a\u102c\u1038",
         "\u1019\u1000\u103a\u1005\u102e\u1012\u102d\u102f\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u1000\u103a\u1005\u102e\u1012\u102d\u102f\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
     "name:myv_x_historical":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:myv_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_historical":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647"
     ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647"
+    ],
     "name:nah_x_historical":[
+        "Tl\u0101catlahtohc\u0101y\u014dtl Macedonia"
+    ],
+    "name:nah_x_preferred":[
         "Tl\u0101catlahtohc\u0101y\u014dtl Macedonia"
     ],
     "name:nan_x_historical":[
         "Pak Macedonia"
     ],
+    "name:nan_x_preferred":[
+        "Pak Macedonia"
+    ],
     "name:nau_x_historical":[
         "Macedonia",
+        "Matedoniya"
+    ],
+    "name:nau_x_preferred":[
         "Matedoniya"
     ],
     "name:nde_x_historical":[
@@ -605,11 +1040,20 @@
         "Republiek Makedonien",
         "Noordmakedonien"
     ],
+    "name:nds_x_preferred":[
+        "Noordmakedonien"
+    ],
     "name:nep_x_historical":[
         "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e",
         "\u092e\u094d\u092f\u093e\u0915\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
+    "name:nep_x_preferred":[
+        "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
     "name:new_x_historical":[
+        "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:new_x_preferred":[
         "\u092e\u094d\u092f\u093e\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:nld_x_colloquial":[
@@ -622,13 +1066,22 @@
         "Macedoni\u00eb",
         "Noord-Macedoni\u00eb"
     ],
+    "name:nld_x_preferred":[
+        "Noord-Macedoni\u00eb"
+    ],
     "name:nno_x_historical":[
         "Makedonia",
         "Republikken Makedonia",
         "Nord-Makedonia"
     ],
+    "name:nno_x_preferred":[
+        "Nord-Makedonia"
+    ],
     "name:nob_x_historical":[
         "Makedonia",
+        "Nord-Makedonia"
+    ],
+    "name:nob_x_preferred":[
         "Nord-Makedonia"
     ],
     "name:nor_x_historical":[
@@ -639,41 +1092,86 @@
         "Maced\u00f2nia",
         "Republica de Maced\u00f2nia"
     ],
+    "name:oci_x_preferred":[
+        "Maced\u00f2nia del N\u00f2rd"
+    ],
     "name:olo_x_historical":[
         "Makedounii"
+    ],
+    "name:olo_x_preferred":[
+        "Pohjas-Makedounii"
     ],
     "name:ori_x_historical":[
         "\u0b2e\u0b3e\u0b38\u0b47\u0b21\u0b4b\u0b28\u0b3f\u0b06",
         "\u0b2e\u0b3e\u0b38\u0b3f\u0b21\u0b4b\u0b28\u0b3f\u0b06"
     ],
+    "name:ori_x_preferred":[
+        "\u0b2e\u0b3e\u0b38\u0b3f\u0b21\u0b4b\u0b28\u0b3f\u0b06"
+    ],
     "name:orm_x_historical":[
+        "Maqedooniyaa"
+    ],
+    "name:orm_x_preferred":[
         "Maqedooniyaa"
     ],
     "name:oss_x_historical":[
         "\u0426\u00e6\u0433\u0430\u0442 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438"
     ],
+    "name:oss_x_preferred":[
+        "\u0426\u00e6\u0433\u0430\u0442 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438"
+    ],
     "name:pag_x_historical":[
+        "Masedoniya"
+    ],
+    "name:pag_x_preferred":[
         "Masedoniya"
     ],
     "name:pam_x_historical":[
         "Republika ning Makedonia"
     ],
+    "name:pam_x_preferred":[
+        "Pangulung Makedonia"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a30\u0a40\u0a2a\u0a2c\u0a32\u0a3f\u0a15 \u0a06\u0a2b \u0a28\u0a3e\u0a30\u0a25 \u0a2e\u0a15\u0a26\u0a42\u0a28\u0a40\u0a06"
+    ],
     "name:pap_x_historical":[
+        "Nort Macedonia"
+    ],
+    "name:pap_x_preferred":[
         "Nort Macedonia"
     ],
     "name:pcd_x_historical":[
         "Mach\u00e9do\u00e8ne"
     ],
+    "name:pcd_x_preferred":[
+        "Mach\u00e9do\u00e8ne"
+    ],
+    "name:pih_x_preferred":[
+        "Repablik o' Masedoenya"
+    ],
     "name:pli_x_historical":[
+        "\u092e\u0947\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
+    "name:pli_x_preferred":[
         "\u092e\u0947\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:pms_x_historical":[
         "Maced\u00f2nia"
     ],
+    "name:pms_x_preferred":[
+        "Maced\u00f2nia d\u00ebl N\u00f2rd"
+    ],
     "name:pnb_x_historical":[
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
     ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
+    ],
     "name:pnt_x_historical":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1"
+    ],
+    "name:pnt_x_preferred":[
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1"
     ],
     "name:pol_x_historical":[
@@ -681,6 +1179,9 @@
         "Macedonia, Republika",
         "Macedonia",
         "By\u0142a Jugos\u0142owia\u0144ska Republika Macedonii",
+        "Macedonia P\u00f3\u0142nocna"
+    ],
+    "name:pol_x_preferred":[
         "Macedonia P\u00f3\u0142nocna"
     ],
     "name:por_x_colloquial":[
@@ -696,15 +1197,27 @@
     "name:pus_x_historical":[
         "\u062f \u0645\u0642\u062f\u0648\u0646\u064a\u06d0 \u0648\u0644\u0633\u0645\u0634\u0631\u064a\u0632\u0647"
     ],
+    "name:pus_x_preferred":[
+        "\u062f \u0645\u0642\u062f\u0648\u0646\u064a\u06d0 \u0648\u0644\u0633\u0645\u0634\u0631\u064a\u0632\u0647"
+    ],
     "name:que_x_historical":[
         "Makiduniya",
+        "Chinchay Masitunya"
+    ],
+    "name:que_x_preferred":[
         "Chinchay Masitunya"
     ],
     "name:rmy_x_historical":[
         "Republika Makedoniya"
     ],
+    "name:rmy_x_preferred":[
+        "Republika Makedoniya"
+    ],
     "name:roh_x_historical":[
         "Macedonia"
+    ],
+    "name:roh_x_preferred":[
+        "Macedonia dal Nord"
     ],
     "name:ron_x_historical":[
         "Macedonia",
@@ -713,6 +1226,9 @@
     ],
     "name:rue_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f",
+        "\u0421\u0463\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
+    ],
+    "name:rue_x_preferred":[
         "\u0421\u0463\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
     ],
     "name:rum_x_historical":[
@@ -729,16 +1245,28 @@
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
     "name:sag_x_historical":[
         "Masedu\u00e4ni"
     ],
     "name:sah_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0442\u0430"
     ],
+    "name:sah_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0442\u0430"
+    ],
     "name:san_x_historical":[
         "\u092e\u0947\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
     ],
+    "name:san_x_preferred":[
+        "\u092e\u0947\u0938\u0947\u0921\u094b\u0928\u093f\u092f\u093e"
+    ],
     "name:sat_x_historical":[
+        "\u1c62\u1c5f\u1c65\u1c64\u1c70\u1c5a\u1c71\u1c64\u1c6d\u1c5f"
+    ],
+    "name:sat_x_preferred":[
         "\u1c62\u1c5f\u1c65\u1c64\u1c70\u1c5a\u1c71\u1c64\u1c6d\u1c5f"
     ],
     "name:scn_x_historical":[
@@ -750,10 +1278,22 @@
         "Macedonie",
         "North Macedonie"
     ],
+    "name:sco_x_preferred":[
+        "North Macedonie"
+    ],
     "name:sgs_x_historical":[
         "Makeduon\u0117j\u0117"
     ],
+    "name:sgs_x_preferred":[
+        "Makeduon\u0117j\u0117"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u1085\u1010\u103a\u1087\u101e\u102e\u1087\u1010\u1030\u101d\u103a\u1038\u107c\u102e\u1038\u101a\u1083\u1038"
+    ],
     "name:sin_x_historical":[
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
+    "name:sin_x_preferred":[
         "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0dc3\u0dd2\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_historical":[
@@ -761,9 +1301,15 @@
         "Maced\u00f3nsko",
         "Severn\u00e9 Maced\u00f3nsko"
     ],
+    "name:slk_x_preferred":[
+        "Severn\u00e9 Maced\u00f3nsko"
+    ],
     "name:slv_x_historical":[
         "Republika Makedonija",
         "Makedonija",
+        "Severna Makedonija"
+    ],
+    "name:slv_x_preferred":[
         "Severna Makedonija"
     ],
     "name:sme_x_historical":[
@@ -771,11 +1317,29 @@
         "Makedonia",
         "Davvi-Makedonia"
     ],
+    "name:sme_x_preferred":[
+        "Davvi-Makedonia"
+    ],
+    "name:smn_x_preferred":[
+        "Tave-Makedonia"
+    ],
+    "name:smo_x_preferred":[
+        "Ripapelika o Maketonia"
+    ],
+    "name:sms_x_preferred":[
+        "T\u00e2\u02b9vv-Makedonia"
+    ],
     "name:sna_x_historical":[
+        "Macedonia"
+    ],
+    "name:sna_x_preferred":[
         "Macedonia"
     ],
     "name:som_x_historical":[
         "Makadooniya"
+    ],
+    "name:som_x_preferred":[
+        "Jamhuuriyada Waqooyiga Macedonia"
     ],
     "name:spa_x_colloquial":[
         "Antigua Republica Yugoslava de Macedonia",
@@ -788,15 +1352,24 @@
         "Ex Rep\u00fablica Yugoslava de Macedonia",
         "Macedonia, Antigua Rep\u00fablica Yugoslava"
     ],
+    "name:spa_x_preferred":[
+        "Macedonia del Norte"
+    ],
     "name:sqi_x_historical":[
         "Maqedonia (kthjellim)",
         "Maqedoni",
         "Republika e Maqedonis\u00eb"
     ],
+    "name:sqi_x_preferred":[
+        "Maqedonia e Veriut"
+    ],
     "name:srd_x_historical":[
         "Matzed\u00f2nia"
     ],
     "name:srn_x_historical":[
+        "Masedoniyakondre"
+    ],
+    "name:srn_x_preferred":[
         "Masedoniyakondre"
     ],
     "name:srp_x_historical":[
@@ -805,18 +1378,33 @@
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    ],
     "name:ssw_x_historical":[
         "IMakhedoniya"
+    ],
+    "name:ssw_x_preferred":[
+        "iMakhedoniya leseNyakatfo"
     ],
     "name:stq_x_historical":[
         "Makedonien"
     ],
+    "name:stq_x_preferred":[
+        "Noudmakedonien"
+    ],
     "name:sun_x_historical":[
+        "Mak\u00e9donia Kal\u00e9r"
+    ],
+    "name:sun_x_preferred":[
         "Mak\u00e9donia Kal\u00e9r"
     ],
     "name:swa_x_historical":[
         "Jamhuri ya Masedonia",
         "Masedonia"
+    ],
+    "name:swa_x_preferred":[
+        "Masedonia ya Kaskazini"
     ],
     "name:swe_x_historical":[
         "Makedonien",
@@ -825,35 +1413,65 @@
         "FYROM",
         "Nordmakedonien"
     ],
+    "name:swe_x_preferred":[
+        "Nordmakedonien"
+    ],
     "name:szl_x_historical":[
         "P\u016f\u0142nocno Maced\u016f\u0144ijo"
+    ],
+    "name:szl_x_preferred":[
+        "P\u016f\u0142nocno Maced\u016f\u0144ijo"
+    ],
+    "name:szy_x_preferred":[
+        "Macedonia"
     ],
     "name:tam_x_historical":[
         "\u0bae\u0bbe\u0b9a\u0bbf\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
         "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bcd\u0b95\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bcd\u0b95\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe"
+    ],
     "name:tat_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u04e9\u043d\u044c\u044f\u043a \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
     "name:tel_x_historical":[
         "\u0c2e\u0c47\u0c38\u0c46\u0c21\u0c4b\u0c28\u0c3f\u0c2f\u0c3e",
+        "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c2e\u0c46\u0c38\u0c3f\u0c21\u0c4b\u0c28\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c2e\u0c46\u0c38\u0c3f\u0c21\u0c4b\u0c28\u0c3f\u0c2f\u0c3e"
     ],
     "name:tet_x_historical":[
         "Mased\u00f3nia",
         "Mased\u00f3nia Norte"
     ],
+    "name:tet_x_preferred":[
+        "Mased\u00f3nia Norte"
+    ],
     "name:tgk_x_historical":[
         "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u041c\u0430\u049b\u0434\u0443\u043d\u0438\u044f",
+        "\u041c\u0430\u049b\u0434\u0443\u043d\u0438\u044f\u0438 \u0428\u0438\u043c\u043e\u043b\u04e3"
+    ],
+    "name:tgk_x_preferred":[
         "\u041c\u0430\u049b\u0434\u0443\u043d\u0438\u044f\u0438 \u0428\u0438\u043c\u043e\u043b\u04e3"
     ],
     "name:tgl_x_historical":[
         "Republika ng Macedonia",
         "Hilagang Macedonia"
     ],
+    "name:tgl_x_preferred":[
+        "Hilagang Macedonia"
+    ],
     "name:tha_x_historical":[
         "\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22",
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22",
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e19\u0e2d\u0e23\u0e4c\u0e17\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e19\u0e2d\u0e23\u0e4c\u0e17\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22"
     ],
     "name:tir_x_historical":[
@@ -862,7 +1480,19 @@
     "name:ton_x_historical":[
         "Masit\u014dnia"
     ],
+    "name:tpi_x_preferred":[
+        "Republic of Macedonia"
+    ],
+    "name:trv_x_preferred":[
+        "Macedonia"
+    ],
+    "name:tso_x_preferred":[
+        "Republic of Macedonia"
+    ],
     "name:tuk_x_historical":[
+        "Demirgazyk Makedoni\u00fda"
+    ],
+    "name:tuk_x_preferred":[
         "Demirgazyk Makedoni\u00fda"
     ],
     "name:tum_x_historical":[
@@ -872,19 +1502,34 @@
         "Makedonya",
         "Kuzey Makedonya"
     ],
+    "name:tur_x_preferred":[
+        "Kuzey Makedonya"
+    ],
     "name:twi_x_historical":[
+        "Masidonia"
+    ],
+    "name:twi_x_preferred":[
         "Masidonia"
     ],
     "name:udm_x_historical":[
         "\u0423\u0439\u043f\u0430\u043b \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
     ],
+    "name:udm_x_preferred":[
+        "\u0423\u0439\u043f\u0430\u043b \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
     "name:uig_x_historical":[
+        "\u0645\u0627\u0643\u06d0\u062f\u0648\u0646\u0649\u064a\u06d5"
+    ],
+    "name:uig_x_preferred":[
         "\u0645\u0627\u0643\u06d0\u062f\u0648\u0646\u0649\u064a\u06d5"
     ],
     "name:ukr_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f",
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f",
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f, \u043a\u043e\u043b\u0438\u0448\u043d\u044f \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
     ],
     "name:und_x_colloquial":[
@@ -903,13 +1548,25 @@
         "\u0645\u0642\u062f\u0648\u0646\u06cc\u06c1",
         "\u0634\u0645\u0627\u0644\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u0645\u0627\u0644\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
+    ],
     "name:uzb_x_historical":[
         "Makedoniya"
+    ],
+    "name:uzb_x_preferred":[
+        "Shimoliy Makedoniya"
     ],
     "name:vec_x_historical":[
         "Macedonia"
     ],
+    "name:vec_x_preferred":[
+        "Maced\u00f2nia del Nord"
+    ],
     "name:vep_x_historical":[
+        "Pohjoi\u017emakedonii"
+    ],
+    "name:vep_x_preferred":[
         "Pohjoi\u017emakedonii"
     ],
     "name:vie_x_historical":[
@@ -918,8 +1575,14 @@
         "Ma-x\u00ea-\u0111\u00f4-ni-a (Macedonia)",
         "B\u1eafc Macedonia"
     ],
+    "name:vie_x_preferred":[
+        "B\u1eafc Macedonia"
+    ],
     "name:vls_x_historical":[
         "Macedoni\u00eb"
+    ],
+    "name:vls_x_preferred":[
+        "Noord-Macedoni\u00eb"
     ],
     "name:vol_x_historical":[
         "Macedonia",
@@ -927,34 +1590,70 @@
         "Makedoniy\u00e4n",
         "Nol\u00fcda-Makedoniy\u00e4n"
     ],
+    "name:vol_x_preferred":[
+        "Nol\u00fcda-Makedoniy\u00e4n"
+    ],
     "name:vro_x_historical":[
+        "Mak\u00f5doonia Vabariik"
+    ],
+    "name:vro_x_preferred":[
         "Mak\u00f5doonia Vabariik"
     ],
     "name:war_x_historical":[
         "Republika han Macedonia"
     ],
+    "name:war_x_preferred":[
+        "Norte nga Macedonia"
+    ],
     "name:wol_x_historical":[
+        "R\u00e9ewum Maseduwaan"
+    ],
+    "name:wol_x_preferred":[
         "R\u00e9ewum Maseduwaan"
     ],
     "name:wuu_x_historical":[
         "\u9a6c\u5176\u987f"
     ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u5176\u987f"
+    ],
     "name:xal_x_historical":[
+        "\u041c\u0430\u0441\u0438\u0434\u0438\u043d \u041e\u0440\u043d"
+    ],
+    "name:xal_x_preferred":[
         "\u041c\u0430\u0441\u0438\u0434\u0438\u043d \u041e\u0440\u043d"
     ],
     "name:xmf_x_historical":[
         "\u10dd\u10dd\u10e0\u10e3\u10d4 \u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0"
     ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10dd\u10e0\u10e3\u10d4 \u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e6\u05e4\u05d5\u05df-\u05de\u05d0\u05e7\u05e2\u05d3\u05d0\u05e0\u05d9\u05e2"
+    ],
     "name:yor_x_historical":[
         "Or\u00edl\u1eb9\u0301\u00e8de Masidonia"
     ],
+    "name:yor_x_preferred":[
+        "Or\u00edl\u1eb9\u0300-\u00e8d\u00e8 Ol\u00f3m\u00ecnira il\u1eb9\u0300 Mak\u1eb9d\u00f3n\u00ed\u00e0"
+    ],
     "name:yue_x_historical":[
+        "\u5317\u99ac\u5176\u9813\u5171\u548c\u570b"
+    ],
+    "name:yue_x_preferred":[
         "\u5317\u99ac\u5176\u9813\u5171\u548c\u570b"
     ],
     "name:zea_x_historical":[
         "Noord-Macedoni\u00eb"
     ],
+    "name:zea_x_preferred":[
+        "Noord-Macedoni\u00eb"
+    ],
     "name:zha_x_historical":[
+        "Baek Macedonia"
+    ],
+    "name:zha_x_preferred":[
         "Baek Macedonia"
     ],
     "name:zho_x_historical":[
@@ -965,9 +1664,15 @@
         "\u524d\u5357\u65af\u62c9\u592b\u9a6c\u5176\u987f\u5171\u548c\u56fd",
         "\u5317\u9a6c\u5176\u987f"
     ],
+    "name:zho_x_preferred":[
+        "\u5317\u9a6c\u5176\u987f"
+    ],
     "name:zul_x_historical":[
         "I-Macedonia",
         "IMakedoniya"
+    ],
+    "name:zul_x_preferred":[
+        "INyakatho Masedoniya"
     ],
     "ne:abbrev":"Mkd.",
     "ne:abbrev_len":4,
@@ -1115,7 +1820,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1631221520,
+    "wof:lastmodified":1631221601,
     "wof:name":"North Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

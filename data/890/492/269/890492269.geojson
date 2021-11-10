@@ -81,6 +81,9 @@
         "Gevgelija"
     ],
     "name:hun_x_preferred":[
+        "Gevgelija"
+    ],
+    "name:hun_x_variant":[
         "Gyevgyelija"
     ],
     "name:hye_x_preferred":[
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":890492269,
-    "wof:lastmodified":1566605486,
+    "wof:lastmodified":1636506003,
     "wof:name":"Gevgelija",
     "wof:parent_id":85674461,
     "wof:placetype":"locality",

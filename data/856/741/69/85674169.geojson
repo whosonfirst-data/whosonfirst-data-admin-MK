@@ -76,6 +76,9 @@
     "name:hbs_x_preferred":[
         "Op\u0161tina Debarca"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05d0\u05e8\u05e7\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Debarca"
     ],
@@ -304,7 +307,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895068,
+    "wof:lastmodified":1636505987,
     "wof:name":"Debarca",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

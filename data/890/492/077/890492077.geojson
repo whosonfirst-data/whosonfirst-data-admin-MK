@@ -92,7 +92,13 @@
     "name:gsw_x_preferred":[
         "Brvenica"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d5\u05d5\u05e0\u05d9\u05e6\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Brvenica"
+    ],
+    "name:hun_x_preferred":[
         "Brvenica"
     ],
     "name:ido_x_preferred":[
@@ -271,7 +277,7 @@
         }
     ],
     "wof:id":890492077,
-    "wof:lastmodified":1566605481,
+    "wof:lastmodified":1636506003,
     "wof:name":"Brvenica",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

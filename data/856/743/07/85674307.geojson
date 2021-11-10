@@ -72,11 +72,17 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0a9d\u0acb\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u094b\u091c\u093c\u094b\u0935\u094b \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Lozovo"
+    ],
+    "name:hun_x_preferred":[
+        "Lozovo"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u0566\u0578\u057e\u0578\u0575\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
@@ -308,7 +314,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1636505992,
     "wof:name":"Lozovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

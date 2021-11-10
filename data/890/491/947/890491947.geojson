@@ -35,6 +35,9 @@
         "Oslome\u00ef"
     ],
     "name:hun_x_preferred":[
+        "Oslomej"
+    ],
+    "name:hun_x_variant":[
         "Oszlomej"
     ],
     "name:kat_x_preferred":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890491947,
-    "wof:lastmodified":1566605458,
+    "wof:lastmodified":1636506001,
     "wof:name":"Oslomej",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

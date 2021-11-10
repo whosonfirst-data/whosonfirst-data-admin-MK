@@ -57,6 +57,9 @@
     "name:eng_x_preferred":[
         "Makedonski Brod Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Makedonski Brodin kunta"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Gostivar"
+    ],
+    "name:hun_x_preferred":[
+        "Brod"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Makedonski Brod"
@@ -296,7 +302,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895070,
+    "wof:lastmodified":1636505991,
     "wof:name":"Brod",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

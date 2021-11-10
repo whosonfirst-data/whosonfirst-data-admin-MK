@@ -33,6 +33,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0645\u064a\u0631 \u0643\u0627\u0628\u064a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u09ae\u09bf\u09b0 \u0995\u09be\u09aa\u09bf\u099c\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u044f"
     ],
@@ -51,11 +57,23 @@
     "name:fra_x_preferred":[
         "Demir Kapija"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05d9\u05e8 \u05e7\u05e4\u05d9\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0947\u092e\u093f\u0930 \u0915\u092a\u093f\u091c\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Demir Kapija"
     ],
+    "name:hun_x_preferred":[
+        "Demir Kapija"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0565\u0574\u056b\u0580 \u053f\u0561\u057a\u056b\u0561\u0575\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Demir Kapija"
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30df\u30eb\u30fb\u30ab\u30d4\u30e4"
@@ -74,6 +92,9 @@
     ],
     "name:nan_x_preferred":[
         "Demir Kapija Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Demir Kapija"
     ],
     "name:pol_x_preferred":[
         "Gmina Demir Kapija"
@@ -110,6 +131,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0645\u06cc\u0631 \u06a9\u0627\u067e\u06cc\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Demir Kapija"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u7c73\u5c14\u5361\u76ae\u96c5\u533a"
@@ -238,7 +262,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1636505994,
     "wof:name":"Demir Kapija",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

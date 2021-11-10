@@ -47,6 +47,9 @@
         "Makedonska Kamenica"
     ],
     "name:hun_x_preferred":[
+        "Makedonska Kamenica"
+    ],
+    "name:hun_x_variant":[
         "Makedonszka Kamenica"
     ],
     "name:ind_x_preferred":[
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890491919,
-    "wof:lastmodified":1566605474,
+    "wof:lastmodified":1636506001,
     "wof:name":"Makedonska Kamenica",
     "wof:parent_id":85674489,
     "wof:placetype":"locality",

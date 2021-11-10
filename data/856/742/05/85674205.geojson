@@ -73,6 +73,9 @@
         "Saraj"
     ],
     "name:jpn_x_preferred":[
+        "\u30b5\u30e9\u30e4"
+    ],
+    "name:jpn_x_variant":[
         "\u30b5\u30e9\u30a4"
     ],
     "name:kat_x_preferred":[
@@ -119,6 +122,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0631\u0627\u06cc \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Saraj"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u4f0a\u5340"
@@ -248,7 +254,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1636505994,
     "wof:name":"Saraj",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

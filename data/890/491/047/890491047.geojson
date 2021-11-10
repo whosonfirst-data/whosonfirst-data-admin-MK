@@ -92,6 +92,9 @@
         "Kumanovo"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05de\u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05d5\u05de\u05d0\u05e0\u05d5\u05d1\u05d5"
     ],
     "name:hin_x_preferred":[
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":890491047,
-    "wof:lastmodified":1566605452,
+    "wof:lastmodified":1636506000,
     "wof:name":"Kumanovo",
     "wof:parent_id":85674355,
     "wof:placetype":"locality",

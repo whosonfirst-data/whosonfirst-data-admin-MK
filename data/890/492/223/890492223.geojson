@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0632\u0648\u0645\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u099c\u09cb\u09ae\u09cd\u09af\u09be\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
@@ -36,6 +42,15 @@
         "Rosoman"
     ],
     "name:fra_x_preferred":[
+        "Rosoman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d6\u05d5\u05de\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u0938\u094b\u092e\u0948\u0928"
+    ],
+    "name:hun_x_preferred":[
         "Rosoman"
     ],
     "name:jpn_x_preferred":[
@@ -65,11 +80,17 @@
     "name:swe_x_preferred":[
         "Rosoman"
     ],
+    "name:tur_x_preferred":[
+        "Rosoman"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Rasoman"
+    ],
+    "name:vie_x_preferred":[
+        "Rosoman"
     ],
     "qs:name":"Rosoman",
     "qs:name_adm0":"Macedonia",
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":890492223,
-    "wof:lastmodified":1566605494,
+    "wof:lastmodified":1636506005,
     "wof:name":"Rosoman",
     "wof:parent_id":85674201,
     "wof:placetype":"locality",

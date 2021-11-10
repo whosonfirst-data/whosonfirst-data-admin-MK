@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Novaci"
     ],
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0641\u0627\u062a\u0634\u064a"
+    ],
     "name:arg_x_preferred":[
         "Novaci"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:bar_x_preferred":[
         "Novaci"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u09ad\u09be\u0995\u09bf"
     ],
     "name:bos_x_preferred":[
         "Novaci"
@@ -108,6 +114,12 @@
     ],
     "name:hbs_x_preferred":[
         "Op\u0161tina Novaci"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d0\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u0935\u093e\u0938\u093f"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Novaci"
@@ -323,7 +335,7 @@
         }
     ],
     "wof:id":890491679,
-    "wof:lastmodified":1566605467,
+    "wof:lastmodified":1636506001,
     "wof:name":"Novaci",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

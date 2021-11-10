@@ -60,6 +60,9 @@
     "name:eng_x_variant":[
         "Zajas"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u06cc\u0627\u0633"
+    ],
     "name:fin_x_preferred":[
         "Zajasin kunta"
     ],
@@ -69,11 +72,17 @@
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a9c\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05d7\u05d0\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u091c\u093e\u0938 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Zajas"
+    ],
+    "name:hun_x_preferred":[
+        "Zajas"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Zajas"
@@ -299,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1636505992,
     "wof:name":"Zajas",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

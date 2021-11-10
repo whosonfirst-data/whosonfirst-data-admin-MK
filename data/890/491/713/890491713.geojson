@@ -52,7 +52,13 @@
     "name:fra_x_preferred":[
         "Sveti Nikol\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d5\u05d8\u05d9 \u05e0\u05d9\u05e7\u05d5\u05dc"
+    ],
     "name:hrv_x_preferred":[
+        "Sveti Nikole"
+    ],
+    "name:hun_x_preferred":[
         "Sveti Nikole"
     ],
     "name:jpn_x_preferred":[
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":890491713,
-    "wof:lastmodified":1566605456,
+    "wof:lastmodified":1636506000,
     "wof:name":"Sveti Nikole",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

@@ -33,6 +33,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u062a\u0627\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0"
+    ],
     "name:bos_x_preferred":[
         "Centar"
     ],
@@ -60,11 +66,23 @@
     "name:fra_x_variant":[
         "Tsentar"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d0\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0928\u094d\u091f\u0930"
+    ],
     "name:hrv_x_preferred":[
         "Centar"
     ],
     "name:hrv_x_variant":[
         "Op\u0107ina Centar"
+    ],
+    "name:hun_x_preferred":[
+        "Centar"
+    ],
+    "name:ind_x_preferred":[
+        "Centar"
     ],
     "name:ita_x_preferred":[
         "Centar"
@@ -85,6 +103,9 @@
         "Tsentar"
     ],
     "name:nld_x_preferred":[
+        "Centar"
+    ],
+    "name:por_x_preferred":[
         "Centar"
     ],
     "name:rus_x_preferred":[
@@ -119,6 +140,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u062a\u0631 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Centar"
     ],
     "name:zho_x_preferred":[
         "\u8f9b\u5854\u5c14\u533a"
@@ -187,7 +211,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1636505995,
     "wof:name":"Centar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

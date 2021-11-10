@@ -104,6 +104,9 @@
         "\u0a93\u0ab9\u0acd\u0ab0\u0abf\u0aa1"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d4\u05e8\u05d9\u05d3"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05d5\u05d7\u05e8\u05d9\u05d3"
     ],
     "name:hin_x_preferred":[
@@ -296,7 +299,7 @@
         }
     ],
     "wof:id":890491039,
-    "wof:lastmodified":1566605456,
+    "wof:lastmodified":1636506000,
     "wof:name":"Ohrid",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

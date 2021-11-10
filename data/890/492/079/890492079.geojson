@@ -60,6 +60,9 @@
         "\u05d3\u05d5\u05d9\u05e8\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
+        "\u0921\u094b\u091c\u094d\u0930\u0928"
+    ],
+    "name:hin_x_variant":[
         "\u0926\u094b\u091c\u0930\u093e\u0928"
     ],
     "name:hun_x_preferred":[
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":890492079,
-    "wof:lastmodified":1566605480,
+    "wof:lastmodified":1636506002,
     "wof:name":"Dojran",
     "wof:parent_id":85674473,
     "wof:placetype":"locality",

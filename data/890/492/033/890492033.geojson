@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Vinica"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e0\u05d9\u05e7\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Vinica"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890492033,
-    "wof:lastmodified":1566605499,
+    "wof:lastmodified":1636506006,
     "wof:name":"Vinica",
     "wof:parent_id":85674475,
     "wof:placetype":"locality",

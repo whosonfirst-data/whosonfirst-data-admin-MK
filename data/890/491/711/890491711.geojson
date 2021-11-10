@@ -98,6 +98,9 @@
     "name:gsw_x_preferred":[
         "Vasilevo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e1\u05d9\u05dc\u05d1\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Vasilevo"
     ],
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":890491711,
-    "wof:lastmodified":1566605475,
+    "wof:lastmodified":1636506002,
     "wof:name":"Vasilevo",
     "wof:parent_id":85674449,
     "wof:placetype":"locality",

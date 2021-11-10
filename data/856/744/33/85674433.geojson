@@ -78,6 +78,9 @@
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0ab8\u0acd\u0aa4\u0abf\u0ab5\u0ab0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e1\u05d8\u05d9\u05d1\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u0938\u094d\u091f\u093f\u0935\u093e\u0930 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
     ],
@@ -344,7 +347,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1636505989,
     "wof:name":"Gostivar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

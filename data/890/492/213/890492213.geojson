@@ -38,6 +38,9 @@
         "Za\u00efas"
     ],
     "name:hun_x_preferred":[
+        "Zajas"
+    ],
+    "name:hun_x_variant":[
         "Zajasz"
     ],
     "name:kat_x_preferred":[
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890492213,
-    "wof:lastmodified":1566605496,
+    "wof:lastmodified":1636506005,
     "wof:name":"Zajas",
     "wof:parent_id":85674381,
     "wof:placetype":"locality",

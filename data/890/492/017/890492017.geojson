@@ -42,6 +42,9 @@
         "Bogovinje"
     ],
     "name:hun_x_preferred":[
+        "Bogovinje"
+    ],
+    "name:hun_x_variant":[
         "Bogovinye"
     ],
     "name:ita_x_preferred":[
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":890492017,
-    "wof:lastmodified":1566605495,
+    "wof:lastmodified":1636506005,
     "wof:name":"Bogovinje",
     "wof:parent_id":85674425,
     "wof:placetype":"locality",

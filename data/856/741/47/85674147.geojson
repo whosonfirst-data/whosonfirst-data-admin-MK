@@ -78,11 +78,17 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0ac7\u0ab8\u0aa8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e1\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u0947\u0938\u0947\u0928 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Resen"
+    ],
+    "name:hun_x_preferred":[
+        "Resen"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Resen"
@@ -317,7 +323,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1636505988,
     "wof:name":"Resen",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

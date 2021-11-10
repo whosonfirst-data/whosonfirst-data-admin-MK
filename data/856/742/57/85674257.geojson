@@ -76,11 +76,17 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aaa\u0a95\u0abe\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e4\u05e7\u05d5\u05d1\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u092a\u0915\u094b\u0935\u094b \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Lipkovo"
+    ],
+    "name:hun_x_preferred":[
+        "Lipkovo"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Lipkovo"
@@ -303,7 +309,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1636505994,
     "wof:name":"Lipkovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

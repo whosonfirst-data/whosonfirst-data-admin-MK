@@ -69,11 +69,17 @@
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab5\u0acb \u0ab8\u0ac7\u0ab2\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d5 \u05e1\u05dc\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u094b\u0935\u094b \u0938\u0947\u0932\u094b \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Novo Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Novo Selo"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Novo Selo"
@@ -302,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1636505988,
     "wof:name":"Novo Selo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

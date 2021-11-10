@@ -60,6 +60,9 @@
     "name:eng_x_variant":[
         "Makedonska Kamenica"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06a9\u062f\u0648\u0646\u0633\u06a9\u0627 \u06a9\u0627\u0645\u0646\u06cc\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Makedonska Kamenican kunta"
     ],
@@ -72,11 +75,17 @@
     "name:hbs_x_preferred":[
         "Op\u0161tina Staro Nagori\u010dane"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05d1\u05e8 \u05e4\u05d0\u05df \u05de\u05e7\u05d2\u05d3\u05d9\u05e7\u05d2\u05d3\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0948\u0915\u0947\u0921\u094b\u0902\u0938\u094d\u0915\u093e \u0915\u092e\u0948\u0928\u093f\u0915\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Staro Nagori\u010dane"
+    ],
+    "name:hun_x_preferred":[
+        "Makedonska Kamenica"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Makedonska Kamenica"
@@ -299,7 +308,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895070,
+    "wof:lastmodified":1636505989,
     "wof:name":"Makedonska Kamenica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

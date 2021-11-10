@@ -87,6 +87,9 @@
         "\u0a95\u0ac1\u0aae\u0abe\u0aa8\u0acb\u0ab5\u0acb"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05de\u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05d5\u05de\u05d0\u05e0\u05d5\u05d1\u05d5"
     ],
     "name:hin_x_preferred":[
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":890492127,
-    "wof:lastmodified":1566605488,
+    "wof:lastmodified":1636506004,
     "wof:name":"Kumanovo",
     "wof:parent_id":85674345,
     "wof:placetype":"locality",

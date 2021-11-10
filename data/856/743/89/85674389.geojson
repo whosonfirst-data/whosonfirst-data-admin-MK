@@ -69,11 +69,17 @@
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aac\u0ab0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05d0\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u0947\u092c\u093e\u0930 \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Debar"
+    ],
+    "name:hun_x_preferred":[
+        "Debar"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Debar"
@@ -304,7 +310,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1636505992,
     "wof:name":"Debar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

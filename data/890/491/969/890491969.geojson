@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "T\u00e9arts\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d0\u05e8\u05e6\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Tearce"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890491969,
-    "wof:lastmodified":1566605462,
+    "wof:lastmodified":1636506001,
     "wof:name":"Tearce",
     "wof:parent_id":85674413,
     "wof:placetype":"locality",

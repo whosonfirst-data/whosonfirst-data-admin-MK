@@ -33,6 +33,9 @@
         "Drenovtsi"
     ],
     "name:hun_x_preferred":[
+        "Zrnovci"
+    ],
+    "name:hun_x_variant":[
         "Drenovci"
     ],
     "name:mkd_x_preferred":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890492251,
-    "wof:lastmodified":1566605485,
+    "wof:lastmodified":1636506003,
     "wof:name":"Zrnovci",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

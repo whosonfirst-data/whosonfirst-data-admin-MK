@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Zrnovtsi"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e8\u05e0\u05d5\u05d1\u05e6'\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Zrnovci"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890491701,
-    "wof:lastmodified":1566605444,
+    "wof:lastmodified":1636505999,
     "wof:name":"Zrnovci",
     "wof:parent_id":85674275,
     "wof:placetype":"locality",

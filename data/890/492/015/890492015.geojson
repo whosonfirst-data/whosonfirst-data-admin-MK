@@ -39,6 +39,9 @@
         "Bosilovo"
     ],
     "name:hun_x_preferred":[
+        "Bosilovo"
+    ],
+    "name:hun_x_variant":[
         "Boszilovo"
     ],
     "name:kat_x_preferred":[
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890492015,
-    "wof:lastmodified":1566605480,
+    "wof:lastmodified":1636506002,
     "wof:name":"Bosilovo",
     "wof:parent_id":85674457,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:glg_x_preferred":[
         "Resen"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e1\u05df"
+    ],
     "name:hun_x_preferred":[
         "Resen"
     ],
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":890492207,
-    "wof:lastmodified":1566605497,
+    "wof:lastmodified":1636506005,
     "wof:name":"Resen",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

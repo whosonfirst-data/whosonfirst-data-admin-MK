@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Karbintsi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d1\u05d9\u05e0\u05e6\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Karbinci"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890491763,
-    "wof:lastmodified":1566605442,
+    "wof:lastmodified":1636505999,
     "wof:name":"Karbinci",
     "wof:parent_id":85674319,
     "wof:placetype":"locality",

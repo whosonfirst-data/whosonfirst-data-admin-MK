@@ -261,8 +261,7 @@
     "name:dan_x_historical":[
         "Makedonien",
         "Republikken Makedonien",
-        "Tidligere jugoslaviske republik Makedonien",
-        "Tidligere Jugoslaviske Republik Makedonien"
+        "Tidligere jugoslaviske republik Makedonien"
     ],
     "name:dan_x_preferred":[
         "Nordmakedonien"
@@ -270,8 +269,7 @@
     "name:deu_x_historical":[
         "Mazedonien (Begriffskl\u00e4rung)",
         "Mazedonien",
-        "Ehemalige Jugoslawische Republik Mazedonien",
-        "Ehemalige jugoslawische Republik Mazedonien"
+        "Ehemalige Jugoslawische Republik Mazedonien"
     ],
     "name:deu_x_preferred":[
         "Nordmazedonien"
@@ -921,6 +919,9 @@
     "name:por_x_colloquial":[
         "Antiga Republica jugoslava da Macedonia"
     ],
+    "name:por_x_preferred":[
+        "Maced\u00f3nia do Norte"
+    ],
     "name:pus_x_preferred":[
         "\u062f \u0645\u0642\u062f\u0648\u0646\u064a\u06d0 \u0648\u0644\u0633\u0645\u0634\u0631\u064a\u0632\u0647"
     ],
@@ -938,6 +939,9 @@
     ],
     "name:roh_x_preferred":[
         "Macedonia dal Nord"
+    ],
+    "name:ron_x_preferred":[
+        "Macedonia de Nord"
     ],
     "name:rue_x_historical":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
@@ -1437,7 +1441,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Republic_of_Macedonia",
-        "digitalenvoy:country_code":807,
+        "digitalenvoy:country_code":"807",
         "fb:id":"en.republic_of_macedonia",
         "fifa:id":"MKD",
         "fips:code":"MK",
@@ -1452,7 +1456,7 @@
         "marc:id":"xn",
         "mzb:id":"macedonia",
         "ne:adm0_a3":"MKD",
-        "ne:id":1159321061,
+        "ne:id":"1159321061",
         "nyt:id":"N10179867412688300691",
         "qs_pg:id":220227,
         "uncrt:id":"MK",
@@ -1482,7 +1486,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1634067101,
+    "wof:lastmodified":1678301684,
     "wof:name":"North Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

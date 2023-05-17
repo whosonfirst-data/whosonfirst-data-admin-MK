@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0414\u043e\u0458\u0440\u0430\u043d",
+    "eurostat:nuts_2021_id":"MK00406",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00406",
+    "eurostat:population":3280,
+    "eurostat:population_year":2019,
     "geom:area":0.016739,
-    "geom:area_square_m":155652523.035603,
+    "geom:area_square_m":155652547.497862,
     "geom:bbox":"22.574342,41.139529,22.766048,41.310923",
     "geom:latitude":41.235197,
     "geom:longitude":22.693072,
@@ -219,8 +231,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"129",
     "statoids:area_mi":"50",
     "statoids:as_of_date":"2002-10-31",
@@ -240,6 +252,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00406",
+        "eurostat:nuts_2021_id":"MK00406",
         "fips:code":"MKE5",
         "gn:id":862949,
         "gp:id":24550860,
@@ -254,7 +268,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6507403539083ecd9339defb6f6234c",
+    "wof:geomhash":"801486f737d1ecd00c7e04915fdb1885",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -270,12 +284,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505989,
+    "wof:lastmodified":1684354003,
     "wof:name":"Dojran",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":3426,
+    "wof:population":3280,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"SD",

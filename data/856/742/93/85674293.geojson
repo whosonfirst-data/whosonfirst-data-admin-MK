@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0414\u043e\u043b\u043d\u0435\u043d\u0438",
+    "eurostat:nuts_2021_id":"MK00503",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK005",
+    "eurostat:nuts_2021_level_lau":"MK00503",
+    "eurostat:population":14138,
+    "eurostat:population_year":2019,
     "geom:area":0.044408,
-    "geom:area_square_m":411471290.82668,
+    "geom:area_square_m":411471421.965575,
     "geom:bbox":"21.255811,41.357577,21.607867,41.605521",
     "geom:latitude":41.466685,
     "geom:longitude":21.415377,
@@ -266,8 +278,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"418",
     "statoids:area_mi":"161",
     "statoids:as_of_date":"2002-10-31",
@@ -287,6 +299,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00503",
+        "eurostat:nuts_2021_id":"MK00503",
         "fips:code":"MK28",
         "gn:id":863849,
         "gp:id":24550763,
@@ -301,7 +315,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f481179f1172300200796c86acb835d",
+    "wof:geomhash":"59db397e1d6da3ea3e4e0f78d837b1fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,12 +331,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505994,
+    "wof:lastmodified":1684354002,
     "wof:name":"Dolneni",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":13568,
+    "wof:population":14138,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"DE",

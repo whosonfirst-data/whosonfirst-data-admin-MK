@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0408\u0435\u0433\u0443\u043d\u043e\u0432\u0446\u0435",
+    "eurostat:nuts_2021_id":"MK00606",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00606",
+    "eurostat:population":10363,
+    "eurostat:population_year":2019,
     "geom:area":0.019215,
-    "geom:area_square_m":176278457.432022,
+    "geom:area_square_m":176278630.525306,
     "geom:bbox":"21.027941,41.9943,21.216232,42.206382",
     "geom:latitude":42.104249,
     "geom:longitude":21.13128,
@@ -269,8 +281,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"174",
     "statoids:area_mi":"67",
     "statoids:as_of_date":"2002-10-31",
@@ -290,6 +302,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00606",
+        "eurostat:nuts_2021_id":"MK00606",
         "fips:code":"MKD5",
         "gn:id":863858,
         "gp:id":24550771,
@@ -304,7 +318,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f8a0b8b785f71b14de7108e94a933ed",
+    "wof:geomhash":"581053b3a4961821a72c30ef3c531329",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -320,12 +334,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505990,
+    "wof:lastmodified":1684354003,
     "wof:name":"Jegunovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":10790,
+    "wof:population":10363,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"JG",

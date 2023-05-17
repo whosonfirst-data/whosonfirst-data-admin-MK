@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0420\u0430\u0434\u043e\u0432\u0438\u0448",
+    "eurostat:nuts_2021_id":"MK00409",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00409",
+    "eurostat:population":29132,
+    "eurostat:population_year":2019,
     "geom:area":0.053739,
-    "geom:area_square_m":496458862.350942,
+    "geom:area_square_m":496459149.212744,
     "geom:bbox":"22.30922,41.514589,22.661364,41.787294",
     "geom:latitude":41.657994,
     "geom:longitude":22.500055,
@@ -258,8 +270,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"502",
     "statoids:area_mi":"194",
     "statoids:as_of_date":"2002-10-31",
@@ -279,6 +291,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00409",
+        "eurostat:nuts_2021_id":"MK00409",
         "fips:code":"MK84",
         "gn:id":863890,
         "gp:id":24550865,
@@ -292,7 +306,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8e399e74721a648525594606d2a893c",
+    "wof:geomhash":"5762d5bed81723cd2d342182d8848ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,12 +322,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1684354002,
     "wof:name":"Radovis",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":28244,
+    "wof:population":29132,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"RV",

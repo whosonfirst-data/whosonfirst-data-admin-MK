@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00802",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00802",
+    "eurostat:population":14058,
+    "eurostat:population_year":2019,
     "geom:area":0.003436,
-    "geom:area_square_m":31553996.469447,
+    "geom:area_square_m":31553978.121598,
     "geom:bbox":"21.546427,42.001841,21.644344,42.081564",
     "geom:latitude":42.04386,
     "geom:longitude":21.590962,
@@ -261,8 +273,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"38",
     "statoids:area_mi":"15",
     "statoids:as_of_date":"2002-10-31",
@@ -282,6 +294,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00802",
+        "eurostat:nuts_2021_id":"MK00802",
         "fips:code":"MK01",
         "gn:id":863831,
         "gp:id":24550745,
@@ -296,7 +310,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"80cfc4c4bbc814ee199f12f84404d7ae",
+    "wof:geomhash":"d26faad598a990c0b72f72e386f6f347",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,12 +326,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895073,
+    "wof:lastmodified":1684354002,
     "wof:name":"Aracinovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":11597,
+    "wof:population":14058,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"AR",

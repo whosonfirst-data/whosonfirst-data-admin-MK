@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0427\u0430\u0448\u043a\u0430",
+    "eurostat:nuts_2021_id":"MK00109",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00109",
+    "eurostat:population":8183,
+    "eurostat:population_year":2019,
     "geom:area":0.088402,
-    "geom:area_square_m":817393978.857412,
+    "geom:area_square_m":817394285.170133,
     "geom:bbox":"21.369407,41.43522,21.818119,41.768415",
     "geom:latitude":41.602585,
     "geom:longitude":21.591336,
@@ -268,8 +280,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"727",
     "statoids:area_mi":"281",
     "statoids:as_of_date":"2002-10-31",
@@ -289,6 +301,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00109",
+        "eurostat:nuts_2021_id":"MK00109",
         "fips:code":"MKC9",
         "gn:id":863838,
         "gp:id":24550754,
@@ -303,7 +317,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a7c9eaed083e4870e3c5e403bcb5d32",
+    "wof:geomhash":"d8b96b4b32c885b7cd4e966ee77c6901",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,12 +333,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895073,
+    "wof:lastmodified":1684354002,
     "wof:name":"Ca\u0161ka",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":7673,
+    "wof:population":8183,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"CA",

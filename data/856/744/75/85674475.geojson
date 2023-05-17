@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0412\u0438\u043d\u0438\u0446\u0430",
+    "eurostat:nuts_2021_id":"MK00202",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK002",
+    "eurostat:nuts_2021_level_lau":"MK00202",
+    "eurostat:population":19299,
+    "eurostat:population_year":2019,
     "geom:area":0.046929,
-    "geom:area_square_m":432190864.161863,
+    "geom:area_square_m":432190660.507129,
     "geom:bbox":"22.451859,41.727843,22.734933,41.991586",
     "geom:latitude":41.859346,
     "geom:longitude":22.58956,
@@ -254,8 +266,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"432",
     "statoids:area_mi":"167",
     "statoids:as_of_date":"2002-10-31",
@@ -275,6 +287,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00202",
+        "eurostat:nuts_2021_id":"MK00202",
         "fips:code":"MKF2",
         "gn:id":863912,
         "gp:id":24550817,
@@ -289,7 +303,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f55da56cbb6abd150dcc10c76bc66bfa",
+    "wof:geomhash":"f03e4839fb2e4aab4afa4c9b246066e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,12 +319,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895070,
+    "wof:lastmodified":1684354003,
     "wof:name":"Vinitsa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":19938,
+    "wof:population":19299,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"NI",

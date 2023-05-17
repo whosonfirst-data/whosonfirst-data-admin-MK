@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041c\u0430\u0432\u0440\u043e\u0432\u043e \u0438 \u0420\u043e\u0441\u0442\u0443\u0448\u0435",
+    "eurostat:nuts_2021_id":"MK00607",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00607",
+    "eurostat:population":8864,
+    "eurostat:population_year":2019,
     "geom:area":0.073027,
-    "geom:area_square_m":674635588.536787,
+    "geom:area_square_m":674635790.454405,
     "geom:bbox":"20.514093,41.490067,20.901994,41.797863",
     "geom:latitude":41.659122,
     "geom:longitude":20.688047,
@@ -269,8 +281,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"856",
     "statoids:area_mi":"331",
     "statoids:as_of_date":"2002-10-31",
@@ -290,6 +302,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00607",
+        "eurostat:nuts_2021_id":"MK00607",
         "fips:code":"MKE4",
         "gn:id":863892,
         "gp:id":24550858,
@@ -303,7 +317,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"108d5ed52ee8beee7629445eef7e74f4",
+    "wof:geomhash":"079e53cffbdc886892bd7e4f853c79fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,12 +333,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505988,
+    "wof:lastmodified":1684354003,
     "wof:name":"Mavrovo and Rostusa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":8618,
+    "wof:population":8864,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"MR",

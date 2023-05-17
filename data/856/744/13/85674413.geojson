@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0422\u0435\u0430\u0440\u0446\u0435",
+    "eurostat:nuts_2021_id":"MK00608",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00608",
+    "eurostat:population":23006,
+    "eurostat:population_year":2019,
     "geom:area":0.014848,
-    "geom:area_square_m":136220538.869709,
+    "geom:area_square_m":136220740.793605,
     "geom:bbox":"20.927788,42.026144,21.136833,42.167499",
     "geom:latitude":42.100653,
     "geom:longitude":21.041122,
@@ -259,8 +271,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"137",
     "statoids:area_mi":"53",
     "statoids:as_of_date":"2002-10-31",
@@ -280,6 +292,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00608",
+        "eurostat:nuts_2021_id":"MK00608",
         "fips:code":"MKA5",
         "gn:id":863906,
         "gp:id":24550861,
@@ -294,7 +308,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64943154a23ae9fc19d1e9016f5a694d",
+    "wof:geomhash":"e089116ce4ab48577b66288f7088115f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,12 +324,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505991,
+    "wof:lastmodified":1684354003,
     "wof:name":"Tearce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":22454,
+    "wof:population":23006,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"TR",

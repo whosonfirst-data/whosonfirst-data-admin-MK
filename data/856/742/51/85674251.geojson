@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0416\u0435\u043b\u0438\u043d\u043e",
+    "eurostat:nuts_2021_id":"MK00605",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00605",
+    "eurostat:population":28366,
+    "eurostat:population_year":2019,
     "geom:area":0.021851,
-    "geom:area_square_m":201014158.122637,
+    "geom:area_square_m":201013852.580085,
     "geom:bbox":"21.008436,41.830002,21.242412,42.023441",
     "geom:latitude":41.930704,
     "geom:longitude":21.126395,
@@ -258,8 +270,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"201",
     "statoids:area_mi":"78",
     "statoids:as_of_date":"2002-10-31",
@@ -279,6 +291,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00605",
+        "eurostat:nuts_2021_id":"MK00605",
         "fips:code":"MKC3",
         "gn:id":863919,
         "gp:id":24550821,
@@ -293,7 +307,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7f047fdc65c37525f367aefc60db7b0",
+    "wof:geomhash":"1f7a5dda6728c86bd099fbcff541ce8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,12 +323,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1684354002,
     "wof:name":"\u017delino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":24390,
+    "wof:population":28366,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"ZE",

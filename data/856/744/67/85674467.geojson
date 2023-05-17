@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e",
+    "eurostat:nuts_2021_id":"MK00408",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00408",
+    "eurostat:population":10600,
+    "eurostat:population_year":2019,
     "geom:area":0.025606,
-    "geom:area_square_m":237422022.189287,
+    "geom:area_square_m":237422145.775912,
     "geom:bbox":"22.790685,41.334342,22.979477,41.530934",
     "geom:latitude":41.423121,
     "geom:longitude":22.89153,
@@ -257,8 +269,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"257",
     "statoids:area_mi":"99",
     "statoids:as_of_date":"2002-10-31",
@@ -278,6 +290,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00408",
+        "eurostat:nuts_2021_id":"MK00408",
         "fips:code":"MK72",
         "gn:id":862945,
         "gp:id":24550853,
@@ -292,7 +306,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a61541a54389bfa57b78cb98f07751e",
+    "wof:geomhash":"0da493faa5da4c35bfdefe12d23cb1ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,12 +322,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505988,
+    "wof:lastmodified":1684354003,
     "wof:name":"Novo Selo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":11567,
+    "wof:population":10600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"NS",

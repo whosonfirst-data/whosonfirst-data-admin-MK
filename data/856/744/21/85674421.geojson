@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435",
+    "eurostat:nuts_2021_id":"MK00603",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00603",
+    "eurostat:population":27632,
+    "eurostat:population_year":2019,
     "geom:area":0.017188,
-    "geom:area_square_m":158261675.260392,
+    "geom:area_square_m":158261522.75923,
     "geom:bbox":"20.727972,41.815133,20.948472,41.934432",
     "geom:latitude":41.872584,
     "geom:longitude":20.842017,
@@ -197,8 +209,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"157",
     "statoids:area_mi":"61",
     "statoids:as_of_date":"2002-10-31",
@@ -217,6 +229,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00603",
+        "eurostat:nuts_2021_id":"MK00603",
         "fips:code":"MKB7",
         "gn:id":863914,
         "gp:id":24550819,
@@ -230,7 +244,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a226e09f1f378e435e823ba5a28bd21",
+    "wof:geomhash":"ec71eacaee18188ec6f9dc683d6ae7b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,12 +260,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895070,
+    "wof:lastmodified":1684354003,
     "wof:name":"Polog",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":25399,
+    "wof:population":27632,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"VH",

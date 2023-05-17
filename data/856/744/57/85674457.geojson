@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00402",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00402",
+    "eurostat:population":13932,
+    "eurostat:population_year":2019,
     "geom:area":0.017431,
-    "geom:area_square_m":161477072.84715,
+    "geom:area_square_m":161476952.224152,
     "geom:bbox":"22.691315,41.390723,22.875419,41.571837",
     "geom:latitude":41.479125,
     "geom:longitude":22.780806,
@@ -262,8 +274,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"143",
     "statoids:area_mi":"55",
     "statoids:as_of_date":"2002-10-31",
@@ -283,6 +295,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00402",
+        "eurostat:nuts_2021_id":"MK00402",
         "fips:code":"MK11",
         "gn:id":862946,
         "gp:id":24550750,
@@ -297,7 +311,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1335246f32e4122795dc31c794d7592c",
+    "wof:geomhash":"f01cb7228e33d1a7b9d889eec0730dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,12 +327,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505988,
+    "wof:lastmodified":1684354003,
     "wof:name":"Bosilovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":14260,
+    "wof:population":13932,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"BS",

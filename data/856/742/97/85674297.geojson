@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0413\u0430\u0437\u0438 \u0411\u0430\u0431\u0430",
+    "eurostat:nuts_2021_id":"MK00804",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00804",
+    "eurostat:population":77009,
+    "eurostat:population_year":2019,
     "geom:area":0.012112,
-    "geom:area_square_m":111243576.086409,
+    "geom:area_square_m":111243595.135598,
     "geom:bbox":"21.446632,41.9305,21.58984,42.126163",
     "geom:latitude":42.03221,
     "geom:longitude":21.515059,
@@ -206,8 +218,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"92",
     "statoids:area_mi":"36",
     "statoids:as_of_date":"2002-10-31",
@@ -227,6 +239,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00804",
+        "eurostat:nuts_2021_id":"MK00804",
         "fips:code":"MK32",
         "gn:id":863853,
         "gp:id":24550766,
@@ -240,7 +254,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"383d0f79a394653e041b79b25f38ecff",
+    "wof:geomhash":"5dcd95743973f26f075e5fdd09e189db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,12 +270,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505995,
+    "wof:lastmodified":1684354002,
     "wof:name":"Gazi Baba",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":72617,
+    "wof:population":77009,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"GB",

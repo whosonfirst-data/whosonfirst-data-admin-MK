@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0414\u0435\u0431\u0430\u0440",
+    "eurostat:nuts_2021_id":"MK00303",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK003",
+    "eurostat:nuts_2021_level_lau":"MK00303",
+    "eurostat:population":21003,
+    "eurostat:population_year":2019,
     "geom:area":0.017497,
-    "geom:area_square_m":162009449.86894,
+    "geom:area_square_m":162009434.317613,
     "geom:bbox":"20.453139,41.408458,20.729024,41.582002",
     "geom:latitude":41.510319,
     "geom:longitude":20.578555,
@@ -257,8 +269,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"85",
     "statoids:area_mi":"33",
     "statoids:as_of_date":"2002-10-31",
@@ -280,6 +292,8 @@
         85674385
     ],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00303",
+        "eurostat:nuts_2021_id":"MK00303",
         "fips:code":"MKD2",
         "gn:id":863843,
         "gp:id":24550837,
@@ -294,7 +308,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c4645e1082552b51336bba64d7458e2",
+    "wof:geomhash":"e71c49646db767fb562b60183074982b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,13 +324,13 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505992,
+    "wof:lastmodified":1684354003,
     "wof:name":"Debar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":19542,
-    "wof:population_rank":6,
+    "wof:population":21003,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"DB",
     "wof:subdivision":"MK-21",

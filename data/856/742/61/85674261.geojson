@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0411\u0443\u0442\u0435\u043b",
+    "eurostat:nuts_2021_id":"MK00803",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00803",
     "geom:area":0.005919,
-    "geom:area_square_m":54310882.489294,
+    "geom:area_square_m":54310999.976401,
     "geom:bbox":"21.388845,42.0166,21.512243,42.157751",
     "geom:latitude":42.092428,
     "geom:longitude":21.461479,
@@ -242,6 +252,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00803",
+        "eurostat:nuts_2021_id":"MK00803",
         "fips:code":"MKF4",
         "gn:id":7056269,
         "gp:id":55848399,
@@ -255,7 +267,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5a474c57f9b59ff3f0e8f296b4d2c47",
+    "wof:geomhash":"ec2dcba2256abc9132b2b89447dbf7d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -271,7 +283,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505993,
+    "wof:lastmodified":1684354002,
     "wof:name":"Butel",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0411\u0438\u0442\u043e\u043b\u0430",
+    "eurostat:nuts_2021_id":"MK00501",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK005",
+    "eurostat:nuts_2021_level_lau":"MK00501",
+    "eurostat:population":91290,
+    "eurostat:population_year":2019,
     "geom:area":0.084542,
-    "geom:area_square_m":788575358.581631,
+    "geom:area_square_m":788575579.753333,
     "geom:bbox":"21.068324,40.859411,21.513731,41.22815",
     "geom:latitude":41.031583,
     "geom:longitude":21.289511,
@@ -254,8 +266,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"790",
     "statoids:area_mi":"305",
     "statoids:as_of_date":"2002-10-31",
@@ -275,6 +287,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00501",
+        "eurostat:nuts_2021_id":"MK00501",
         "fips:code":"MK06",
         "gn:id":863486,
         "gp:id":24550747,
@@ -289,7 +303,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b8e95780a9b118dc0fcfed95cd05b28",
+    "wof:geomhash":"b194d5971f6f35079e8688f88538c1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,12 +319,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505987,
+    "wof:lastmodified":1684354002,
     "wof:name":"Bitola",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":95385,
+    "wof:population":91290,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"TL",

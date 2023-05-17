@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041f\u043b\u0430\u0441\u043d\u0438\u0446\u0430",
+    "eurostat:nuts_2021_id":"MK00311",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK003",
+    "eurostat:nuts_2021_level_lau":"MK00311",
+    "eurostat:population":4967,
+    "eurostat:population_year":2019,
     "geom:area":0.005863,
-    "geom:area_square_m":54332551.076378,
+    "geom:area_square_m":54332598.539222,
     "geom:bbox":"21.030498,41.417176,21.187384,41.49095",
     "geom:latitude":41.452868,
     "geom:longitude":21.1119,
@@ -259,8 +271,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"54",
     "statoids:area_mi":"21",
     "statoids:as_of_date":"2002-10-31",
@@ -280,6 +292,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00311",
+        "eurostat:nuts_2021_id":"MK00311",
         "fips:code":"MK80",
         "gn:id":863887,
         "gp:id":24550797,
@@ -294,7 +308,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec10d2fe31f293dd62565808bf4a06a8",
+    "wof:geomhash":"803545af3f453336d7d39ad45ae4b2a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,12 +324,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505988,
+    "wof:lastmodified":1684354002,
     "wof:name":"Plasnica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":4545,
+    "wof:population":4967,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"PN",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0414\u0435\u0431\u0440\u0446\u0430",
+    "eurostat:nuts_2021_id":"MK00304",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK003",
+    "eurostat:nuts_2021_level_lau":"MK00304",
+    "eurostat:population":3729,
+    "eurostat:population_year":2019,
     "geom:area":0.04539,
-    "geom:area_square_m":421499825.151812,
+    "geom:area_square_m":421499444.038752,
     "geom:bbox":"20.681577,41.160499,21.017893,41.443333",
     "geom:latitude":41.323837,
     "geom:longitude":20.830538,
@@ -256,8 +268,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"423",
     "statoids:area_mi":"163",
     "statoids:as_of_date":"2002-10-31",
@@ -277,6 +289,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00304",
+        "eurostat:nuts_2021_id":"MK00304",
         "fips:code":"MKF5",
         "gn:id":7056271,
         "gp:id":24550746,
@@ -291,7 +305,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7357082ccccda8d600ce10aa1db99ea3",
+    "wof:geomhash":"f86af3d9497120fe530a56468fbbeb4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -307,13 +321,13 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505987,
+    "wof:lastmodified":1684354002,
     "wof:name":"Debarca",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":5507,
-    "wof:population_rank":5,
+    "wof:population":3729,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"DA",
     "wof:subdivision":"MK-22",

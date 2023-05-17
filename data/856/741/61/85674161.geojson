@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0414\u0435\u043c\u0438\u0440 \u0425\u0438\u0441\u0430\u0440",
+    "eurostat:nuts_2021_id":"MK00502",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK005",
+    "eurostat:nuts_2021_level_lau":"MK00502",
+    "eurostat:population":7949,
+    "eurostat:population_year":2019,
     "geom:area":0.051632,
-    "geom:area_square_m":479875413.310533,
+    "geom:area_square_m":479875576.067634,
     "geom:bbox":"20.954244,41.124553,21.297608,41.393783",
     "geom:latitude":41.268022,
     "geom:longitude":21.133094,
@@ -215,8 +227,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"480",
     "statoids:area_mi":"185",
     "statoids:as_of_date":"2002-10-31",
@@ -236,6 +248,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00502",
+        "eurostat:nuts_2021_id":"MK00502",
         "fips:code":"MKD3",
         "gn:id":863846,
         "gp:id":24550759,
@@ -250,7 +264,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f464fe4d67b72415d2a3b6eea355a35c",
+    "wof:geomhash":"65e3622900898890df35ca2481ff6acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,12 +280,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505987,
+    "wof:lastmodified":1684354002,
     "wof:name":"Demir Hisar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":9497,
+    "wof:population":7949,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"DM",

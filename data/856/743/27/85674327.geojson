@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041a\u0430\u0432\u0430\u0434\u0430\u0440\u0446\u0438",
+    "eurostat:nuts_2021_id":"MK00104",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00104",
+    "eurostat:population":38755,
+    "eurostat:population_year":2019,
     "geom:area":0.107887,
-    "geom:area_square_m":1002333537.646463,
+    "geom:area_square_m":1002333569.338623,
     "geom:bbox":"21.772809,41.100243,22.299713,41.51753",
     "geom:latitude":41.292175,
     "geom:longitude":22.018358,
@@ -260,8 +272,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"998",
     "statoids:area_mi":"385",
     "statoids:as_of_date":"2002-10-31",
@@ -281,6 +293,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00104",
+        "eurostat:nuts_2021_id":"MK00104",
         "fips:code":"MKD6",
         "gn:id":863861,
         "gp:id":24550774,
@@ -295,7 +309,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5bc84bac52a96b580cb6e1a2c62a55d1",
+    "wof:geomhash":"bdb572ed56076ff48368a3d3cb2796f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,12 +325,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505992,
+    "wof:lastmodified":1684354003,
     "wof:name":"Kavadartsi",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":38741,
+    "wof:population":38755,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"AV",

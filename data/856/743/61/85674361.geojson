@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0411\u0440\u043e\u0434",
+    "eurostat:nuts_2021_id":"MK00308",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK003",
+    "eurostat:nuts_2021_level_lau":"MK00308",
+    "eurostat:population":6044,
+    "eurostat:population_year":2019,
     "geom:area":0.096216,
-    "geom:area_square_m":888936972.751746,
+    "geom:area_square_m":888936936.971718,
     "geom:bbox":"21.010856,41.435108,21.397449,41.853153",
     "geom:latitude":41.6533,
     "geom:longitude":21.209625,
@@ -251,8 +263,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"875",
     "statoids:area_mi":"338",
     "statoids:as_of_date":"2002-10-31",
@@ -272,6 +284,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00308",
+        "eurostat:nuts_2021_id":"MK00308",
         "fips:code":"MKD8",
         "gn:id":863877,
         "gp:id":24550786,
@@ -286,7 +300,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5eaf67c8a10ee1f0a86ac6b6bb554b37",
+    "wof:geomhash":"b238bebb5a4394dcc141245d6748d7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,12 +316,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505991,
+    "wof:lastmodified":1684354003,
     "wof:name":"Brod",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":7141,
+    "wof:population":6044,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"MD",

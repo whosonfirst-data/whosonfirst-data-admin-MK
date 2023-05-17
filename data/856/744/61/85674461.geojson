@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0413\u0435\u0432\u0433\u0435\u043b\u0438\u0458\u0430",
+    "eurostat:nuts_2021_id":"MK00405",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00405",
+    "eurostat:population":22647,
+    "eurostat:population_year":2019,
     "geom:area":0.052319,
-    "geom:area_square_m":486554467.828977,
+    "geom:area_square_m":486554496.245517,
     "geom:bbox":"22.214016,41.117296,22.605696,41.388669",
     "geom:latitude":41.227572,
     "geom:longitude":22.394288,
@@ -190,8 +202,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"484",
     "statoids:area_mi":"187",
     "statoids:as_of_date":"2002-10-31",
@@ -211,6 +223,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00405",
+        "eurostat:nuts_2021_id":"MK00405",
         "fips:code":"MK33",
         "gn:id":863854,
         "gp:id":24550840,
@@ -225,7 +239,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33cd2faddc4e880234a72a8cd6866860",
+    "wof:geomhash":"792dcb6de3436bdb06db1a3589673d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -241,12 +255,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1684354003,
     "wof:name":"Southeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":22988,
+    "wof:population":22647,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"GV",

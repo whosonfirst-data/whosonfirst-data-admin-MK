@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0412\u0435\u0432\u0447\u0430\u043d\u0438",
+    "eurostat:nuts_2021_id":"MK00301",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK003",
+    "eurostat:nuts_2021_level_lau":"MK00301",
+    "eurostat:population":2417,
+    "eurostat:population_year":2019,
     "geom:area":0.002469,
-    "geom:area_square_m":22957242.212128,
+    "geom:area_square_m":22957298.951403,
     "geom:bbox":"20.517236,41.224247,20.647301,41.26348",
     "geom:latitude":41.243168,
     "geom:longitude":20.576518,
@@ -192,8 +204,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"35",
     "statoids:area_mi":"14",
     "statoids:as_of_date":"2002-10-31",
@@ -213,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00301",
+        "eurostat:nuts_2021_id":"MK00301",
         "fips:code":"MKB3",
         "gn:id":863911,
         "gp:id":24550867,
@@ -227,7 +241,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be3284cc928557f378a4d85d611ee059",
+    "wof:geomhash":"eac91c8d75dfeba426048ad57ce5f93a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -243,12 +257,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1684354002,
     "wof:name":"Vev\u010dani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":2433,
+    "wof:population":2417,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"VV",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041a\u043e\u043d\u0447\u0435",
+    "eurostat:nuts_2021_id":"MK00407",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00407",
+    "eurostat:population":3570,
+    "eurostat:population_year":2019,
     "geom:area":0.025125,
-    "geom:area_square_m":232591624.842371,
+    "geom:area_square_m":232591719.455578,
     "geom:bbox":"22.266379,41.430029,22.522379,41.610885",
     "geom:latitude":41.525186,
     "geom:longitude":22.393994,
@@ -255,8 +267,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"233",
     "statoids:area_mi":"90",
     "statoids:as_of_date":"2002-10-31",
@@ -276,6 +288,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00407",
+        "eurostat:nuts_2021_id":"MK00407",
         "fips:code":"MK47",
         "gn:id":862953,
         "gp:id":24550778,
@@ -290,7 +304,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5eccdb27a2738468ad7f1c4400c7905f",
+    "wof:geomhash":"ee0963944db2689a6b49b353bd6ad311",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,12 +320,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1684354003,
     "wof:name":"Konce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":3536,
+    "wof:population":3570,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"KN",

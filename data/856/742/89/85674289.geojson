@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u0458\u0430",
+    "eurostat:nuts_2021_id":"MK00103",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00103",
+    "eurostat:population":3982,
+    "eurostat:population_year":2019,
     "geom:area":0.033504,
-    "geom:area_square_m":310807549.703767,
+    "geom:area_square_m":310807523.962284,
     "geom:bbox":"22.102372,41.289994,22.370469,41.496945",
     "geom:latitude":41.39044,
     "geom:longitude":22.244682,
@@ -212,8 +224,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"312",
     "statoids:area_mi":"120",
     "statoids:as_of_date":"2002-10-31",
@@ -233,6 +245,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00103",
+        "eurostat:nuts_2021_id":"MK00103",
         "fips:code":"MK25",
         "gn:id":862961,
         "gp:id":24550760,
@@ -246,7 +260,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4af1fda5566d9986b958f3c47d3a7ea4",
+    "wof:geomhash":"8a838a50b5dcec4e59f62ceb23c9e7bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -262,12 +276,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505994,
+    "wof:lastmodified":1684354002,
     "wof:name":"Demir Kapija",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":4545,
+    "wof:population":3982,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"DK",

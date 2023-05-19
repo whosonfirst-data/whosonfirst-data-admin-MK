@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0413\u0440\u0430\u0434\u0441\u043a\u043e",
+    "eurostat:nuts_2021_id":"MK00102",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00102",
+    "eurostat:population":3551,
+    "eurostat:population_year":2019,
     "geom:area":0.025513,
-    "geom:area_square_m":235898807.100276,
+    "geom:area_square_m":235898894.696858,
     "geom:bbox":"21.780359,41.492211,21.980242,41.734497",
     "geom:latitude":41.603664,
     "geom:longitude":21.876848,
@@ -266,8 +278,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"291",
     "statoids:area_mi":"112",
     "statoids:as_of_date":"2002-10-31",
@@ -287,6 +299,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00102",
+        "eurostat:nuts_2021_id":"MK00102",
         "fips:code":"MK35",
         "gn:id":862974,
         "gp:id":24550768,
@@ -301,7 +315,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8fee1228a0088c53a67f3560916d086e",
+    "wof:geomhash":"95a76fe188d46ce2b9ccc884d2ba606e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,12 +331,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505993,
+    "wof:lastmodified":1684354002,
     "wof:name":"Gradsko",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":3760,
+    "wof:population":3551,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"GR",

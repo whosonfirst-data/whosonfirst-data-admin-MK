@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041a\u0440\u0443\u0448\u0435\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00505",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK005",
+    "eurostat:nuts_2021_level_lau":"MK00505",
+    "eurostat:population":9297,
+    "eurostat:population_year":2019,
     "geom:area":0.020529,
-    "geom:area_square_m":190505003.867684,
+    "geom:area_square_m":190504700.855263,
     "geom:bbox":"21.127432,41.226724,21.340294,41.473541",
     "geom:latitude":41.368235,
     "geom:longitude":21.250317,
@@ -264,8 +276,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"190",
     "statoids:area_mi":"73",
     "statoids:as_of_date":"2002-10-31",
@@ -285,6 +297,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00505",
+        "eurostat:nuts_2021_id":"MK00505",
         "fips:code":"MK54",
         "gn:id":863871,
         "gp:id":24550782,
@@ -299,7 +313,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec1dbf0998f05d5947ae107cba50ebf1",
+    "wof:geomhash":"d09350701f34d00c433da90466ae0e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,12 +329,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1684354003,
     "wof:name":"Kru\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":9684,
+    "wof:population":9297,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"KS",

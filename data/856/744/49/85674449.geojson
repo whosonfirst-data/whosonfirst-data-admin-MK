@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00404",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00404",
+    "eurostat:population":13003,
+    "eurostat:population_year":2019,
     "geom:area":0.024824,
-    "geom:area_square_m":229735408.35171,
+    "geom:area_square_m":229735202.944174,
     "geom:bbox":"22.507804,41.460908,22.767483,41.644596",
     "geom:latitude":41.545236,
     "geom:longitude":22.64378,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"231",
     "statoids:area_mi":"89",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00404",
+        "eurostat:nuts_2021_id":"MK00404",
         "fips:code":"MKA9",
         "gn:id":862947,
         "gp:id":24550814,
@@ -298,7 +312,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5ef276834399c2d3f1ebbbae024bf366",
+    "wof:geomhash":"46b88eb84348b07fdcadb79563cd81df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,12 +328,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505990,
+    "wof:lastmodified":1684354003,
     "wof:name":"Vasilevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":12122,
+    "wof:population":13003,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"VL",

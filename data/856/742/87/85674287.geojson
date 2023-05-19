@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00816",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0427\u0443\u0447\u0435\u0440 - \u0421\u0430\u043d\u0434\u0435\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00816",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00816",
+    "eurostat:population":10123,
+    "eurostat:population_year":2019,
     "geom:area":0.025766,
-    "geom:area_square_m":236185344.283801,
+    "geom:area_square_m":236185468.88674,
     "geom:bbox":"21.302389,42.04261,21.523538,42.24919",
     "geom:latitude":42.155249,
     "geom:longitude":21.405166,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"215",
     "statoids:area_mi":"83",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00816",
+        "eurostat:nuts_2021_id":"MK00816",
         "fips:code":"MK20",
         "gn:id":863842,
         "gp:id":24550830,
@@ -298,7 +312,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6555f4d0824f6c8e57c47d74f4439f55",
+    "wof:geomhash":"14051b26efec48e468eab12b0503f31a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,13 +328,13 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1684354002,
     "wof:name":"Cucer Sandevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":8493,
-    "wof:population_rank":5,
+    "wof:population":10123,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"CS",
     "wof:subdivision":"MK-82",

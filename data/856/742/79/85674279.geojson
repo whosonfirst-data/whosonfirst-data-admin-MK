@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e - \u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00210",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK002",
+    "eurostat:nuts_2021_level_lau":"MK00210",
+    "eurostat:population":6742,
+    "eurostat:population_year":2019,
     "geom:area":0.014422,
-    "geom:area_square_m":132772213.394991,
+    "geom:area_square_m":132772272.148092,
     "geom:bbox":"22.203612,41.803509,22.407788,41.946282",
     "geom:latitude":41.880275,
     "geom:longitude":22.299398,
@@ -270,8 +282,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"133",
     "statoids:area_mi":"51",
     "statoids:as_of_date":"2002-10-31",
@@ -291,6 +303,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00210",
+        "eurostat:nuts_2021_id":"MK00210",
         "fips:code":"MK19",
         "gn:id":862977,
         "gp:id":24550757,
@@ -304,7 +318,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"15a755bd4d2d9691fdc3f9ebe9d9cf87",
+    "wof:geomhash":"53387316fad0cd26922ade0443b11edb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -320,12 +334,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895073,
+    "wof:lastmodified":1684354002,
     "wof:name":"Ce\u0161inovo-Oble\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":7490,
+    "wof:population":6742,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"CH",

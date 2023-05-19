@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041c\u043e\u0433\u0438\u043b\u0430",
+    "eurostat:nuts_2021_id":"MK00506",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK005",
+    "eurostat:nuts_2021_level_lau":"MK00506",
+    "eurostat:population":6035,
+    "eurostat:population_year":2019,
     "geom:area":0.027443,
-    "geom:area_square_m":255457584.588829,
+    "geom:area_square_m":255457643.851488,
     "geom:bbox":"21.290664,41.083316,21.597706,41.272591",
     "geom:latitude":41.165553,
     "geom:longitude":21.429343,
@@ -190,8 +202,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"255",
     "statoids:area_mi":"98",
     "statoids:as_of_date":"2002-10-31",
@@ -211,6 +223,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00506",
+        "eurostat:nuts_2021_id":"MK00506",
         "fips:code":"MKD9",
         "gn:id":863488,
         "gp:id":24550789,
@@ -225,7 +239,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"561a76122ec9f89280dcdeacc6eec86d",
+    "wof:geomhash":"cb05294943a6c2ed26aa40bafd29eb8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -241,12 +255,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1684354003,
     "wof:name":"Pelagonia",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":6710,
+    "wof:population":6035,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"MG",

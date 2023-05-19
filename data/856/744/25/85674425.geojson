@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0411\u043e\u0433\u043e\u0432\u0438\u045a\u0435",
+    "eurostat:nuts_2021_id":"MK00601",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00601",
+    "eurostat:population":31075,
+    "eurostat:population_year":2019,
     "geom:area":0.01538,
-    "geom:area_square_m":141432842.828533,
+    "geom:area_square_m":141433206.981077,
     "geom:bbox":"20.754743,41.884444,20.984853,42.009473",
     "geom:latitude":41.951508,
     "geom:longitude":20.874704,
@@ -269,8 +281,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"141",
     "statoids:area_mi":"54",
     "statoids:as_of_date":"2002-10-31",
@@ -290,6 +302,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00601",
+        "eurostat:nuts_2021_id":"MK00601",
         "fips:code":"MKC7",
         "gn:id":863834,
         "gp:id":24550828,
@@ -303,7 +317,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1f08f893090382d27629ed792f94f8a",
+    "wof:geomhash":"97dcc17493da2ea80b79575897c91668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,12 +333,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505991,
+    "wof:lastmodified":1684354003,
     "wof:name":"Bogovinje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":28997,
+    "wof:population":31075,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"VJ",

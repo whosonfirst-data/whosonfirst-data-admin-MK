@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00703",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK007",
+    "eurostat:nuts_2021_level_lau":"MK00703",
+    "eurostat:population":109573,
+    "eurostat:population_year":2019,
     "geom:area":0.055439,
-    "geom:area_square_m":508711880.326494,
+    "geom:area_square_m":508711780.67819,
     "geom:bbox":"21.609966,41.960566,22.007941,42.266523",
     "geom:latitude":42.090009,
     "geom:longitude":21.789004,
@@ -269,8 +281,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"432",
     "statoids:area_mi":"167",
     "statoids:as_of_date":"2002-10-31",
@@ -290,6 +302,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00703",
+        "eurostat:nuts_2021_id":"MK00703",
         "fips:code":"MKD7",
         "gn:id":863873,
         "gp:id":24550832,
@@ -304,7 +318,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5270c960ab95fd8189af653b4ed16b78",
+    "wof:geomhash":"537eb5e427d53141d01b921622d89173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -320,12 +334,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505993,
+    "wof:lastmodified":1684354003,
     "wof:name":"Kumanovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":105484,
+    "wof:population":109573,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"UM",

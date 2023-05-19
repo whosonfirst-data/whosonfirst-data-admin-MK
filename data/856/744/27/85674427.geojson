@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0411\u0440\u0432\u0435\u043d\u0438\u0446\u0430",
+    "eurostat:nuts_2021_id":"MK00602",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00602",
+    "eurostat:population":16614,
+    "eurostat:population_year":2019,
     "geom:area":0.017889,
-    "geom:area_square_m":164693714.713267,
+    "geom:area_square_m":164693642.752485,
     "geom:bbox":"20.944192,41.792196,21.190852,41.984006",
     "geom:latitude":41.881608,
     "geom:longitude":21.040954,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"164",
     "statoids:area_mi":"63",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00602",
+        "eurostat:nuts_2021_id":"MK00602",
         "fips:code":"MK12",
         "gn:id":863835,
         "gp:id":24550751,
@@ -298,7 +312,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76f57f95de629ab0df7e6bf639dabc49",
+    "wof:geomhash":"76ef7909bf0e1a89a9511ff5e1b73664",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,12 +328,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505989,
+    "wof:lastmodified":1684354003,
     "wof:name":"Brvenica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":15855,
+    "wof:population":16614,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"BN",

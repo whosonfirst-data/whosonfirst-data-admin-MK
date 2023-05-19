@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00811",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0421\u0430\u0440\u0430\u0458",
+    "eurostat:nuts_2021_id":"MK00811",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00811",
+    "eurostat:population":42053,
+    "eurostat:population_year":2019,
     "geom:area":0.024931,
-    "geom:area_square_m":229100401.442692,
+    "geom:area_square_m":229100073.103276,
     "geom:bbox":"21.149873,41.894167,21.368437,42.110915",
     "geom:latitude":41.998522,
     "geom:longitude":21.245046,
@@ -203,8 +215,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"230",
     "statoids:area_mi":"89",
     "statoids:as_of_date":"2002-10-31",
@@ -225,6 +237,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00811",
+        "eurostat:nuts_2021_id":"MK00811",
         "fips:code":"MK90",
         "gn:id":863894,
         "gp:id":24550803,
@@ -238,7 +252,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"843ce9029b9fa3e8f06147915669aabf",
+    "wof:geomhash":"885ecb50a86757169a5febdfa1c6e0c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,12 +268,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505994,
+    "wof:lastmodified":1684354002,
     "wof:name":"Saraj",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":35408,
+    "wof:population":42053,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"AJ",

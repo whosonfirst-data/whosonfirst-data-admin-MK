@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438",
+    "eurostat:nuts_2021_id":"MK00401",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00401",
+    "eurostat:population":8078,
+    "eurostat:population_year":2019,
     "geom:area":0.012241,
-    "geom:area_square_m":113896234.521217,
+    "geom:area_square_m":113896409.473382,
     "geom:bbox":"22.509592,41.126569,22.670897,41.258756",
     "geom:latitude":41.193763,
     "geom:longitude":22.588698,
@@ -266,8 +278,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"114",
     "statoids:area_mi":"44",
     "statoids:as_of_date":"2002-10-31",
@@ -287,6 +299,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00401",
+        "eurostat:nuts_2021_id":"MK00401",
         "fips:code":"MK08",
         "gn:id":862950,
         "gp:id":24550827,
@@ -301,7 +315,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c75d172022078a703c998294f53127ab",
+    "wof:geomhash":"d53a3a625f18b3ac5020242c800e9126",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,12 +331,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505990,
+    "wof:lastmodified":1684354003,
     "wof:name":"Bogdanci",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":8707,
+    "wof:population":8078,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"BG",

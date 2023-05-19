@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041f\u0440\u0438\u043b\u0435\u043f",
+    "eurostat:nuts_2021_id":"MK00508",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK005",
+    "eurostat:nuts_2021_level_lau":"MK00508",
+    "eurostat:population":74499,
+    "eurostat:population_year":2019,
     "geom:area":0.128841,
-    "geom:area_square_m":1197229883.66483,
+    "geom:area_square_m":1197230083.021919,
     "geom:bbox":"21.363723,41.078736,21.932148,41.486566",
     "geom:latitude":41.280648,
     "geom:longitude":21.665081,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"1,198",
     "statoids:area_mi":"463",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00508",
+        "eurostat:nuts_2021_id":"MK00508",
         "fips:code":"MKE3",
         "gn:id":863888,
         "gp:id":24550799,
@@ -298,7 +312,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ec491d6c43b9834821a2667d3309a9a",
+    "wof:geomhash":"5c6f02b47d018901c44505576c48fe1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,12 +328,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1684354002,
     "wof:name":"Prilep",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":76768,
+    "wof:population":74499,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"PP",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041e\u0445\u0440\u0438\u0434",
+    "eurostat:nuts_2021_id":"MK00310",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK003",
+    "eurostat:nuts_2021_level_lau":"MK00310",
+    "eurostat:population":51519,
+    "eurostat:population_year":2019,
     "geom:area":0.042215,
-    "geom:area_square_m":393219229.491476,
+    "geom:area_square_m":393219107.784139,
     "geom:bbox":"20.732456,40.898332,21.039126,41.263691",
     "geom:latitude":41.123334,
     "geom:longitude":20.862126,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"392",
     "statoids:area_mi":"151",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00310",
+        "eurostat:nuts_2021_id":"MK00310",
         "fips:code":"MKE2",
         "gn:id":863883,
         "gp:id":24550834,
@@ -298,7 +312,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"934f9f706c3214ed34079634aea8dc6d",
+    "wof:geomhash":"d2990e1d42e32559d4ea6459a1e813d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,12 +328,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505987,
+    "wof:lastmodified":1684354002,
     "wof:name":"Ohrid",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":55749,
+    "wof:population":51519,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"OD",

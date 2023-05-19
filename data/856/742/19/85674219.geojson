@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0428\u0442\u0438\u043f",
+    "eurostat:nuts_2021_id":"MK00211",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK002",
+    "eurostat:nuts_2021_level_lau":"MK00211",
+    "eurostat:population":48766,
+    "eurostat:population_year":2019,
     "geom:area":0.06308,
-    "geom:area_square_m":582389901.647869,
+    "geom:area_square_m":582389543.978169,
     "geom:bbox":"21.947119,41.54902,22.415623,41.885372",
     "geom:latitude":41.698128,
     "geom:longitude":22.17841,
@@ -258,8 +270,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"583",
     "statoids:area_mi":"225",
     "statoids:as_of_date":"2002-10-31",
@@ -279,6 +291,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00211",
+        "eurostat:nuts_2021_id":"MK00211",
         "fips:code":"MK98",
         "gn:id":863900,
         "gp:id":24550807,
@@ -292,7 +306,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4faa3284bacbcee254c222f5e057a19d",
+    "wof:geomhash":"4dd3d125e3a5ba67b8e5773b1e2e2350",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,12 +322,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1684354002,
     "wof:name":"\u0160tip",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":47796,
+    "wof:population":48766,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"ST",

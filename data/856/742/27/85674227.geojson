@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00815",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0427\u0430\u0438\u0440",
+    "eurostat:nuts_2021_id":"MK00815",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00815",
     "geom:area":0.000379,
-    "geom:area_square_m":3477667.566506,
+    "geom:area_square_m":3477698.559272,
     "geom:bbox":"21.426719,41.998744,21.45106,42.022545",
     "geom:latitude":42.011631,
     "geom:longitude":21.439538,
@@ -210,6 +220,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00815",
+        "eurostat:nuts_2021_id":"MK00815",
         "fips:code":"MKC8",
         "gn:id":863836,
         "gp:id":24550752,
@@ -223,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64eda2483b6a85916ca8df90b783dd6e",
+    "wof:geomhash":"f24c419f00416692d5f3199deb55c726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -239,7 +251,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1684354002,
     "wof:name":"Cair",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

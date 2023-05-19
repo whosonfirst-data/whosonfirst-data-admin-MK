@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041b\u043e\u0437\u043e\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00105",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00105",
+    "eurostat:population":2524,
+    "eurostat:population_year":2019,
     "geom:area":0.017987,
-    "geom:area_square_m":165913660.863657,
+    "geom:area_square_m":165913542.68918,
     "geom:bbox":"21.82873,41.655841,22.025349,41.855852",
     "geom:latitude":41.758039,
     "geom:longitude":21.916208,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"166",
     "statoids:area_mi":"64",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00105",
+        "eurostat:nuts_2021_id":"MK00105",
         "fips:code":"MK60",
         "gn:id":862975,
         "gp:id":24550785,
@@ -298,7 +312,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1aa412bb50757f7cb50c5916fd40b2a2",
+    "wof:geomhash":"1a68d06268bf4e3dc0b524e4cc9659af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,12 +328,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505992,
+    "wof:lastmodified":1684354003,
     "wof:name":"Lozovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":2858,
+    "wof:population":2524,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"LO",

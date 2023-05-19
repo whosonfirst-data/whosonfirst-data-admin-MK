@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435",
+    "eurostat:nuts_2021_id":"MK00706",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK007",
+    "eurostat:nuts_2021_level_lau":"MK00706",
+    "eurostat:population":3845,
+    "eurostat:population_year":2019,
     "geom:area":0.047152,
-    "geom:area_square_m":431740601.763798,
+    "geom:area_square_m":431740595.869687,
     "geom:bbox":"21.767893,42.119517,22.069383,42.343516",
     "geom:latitude":42.226256,
     "geom:longitude":21.911204,
@@ -170,8 +182,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"515",
     "statoids:area_mi":"199",
     "statoids:as_of_date":"2002-10-31",
@@ -191,6 +203,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00706",
+        "eurostat:nuts_2021_id":"MK00706",
         "fips:code":"MK97",
         "gn:id":863899,
         "gp:id":24550856,
@@ -205,7 +219,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0d65d133ef3dbe044faa208a7df3b9a1",
+    "wof:geomhash":"4d4919a6205133b6c5a32f79432a79e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,12 +235,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895073,
+    "wof:lastmodified":1684354002,
     "wof:name":"Northeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":4840,
+    "wof:population":3845,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"NA",

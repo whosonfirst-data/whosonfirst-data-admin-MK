@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0414\u0435\u043b\u0447\u0435\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00203",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK002",
+    "eurostat:nuts_2021_level_lau":"MK00203",
+    "eurostat:population":15918,
+    "eurostat:population_year":2019,
     "geom:area":0.045797,
-    "geom:area_square_m":421219063.016697,
+    "geom:area_square_m":421219342.065905,
     "geom:bbox":"22.618213,41.803098,22.901624,42.073034",
     "geom:latitude":41.942236,
     "geom:longitude":22.766052,
@@ -261,8 +273,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"423",
     "statoids:area_mi":"163",
     "statoids:as_of_date":"2002-10-31",
@@ -282,6 +294,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00203",
+        "eurostat:nuts_2021_id":"MK00203",
         "fips:code":"MK22",
         "gn:id":863844,
         "gp:id":24550838,
@@ -296,7 +310,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"49a10838adbe2332edb7bcbd0f08066a",
+    "wof:geomhash":"342e153b8c886928ae67f7f82954d3fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,12 +326,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895070,
+    "wof:lastmodified":1684354003,
     "wof:name":"Delcevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":17505,
+    "wof:population":15918,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"DL",

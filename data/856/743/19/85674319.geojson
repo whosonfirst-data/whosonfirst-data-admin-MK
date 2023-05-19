@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041a\u0430\u0440\u0431\u0438\u043d\u0446\u0438",
+    "eurostat:nuts_2021_id":"MK00205",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK002",
+    "eurostat:nuts_2021_level_lau":"MK00205",
+    "eurostat:population":3918,
+    "eurostat:population_year":2019,
     "geom:area":0.024919,
-    "geom:area_square_m":229727445.477249,
+    "geom:area_square_m":229727536.39191,
     "geom:bbox":"22.1353,41.719002,22.469821,41.875308",
     "geom:latitude":41.794077,
     "geom:longitude":22.298939,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"231",
     "statoids:area_mi":"89",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00205",
+        "eurostat:nuts_2021_id":"MK00205",
         "fips:code":"MK40",
         "gn:id":862960,
         "gp:id":24550772,
@@ -298,7 +312,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ddb24d0cc74d85cf99b8542f5da11f2e",
+    "wof:geomhash":"98a1bf8ec49c7e35d32405e19da42ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,12 +328,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505992,
+    "wof:lastmodified":1684354003,
     "wof:name":"Karbinci",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":4012,
+    "wof:population":3918,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"KB",

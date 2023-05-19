@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0417\u0440\u043d\u043e\u0432\u0446\u0438",
+    "eurostat:nuts_2021_id":"MK00204",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK002",
+    "eurostat:nuts_2021_level_lau":"MK00204",
+    "eurostat:population":2968,
+    "eurostat:population_year":2019,
     "geom:area":0.006031,
-    "geom:area_square_m":55561079.155783,
+    "geom:area_square_m":55560868.30546,
     "geom:bbox":"22.374342,41.793763,22.476796,41.88066",
     "geom:latitude":41.839604,
     "geom:longitude":22.431828,
@@ -265,8 +277,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"52",
     "statoids:area_mi":"20",
     "statoids:as_of_date":"2002-10-31",
@@ -286,6 +298,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00204",
+        "eurostat:nuts_2021_id":"MK00204",
         "fips:code":"MKC6",
         "gn:id":862958,
         "gp:id":24550824,
@@ -300,7 +314,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f08887bcc385f819b7631d7fb23e18c9",
+    "wof:geomhash":"eb4acdc5939c07b6a3c01f63dd91f352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,12 +330,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505995,
+    "wof:lastmodified":1684354002,
     "wof:name":"Zrnovci",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":3264,
+    "wof:population":2968,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"ZR",

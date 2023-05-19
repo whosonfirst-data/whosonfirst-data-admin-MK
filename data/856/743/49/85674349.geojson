@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0448\u0442\u0430\u043d\u0438",
+    "eurostat:nuts_2021_id":"MK00504",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK005",
+    "eurostat:nuts_2021_level_lau":"MK00504",
+    "eurostat:population":5465,
+    "eurostat:population_year":2019,
     "geom:area":0.009576,
-    "geom:area_square_m":88924330.760314,
+    "geom:area_square_m":88924379.016594,
     "geom:bbox":"21.3047,41.250737,21.432074,41.396721",
     "geom:latitude":41.320218,
     "geom:longitude":21.363691,
@@ -258,8 +270,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"88",
     "statoids:area_mi":"34",
     "statoids:as_of_date":"2002-10-31",
@@ -279,6 +291,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00504",
+        "eurostat:nuts_2021_id":"MK00504",
         "fips:code":"MK53",
         "gn:id":863870,
         "gp:id":24550781,
@@ -293,7 +307,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d463a079e3a1c553a1a34d5248e2b546",
+    "wof:geomhash":"aab7885fbc8385155b49d212a85495b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,12 +323,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1684354003,
     "wof:name":"Krivoga\u0161tani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":6150,
+    "wof:population":5465,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"KG",

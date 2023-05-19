@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0435",
+    "eurostat:nuts_2021_id":"MK00108",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00108",
+    "eurostat:population":17519,
+    "eurostat:population_year":2019,
     "geom:area":0.052381,
-    "geom:area_square_m":482119349.769482,
+    "geom:area_square_m":482119778.495422,
     "geom:bbox":"21.80588,41.73131,22.125928,42.021736",
     "geom:latitude":41.896243,
     "geom:longitude":21.969514,
@@ -260,8 +272,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"483",
     "statoids:area_mi":"186",
     "statoids:as_of_date":"2002-10-31",
@@ -281,6 +293,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00108",
+        "eurostat:nuts_2021_id":"MK00108",
         "fips:code":"MKA4",
         "gn:id":863905,
         "gp:id":24550811,
@@ -295,7 +309,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d660638741ac328ceb23384a6b7185d",
+    "wof:geomhash":"aef16a09cca95a474e231d634b675fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,12 +325,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505994,
+    "wof:lastmodified":1684354002,
     "wof:name":"Sveti Nikole",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":18497,
+    "wof:population":17519,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"SL",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00810",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041f\u0435\u0442\u0440\u043e\u0432\u0435\u0446",
+    "eurostat:nuts_2021_id":"MK00810",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00810",
+    "eurostat:population":9182,
+    "eurostat:population_year":2019,
     "geom:area":0.021979,
-    "geom:area_square_m":202234168.140663,
+    "geom:area_square_m":202234075.914121,
     "geom:bbox":"21.569872,41.81839,21.821308,42.001024",
     "geom:latitude":41.916401,
     "geom:longitude":21.704426,
@@ -187,8 +199,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"222",
     "statoids:area_mi":"86",
     "statoids:as_of_date":"2002-10-31",
@@ -208,6 +220,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00810",
+        "eurostat:nuts_2021_id":"MK00810",
         "fips:code":"MK79",
         "gn:id":863886,
         "gp:id":24550796,
@@ -221,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc1367acd120dedf326b1f28d0290af4",
+    "wof:geomhash":"92d7569c39d0cd4b459fe59d470832b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -237,12 +251,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1684354002,
     "wof:name":"Skopje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":8255,
+    "wof:population":9182,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"PE",

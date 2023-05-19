@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0403\u043e\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432",
+    "eurostat:nuts_2021_id":"MK00805",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00805",
+    "eurostat:population":42915,
+    "eurostat:population_year":2019,
     "geom:area":0.007303,
-    "geom:area_square_m":67048851.683044,
+    "geom:area_square_m":67048921.868986,
     "geom:bbox":"21.247652,41.997099,21.377208,42.10885",
     "geom:latitude":42.058755,
     "geom:longitude":21.31948,
@@ -197,8 +209,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"63",
     "statoids:area_mi":"24",
     "statoids:as_of_date":"2002-10-31",
@@ -218,6 +230,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00805",
+        "eurostat:nuts_2021_id":"MK00805",
         "fips:code":"MK29",
         "gn:id":863850,
         "gp:id":24550839,
@@ -231,7 +245,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"863026421d081fe585bcd0c6121cdf0d",
+    "wof:geomhash":"3e4c2dfb0a902ee713eb4e814aa66b46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -247,12 +261,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1684354003,
     "wof:name":"Gjorce Petrov",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":41634,
+    "wof:population":42915,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"GP",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0412\u0435\u043b\u0435\u0441",
+    "eurostat:nuts_2021_id":"MK00101",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00101",
+    "eurostat:population":54201,
+    "eurostat:population_year":2019,
     "geom:area":0.046342,
-    "geom:area_square_m":427435627.947913,
+    "geom:area_square_m":427435526.493956,
     "geom:bbox":"21.578629,41.612075,21.880539,41.9197",
     "geom:latitude":41.760783,
     "geom:longitude":21.752802,
@@ -227,8 +239,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"518",
     "statoids:area_mi":"200",
     "statoids:as_of_date":"2002-10-31",
@@ -249,6 +261,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00101",
+        "eurostat:nuts_2021_id":"MK00101",
         "fips:code":"MKF1",
         "gn:id":863909,
         "gp:id":24550815,
@@ -262,7 +276,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dbe510cd4871183c095ae292149bde34",
+    "wof:geomhash":"66c569cde4f3e6af124997410589ea6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -278,12 +292,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505995,
+    "wof:lastmodified":1684354002,
     "wof:name":"Veles",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":55108,
+    "wof:population":54201,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"VE",

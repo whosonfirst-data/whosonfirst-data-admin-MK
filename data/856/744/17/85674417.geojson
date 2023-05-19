@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0422\u0435\u0442\u043e\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00609",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00609",
+    "eurostat:population":92580,
+    "eurostat:population_year":2019,
     "geom:area":0.028477,
-    "geom:area_square_m":261525717.145724,
+    "geom:area_square_m":261525683.905886,
     "geom:bbox":"20.748108,41.962557,21.052814,42.128272",
     "geom:latitude":42.038047,
     "geom:longitude":20.896059,
@@ -265,8 +277,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"262",
     "statoids:area_mi":"101",
     "statoids:as_of_date":"2002-10-31",
@@ -286,6 +298,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00609",
+        "eurostat:nuts_2021_id":"MK00609",
         "fips:code":"MKE8",
         "gn:id":863907,
         "gp:id":24550862,
@@ -300,7 +314,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9f400ea7a6d135fd671e22cb8f07164",
+    "wof:geomhash":"4f913b8166a3b815fec6990b6c940e47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,12 +330,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505989,
+    "wof:lastmodified":1684354003,
     "wof:name":"Tetovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":86580,
+    "wof:population":92580,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"ET",

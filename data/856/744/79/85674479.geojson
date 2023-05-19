@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0411\u0435\u0440\u043e\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00201",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK002",
+    "eurostat:nuts_2021_level_lau":"MK00201",
+    "eurostat:population":12646,
+    "eurostat:population_year":2019,
     "geom:area":0.06464,
-    "geom:area_square_m":597140384.01778,
+    "geom:area_square_m":597140475.392092,
     "geom:bbox":"22.637195,41.51796,23.01376,41.821195",
     "geom:latitude":41.660452,
     "geom:longitude":22.814301,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"597",
     "statoids:area_mi":"231",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00201",
+        "eurostat:nuts_2021_id":"MK00201",
         "fips:code":"MK04",
         "gn:id":863485,
         "gp:id":24550826,
@@ -297,7 +311,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a1f52483f17cc2984e2c1b62c86defad",
+    "wof:geomhash":"1ce1dadb69f3cf9a66bfbca266e65aac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,12 +327,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505990,
+    "wof:lastmodified":1684354003,
     "wof:name":"Berovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":13941,
+    "wof:population":12646,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"BR",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0420\u0435\u0441\u0435\u043d",
+    "eurostat:nuts_2021_id":"MK00509",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK005",
+    "eurostat:nuts_2021_level_lau":"MK00509",
+    "eurostat:population":16198,
+    "eurostat:population_year":2019,
     "geom:area":0.079253,
-    "geom:area_square_m":739573128.667437,
+    "geom:area_square_m":739572885.502946,
     "geom:bbox":"20.829071,40.854683,21.255475,41.215006",
     "geom:latitude":41.002016,
     "geom:longitude":21.028592,
@@ -272,8 +284,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"549",
     "statoids:area_mi":"212",
     "statoids:as_of_date":"2002-10-31",
@@ -293,6 +305,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00509",
+        "eurostat:nuts_2021_id":"MK00509",
         "fips:code":"MK86",
         "gn:id":786339,
         "gp:id":24550855,
@@ -307,7 +321,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"571e1bf65757af04f062758fd678801b",
+    "wof:geomhash":"3926a63deb22f5f665cbd58887b516cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -323,12 +337,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505988,
+    "wof:lastmodified":1684354002,
     "wof:name":"Resen",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":16825,
+    "wof:population":16198,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"RE",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0420\u043e\u0441\u043e\u043c\u0430\u043d",
+    "eurostat:nuts_2021_id":"MK00107",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00107",
+    "eurostat:population":4063,
+    "eurostat:population_year":2019,
     "geom:area":0.01435,
-    "geom:area_square_m":132904094.534513,
+    "geom:area_square_m":132904014.628289,
     "geom:bbox":"21.810865,41.436873,22.000094,41.562897",
     "geom:latitude":41.497065,
     "geom:longitude":21.909576,
@@ -193,8 +205,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"133",
     "statoids:area_mi":"51",
     "statoids:as_of_date":"2002-10-31",
@@ -214,6 +226,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00107",
+        "eurostat:nuts_2021_id":"MK00107",
         "fips:code":"MK87",
         "gn:id":862973,
         "gp:id":24550801,
@@ -228,7 +242,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12dadaaf3d1a0519569483661036c842",
+    "wof:geomhash":"4ae9360888df2866e1898d75bf72cc2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,12 +258,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895073,
+    "wof:lastmodified":1684354002,
     "wof:name":"Vardar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":4141,
+    "wof:population":4063,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"RM",

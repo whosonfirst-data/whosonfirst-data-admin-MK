@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041d\u0435\u0433\u043e\u0442\u0438\u043d\u043e",
+    "eurostat:nuts_2021_id":"MK00106",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK001",
+    "eurostat:nuts_2021_level_lau":"MK00106",
+    "eurostat:population":19244,
+    "eurostat:population_year":2019,
     "geom:area":0.051898,
-    "geom:area_square_m":480416745.655073,
+    "geom:area_square_m":480417072.357789,
     "geom:bbox":"21.953986,41.353914,22.314205,41.675901",
     "geom:latitude":41.52795,
     "geom:longitude":22.112651,
@@ -263,8 +275,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"414",
     "statoids:area_mi":"160",
     "statoids:as_of_date":"2002-10-31",
@@ -284,6 +296,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00106",
+        "eurostat:nuts_2021_id":"MK00106",
         "fips:code":"MK69",
         "gn:id":863881,
         "gp:id":24550790,
@@ -298,7 +312,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2134294a423e4c6c553e8fb5015c7ac4",
+    "wof:geomhash":"10fb6bcf736eb6a5c1111b9e87c68601",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,12 +328,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505991,
+    "wof:lastmodified":1684354003,
     "wof:name":"Negotino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":19212,
+    "wof:population":19244,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"NG",

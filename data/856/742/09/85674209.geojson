@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00812",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0421\u043e\u043f\u0438\u0448\u0442\u0435",
+    "eurostat:nuts_2021_id":"MK00812",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00812",
     "geom:area":0.024056,
-    "geom:area_square_m":221490988.762632,
+    "geom:area_square_m":221491370.685799,
     "geom:bbox":"21.216136,41.73129,21.462681,41.965873",
     "geom:latitude":41.874172,
     "geom:longitude":21.326483,
@@ -279,6 +289,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00812",
+        "eurostat:nuts_2021_id":"MK00812",
         "fips:code":"MK92",
         "gn:id":863896,
         "gp:id":24550804,
@@ -293,7 +305,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9c61509e501270eada12a26a2b9433f9",
+    "wof:geomhash":"89b06a086bbfa45a8a7c0be85ea03f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +321,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1684354002,
     "wof:name":"Sopiste",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

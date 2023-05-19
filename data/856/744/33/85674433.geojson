@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0413\u043e\u0441\u0442\u0438\u0432\u0430\u0440",
+    "eurostat:nuts_2021_id":"MK00604",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK006",
+    "eurostat:nuts_2021_level_lau":"MK00604",
+    "eurostat:population":83838,
+    "eurostat:population_year":2019,
     "geom:area":0.055702,
-    "geom:area_square_m":513629905.147078,
+    "geom:area_square_m":513629571.825435,
     "geom:bbox":"20.558991,41.641552,21.088031,41.877327",
     "geom:latitude":41.778361,
     "geom:longitude":20.849274,
@@ -296,8 +308,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"375",
     "statoids:area_mi":"145",
     "statoids:as_of_date":"2002-10-31",
@@ -317,6 +329,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00604",
+        "eurostat:nuts_2021_id":"MK00604",
         "fips:code":"MKD4",
         "gn:id":863855,
         "gp:id":24550767,
@@ -331,7 +345,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e43ee2e421108aed06ac89a2f825d46b",
+    "wof:geomhash":"09818c612c30278ee39268ffa908a9b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -347,12 +361,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505989,
+    "wof:lastmodified":1684354003,
     "wof:name":"Gostivar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":81042,
+    "wof:population":83838,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"GT",

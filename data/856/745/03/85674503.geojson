@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0420\u0430\u043d\u043a\u043e\u0432\u0446\u0435",
+    "eurostat:nuts_2021_id":"MK00705",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK007",
+    "eurostat:nuts_2021_level_lau":"MK00705",
+    "eurostat:population":3632,
+    "eurostat:population_year":2019,
     "geom:area":0.026169,
-    "geom:area_square_m":239681756.551641,
+    "geom:area_square_m":239681736.367028,
     "geom:bbox":"22.033649,42.110515,22.236691,42.312343",
     "geom:latitude":42.208816,
     "geom:longitude":22.135977,
@@ -261,8 +273,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"240",
     "statoids:area_mi":"93",
     "statoids:as_of_date":"2002-10-31",
@@ -282,6 +294,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00705",
+        "eurostat:nuts_2021_id":"MK00705",
         "fips:code":"MK85",
         "gn:id":863891,
         "gp:id":24550844,
@@ -296,7 +310,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08725ebbfc36463997034519c0df955b",
+    "wof:geomhash":"005d9eb6345476d589fb325d02f654a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,12 +326,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505996,
+    "wof:lastmodified":1684354003,
     "wof:name":"Rankovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":4144,
+    "wof:population":3632,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"RN",

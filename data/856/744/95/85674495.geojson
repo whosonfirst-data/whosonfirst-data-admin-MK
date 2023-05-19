@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041f\u0435\u0445\u0447\u0435\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00208",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK002",
+    "eurostat:nuts_2021_level_lau":"MK00208",
+    "eurostat:population":4782,
+    "eurostat:population_year":2019,
     "geom:area":0.022509,
-    "geom:area_square_m":207556105.422007,
+    "geom:area_square_m":207556164.087926,
     "geom:bbox":"22.782909,41.690602,23.032498,41.877877",
     "geom:latitude":41.779668,
     "geom:longitude":22.907037,
@@ -261,8 +273,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"208",
     "statoids:area_mi":"80",
     "statoids:as_of_date":"2002-10-31",
@@ -282,6 +294,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00208",
+        "eurostat:nuts_2021_id":"MK00208",
         "fips:code":"MK78",
         "gn:id":862938,
         "gp:id":24550854,
@@ -296,7 +310,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed53ce6c5f5087af046b0d8ff083a0e2",
+    "wof:geomhash":"d6fac54ce2a7dcaeccec717e3f944e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,13 +326,13 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895069,
+    "wof:lastmodified":1684354003,
     "wof:name":"Phecevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":5517,
-    "wof:population_rank":5,
+    "wof:population":4782,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"PH",
     "wof:subdivision":"MK-60",

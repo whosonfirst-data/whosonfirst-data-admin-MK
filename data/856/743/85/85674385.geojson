@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0426\u0435\u043d\u0442\u0430\u0440 \u0416\u0443\u043f\u0430",
+    "eurostat:nuts_2021_id":"MK00313",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK003",
+    "eurostat:nuts_2021_level_lau":"MK00313",
+    "eurostat:population":7136,
+    "eurostat:population_year":2019,
     "geom:area":0.011143,
-    "geom:area_square_m":103246510.914481,
+    "geom:area_square_m":103246521.392106,
     "geom:bbox":"20.520158,41.409841,20.682322,41.532206",
     "geom:latitude":41.464939,
     "geom:longitude":20.597668,
@@ -258,8 +270,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"107",
     "statoids:area_mi":"41",
     "statoids:as_of_date":"2002-10-31",
@@ -279,6 +291,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00313",
+        "eurostat:nuts_2021_id":"MK00313",
         "fips:code":"MK18",
         "gn:id":863841,
         "gp:id":24550829,
@@ -293,7 +307,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"475db21e216a15320e0070f5b04386f5",
+    "wof:geomhash":"2cd0330f8a9b3ae00450f994a62e1502",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,12 +323,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895072,
+    "wof:lastmodified":1684354003,
     "wof:name":"Centar \u017eupa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":6519,
+    "wof:population":7136,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"CZ",

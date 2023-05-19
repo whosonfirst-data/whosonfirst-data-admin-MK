@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0412\u0430\u043b\u0430\u043d\u0434\u043e\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00403",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK004",
+    "eurostat:nuts_2021_level_lau":"MK00403",
+    "eurostat:population":11673,
+    "eurostat:population_year":2019,
     "geom:area":0.035295,
-    "geom:area_square_m":327628284.360855,
+    "geom:area_square_m":327628033.475836,
     "geom:bbox":"22.334274,41.216894,22.780015,41.458626",
     "geom:latitude":41.348306,
     "geom:longitude":22.519822,
@@ -212,8 +224,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"331",
     "statoids:area_mi":"128",
     "statoids:as_of_date":"2002-10-31",
@@ -233,6 +245,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00403",
+        "eurostat:nuts_2021_id":"MK00403",
         "fips:code":"MKE9",
         "gn:id":784732,
         "gp:id":24550813,
@@ -247,7 +261,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"96b0c1ab88b573adea5479e6028d7f60",
+    "wof:geomhash":"d47c2cd724d02b2992aa4edcdc34adcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -263,12 +277,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505989,
+    "wof:lastmodified":1684354003,
     "wof:name":"Valandovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":11890,
+    "wof:population":11673,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"VA",

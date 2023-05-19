@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0421\u0442\u0440\u0443\u0433\u0430",
+    "eurostat:nuts_2021_id":"MK00312",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK003",
+    "eurostat:nuts_2021_level_lau":"MK00312",
+    "eurostat:population":66008,
+    "eurostat:population_year":2019,
     "geom:area":0.052158,
-    "geom:area_square_m":484691759.331589,
+    "geom:area_square_m":484692163.47786,
     "geom:bbox":"20.494443,41.086513,20.766739,41.430448",
     "geom:latitude":41.277656,
     "geom:longitude":20.631679,
@@ -260,8 +272,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"469",
     "statoids:area_mi":"181",
     "statoids:as_of_date":"2002-10-31",
@@ -281,6 +293,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00312",
+        "eurostat:nuts_2021_id":"MK00312",
         "fips:code":"MKE6",
         "gn:id":863901,
         "gp:id":24550846,
@@ -295,7 +309,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33032ef270a52b9c63e5d51fa352dc21",
+    "wof:geomhash":"2676dbce13bff914060484b7ae9823d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,12 +325,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505990,
+    "wof:lastmodified":1684354003,
     "wof:name":"Struga",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":63376,
+    "wof:population":66008,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"UG",

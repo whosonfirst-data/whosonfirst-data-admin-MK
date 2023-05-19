@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041b\u0438\u043f\u043a\u043e\u0432\u043e",
+    "eurostat:nuts_2021_id":"MK00704",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK007",
+    "eurostat:nuts_2021_level_lau":"MK00704",
+    "eurostat:population":30294,
+    "eurostat:population_year":2019,
     "geom:area":0.029665,
-    "geom:area_square_m":271818558.800319,
+    "geom:area_square_m":271818188.910615,
     "geom:bbox":"21.432902,42.051145,21.701479,42.280055",
     "geom:latitude":42.181063,
     "geom:longitude":21.577635,
@@ -258,8 +270,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"270",
     "statoids:area_mi":"104",
     "statoids:as_of_date":"2002-10-31",
@@ -279,6 +291,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00704",
+        "eurostat:nuts_2021_id":"MK00704",
         "fips:code":"MK59",
         "gn:id":863875,
         "gp:id":24550842,
@@ -293,7 +307,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dfd431669cfa926d511dc3a7c7520fc3",
+    "wof:geomhash":"f87f5c6d6d544534096e21759e431018",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,12 +323,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505994,
+    "wof:lastmodified":1684354002,
     "wof:name":"Lipkovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":27058,
+    "wof:population":30294,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"LI",

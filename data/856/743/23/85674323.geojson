@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"MK",
+    "eurostat:gisco_id":"MK_MK00808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u041a\u0430\u0440\u043f\u043e\u0448",
+    "eurostat:nuts_2021_id":"MK00808",
+    "eurostat:nuts_2021_level_0":"MK",
+    "eurostat:nuts_2021_level_1":"MK0",
+    "eurostat:nuts_2021_level_2":"MK00",
+    "eurostat:nuts_2021_level_3":"MK008",
+    "eurostat:nuts_2021_level_lau":"MK00808",
+    "eurostat:population":60911,
+    "eurostat:population_year":2019,
     "geom:area":0.003932,
-    "geom:area_square_m":36129885.313473,
+    "geom:area_square_m":36129923.377602,
     "geom:bbox":"21.357942,41.963625,21.440492,42.045167",
     "geom:latitude":41.998494,
     "geom:longitude":21.392541,
@@ -192,8 +204,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2002-10-31",
+    "src:population":"eurostat",
+    "src:population_date":"2019",
     "statoids:area_km":"21",
     "statoids:area_mi":"8",
     "statoids:as_of_date":"2002-10-31",
@@ -213,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"MK_MK00808",
+        "eurostat:nuts_2021_id":"MK00808",
         "fips:code":"MK41",
         "gn:id":863860,
         "gp:id":24550773,
@@ -226,7 +240,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"133abe51d41008040827a74ba35d5304",
+    "wof:geomhash":"e2c335203b0da85534b70b722ba52ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -242,12 +256,12 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1684354003,
     "wof:name":"Karpo\u0161",
     "wof:parent_id":85632373,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":59666,
+    "wof:population":60911,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:shortcode":"KX",

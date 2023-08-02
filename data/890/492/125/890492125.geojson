@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.074609,41.9905775,21.074609,41.9905775",
+    "geom:bbox":"21.074609,41.990578,21.074609,41.990578",
     "geom:latitude":41.990578,
     "geom:longitude":21.074609,
     "gp:adm0":23424890,
@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0644\u064a\u0646\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0644\u064a\u0646\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u0438\u043d\u043e"
     ],
     "name:ceb_x_preferred":[
         "Zhelino"
+    ],
+    "name:ces_x_preferred":[
+        "\u017delino"
     ],
     "name:deu_x_preferred":[
         "\u017delino"
@@ -32,8 +38,14 @@
     "name:eng_x_preferred":[
         "\u017delino"
     ],
+    "name:epo_x_preferred":[
+        "\u017delino"
+    ],
     "name:fra_x_preferred":[
         "Jelino"
+    ],
+    "name:hun_x_preferred":[
+        "Zselino"
     ],
     "name:kat_x_preferred":[
         "\u10df\u10d4\u10da\u10d8\u10dc\u10dd"
@@ -46,6 +58,9 @@
     ],
     "name:pol_x_preferred":[
         "\u017belino"
+    ],
+    "name:slk_x_preferred":[
+        "\u017delino"
     ],
     "name:sqi_x_preferred":[
         "Zhelina"
@@ -86,7 +101,7 @@
     },
     "wof:country":"MK",
     "wof:created":1469054878,
-    "wof:geomhash":"2fb1f79a2f7b3f86b16b17baa142998d",
+    "wof:geomhash":"924b3dc3afc2a3b17e32796408675443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":890492125,
-    "wof:lastmodified":1566605502,
+    "wof:lastmodified":1690939594,
     "wof:name":"\u017delino",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
@@ -113,9 +128,9 @@
 },
   "bbox": [
     21.074609,
-    41.9905775,
+    41.990578,
     21.074609,
-    41.9905775
+    41.990578
 ],
-  "geometry": {"coordinates":[21.074609,41.9905775],"type":"Point"}
+  "geometry": {"coordinates":[21.074609,41.990578],"type":"Point"}
 }

@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0633\u0643\u0648\u064a\u0643"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0441\u043a\u043e\u0435\u0446"
     ],
@@ -41,6 +44,9 @@
     "name:hun_x_preferred":[
         "Leskoec"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10e1\u10d9\u10dd\u10d4\u10ea\u10d8"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0435\u0441\u043a\u043e\u0435\u0446"
     ],
@@ -50,11 +56,17 @@
     "name:nld_x_preferred":[
         "Leskoec"
     ],
+    "name:nno_x_preferred":[
+        "Leskoets"
+    ],
     "name:pol_x_preferred":[
         "\u0141eskoec"
     ],
     "name:por_x_preferred":[
         "Leskoec"
+    ],
+    "name:sqi_x_preferred":[
+        "Leskoveci"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u0441\u043a\u043e\u0435\u0446"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":890492091,
-    "wof:lastmodified":1566605483,
+    "wof:lastmodified":1690939552,
     "wof:name":"Leskoec",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

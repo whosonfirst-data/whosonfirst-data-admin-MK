@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Strumica"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Strumica"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Strumica"
+    ],
     "name:dan_x_preferred":[
         "Strumica Municipality"
     ],
@@ -72,6 +78,12 @@
     "name:eng_x_preferred":[
         "Strumica Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Strumica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0627\u0633\u062a\u0631\u0648\u0645\u06cc\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Strumican kunta"
     ],
@@ -79,7 +91,8 @@
         "Municipalit\u00e9 de Stroumitsa"
     ],
     "name:fra_x_variant":[
-        "Stroumitsa"
+        "Stroumitsa",
+        "Strumica"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0ac1\u0aae\u0abf\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -89,6 +102,9 @@
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Strumica"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0580\u0578\u0582\u0574\u056b\u0581\u0561"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Strumica"
@@ -107,6 +123,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud2b8\ub8e8\ubbf8\ucc28 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud2b8\ub8e8\ubbf8\ucc28\uc2dc"
+    ],
+    "name:lat_x_preferred":[
+        "Strumnitza"
     ],
     "name:lav_x_preferred":[
         "Strumicas pa\u0161vald\u012bba"
@@ -194,6 +216,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u7279\u9b6f\u7c73\u5bdf\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u7279\u9c81\u7c73\u5bdf\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -305,7 +330,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"822013034525725e3235f7aae5a4309e",
+    "wof:geomhash":"35842d73fbfbbb82480dd265557cf21a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -321,7 +346,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939443,
     "wof:name":"Southeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

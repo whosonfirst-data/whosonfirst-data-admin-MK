@@ -28,14 +28,32 @@
     "name:eng_x_preferred":[
         "Kuklis"
     ],
+    "name:eng_x_variant":[
+        "Kukli\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Kouklich"
+    ],
     "name:hun_x_preferred":[
         "Kuklis"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0443\u043a\u043b\u0438\u0448"
     ],
+    "name:nan_x_preferred":[
+        "Kouklich"
+    ],
     "name:nld_x_preferred":[
         "Kuklis"
+    ],
+    "name:nno_x_preferred":[
+        "Kuklisj"
+    ],
+    "name:sqi_x_preferred":[
+        "Kuklishi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043a\u043b\u0438\u0448"
     ],
     "name:swe_x_preferred":[
         "Kuklisj"
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":890491049,
-    "wof:lastmodified":1566605452,
+    "wof:lastmodified":1690939478,
     "wof:name":"\u041a\u0443\u043a\u043b\u0438\u0448",
     "wof:parent_id":85674439,
     "wof:placetype":"locality",

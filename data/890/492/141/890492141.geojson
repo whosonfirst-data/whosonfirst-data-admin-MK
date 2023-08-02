@@ -22,6 +22,12 @@
     "name:bul_x_preferred":[
         "\u0417\u043e\u0432\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Zovik"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ce\u03b2\u03b9\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Zovi\u1e31"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0417\u043e\u0432\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Zovik"
     ],
     "name:und_x_variant":[
         "Bzovik"
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":890492141,
-    "wof:lastmodified":1566605502,
+    "wof:lastmodified":1690939592,
     "wof:name":"Zovik",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

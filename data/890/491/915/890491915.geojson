@@ -44,6 +44,9 @@
     "name:nld_x_preferred":[
         "Kondovo"
     ],
+    "name:nno_x_preferred":[
+        "Kondovo"
+    ],
     "name:pol_x_preferred":[
         "Kondowo"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890491915,
-    "wof:lastmodified":1566605457,
+    "wof:lastmodified":1690939491,
     "wof:name":"Kondovo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

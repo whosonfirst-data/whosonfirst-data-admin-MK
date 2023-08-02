@@ -69,6 +69,9 @@
     "name:ces_x_preferred":[
         "Op\u0161tina Kumanovo"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Kumanovo"
+    ],
     "name:dan_x_preferred":[
         "Kumanovo Municipality"
     ],
@@ -81,6 +84,12 @@
     "name:eng_x_preferred":[
         "Kumanovo Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Kumanovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06a9\u0648\u0645\u0627\u0646\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kumanovon kunta"
     ],
@@ -88,7 +97,8 @@
         "Municipalit\u00e9 de Koumanovo"
     ],
     "name:fra_x_variant":[
-        "Koumanovo"
+        "Koumanovo",
+        "Kumanovo"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0aae\u0aa8\u0acb\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -122,6 +132,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucfe0\ub9c8\ub178\ubcf4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucfe0\ub9c8\ub178\ubcf4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Kumanovo pa\u0161vald\u012bba"
@@ -206,6 +219,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e93\u9a6c\u8bfa\u6c83\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u5e93\u9a6c\u8bfa\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -318,7 +334,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"537eb5e427d53141d01b921622d89173",
+    "wof:geomhash":"5270c960ab95fd8189af653b4ed16b78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -334,7 +350,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939450,
     "wof:name":"Kumanovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Resen"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Resen"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Resen"
+    ],
     "name:dan_x_preferred":[
         "Resen Municipality"
     ],
@@ -77,6 +83,9 @@
     ],
     "name:epo_x_preferred":[
         "Resen"
+    ],
+    "name:epo_x_variant":[
+        "Op\u0161tina Resen"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0633\u0646"
@@ -120,6 +129,9 @@
     "name:kor_x_preferred":[
         "\ub808\uc13c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub808\uc13c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Rese\u0146as pa\u0161vald\u012bba"
     ],
@@ -142,6 +154,9 @@
         "Resen"
     ],
     "name:nld_x_preferred":[
+        "Resen"
+    ],
+    "name:nno_x_preferred":[
         "Resen"
     ],
     "name:nob_x_preferred":[
@@ -173,6 +188,9 @@
     ],
     "name:swe_x_preferred":[
         "Resen kommun"
+    ],
+    "name:swe_x_variant":[
+        "Resen"
     ],
     "name:tam_x_preferred":[
         "\u0bb0\u0bc7\u0b9a\u0ba9\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
@@ -208,7 +226,8 @@
         "\u96f7\u68ee\u533a"
     ],
     "name:zho_x_variant":[
-        "\u91cc\u68ee\u533a"
+        "\u91cc\u68ee\u533a",
+        "\u96f7\u68ee\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -321,7 +340,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3926a63deb22f5f665cbd58887b516cf",
+    "wof:geomhash":"571e1bf65757af04f062758fd678801b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -337,7 +356,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939438,
     "wof:name":"Resen",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

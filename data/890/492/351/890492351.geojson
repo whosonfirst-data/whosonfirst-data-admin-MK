@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062f\u0631\u064a\u06a4\u064a\u0646\u064a\u0643"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u0432\u0435\u043d\u0438\u043a"
     ],
     "name:ceb_x_preferred":[
         "Drevenik"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0440\u0435\u0432\u0435\u043d\u0438\u043a"
     ],
     "name:eng_x_preferred":[
         "Drevenik"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890492351,
-    "wof:lastmodified":1566605491,
+    "wof:lastmodified":1690939567,
     "wof:name":"Drevenik",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

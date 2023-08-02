@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina \u0160tip"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina \u0160tip"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref \u0160tip"
+    ],
     "name:dan_x_preferred":[
         "\u0160tip Municipality"
     ],
@@ -72,6 +78,9 @@
     "name:eng_x_variant":[
         "\u0160tip Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina \u0160tip"
+    ],
     "name:fin_x_preferred":[
         "\u0160tipn kunta"
     ],
@@ -79,10 +88,14 @@
         "Municipalit\u00e9 de Chtip"
     ],
     "name:fra_x_variant":[
-        "Chtip"
+        "Chtip",
+        "\u0160tip"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0abf\u0aaa \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05e9\u05d8\u05d9\u05e4"
     ],
     "name:hin_x_preferred":[
         "\u0938\u094d\u0924\u093f\u092a \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -107,6 +120,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc288\ud2f0\ud504 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc288\ud2f0\ud504\uc2dc"
+    ],
+    "name:lat_x_preferred":[
+        "Astibus"
     ],
     "name:lav_x_preferred":[
         "\u0160tipas pa\u0161vald\u012bba"
@@ -195,6 +214,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4ec0\u63d0\u666e\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u4ec0\u8482\u666e\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -306,7 +328,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4dd3d125e3a5ba67b8e5773b1e2e2350",
+    "wof:geomhash":"4faa3284bacbcee254c222f5e057a19d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -322,7 +344,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939455,
     "wof:name":"\u0160tip",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -85,7 +85,13 @@
     "name:nld_x_preferred":[
         "Slatina"
     ],
+    "name:nno_x_preferred":[
+        "Slatina"
+    ],
     "name:pol_x_preferred":[
+        "Slatina"
+    ],
+    "name:por_x_preferred":[
         "Slatina"
     ],
     "name:ron_x_preferred":[
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":890491287,
-    "wof:lastmodified":1636506000,
+    "wof:lastmodified":1690939473,
     "wof:name":"Slatina",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

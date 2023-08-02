@@ -47,6 +47,9 @@
     "name:nld_x_preferred":[
         "Slup\u010dane"
     ],
+    "name:nno_x_preferred":[
+        "Sluptsjane"
+    ],
     "name:sqi_x_preferred":[
         "Sllup\u00e7anje"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890491981,
-    "wof:lastmodified":1566605476,
+    "wof:lastmodified":1690939536,
     "wof:name":"Slup\u010dane",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

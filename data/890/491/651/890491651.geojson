@@ -25,8 +25,17 @@
     "name:ara_x_variant":[
         "\u0641\u064a\u0644\u064a\u0634\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0634\u062a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0449\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Vele\u0161ta"
+    ],
+    "name:ceb_x_preferred":[
+        "Velesta"
     ],
     "name:deu_x_preferred":[
         "Vele\u0161ta"
@@ -52,6 +61,9 @@
     "name:nld_x_preferred":[
         "Vele\u0161ta"
     ],
+    "name:nno_x_preferred":[
+        "Velesjta"
+    ],
     "name:pol_x_preferred":[
         "We\u0142eszta"
     ],
@@ -63,6 +75,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0448\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vele\u0161ta"
     ],
     "name:und_x_variant":[
         "Vele\u0161te"
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":890491651,
-    "wof:lastmodified":1566605453,
+    "wof:lastmodified":1690939481,
     "wof:name":"Velesta",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

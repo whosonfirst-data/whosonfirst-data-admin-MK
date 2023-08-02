@@ -54,6 +54,9 @@
     "name:ceb_x_preferred":[
         "Saraj"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Saraj"
+    ],
     "name:deu_x_preferred":[
         "Sarai"
     ],
@@ -69,11 +72,23 @@
     "name:eng_x_variant":[
         "Saraj"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Saraj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0633\u0631\u0627\u062c"
+    ],
     "name:fra_x_preferred":[
         "Sara\u00ef"
     ],
+    "name:fra_x_variant":[
+        "Saraj"
+    ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Saraj"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u0575"
     ],
     "name:ind_x_preferred":[
         "Sarai"
@@ -96,6 +111,9 @@
     "name:kor_x_preferred":[
         "\uc0ac\ub77c\uc774 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\ub77c\uc774\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0440\u0430\u0458"
     ],
@@ -104,6 +122,12 @@
     ],
     "name:nld_x_preferred":[
         "Saraj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Saraj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439"
     ],
     "name:spa_x_preferred":[
         "Municipio de Saraj"
@@ -126,6 +150,9 @@
     "name:tur_x_preferred":[
         "Saraj"
     ],
+    "name:tur_x_variant":[
+        "Saray Belediyesi"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0439"
     ],
@@ -140,6 +167,9 @@
     ],
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u4f0a\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u8428\u62c9\u4f0a\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -252,7 +282,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"885ecb50a86757169a5febdfa1c6e0c1",
+    "wof:geomhash":"843ce9029b9fa3e8f06147915669aabf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -268,7 +298,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939453,
     "wof:name":"Saraj",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

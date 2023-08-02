@@ -45,6 +45,9 @@
     "name:ceb_x_preferred":[
         "Oslomej"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Oslomej"
+    ],
     "name:dan_x_preferred":[
         "Oslomej Municipality"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:fra_x_preferred":[
         "Oslome\u00ef"
+    ],
+    "name:fra_x_variant":[
+        "Oslomej"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0acd\u0ab2\u0acb\u0aae\u0ac7\u0a9c \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -101,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\uc2ac\ub85c\uba54\uc774 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\uc2ac\ub85c\uba54\uc774\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Oslomejas pa\u0161vald\u012bba"
@@ -182,6 +191,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5967\u65af\u6d1b\u6885\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u65af\u6d1b\u6885\u4f0a\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -306,7 +318,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505990,
+    "wof:lastmodified":1690939442,
     "wof:name":"Oslomej",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

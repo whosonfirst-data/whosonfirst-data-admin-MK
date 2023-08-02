@@ -23,6 +23,12 @@
     "name:bul_x_preferred":[
         "\u0422\u044a\u0440\u043d\u043e\u0432\u043e"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03cd\u03c1\u03bd\u03bf\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Trnovo"
     ],
@@ -47,10 +53,16 @@
     "name:pol_x_preferred":[
         "Trnowo"
     ],
+    "name:ron_x_preferred":[
+        "Trnovo"
+    ],
     "name:sqi_x_preferred":[
         "T\u00ebrnova"
     ],
     "name:srp_x_preferred":[
+        "\u0422\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u0422\u0440\u043d\u043e\u0432\u043e"
     ],
     "qs:name":"Turnovo",
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":890491857,
-    "wof:lastmodified":1566605453,
+    "wof:lastmodified":1690939480,
     "wof:name":"Turnovo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

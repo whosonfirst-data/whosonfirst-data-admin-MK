@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Kon\u010de"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Kon\u010de"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Kon\u010de"
+    ],
     "name:dan_x_preferred":[
         "Kon\u010de Municipality"
     ],
@@ -72,11 +78,20 @@
     "name:eng_x_variant":[
         "Kon\u010de Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Kon\u010de"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06a9\u0648\u0646\u0633\u0647"
+    ],
     "name:fin_x_preferred":[
         "Kon\u010den kunta"
     ],
     "name:fra_x_preferred":[
         "Kontch\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Kon\u010de"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aa8\u0acd\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -105,6 +120,9 @@
     "name:kor_x_preferred":[
         "\ucf58\uccb4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ucf58\uccb4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Kon\u010des pa\u0161vald\u012bba"
     ],
@@ -128,6 +146,9 @@
     ],
     "name:nld_x_preferred":[
         "Kon\u010de"
+    ],
+    "name:nno_x_preferred":[
+        "Kontsje"
     ],
     "name:nob_x_preferred":[
         "Konce Kommune"
@@ -168,6 +189,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e04\u0e2d\u0e19\u0e40\u0e0b\u0e48"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e2d\u0e19\u0e40\u0e0a"
+    ],
     "name:tur_x_preferred":[
         "Kon\u00e7e"
     ],
@@ -192,6 +216,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b54\u5207\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5b54\u5207\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -304,7 +331,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee0963944db2689a6b49b353bd6ad311",
+    "wof:geomhash":"5eccdb27a2738468ad7f1c4400c7905f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -320,7 +347,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939446,
     "wof:name":"Konce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

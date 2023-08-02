@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0632\u0644\u064a\u062a\u0648\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0644\u064a\u062a\u0648\u06a4\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u043b\u0435\u0442\u043e\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Zletovo"
     ],
     "name:ceb_x_preferred":[
         "Zletovo"
@@ -33,6 +39,9 @@
         "Zletovo"
     ],
     "name:eng_x_preferred":[
+        "Zletovo"
+    ],
+    "name:fin_x_preferred":[
         "Zletovo"
     ],
     "name:fra_x_preferred":[
@@ -48,6 +57,9 @@
         "Zletovo"
     ],
     "name:nld_x_preferred":[
+        "Zletovo"
+    ],
+    "name:nno_x_preferred":[
         "Zletovo"
     ],
     "name:ron_x_preferred":[
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":890492131,
-    "wof:lastmodified":1566605491,
+    "wof:lastmodified":1690939566,
     "wof:name":"Zletovo",
     "wof:parent_id":85674187,
     "wof:placetype":"locality",

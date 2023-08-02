@@ -60,6 +60,9 @@
     "name:ces_x_preferred":[
         "Op\u0161tina Bosilovo"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Bosilovo"
+    ],
     "name:dan_x_preferred":[
         "Bosilovo"
     ],
@@ -77,6 +80,12 @@
     ],
     "name:eng_x_variant":[
         "Bosilovo"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Bosilovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0628\u0648\u0633\u06cc\u0644\u0648\u0648"
     ],
     "name:fin_x_preferred":[
         "Bosilovon kunta"
@@ -117,6 +126,9 @@
     "name:kor_x_preferred":[
         "\ubcf4\uc2e4\ub85c\ubcf4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubcf4\uc2e4\ub85c\ubcf4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Bosilovo pa\u0161vald\u012bba"
     ],
@@ -139,6 +151,9 @@
         "Bosilovo Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Bosilovo"
+    ],
+    "name:nno_x_preferred":[
         "Bosilovo"
     ],
     "name:nob_x_preferred":[
@@ -200,6 +215,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u897f\u6d1b\u6c83\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u897f\u6d1b\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -311,7 +329,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f01cb7228e33d1a7b9d889eec0730dc9",
+    "wof:geomhash":"1335246f32e4122795dc31c794d7592c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -327,7 +345,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939439,
     "wof:name":"Bosilovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

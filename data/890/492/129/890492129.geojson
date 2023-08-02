@@ -26,11 +26,20 @@
     "name:ceb_x_preferred":[
         "Med\u017eitlija"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0434\u0436\u0438\u0442\u043b\u0438\u044f"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c4\u03b6\u03af\u03c4\u03bb\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Med\u017eitlija"
     ],
     "name:fra_x_preferred":[
         "Medjitliya"
+    ],
+    "name:hun_x_preferred":[
+        "Medzsitlija"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0435\u045f\u0438\u0442\u043b\u0438\u0458\u0430"
@@ -55,6 +64,9 @@
     ],
     "name:und_x_variant":[
         "Med\u017eedli"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5409\u7279\u91cc\u4e9a"
     ],
     "qs:name":"Med\u017eitlija",
     "qs:name_adm0":"Macedonia",
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":890492129,
-    "wof:lastmodified":1566605488,
+    "wof:lastmodified":1690939560,
     "wof:name":"Med\u017eitlija",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

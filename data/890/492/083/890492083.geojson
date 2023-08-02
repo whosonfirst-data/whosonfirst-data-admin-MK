@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u063a\u0648\u0645\u064a\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062c\u0648\u0645\u064a\u0644\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u043c\u0438\u043b\u0430"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Bogomila"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03b3\u03ba\u03bf\u03bc\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bogomila"
@@ -51,6 +57,9 @@
         "Bogomila"
     ],
     "name:nld_x_preferred":[
+        "Bogomila"
+    ],
+    "name:nno_x_preferred":[
         "Bogomila"
     ],
     "name:sqi_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890492083,
-    "wof:lastmodified":1566605481,
+    "wof:lastmodified":1690939547,
     "wof:name":"Bogomila",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

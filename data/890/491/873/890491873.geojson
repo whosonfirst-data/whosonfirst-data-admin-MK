@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Kru\u0161je"
     ],
+    "name:eng_x_variant":[
+        "Gorno Kru\u0161je"
+    ],
     "name:epo_x_preferred":[
         "Kru\u0161je"
     ],
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890491873,
-    "wof:lastmodified":1566605450,
+    "wof:lastmodified":1690939474,
     "wof:name":"Gorno Kru\u0161je",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

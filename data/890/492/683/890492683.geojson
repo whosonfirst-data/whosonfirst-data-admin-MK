@@ -22,6 +22,12 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u043b\u043e\u0448\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "\u010colo\u0161evo"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0430\u043b\u043e\u0448\u0435\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "\u010calo\u0161evo"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0427\u0430\u043b\u043e\u0448\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u010colosjevo"
     ],
     "name:und_x_variant":[
         "\u010colo\u0161evo"
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":890492683,
-    "wof:lastmodified":1566605496,
+    "wof:lastmodified":1690939578,
     "wof:name":"\u010calo\u0161evo",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

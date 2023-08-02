@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:aze_x_preferred":[
+        "Nejilovo"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0436\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Nezhilovo"
+    ],
+    "name:deu_x_preferred":[
+        "Ne\u017eilovo"
     ],
     "name:eng_x_preferred":[
         "Nezilovo"
@@ -48,6 +57,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u0436\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ne\u017eilovo"
     ],
     "qs:name":"\u041d\u0435\u0436\u0438\u043b\u043e\u0432\u043e",
     "qs:photos_9r":0,
@@ -80,7 +92,7 @@
         }
     ],
     "wof:id":890492579,
-    "wof:lastmodified":1566605502,
+    "wof:lastmodified":1690939594,
     "wof:name":"\u041d\u0435\u0436\u0438\u043b\u043e\u0432\u043e",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u044a\u0440\u043d\u0438\u043d\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Krnino"
+    ],
     "name:eng_x_preferred":[
         "Krnino"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890491231,
-    "wof:lastmodified":1566605468,
+    "wof:lastmodified":1690939518,
     "wof:name":"Krnino",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

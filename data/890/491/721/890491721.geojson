@@ -43,6 +43,9 @@
     "name:nan_x_preferred":[
         "Mateytch\u00e9"
     ],
+    "name:nno_x_preferred":[
+        "Matejtsje"
+    ],
     "name:sqi_x_preferred":[
         "Mate\u00e7i"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890491721,
-    "wof:lastmodified":1566605473,
+    "wof:lastmodified":1690939529,
     "wof:name":"\u041c\u0430\u0442\u0435\u0458\u0447\u0435",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

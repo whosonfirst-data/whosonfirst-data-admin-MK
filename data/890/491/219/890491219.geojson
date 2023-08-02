@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Ni\u017eepole"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0436\u0435\u043f\u043e\u043b\u0435"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03b6\u03cc\u03c0\u03bf\u03bb\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Ni\u017eepole"
     ],
@@ -65,6 +71,9 @@
     "name:swe_x_preferred":[
         "D\u017eind\u017eopole"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0436\u0435\u043f\u043e\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Ni\u017eepolje"
     ],
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":890491219,
-    "wof:lastmodified":1566605451,
+    "wof:lastmodified":1690939475,
     "wof:name":"Ni\u017eepole",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

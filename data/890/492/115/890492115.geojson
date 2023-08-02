@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Dra\u017eevo"
     ],
+    "name:ces_x_preferred":[
+        "Dra\u017eevo"
+    ],
     "name:deu_x_preferred":[
         "Drazsevo"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890492115,
-    "wof:lastmodified":1566605501,
+    "wof:lastmodified":1690939589,
     "wof:name":"Dra\u017eevo",
     "wof:parent_id":85674467,
     "wof:placetype":"locality",

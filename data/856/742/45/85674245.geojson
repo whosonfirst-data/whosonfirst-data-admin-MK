@@ -57,6 +57,9 @@
     "name:ceb_x_preferred":[
         "Zelenikovo"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Zelenikovo"
+    ],
     "name:dan_x_preferred":[
         "Zelenikovo Municipality"
     ],
@@ -71,6 +74,12 @@
     ],
     "name:eng_x_preferred":[
         "Zelenikovo Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Zelenikovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0632\u0644\u0646\u06cc\u06a9\u0648\u0648"
     ],
     "name:fin_x_preferred":[
         "Zelenikovon kunta"
@@ -114,6 +123,9 @@
     "name:kor_x_preferred":[
         "\uc824\ub808\ub2c8\ucf54\ubcf4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc824\ub808\ub2c8\ucf54\ubcf4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Zelenikovo pa\u0161vald\u012bba"
     ],
@@ -136,6 +148,9 @@
         "Zelenikovo Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Zelenikovo"
+    ],
+    "name:nno_x_preferred":[
         "Zelenikovo"
     ],
     "name:nob_x_preferred":[
@@ -197,6 +212,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6fa4\u502b\u5c3c\u79d1\u6c83\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u6cfd\u83b1\u5c3c\u79d1\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -309,7 +327,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4b4f19c304f9d7ad0022c18b81d075c",
+    "wof:geomhash":"09d12824906e090e8767dde169ca6172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -325,7 +343,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939454,
     "wof:name":"Zelenikovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

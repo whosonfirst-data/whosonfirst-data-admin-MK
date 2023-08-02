@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Budimirci"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c5\u03b4\u03b9\u03bc\u03af\u03c1\u03c4\u03c3\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Budimirci"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890492695,
-    "wof:lastmodified":1566605486,
+    "wof:lastmodified":1690939558,
     "wof:name":"Budimirci",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

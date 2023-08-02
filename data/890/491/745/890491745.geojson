@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0441\u043b\u0435\u0448\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Misleshevo"
+    ],
     "name:deu_x_preferred":[
         "Misle\u0161evo"
     ],
@@ -46,6 +49,9 @@
     "name:nld_x_preferred":[
         "Misle\u0161evo"
     ],
+    "name:nno_x_preferred":[
+        "Mislesjevo"
+    ],
     "name:por_x_preferred":[
         "Misle\u0161evo"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0441\u043b\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Mislesjevo"
     ],
     "qs:name":"\u041c\u0438\u0441\u043b\u0435\u0448\u0435\u0432\u043e",
     "qs:photos_9r":0,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":890491745,
-    "wof:lastmodified":1566605475,
+    "wof:lastmodified":1690939534,
     "wof:name":"\u041c\u0438\u0441\u043b\u0435\u0448\u0435\u0432\u043e",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

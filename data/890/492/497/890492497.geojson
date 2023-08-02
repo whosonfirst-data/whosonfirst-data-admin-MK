@@ -31,6 +31,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Studeni\u010dani"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Studeni\u010dani"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Studeni\u010dani"
+    ],
     "name:dan_x_preferred":[
         "Studeni\u010dani Municipality"
     ],
@@ -43,11 +49,17 @@
     "name:eng_x_preferred":[
         "Studeni\u010dani Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Studeni\u010dani"
+    ],
     "name:fin_x_preferred":[
         "Studeni\u010danin kunta"
     ],
     "name:fra_x_preferred":[
         "Stoudenitchani"
+    ],
+    "name:fra_x_variant":[
+        "Studeni\u010dani"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0ac1\u0aa1\u0ac7\u0aa8\u0ac0\u0a95\u0abe\u0aa8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -76,6 +88,9 @@
     "name:kor_x_preferred":[
         "\uc2a4\ud22c\ub370\ub2c8\ucc28\ub2c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud22c\ub370\ub2c8\ucc28\ub2c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Studeni\u010danu pa\u0161vald\u012bba"
     ],
@@ -99,6 +114,9 @@
     ],
     "name:nld_x_preferred":[
         "Studeni\u010dani"
+    ],
+    "name:nno_x_preferred":[
+        "Studenitsjani"
     ],
     "name:nob_x_preferred":[
         "Studenicani Kommune"
@@ -148,6 +166,9 @@
     "name:zho_x_preferred":[
         "\u65af\u5716\u767b\u5c3c\u67e5\u5c3c\u5340"
     ],
+    "name:zho_x_variant":[
+        "\u65af\u56fe\u4ee3\u5c3c\u67e5\u5c3c\u5e02\u9547"
+    ],
     "qs:name":"Ramni Gaber",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":890492497,
-    "wof:lastmodified":1566605484,
+    "wof:lastmodified":1690939554,
     "wof:name":"Ramni Gaber",
     "wof:parent_id":85674223,
     "wof:placetype":"locality",

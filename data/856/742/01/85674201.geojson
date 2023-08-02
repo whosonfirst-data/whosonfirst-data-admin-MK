@@ -54,6 +54,9 @@
     "name:ces_x_preferred":[
         "Op\u0161tina Rosoman"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Rosoman"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Rosoman"
     ],
@@ -65,6 +68,12 @@
     ],
     "name:eng_x_variant":[
         "Rosoman"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Rosoman"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0631\u0648\u0632\u0648\u0645\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Rosoman"
@@ -87,6 +96,9 @@
     "name:kor_x_preferred":[
         "\ub85c\uc18c\ub9cc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub85c\uc18c\ub9cc\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
@@ -98,6 +110,12 @@
     ],
     "name:nld_x_preferred":[
         "Rosoman"
+    ],
+    "name:nno_x_preferred":[
+        "Rosoman"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Rosoman"
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
@@ -120,6 +138,9 @@
     "name:tur_x_preferred":[
         "Vardar"
     ],
+    "name:tur_x_variant":[
+        "Rosoman"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
@@ -131,6 +152,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7f85\u7d22\u66fc\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u7f57\u7d22\u66fc\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -242,7 +266,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4ae9360888df2866e1898d75bf72cc2c",
+    "wof:geomhash":"12dadaaf3d1a0519569483661036c842",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -258,7 +282,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939456,
     "wof:name":"Vardar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

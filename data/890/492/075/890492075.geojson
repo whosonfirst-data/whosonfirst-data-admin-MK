@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0634\u064a\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u062a\u0634\u064a\u0641\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Ki\u010devo"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0456\u0447\u0430\u0432\u0430"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Ki\u010devo"
     ],
     "name:ceb_x_preferred":[
         "Ki\u010devo"
@@ -53,8 +62,17 @@
     "name:eng_x_preferred":[
         "Ki\u010devo"
     ],
+    "name:epo_x_preferred":[
+        "Ki\u010devo"
+    ],
+    "name:est_x_preferred":[
+        "Ki\u010devo"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0686\u0641\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Ki\u010devo"
     ],
     "name:fra_x_preferred":[
         "Kitchevo"
@@ -101,6 +119,9 @@
     "name:pol_x_preferred":[
         "Kiczewo"
     ],
+    "name:pus_x_preferred":[
+        "\u06a9\u06cc\u0686\u0641\u0648"
+    ],
     "name:ron_x_preferred":[
         "Ki\u010devo"
     ],
@@ -112,6 +133,9 @@
     ],
     "name:sqi_x_preferred":[
         "K\u00ebr\u00e7ova"
+    ],
+    "name:sqi_x_variant":[
+        "K\u00ebr\u00e7ov\u00eb"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0447\u0435\u0432\u043e"
@@ -174,7 +198,7 @@
         }
     ],
     "wof:id":890492075,
-    "wof:lastmodified":1566605495,
+    "wof:lastmodified":1690939576,
     "wof:name":"Ki\u010devo",
     "wof:parent_id":85674399,
     "wof:placetype":"locality",

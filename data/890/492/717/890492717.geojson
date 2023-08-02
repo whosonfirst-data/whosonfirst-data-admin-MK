@@ -34,6 +34,12 @@
     "name:fra_x_preferred":[
         "Bontch\u00e9"
     ],
+    "name:hun_x_preferred":[
+        "Boncse"
+    ],
+    "name:ind_x_preferred":[
+        "Bon\u010de"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u043e\u043d\u0447\u0435"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890492717,
-    "wof:lastmodified":1566605501,
+    "wof:lastmodified":1690939592,
     "wof:name":"Bon\u010de",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

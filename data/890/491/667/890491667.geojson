@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u062a\u0634\u062a\u064a\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0648\u062a\u0634\u062a\u064a\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Probi\u0161tip"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0431\u0438\u0449\u0438\u043f"
     ],
@@ -46,8 +52,14 @@
     "name:eng_x_variant":[
         "Probi\u0161tip"
     ],
+    "name:epo_x_preferred":[
+        "Probi\u0161tip"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0648\u0628\u06cc\u0634\u062a\u06cc\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Probi\u0161tip"
     ],
     "name:fra_x_preferred":[
         "Probi\u0161tip"
@@ -81,6 +93,9 @@
     ],
     "name:pol_x_preferred":[
         "Probisztip"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u0631\u0648\u0628\u06cc\u0634\u062a\u06cc\u0641"
     ],
     "name:ron_x_preferred":[
         "Probi\u0161tip"
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":890491667,
-    "wof:lastmodified":1566605454,
+    "wof:lastmodified":1690939484,
     "wof:name":"Probishtip",
     "wof:parent_id":85674187,
     "wof:placetype":"locality",

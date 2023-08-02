@@ -46,6 +46,9 @@
     "name:kor_x_preferred":[
         "\ub370\ubbf8\ub974\ud788\uc0ac\ub974 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub370\ubbf8\ub974\ud788\uc0ac\ub974\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "Bazernik"
     ],
@@ -53,6 +56,9 @@
         "\u0411\u0430\u0437\u0435\u0440\u043d\u0438\u043a"
     ],
     "name:nld_x_preferred":[
+        "Demir Hisar"
+    ],
+    "name:nno_x_preferred":[
         "Demir Hisar"
     ],
     "name:rus_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u7c73\u5c14\u5e0c\u8428\u5c14\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u4ee3\u7c73\u5c14\u5e0c\u8428\u5c14\u5e02\u9547"
     ],
     "qs:name":"Bazernik",
     "qs:photos_9r":0,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":890491621,
-    "wof:lastmodified":1566605450,
+    "wof:lastmodified":1690939474,
     "wof:name":"Bazernik",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "\u010ca\u0161ka"
     ],
+    "name:epo_x_preferred":[
+        "\u010ca\u0161ka"
+    ],
     "name:fra_x_preferred":[
         "Tchachka"
     ],
@@ -50,6 +53,12 @@
     "name:nld_x_preferred":[
         "\u010ca\u0161ka"
     ],
+    "name:nno_x_preferred":[
+        "Tsjasjka"
+    ],
+    "name:pol_x_preferred":[
+        "Czaszka"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0448\u043a\u0430"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "\u010casjka"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7a\u015fka"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0448\u043a\u0430"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":890492087,
-    "wof:lastmodified":1566605493,
+    "wof:lastmodified":1690939572,
     "wof:name":"\u010ca\u0161ka",
     "wof:parent_id":85674265,
     "wof:placetype":"locality",

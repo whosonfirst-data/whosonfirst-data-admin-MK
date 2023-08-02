@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Krani"
     ],
+    "name:deu_x_preferred":[
+        "Krani"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03b1\u03bd\u03b9\u03ac \u03a0\u03b5\u03bb\u03b1\u03b3\u03bf\u03bd\u03af\u03b1\u03c2"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:swe_x_variant":[
         "Laskarci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043d\u0456"
     ],
     "name:und_x_variant":[
         "Hrani"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890491961,
-    "wof:lastmodified":1566605460,
+    "wof:lastmodified":1690939500,
     "wof:name":"Krania",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0435\u0432\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kru\u0161evica"
+    ],
     "name:eng_x_preferred":[
         "Kru\u0161evica"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Krusjevica"
     ],
     "name:und_x_variant":[
         "Kru\u0161ejca"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":890491397,
-    "wof:lastmodified":1566605447,
+    "wof:lastmodified":1690939469,
     "wof:name":"Kru\u0161evica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

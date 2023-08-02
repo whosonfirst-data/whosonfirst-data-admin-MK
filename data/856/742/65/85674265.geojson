@@ -48,6 +48,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062a\u0634\u0627\u0634\u0643\u0627"
     ],
+    "name:aze_x_preferred":[
+        "\u00c7a\u015fka"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09b8\u09cd\u0995\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:ces_x_preferred":[
         "Op\u0161tina \u010ca\u0161ka"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref \u010ca\u0161ka"
     ],
     "name:dan_x_preferred":[
         "\u010ca\u0161ka Municipality"
@@ -82,11 +88,17 @@
         "\u010ca\u0161ka Municipality",
         "Chashka"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina \u010ca\u0161ka"
+    ],
     "name:fin_x_preferred":[
         "\u010ca\u0161kan kunta"
     ],
     "name:fra_x_preferred":[
         "Tchachka"
+    ],
+    "name:fra_x_variant":[
+        "\u010ca\u0161ka"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab8\u0acd\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -114,6 +126,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucc28\uc288\uce74 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucc28\uc288\uce74\uc2dc"
     ],
     "name:lav_x_preferred":[
         "\u010ca\u0161kas pa\u0161vald\u012bba"
@@ -205,6 +220,9 @@
     ],
     "name:zho_x_preferred":[
         "\u67e5\u4ec0\u5361\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u67e5\u4ec0\u5361\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -317,7 +335,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d8b96b4b32c885b7cd4e966ee77c6901",
+    "wof:geomhash":"1a7c9eaed083e4870e3c5e403bcb5d32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,7 +351,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939456,
     "wof:name":"Ca\u0161ka",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

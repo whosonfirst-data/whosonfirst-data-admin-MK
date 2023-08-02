@@ -22,8 +22,20 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0438\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Korito"
+    ],
+    "name:ces_x_preferred":[
+        "Korito"
+    ],
+    "name:deu_x_preferred":[
+        "Korito"
+    ],
     "name:eng_x_preferred":[
         "Korita"
+    ],
+    "name:eng_x_variant":[
+        "Korito"
     ],
     "name:fra_x_preferred":[
         "Korito"
@@ -40,11 +52,20 @@
     "name:nan_x_preferred":[
         "Korito"
     ],
+    "name:nld_x_preferred":[
+        "Korito"
+    ],
+    "name:slk_x_preferred":[
+        "Korito"
+    ],
     "name:sqi_x_preferred":[
         "Korita"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u0438\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Korito"
     ],
     "name:zho_x_preferred":[
         "\u6208\u65af\u8482\u74e6\u5c14\u533a"
@@ -77,7 +98,7 @@
         }
     ],
     "wof:id":890491183,
-    "wof:lastmodified":1566605473,
+    "wof:lastmodified":1690939530,
     "wof:name":"Korito",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

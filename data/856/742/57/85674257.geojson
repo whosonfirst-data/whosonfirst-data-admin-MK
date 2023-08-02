@@ -60,6 +60,9 @@
     "name:ces_x_preferred":[
         "Op\u0161tina Lipkovo"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Lipkovo"
+    ],
     "name:dan_x_preferred":[
         "Lipkovo Municipality"
     ],
@@ -78,6 +81,12 @@
     "name:eng_x_variant":[
         "Opstina Lipkovo",
         "Lipkovo"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Lipkovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0644\u06cc\u067e\u06a9\u0648\u0648"
     ],
     "name:fin_x_preferred":[
         "Lipkovon kunta"
@@ -118,6 +127,9 @@
     "name:kor_x_preferred":[
         "\ub9bd\ucf54\ubcf4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9bd\ucf54\ubcf4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Lipkovo pa\u0161vald\u012bba"
     ],
@@ -139,6 +151,9 @@
     "name:nld_x_preferred":[
         "Lipkovo"
     ],
+    "name:nno_x_preferred":[
+        "Lipkovo"
+    ],
     "name:nob_x_preferred":[
         "Lipkovo kommune"
     ],
@@ -150,6 +165,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041b\u0438\u043f\u043a\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0438\u043f\u043a\u043e\u0432\u043e"
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0db4\u0dca\u0d9a\u0ddc\u0dc0\u0ddd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
@@ -195,6 +213,9 @@
     ],
     "name:zho_x_preferred":[
         "\u91cc\u666e\u79d1\u6c83\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5229\u666e\u79d1\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -307,7 +328,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f87f5c6d6d544534096e21759e431018",
+    "wof:geomhash":"dfd431669cfa926d511dc3a7c7520fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -323,7 +344,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939452,
     "wof:name":"Lipkovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

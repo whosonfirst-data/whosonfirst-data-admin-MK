@@ -127,6 +127,9 @@
     "name:swe_x_preferred":[
         "Dabnica"
     ],
+    "name:tur_x_preferred":[
+        "Dabnitsa"
+    ],
     "qs:name":"Dabnica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890491457,
-    "wof:lastmodified":1566605470,
+    "wof:lastmodified":1690939523,
     "wof:name":"Dabnica",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

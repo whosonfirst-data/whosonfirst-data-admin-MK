@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Jegunovce"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Jegunovce"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Jegunovce"
+    ],
     "name:dan_x_preferred":[
         "Jegunovce Municipality"
     ],
@@ -76,6 +82,9 @@
         "Jegunovce",
         "Jegunovtse"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Jegunovce"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u06af\u0648\u0646\u0648\u0633"
     ],
@@ -84,6 +93,9 @@
     ],
     "name:fra_x_preferred":[
         "Y\u00e9gounovts\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Jegunovce"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0acb\u0ab5\u0ac7\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -119,7 +131,8 @@
         "\uc608\uad6c\ub178\ube0c\uccb4 \uc2dc"
     ],
     "name:kor_x_variant":[
-        "\uc608\uad6c\ub178\ud504\uccb4 \uc2dc"
+        "\uc608\uad6c\ub178\ud504\uccb4 \uc2dc",
+        "\uc608\uad6c\ub178\ud504\uccb4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Jegunovces municipalit\u0101te"
@@ -144,6 +157,9 @@
     ],
     "name:nld_x_preferred":[
         "Jegunovce"
+    ],
+    "name:nno_x_preferred":[
+        "Jegunovtse"
     ],
     "name:nob_x_preferred":[
         "Jegunovce kommune"
@@ -206,7 +222,8 @@
         "\u8036\u53e4\u8bfa\u592b\u91c7\u533a"
     ],
     "name:zho_x_variant":[
-        "\u8036\u53e4\u8bfa\u592b\u7b56\u533a"
+        "\u8036\u53e4\u8bfa\u592b\u7b56\u533a",
+        "\u8036\u53e4\u8bfa\u592b\u91c7\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -318,7 +335,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"581053b3a4961821a72c30ef3c531329",
+    "wof:geomhash":"1f8a0b8b785f71b14de7108e94a933ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -334,7 +351,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939443,
     "wof:name":"Jegunovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

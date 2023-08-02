@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0633\u0645\u064a\u0644\u064a\u06a4\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043c\u0438\u043b\u0435\u0432\u043e"
     ],
     "name:ceb_x_preferred":[
         "Smilevo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bc\u03af\u03bb\u03b5\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Smilevo"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":890492233,
-    "wof:lastmodified":1566605486,
+    "wof:lastmodified":1690939558,
     "wof:name":"Smilevo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

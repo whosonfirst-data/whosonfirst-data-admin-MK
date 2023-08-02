@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u063a\u064a\u0641\u063a\u0644\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0641\u062c\u0644\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Gevgelija"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0435\u045e\u0433\u0435\u043b\u0456\u044f"
     ],
@@ -54,6 +60,12 @@
         "\u0393\u03b5\u03c5\u03b3\u03b5\u03bb\u03ae"
     ],
     "name:eng_x_preferred":[
+        "Gevgelija"
+    ],
+    "name:epo_x_preferred":[
+        "Gevgelija"
+    ],
+    "name:est_x_preferred":[
         "Gevgelija"
     ],
     "name:fas_x_preferred":[
@@ -152,6 +164,9 @@
     "name:sin_x_preferred":[
         "\u0d9c\u0dd9\u0dc0\u0dca\u0d9c\u0dbd\u0dd3\u0da2\u0dcf"
     ],
+    "name:slv_x_preferred":[
+        "Gevgelija"
+    ],
     "name:spa_x_preferred":[
         "Gevgelija"
     ],
@@ -234,7 +249,7 @@
         }
     ],
     "wof:id":890492269,
-    "wof:lastmodified":1636506003,
+    "wof:lastmodified":1690939557,
     "wof:name":"Gevgelija",
     "wof:parent_id":85674461,
     "wof:placetype":"locality",

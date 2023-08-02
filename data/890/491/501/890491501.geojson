@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u043e\u044f\u0446\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Trojaci"
+    ],
     "name:eng_x_preferred":[
         "Trojaci"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890491501,
-    "wof:lastmodified":1566605460,
+    "wof:lastmodified":1690939500,
     "wof:name":"Trojaci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

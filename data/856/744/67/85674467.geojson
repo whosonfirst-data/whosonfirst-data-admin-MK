@@ -60,6 +60,9 @@
     "name:ces_x_preferred":[
         "Op\u0161tina Novo Selo"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Novo Selo"
+    ],
     "name:dan_x_preferred":[
         "Novo Selo Municipality"
     ],
@@ -71,6 +74,12 @@
     ],
     "name:eng_x_preferred":[
         "Novo Selo Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Novo Selo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0646\u0648\u0648 \u0633\u0644\u0648"
     ],
     "name:fin_x_preferred":[
         "Novo Selon kunta"
@@ -110,6 +119,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub178\ubcf4\uc140\ub85c \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ub178\ubcf4\uc140\ub85c\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Novo Selo pa\u0161vald\u012bba"
@@ -194,6 +206,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8afe\u6c83\u585e\u6d1b\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u8bfa\u6c83\u585e\u6d1b\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -306,7 +321,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0da493faa5da4c35bfdefe12d23cb1ad",
+    "wof:geomhash":"4a61541a54389bfa57b78cb98f07751e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -322,7 +337,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939440,
     "wof:name":"Novo Selo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

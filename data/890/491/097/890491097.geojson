@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Belo Pole"
     ],
+    "name:ceb_x_preferred":[
+        "Belo Pole"
+    ],
     "name:eng_x_preferred":[
         "Belo Pole"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Belo Pole"
     ],
     "name:und_x_variant":[
         "Belo Polje"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890491097,
-    "wof:lastmodified":1566605455,
+    "wof:lastmodified":1690939486,
     "wof:name":"Belo Pole",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

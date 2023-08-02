@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Novoselani"
+    ],
     "name:eng_x_preferred":[
         "Novoselani"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Novoselani"
     ],
     "qs:name":"Novoselani",
     "qs:photos_9r":0,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890491135,
-    "wof:lastmodified":1566605442,
+    "wof:lastmodified":1690939460,
     "wof:name":"Novoselani",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Podmo\u010dani"
     ],
+    "name:pol_x_preferred":[
+        "Podmoczani"
+    ],
     "name:por_x_preferred":[
         "Podmo\u010dani"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890492527,
-    "wof:lastmodified":1566605488,
+    "wof:lastmodified":1690939562,
     "wof:name":"Podmo\u010dani",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:ita_x_preferred":[
         "Gradec"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30c7\u30c4"
+    ],
     "name:mkd_x_preferred":[
         "Gradec"
     ],
@@ -59,6 +62,9 @@
         "Gradec"
     ],
     "name:pol_x_preferred":[
+        "Gradec"
+    ],
+    "name:por_x_preferred":[
         "Gradec"
     ],
     "name:ron_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":890491729,
-    "wof:lastmodified":1566605476,
+    "wof:lastmodified":1690939535,
     "wof:name":"Gradec",
     "wof:parent_id":85674475,
     "wof:placetype":"locality",

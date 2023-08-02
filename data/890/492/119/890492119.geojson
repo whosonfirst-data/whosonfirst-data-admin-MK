@@ -44,6 +44,9 @@
     "name:nld_x_preferred":[
         "Radoli\u0161ta"
     ],
+    "name:nno_x_preferred":[
+        "Radolisjta"
+    ],
     "name:por_x_preferred":[
         "Radoli\u0161ta"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890492119,
-    "wof:lastmodified":1566605489,
+    "wof:lastmodified":1690939564,
     "wof:name":"Radolista",
     "wof:parent_id":85674497,
     "wof:placetype":"locality",

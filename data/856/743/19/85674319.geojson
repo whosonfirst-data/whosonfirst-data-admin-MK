@@ -78,11 +78,20 @@
     "name:eng_x_variant":[
         "Karbinci"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Karbinci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06a9\u0631\u0628\u06cc\u0646\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Karbinci"
     ],
     "name:fra_x_preferred":[
         "Karbintsi"
+    ],
+    "name:fra_x_variant":[
+        "Karbinci"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0acd\u0aac\u0ac0\u0a82\u0aa8\u0acd\u0ab8\u0ac0"
@@ -117,6 +126,9 @@
     "name:kor_x_preferred":[
         "\uce74\ub974\ube48\uce58 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ub974\ube48\uce58\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Karbinci"
     ],
@@ -140,6 +152,9 @@
     ],
     "name:nld_x_preferred":[
         "Karbinci"
+    ],
+    "name:nno_x_preferred":[
+        "Karbintsi"
     ],
     "name:nob_x_preferred":[
         "Karbinci"
@@ -199,7 +214,8 @@
         "\u5361\u5c14\u5bbe\u9f50\u533a"
     ],
     "name:zho_x_variant":[
-        "\u5361\u5c14\u5bbe\u5947\u533a"
+        "\u5361\u5c14\u5bbe\u5947\u533a",
+        "\u5361\u5c14\u5bbe\u9f50\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -312,7 +328,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"98a1bf8ec49c7e35d32405e19da42ebd",
+    "wof:geomhash":"ddb24d0cc74d85cf99b8542f5da11f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -328,7 +344,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939447,
     "wof:name":"Karbinci",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -31,6 +31,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Studeni\u010dani"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Studeni\u010dani"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Studeni\u010dani"
+    ],
     "name:dan_x_preferred":[
         "Studeni\u010dani Municipality"
     ],
@@ -43,11 +49,17 @@
     "name:eng_x_preferred":[
         "Studeni\u010dani Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Studeni\u010dani"
+    ],
     "name:fin_x_preferred":[
         "Studeni\u010danin kunta"
     ],
     "name:fra_x_preferred":[
         "Stoudenitchani"
+    ],
+    "name:fra_x_variant":[
+        "Studeni\u010dani"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0ac1\u0aa1\u0ac7\u0aa8\u0ac0\u0a95\u0abe\u0aa8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -72,6 +84,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud22c\ub370\ub2c8\ucc28\ub2c8 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud22c\ub370\ub2c8\ucc28\ub2c8\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Studeni\u010danu pa\u0161vald\u012bba"
@@ -98,6 +113,9 @@
     "name:nld_x_preferred":[
         "Studeni\u010dani"
     ],
+    "name:nno_x_preferred":[
+        "Studenitsjani"
+    ],
     "name:nob_x_preferred":[
         "Studenicani Kommune"
     ],
@@ -112,6 +130,9 @@
     ],
     "name:swe_x_preferred":[
         "Studenicani"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0b9f\u0bc1\u0b9f\u0bc6\u0ba9\u0bbf\u0b9a\u0ba9\u0bbf \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c1f\u0c42\u0c21\u0c46\u0c28\u0c3f\u0c15\u0c28\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -133,6 +154,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u5716\u767b\u5c3c\u67e5\u5c3c\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u56fe\u4ee3\u5c3c\u67e5\u5c3c\u5e02\u9547"
     ],
     "qs:name":"Mal\u010di\u0161te",
     "qs:photos_9r":0,
@@ -165,7 +189,7 @@
         }
     ],
     "wof:id":890491175,
-    "wof:lastmodified":1566605458,
+    "wof:lastmodified":1690939495,
     "wof:name":"Mal\u010di\u0161te",
     "wof:parent_id":85674223,
     "wof:placetype":"locality",

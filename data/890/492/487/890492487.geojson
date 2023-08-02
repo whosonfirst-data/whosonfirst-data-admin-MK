@@ -46,6 +46,9 @@
     "name:srp_x_preferred":[
         "\u0421\u0440\u0435\u0434\u043e\u0440\u0435\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Sredorek"
+    ],
     "qs:name":"Sredorek",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890492487,
-    "wof:lastmodified":1566605495,
+    "wof:lastmodified":1690939577,
     "wof:name":"Sredorek",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

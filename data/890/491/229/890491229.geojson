@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043a\u0432\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Lokvica"
+    ],
     "name:eng_x_preferred":[
         "Lokvica"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u043a\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lokvica"
     ],
     "qs:name":"Lokvica",
     "qs:photos_9r":0,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890491229,
-    "wof:lastmodified":1566605447,
+    "wof:lastmodified":1690939470,
     "wof:name":"Lokvica",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

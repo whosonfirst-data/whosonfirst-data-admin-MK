@@ -50,6 +50,9 @@
     "name:nld_x_preferred":[
         "Mavrovi Anovi"
     ],
+    "name:nno_x_preferred":[
+        "Mavrovi Anovi"
+    ],
     "name:sqi_x_preferred":[
         "Hanet e Mavrov\u00ebs"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890492275,
-    "wof:lastmodified":1566605483,
+    "wof:lastmodified":1690939551,
     "wof:name":"Mavrovi Anovi",
     "wof:parent_id":85674403,
     "wof:placetype":"locality",

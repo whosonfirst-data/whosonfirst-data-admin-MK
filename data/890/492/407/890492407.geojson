@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Radovo"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Radovo"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:hun_x_preferred":[
         "Radovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c9\u30f4\u30a9"
     ],
     "name:mkd_x_preferred":[
         "Radovo"
@@ -46,6 +52,9 @@
     "name:nld_x_preferred":[
         "Radovo"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u043e"
+    ],
     "name:sqi_x_preferred":[
         "Radova"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Radovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u043e"
     ],
     "qs:name":"Radovo",
     "qs:photos_9r":0,
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":890492407,
-    "wof:lastmodified":1566605485,
+    "wof:lastmodified":1690939556,
     "wof:name":"Radovo",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

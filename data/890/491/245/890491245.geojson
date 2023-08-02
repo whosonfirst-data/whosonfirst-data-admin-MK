@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Grade\u0161nica"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03c1\u03b1\u03b4\u03ad\u03c3\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Grade\u0161nica"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Grade\u0161nica"
+    ],
+    "name:tur_x_preferred":[
+        "Grade\u015fni\u00e7e"
     ],
     "qs:name":"Grade\u0161nica",
     "qs:photos_9r":0,
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890491245,
-    "wof:lastmodified":1566605450,
+    "wof:lastmodified":1690939474,
     "wof:name":"Grade\u0161nica",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

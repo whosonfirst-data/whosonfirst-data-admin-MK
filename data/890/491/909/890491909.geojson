@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u063a\u0648\u062a\u064a\u0646\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u062c\u0648\u062a\u064a\u0646\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Negotino"
+    ],
     "name:bos_x_preferred":[
         "Negotino"
     ],
@@ -37,11 +43,20 @@
     "name:deu_x_preferred":[
         "Negotino"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03b3\u03ba\u03cc\u03c4\u03b9\u03bd\u03bf"
+    ],
     "name:eng_x_preferred":[
+        "Negotino"
+    ],
+    "name:epo_x_preferred":[
         "Negotino"
     ],
     "name:fas_x_preferred":[
         "\u0646\u06af\u0648\u062a\u06cc\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Negotino"
     ],
     "name:fra_x_preferred":[
         "Negotino"
@@ -70,6 +85,9 @@
     "name:kor_x_preferred":[
         "\ub124\uace0\ud2f0\ub178"
     ],
+    "name:lat_x_preferred":[
+        "Antigonea"
+    ],
     "name:lit_x_preferred":[
         "Negotinas"
     ],
@@ -84,6 +102,9 @@
     ],
     "name:pol_x_preferred":[
         "Negotino"
+    ],
+    "name:pus_x_preferred":[
+        "\u0646\u06ab\u0648\u062a\u06cc\u0646\u0648"
     ],
     "name:ron_x_preferred":[
         "Negotino"
@@ -158,7 +179,7 @@
         }
     ],
     "wof:id":890491909,
-    "wof:lastmodified":1636505999,
+    "wof:lastmodified":1690939459,
     "wof:name":"Negotino",
     "wof:parent_id":85674369,
     "wof:placetype":"locality",

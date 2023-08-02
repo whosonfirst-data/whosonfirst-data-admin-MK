@@ -45,6 +45,9 @@
     "name:ceb_x_preferred":[
         "Zajas"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Zajas"
+    ],
     "name:dan_x_preferred":[
         "Zajas Municipality"
     ],
@@ -101,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc790\uc57c\uc2a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc790\uc57c\uc2a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Zajas pa\u0161vald\u012bba"
@@ -182,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u624e\u4e9e\u65af\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u624e\u4e9a\u65af\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -308,7 +317,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1636505992,
+    "wof:lastmodified":1690939448,
     "wof:name":"Zajas",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "\u0160ipkovica"
     ],
+    "name:ces_x_preferred":[
+        "\u0160ipkovica"
+    ],
     "name:deu_x_preferred":[
         "\u0160ipkovica"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:nld_x_preferred":[
         "\u0160ipkovica"
+    ],
+    "name:nno_x_preferred":[
+        "Sjipkovitsa"
     ],
     "name:sqi_x_preferred":[
         "Shipkovica"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890491661,
-    "wof:lastmodified":1566605455,
+    "wof:lastmodified":1690939487,
     "wof:name":"\u0160ipkovica",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

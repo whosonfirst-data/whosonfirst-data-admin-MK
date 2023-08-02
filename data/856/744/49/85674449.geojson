@@ -60,6 +60,9 @@
     "name:ces_x_preferred":[
         "Op\u0161tina Vasilevo"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Vasilevo"
+    ],
     "name:dan_x_preferred":[
         "Vasilevo Municipality"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:eng_x_preferred":[
         "Vasilevo Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Vasilevo"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0633\u06cc\u0644\u0648\u0648 \u0645\u0648\u0646\u06cc\u06a9\u06cc\u067e\u0644\u06cc\u062a\u06cc"
@@ -117,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ubc14\uc2e4\ub808\ubcf4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\uc2e4\ub808\ubcf4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Vasilevo pa\u0161vald\u012bba"
     ],
@@ -139,6 +148,9 @@
         "Vasilevo Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Vasilevo"
+    ],
+    "name:nno_x_preferred":[
         "Vasilevo"
     ],
     "name:nob_x_preferred":[
@@ -200,6 +212,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u897f\u5217\u6c83\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u897f\u83b1\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -312,7 +327,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46b88eb84348b07fdcadb79563cd81df",
+    "wof:geomhash":"5ef276834399c2d3f1ebbbae024bf366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -328,7 +343,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939444,
     "wof:name":"Vasilevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

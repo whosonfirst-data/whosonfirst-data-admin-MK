@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u042a\u0440\u0436\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "R\u017eanovo"
+    ],
     "name:eng_x_preferred":[
         "R\u017eanovo"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890491067,
-    "wof:lastmodified":1566605471,
+    "wof:lastmodified":1690939526,
     "wof:name":"R\u017eanovo",
     "wof:parent_id":85674327,
     "wof:placetype":"locality",

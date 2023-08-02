@@ -31,6 +31,12 @@
     "name:ceb_x_preferred":[
         "Gradsko"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Gradsko"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Gradsko"
+    ],
     "name:dan_x_preferred":[
         "Gradsko Municipality"
     ],
@@ -42,6 +48,12 @@
     ],
     "name:eng_x_preferred":[
         "Gradsko Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Gradsko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06af\u0631\u0627\u062f\u0633\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Gradskon kunta"
@@ -79,6 +91,12 @@
     "name:kor_x_preferred":[
         "\uadf8\ub77c\ub4dc\uc2a4\ucf54 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uadf8\ub77c\ub4dc\uc2a4\ucf54\uc2dc"
+    ],
+    "name:lat_x_preferred":[
+        "Stobi"
+    ],
     "name:lav_x_preferred":[
         "Gradsko pa\u0161vald\u012bba"
     ],
@@ -101,6 +119,9 @@
         "Gradsko Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Gradsko"
+    ],
+    "name:nno_x_preferred":[
         "Gradsko"
     ],
     "name:nob_x_preferred":[
@@ -151,6 +172,9 @@
     "name:zho_x_preferred":[
         "\u683c\u62c9\u8332\u79d1\u5340"
     ],
+    "name:zho_x_variant":[
+        "\u683c\u62c9\u5fb7\u65af\u79d1\u5e02\u9547"
+    ],
     "qs:name":"Gorno \u010ci\u010devo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -182,7 +206,7 @@
         }
     ],
     "wof:id":890491435,
-    "wof:lastmodified":1566605471,
+    "wof:lastmodified":1690939525,
     "wof:name":"Gorno \u010ci\u010devo",
     "wof:parent_id":85674301,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0430\u0447\u0430\u043d\u0438"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0447\u0430\u043d\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Nova\u010dani"
+    ],
     "name:eng_x_preferred":[
         "Nova\u010dani"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890491211,
-    "wof:lastmodified":1566605448,
+    "wof:lastmodified":1690939471,
     "wof:name":"Nova\u010dani",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

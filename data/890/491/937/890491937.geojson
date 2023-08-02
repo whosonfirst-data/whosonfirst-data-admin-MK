@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0633\u0648\u06a4\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u0441\u043e\u0432\u043e"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890491937,
-    "wof:lastmodified":1566605446,
+    "wof:lastmodified":1690939467,
     "wof:name":"Desovo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

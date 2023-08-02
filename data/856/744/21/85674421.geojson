@@ -51,11 +51,20 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Vrap\u010di\u0161te"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Vrap\u010di\u0161te"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Vrap\u010di\u0161te"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Vrap\u010di\u0161te"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03c1\u03b1\u03c8\u03af\u03c3\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03c1\u03b1\u03c0\u03c4\u03c3\u03af\u03c3\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Vrapciste Municipality"
@@ -63,8 +72,14 @@
     "name:eng_x_variant":[
         "Vrap\u010di\u0161te Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Vrap\u010di\u0161te"
+    ],
     "name:fra_x_preferred":[
         "Vraptchicht\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Vrap\u010di\u0161te"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Vrap\u010di\u0161te"
@@ -84,6 +99,9 @@
     "name:kor_x_preferred":[
         "\ube0c\ub78d\uce58\uc288\ud14c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ube0c\ub78d\uce58\uc288\ud14c\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
     ],
@@ -95,6 +113,12 @@
     ],
     "name:nld_x_preferred":[
         "Vrap\u010di\u0161te"
+    ],
+    "name:nno_x_preferred":[
+        "Vraptsjisjte"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Wrapcziszte"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435"
@@ -135,6 +159,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5f17\u62c9\u666e\u5951\u4ec0\u6cf0\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5f17\u62c9\u666e\u5951\u4ec0\u6cf0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -244,7 +271,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec71eacaee18188ec6f9dc683d6ae7b4",
+    "wof:geomhash":"0a226e09f1f378e435e823ba5a28bd21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -260,7 +287,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939441,
     "wof:name":"Polog",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

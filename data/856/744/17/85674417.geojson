@@ -60,6 +60,12 @@
     "name:ceb_x_preferred":[
         "Tetovo"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Tetovo"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Tetovo"
+    ],
     "name:dan_x_preferred":[
         "Tetovo Municipality"
     ],
@@ -74,6 +80,12 @@
     ],
     "name:eng_x_preferred":[
         "Tetovo Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Tetovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u062a\u062a\u0648\u0648"
     ],
     "name:fin_x_preferred":[
         "Tetovon kunta"
@@ -116,6 +128,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud14c\ud1a0\ubcf4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud14c\ud1a0\ubcf4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Tetovo pa\u0161vald\u012bba"
@@ -192,6 +207,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0442\u043e\u0432\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u043e\u0431\u0449\u0438\u043d\u0430 \u0422\u0435\u0442\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Opstina Tetovo"
     ],
@@ -203,6 +221,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7279\u6258\u6c83\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u6cf0\u6258\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -314,7 +335,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4f913b8166a3b815fec6990b6c940e47",
+    "wof:geomhash":"e9f400ea7a6d135fd671e22cb8f07164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -330,7 +351,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939441,
     "wof:name":"Tetovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

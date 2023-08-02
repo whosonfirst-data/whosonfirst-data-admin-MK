@@ -108,6 +108,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ucf00\ub3c8\uc2a4\ud0a4\ube0c\ub85c\ub4dc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ucf00\ub3c8\uc2a4\ud0a4\ube0c\ub85c\ub4dc\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Makedonskij-Brodas pa\u0161vald\u012bba"
     ],
@@ -127,6 +130,9 @@
         "Perbandaran Makedonski Brod"
     ],
     "name:nld_x_preferred":[
+        "Makedonski Brod"
+    ],
+    "name:nno_x_preferred":[
         "Makedonski Brod"
     ],
     "name:nob_x_preferred":[
@@ -188,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u5176\u9813\u5e03\u7f85\u5fb7\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u5176\u987f\u5e03\u7f57\u5fb7\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -300,7 +309,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b238bebb5a4394dcc141245d6748d7eb",
+    "wof:geomhash":"5eaf67c8a10ee1f0a86ac6b6bb554b37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,7 +325,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939445,
     "wof:name":"Brod",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

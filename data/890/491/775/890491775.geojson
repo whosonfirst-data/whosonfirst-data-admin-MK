@@ -44,6 +44,9 @@
     "name:nld_x_preferred":[
         "Murtino"
     ],
+    "name:nno_x_preferred":[
+        "Murtino"
+    ],
     "name:sqi_x_preferred":[
         "Murtina"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890491775,
-    "wof:lastmodified":1566605473,
+    "wof:lastmodified":1690939528,
     "wof:name":"Murtino",
     "wof:parent_id":85674439,
     "wof:placetype":"locality",

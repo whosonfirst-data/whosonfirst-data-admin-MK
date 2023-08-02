@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u043b\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0431\u043b\u0430\u043a\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Oblakovo"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890492161,
-    "wof:lastmodified":1566605478,
+    "wof:lastmodified":1690939540,
     "wof:name":"Oblakovo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

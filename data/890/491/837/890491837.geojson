@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Kratovo"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ac\u03c4\u03bf\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Kratovo"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890491837,
-    "wof:lastmodified":1636506001,
+    "wof:lastmodified":1690939522,
     "wof:name":"Kratovo",
     "wof:parent_id":85674345,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0440\u043e\u0432\u043e"
     ],
+    "name:ces_x_preferred":[
+        "Barovo"
+    ],
     "name:eng_x_preferred":[
         "Barovo"
     ],
@@ -50,6 +53,9 @@
         "Barova"
     ],
     "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u043e\u0432\u043e"
     ],
     "qs:name":"Barovo",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890491623,
-    "wof:lastmodified":1566605466,
+    "wof:lastmodified":1690939514,
     "wof:name":"Barovo",
     "wof:parent_id":85674209,
     "wof:placetype":"locality",

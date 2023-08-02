@@ -88,6 +88,9 @@
     "name:und_x_variant":[
         "Katlanovska Breznica"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5217\u8332\u5c3c\u5bdf"
+    ],
     "qs:name":"Breznica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890491607,
-    "wof:lastmodified":1566605471,
+    "wof:lastmodified":1690939525,
     "wof:name":"Breznica",
     "wof:parent_id":85674173,
     "wof:placetype":"locality",

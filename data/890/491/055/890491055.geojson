@@ -22,8 +22,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u0433\u0430\u0449\u0430\u043d\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Krivoga\u0161tani"
+    ],
     "name:ceb_x_preferred":[
         "Krivogashtani"
+    ],
+    "name:ces_x_preferred":[
+        "Krivoga\u0161tani"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03b9\u03b2\u03bf\u03b3\u03ba\u03ac\u03c3\u03c4\u03b1\u03bd\u03b9"
@@ -32,6 +38,9 @@
         "Krivogastani"
     ],
     "name:eng_x_variant":[
+        "Krivoga\u0161tani"
+    ],
+    "name:epo_x_preferred":[
         "Krivoga\u0161tani"
     ],
     "name:fra_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":890491055,
-    "wof:lastmodified":1566605454,
+    "wof:lastmodified":1690939485,
     "wof:name":"Krivogashtani",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

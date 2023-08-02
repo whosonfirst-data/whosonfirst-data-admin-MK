@@ -19,11 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u06a4\u0648\u0644\u0643\u0648\u06a4\u064a\u0686\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u044a\u043b\u043a\u043e\u0432\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
         "Volkovija"
+    ],
+    "name:ces_x_preferred":[
+        "Volkovija"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u043e\u043b\u043a\u043e\u0432\u0438\u044f"
     ],
     "name:eng_x_preferred":[
         "Volkovija"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890492431,
-    "wof:lastmodified":1566605485,
+    "wof:lastmodified":1690939556,
     "wof:name":"Volkovija",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

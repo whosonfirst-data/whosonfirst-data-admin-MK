@@ -38,8 +38,17 @@
     "name:eng_x_preferred":[
         "Saraj"
     ],
+    "name:epo_x_preferred":[
+        "Saraj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u06cc"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05e8\u05d0\u05d2'"
+    ],
+    "name:heb_x_variant":[
+        "\u05e1\u05e8\u05d0\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0930\u091c"
@@ -56,8 +65,14 @@
     "name:nld_x_preferred":[
         "Saraj"
     ],
+    "name:nno_x_preferred":[
+        "Saraj"
+    ],
     "name:pol_x_preferred":[
         "Saraj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439"
     ],
     "name:sqi_x_preferred":[
         "Saraji"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":890491965,
-    "wof:lastmodified":1636505999,
+    "wof:lastmodified":1690939464,
     "wof:name":"Saraj",
     "wof:parent_id":85674205,
     "wof:placetype":"locality",

@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0641\u064a\u062a\u064a \u0646\u064a\u0643\u0648\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0641\u064a\u062a\u0649 \u0646\u064a\u0643\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Sveti Nikole"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0432\u0435\u0446\u0456-\u041d\u0456\u043a\u043e\u043b\u0435"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Sveti Nikole"
     ],
     "name:ceb_x_preferred":[
         "Sveti Nikole"
@@ -46,8 +55,14 @@
     "name:eng_x_preferred":[
         "Sveti Nikole"
     ],
+    "name:epo_x_preferred":[
+        "Sveti Nikole"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0641\u062a\u06cc \u0646\u06cc\u06a9\u0648\u0644\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Sveti Nikole"
     ],
     "name:fra_x_preferred":[
         "Sveti Nikol\u00e9"
@@ -59,6 +74,9 @@
         "Sveti Nikole"
     ],
     "name:hun_x_preferred":[
+        "Sveti Nikole"
+    ],
+    "name:ind_x_preferred":[
         "Sveti Nikole"
     ],
     "name:jpn_x_preferred":[
@@ -84,6 +102,9 @@
     ],
     "name:pol_x_preferred":[
         "Sweti Nikole"
+    ],
+    "name:pol_x_variant":[
+        "Sweti Niko\u0142e"
     ],
     "name:ron_x_preferred":[
         "Sveti Nikole"
@@ -157,7 +178,7 @@
         }
     ],
     "wof:id":890491713,
-    "wof:lastmodified":1636506000,
+    "wof:lastmodified":1690939491,
     "wof:name":"Sveti Nikole",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

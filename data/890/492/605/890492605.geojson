@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Malovi\u0161te"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bb\u03bf\u03b2\u03ae\u03c3\u03c4\u03b7"
     ],
@@ -67,6 +70,9 @@
     "name:swe_x_preferred":[
         "Malovisjte"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0432\u0456\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Malovi\u0161ta"
     ],
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":890492605,
-    "wof:lastmodified":1566605483,
+    "wof:lastmodified":1690939553,
     "wof:name":"Malovi\u0161te",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

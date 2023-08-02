@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "\u010ce\u0161inovo-Oble\u0161evo"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref \u010ce\u0161inovo-Oble\u0161evo"
+    ],
     "name:dan_x_preferred":[
         "\u010ce\u0161inovo-Oble\u0161evo Municipality"
     ],
@@ -77,11 +83,17 @@
         "Cheshinovo-Obleshevo",
         "\u010ce\u0161inovo-Oble\u0161evo Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo"
+    ],
     "name:fin_x_preferred":[
         "\u010ce\u0161inovo-Oble\u0161evon kunta"
     ],
     "name:fra_x_preferred":[
         "Tch\u00e9chinovo-Obl\u00e9ch\u00e9vo"
+    ],
+    "name:fra_x_variant":[
+        "\u010ce\u0161inovo-Oble\u0161evo"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab8\u0abf\u0aa8\u0acb\u0ab5\u0acb-\u0a93\u0aac\u0acd\u0ab2\u0ac7\u0ab8\u0ac7\u0ab5\u0acb \u200b\u200b\u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -113,6 +125,9 @@
     "name:kor_x_preferred":[
         "\uccb4\uc2dc\ub178\ubcf4\uc624\ube14\ub808\uc170\ubcf4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uccb4\uc2dc\ub178\ubcf4\uc624\ube14\ub808\uc170\ubcf4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u010ce\u0161inovo-Oble\u0161evo pa\u0161vald\u012bba"
     ],
@@ -138,6 +153,9 @@
     ],
     "name:nld_x_preferred":[
         "\u010ce\u0161inovo-Oble\u0161evo"
+    ],
+    "name:nno_x_preferred":[
+        "Tsjesjinovo-Oblesjevo"
     ],
     "name:nob_x_preferred":[
         "Cesinoco-Oblesevo Kommune"
@@ -207,6 +225,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5207\u5e0c\u8bfa\u6c83-\u5965\u5e03\u83b1\u820d\u6c83\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u5207\u5e0c\u8bfa\u6c83-\u5965\u5e03\u83b1\u820d\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -318,7 +339,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53387316fad0cd26922ade0443b11edb",
+    "wof:geomhash":"15a755bd4d2d9691fdc3f9ebe9d9cf87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -334,7 +355,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939457,
     "wof:name":"Ce\u0161inovo-Oble\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

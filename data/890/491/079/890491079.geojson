@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Poe\u0161evo"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0435\u0448\u0435\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Poe\u0161evo"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890491079,
-    "wof:lastmodified":1566605449,
+    "wof:lastmodified":1690939472,
     "wof:name":"Poe\u0161evo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

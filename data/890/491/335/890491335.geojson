@@ -73,6 +73,9 @@
     "name:slv_x_preferred":[
         "Selce"
     ],
+    "name:srp_x_preferred":[
+        "Selce"
+    ],
     "name:swe_x_preferred":[
         "Selce"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890491335,
-    "wof:lastmodified":1566605461,
+    "wof:lastmodified":1690939503,
     "wof:name":"Selce",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

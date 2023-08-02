@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0434\u0438\u043d\u043e \u0441\u0435\u043b\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kadino Selo"
+    ],
     "name:eng_x_preferred":[
         "Kadino Selo"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0434\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kadino Selo"
     ],
     "qs:name":"Kadino Selo",
     "qs:photos_9r":0,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890491425,
-    "wof:lastmodified":1566605449,
+    "wof:lastmodified":1690939473,
     "wof:name":"Kadino Selo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

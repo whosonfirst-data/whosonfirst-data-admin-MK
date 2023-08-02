@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Demir Hisar"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Demir Hisar"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Demir Hisar"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Demir Hisar"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:eng_x_preferred":[
         "Demir Hisar Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Demir Hisar"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0645\u06cc\u0631 \u0647\u0633\u0627\u0631"
@@ -99,6 +108,9 @@
     "name:kor_x_preferred":[
         "\ub370\ubbf8\ub974\ud788\uc0ac\ub974 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub370\ubbf8\ub974\ud788\uc0ac\ub974\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0435\u043c\u0438\u0440 \u0425\u0438\u0441\u0430\u0440"
     ],
@@ -109,6 +121,9 @@
         "Demir Hisar Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Demir Hisar"
+    ],
+    "name:nno_x_preferred":[
         "Demir Hisar"
     ],
     "name:pol_x_preferred":[
@@ -152,6 +167,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u7c73\u5c14\u5e0c\u8428\u5c14\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u4ee3\u7c73\u5c14\u5e0c\u8428\u5c14\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -264,7 +282,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65e3622900898890df35ca2481ff6acf",
+    "wof:geomhash":"f464fe4d67b72415d2a3b6eea355a35c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -280,7 +298,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939435,
     "wof:name":"Demir Hisar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

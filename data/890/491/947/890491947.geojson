@@ -49,8 +49,14 @@
     "name:nld_x_preferred":[
         "Oslomej"
     ],
+    "name:nno_x_preferred":[
+        "Oslomej"
+    ],
     "name:pol_x_preferred":[
         "Os\u0142omej"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043b\u043e\u043c\u0435\u0439"
     ],
     "name:sqi_x_preferred":[
         "Osllomeji"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":890491947,
-    "wof:lastmodified":1636506001,
+    "wof:lastmodified":1690939494,
     "wof:name":"Oslomej",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

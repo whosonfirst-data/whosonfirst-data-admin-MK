@@ -45,6 +45,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Vrane\u0161tica"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Vrane\u0161tica"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Vrane\u0161tica"
+    ],
     "name:dan_x_preferred":[
         "Vrane\u0161tica Municipality"
     ],
@@ -95,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\ub124\uc288\ud2f0\ucc28 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ube0c\ub77c\ub124\uc288\ud2f0\ucc28\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Vrane\u0161ticas pa\u0161vald\u012bba"
@@ -180,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5f17\u862d\u5c3c\u65af\u63d0\u5361\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5f17\u62c9\u5185\u4ec0\u8482\u5bdf\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -306,7 +318,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895073,
+    "wof:lastmodified":1690939457,
     "wof:name":"Vrane\u0161tica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

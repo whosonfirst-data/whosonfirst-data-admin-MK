@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0633\u0631\u067e\u0633\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u044a\u0440\u0431\u0446\u0438"
     ],
     "name:ceb_x_preferred":[
         "Srpci"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0440\u043f\u0446\u0438"
     ],
     "name:deu_x_preferred":[
         "Srpci"
@@ -33,6 +39,9 @@
     ],
     "name:fra_x_preferred":[
         "Srptsi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05e4\u05e6'\u05d9"
     ],
     "name:hun_x_preferred":[
         "Szrpci"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":890492485,
-    "wof:lastmodified":1566605480,
+    "wof:lastmodified":1690939545,
     "wof:name":"Srpci",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

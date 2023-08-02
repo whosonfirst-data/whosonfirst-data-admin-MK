@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Debar"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Debar"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Debar"
+    ],
     "name:dan_x_preferred":[
         "Debar Municipality"
     ],
@@ -68,6 +74,12 @@
     ],
     "name:eng_x_preferred":[
         "Debar Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Debar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u062f\u0628\u0627\u0631"
     ],
     "name:fin_x_preferred":[
         "Debarin kunta"
@@ -111,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ub370\ubc14\ub974 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub370\ubc14\ub974\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Debaras pa\u0161vald\u012bba"
     ],
@@ -143,6 +158,9 @@
     ],
     "name:por_x_preferred":[
         "Munic\u00edpio de Debar"
+    ],
+    "name:ron_x_preferred":[
+        "Municipiul Debar"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u0431\u0430\u0440"
@@ -194,6 +212,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5df4\u5c14\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u5fb7\u5df4\u5c14\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -308,7 +329,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e71c49646db767fb562b60183074982b",
+    "wof:geomhash":"6c4645e1082552b51336bba64d7458e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -324,7 +345,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939447,
     "wof:name":"Debar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

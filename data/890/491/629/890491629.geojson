@@ -37,6 +37,9 @@
     "name:hun_x_preferred":[
         "Alakince"
     ],
+    "name:ind_x_preferred":[
+        "Alakince"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u0430\u043a\u0438\u043d\u0446\u0435"
     ],
@@ -46,8 +49,14 @@
     "name:nld_x_preferred":[
         "Alakince"
     ],
+    "name:pol_x_preferred":[
+        "Alakince"
+    ],
     "name:por_x_preferred":[
         "Alakince"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u043a\u0438\u043d\u0446\u0435"
     ],
     "name:slv_x_preferred":[
         "Alakince"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":890491629,
-    "wof:lastmodified":1566605452,
+    "wof:lastmodified":1690939478,
     "wof:name":"Alakince",
     "wof:parent_id":85674229,
     "wof:placetype":"locality",

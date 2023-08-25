@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u062f\u0648\u0646\u0633\u0643\u0627 \u0643\u0627\u0645\u0646\u064a\u062a\u0633\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0643\u062f\u0648\u0646\u0633\u0643\u0627 \u0643\u0627\u0645\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "Makedonska Kamenica"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
@@ -34,11 +40,20 @@
     "name:deu_x_preferred":[
         "Makedonska Kamenica"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03ad\u03bd\u03c4\u03bf\u03bd\u03c3\u03ba\u03b1 \u039a\u03b1\u03bc\u03ad\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Makedonska Kamenica"
+    ],
+    "name:epo_x_preferred":[
         "Makedonska Kamenica"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06a9\u062f\u0648\u0646\u0633\u06a9\u0627 \u06a9\u0627\u0645\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Makedonska Kamenica"
     ],
     "name:hrv_x_preferred":[
         "Makedonska Kamenica"
@@ -51,6 +66,9 @@
     ],
     "name:hun_x_variant":[
         "Makedonszka Kamenica"
+    ],
+    "name:ile_x_preferred":[
+        "Makedonska Kamenica"
     ],
     "name:ind_x_preferred":[
         "Makedonska Kamenica"
@@ -103,8 +121,14 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430-\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u044c\u043a\u0430-\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u044f"
+    ],
     "name:zho_x_preferred":[
         "\u9a6c\u5176\u987f\u65af\u52a0\u5361\u6885\u5c3c\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u5176\u987f\u5361\u6885\u5c3c\u5bdf"
     ],
     "qs:name":"Makedonska Kamenica",
     "qs:photos_9r":0,
@@ -137,7 +161,7 @@
         }
     ],
     "wof:id":890491919,
-    "wof:lastmodified":1636506001,
+    "wof:lastmodified":1690939532,
     "wof:name":"Makedonska Kamenica",
     "wof:parent_id":85674489,
     "wof:placetype":"locality",

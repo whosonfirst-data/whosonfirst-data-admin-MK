@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Morani"
+    ],
     "name:eng_x_preferred":[
         "Morani"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u0440\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Morani"
     ],
     "name:und_x_variant":[
         "Morane"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890491911,
-    "wof:lastmodified":1566605472,
+    "wof:lastmodified":1690939527,
     "wof:name":"Morani",
     "wof:parent_id":85674223,
     "wof:placetype":"locality",

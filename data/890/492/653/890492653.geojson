@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Dobromiri"
     ],
+    "name:ell_x_preferred":[
+        "\u0394\u03bf\u03b2\u03c1\u03bf\u03bc\u03af\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Dobromiri"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":890492653,
-    "wof:lastmodified":1566605499,
+    "wof:lastmodified":1690939585,
     "wof:name":"Dobromiri",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Kru\u0161je"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u044c\u0435"
+    ],
     "name:dan_x_preferred":[
         "Kru\u0161je"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":890491391,
-    "wof:lastmodified":1566605444,
+    "wof:lastmodified":1690939462,
     "wof:name":"Kru\u0161je",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

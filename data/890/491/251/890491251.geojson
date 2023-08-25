@@ -25,6 +25,9 @@
     "name:arg_x_preferred":[
         "Dolno Dupeni"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u067e\u064a\u0646\u0649"
+    ],
     "name:ast_x_preferred":[
         "Dolno Dupeni"
     ],
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":890491251,
-    "wof:lastmodified":1566605455,
+    "wof:lastmodified":1690939485,
     "wof:name":"Dolno Dupeni",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

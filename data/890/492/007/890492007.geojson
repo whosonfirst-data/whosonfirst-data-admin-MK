@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0633\u064a\u0633\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u0633\u064a\u0633\u062a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0447\u0438\u0449\u0430"
     ],
@@ -33,6 +36,9 @@
         "Bel\u010di\u0161ta"
     ],
     "name:eng_x_preferred":[
+        "Bel\u010di\u0161ta"
+    ],
+    "name:epo_x_preferred":[
         "Bel\u010di\u0161ta"
     ],
     "name:fra_x_preferred":[
@@ -53,6 +59,9 @@
     "name:nld_x_preferred":[
         "Bel\u010di\u0161ta"
     ],
+    "name:nno_x_preferred":[
+        "Beltsjisjta"
+    ],
     "name:sqi_x_preferred":[
         "Bel\u00e7ishti"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Bel\u010disjta"
+    ],
+    "name:tur_x_preferred":[
+        "Bel\u00e7i\u015fte"
     ],
     "name:und_x_variant":[
         "Bel\u010di\u0161te"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":890492007,
-    "wof:lastmodified":1566605484,
+    "wof:lastmodified":1690939554,
     "wof:name":"Bel\u010di\u0161ta",
     "wof:parent_id":85674169,
     "wof:placetype":"locality",

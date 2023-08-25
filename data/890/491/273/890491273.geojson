@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Be\u0161i\u0161te"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c3\u03af\u03c3\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Be\u0161i\u0161te"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":890491273,
-    "wof:lastmodified":1566605449,
+    "wof:lastmodified":1690939473,
     "wof:name":"Be\u0161i\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

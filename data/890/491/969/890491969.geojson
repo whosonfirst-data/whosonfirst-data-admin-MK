@@ -26,10 +26,16 @@
     "name:ceb_x_preferred":[
         "Tearce"
     ],
+    "name:ces_x_preferred":[
+        "Tearce"
+    ],
     "name:deu_x_preferred":[
         "Tearce"
     ],
     "name:eng_x_preferred":[
+        "Tearce"
+    ],
+    "name:epo_x_preferred":[
         "Tearce"
     ],
     "name:fra_x_preferred":[
@@ -71,6 +77,9 @@
     "name:tur_x_preferred":[
         "Tear\u00e7e"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0430\u0440\u0446\u0435"
+    ],
     "qs:name":"Tearce",
     "qs:name_adm0":"Macedonia",
     "qs:name_adm1":"Tearce",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":890491969,
-    "wof:lastmodified":1636506001,
+    "wof:lastmodified":1690939505,
     "wof:name":"Tearce",
     "wof:parent_id":85674413,
     "wof:placetype":"locality",

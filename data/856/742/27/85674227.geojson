@@ -46,6 +46,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u0438\u0440"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref \u010cair"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina \u010cair"
     ],
@@ -61,8 +64,14 @@
         "Chair",
         "\u010cair Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina \u010cair"
+    ],
     "name:fra_x_preferred":[
         "Tcha\u00efr"
+    ],
+    "name:fra_x_variant":[
+        "\u010cair"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina \u010cair"
@@ -79,6 +88,9 @@
     "name:kor_x_preferred":[
         "\ucc28\uc774\ub974 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ucc28\uc774\ub974\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0427\u0430\u0438\u0440"
     ],
@@ -87,6 +99,12 @@
     ],
     "name:nld_x_preferred":[
         "\u010cair"
+    ],
+    "name:nno_x_preferred":[
+        "Tsjair"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Czair"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0438\u0440"
@@ -109,6 +127,9 @@
     "name:tur_x_preferred":[
         "\u00c7ay\u0131r"
     ],
+    "name:tur_x_variant":[
+        "\u00c7ay\u0131r Belediyesi"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0457\u0440"
     ],
@@ -124,6 +145,9 @@
     ],
     "name:zho_x_preferred":[
         "\u67e5\u4f0a\u5c14\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u67e5\u4f0a\u5c14\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -235,7 +259,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f24c419f00416692d5f3199deb55c726",
+    "wof:geomhash":"64eda2483b6a85916ca8df90b783dd6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,7 +275,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939453,
     "wof:name":"Cair",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u043e\u0433"
     ],
+    "name:ces_x_preferred":[
+        "Polo\u017esk\u00e1 kotlina"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03b9\u03bb\u03ac\u03b4\u03b1 \u03a0\u03cc\u03bb\u03bf\u03b3\u03ba"
     ],
@@ -58,6 +61,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u043b\u043e\u0448\u043a\u0430 \u043a\u043e\u0442\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Polog"
+    ],
+    "name:tur_x_preferred":[
+        "Polog Vadisi"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u0433"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890491209,
-    "wof:lastmodified":1566605468,
+    "wof:lastmodified":1690939519,
     "wof:name":"Polog",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Lojane"
     ],
+    "name:nno_x_preferred":[
+        "Lojane"
+    ],
     "name:sqi_x_preferred":[
         "Llojani"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890491829,
-    "wof:lastmodified":1566605448,
+    "wof:lastmodified":1690939472,
     "wof:name":"Lojane",
     "wof:parent_id":85674257,
     "wof:placetype":"locality",

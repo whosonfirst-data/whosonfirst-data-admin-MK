@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Vinica"
     ],
+    "name:ces_x_preferred":[
+        "Vinica"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Vinica"
+    ],
     "name:dan_x_preferred":[
         "Vinica Municipality"
     ],
@@ -69,6 +75,12 @@
     "name:eng_x_preferred":[
         "Vinica Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Vinica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0648\u06cc\u0646\u06cc\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Vinican kunta"
     ],
@@ -76,7 +88,8 @@
         "Municipalit\u00e9 de Vinitsa"
     ],
     "name:fra_x_variant":[
-        "Vinitsa"
+        "Vinitsa",
+        "Vinica"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0aa8\u0ac0\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -105,6 +118,9 @@
     "name:kor_x_preferred":[
         "\ube44\ub2c8\ucc28 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ube44\ub2c8\ucc28\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Vinicas pa\u0161vald\u012bba"
     ],
@@ -128,6 +144,9 @@
     ],
     "name:nld_x_preferred":[
         "Vinica"
+    ],
+    "name:nno_x_preferred":[
+        "Vinitsa"
     ],
     "name:nob_x_preferred":[
         "Vinica Kommune"
@@ -191,6 +210,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7ef4\u5c3c\u5bdf\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u7ef4\u5c3c\u5bdf\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -303,7 +325,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f03e4839fb2e4aab4afa4c9b246066e2",
+    "wof:geomhash":"f55da56cbb6abd150dcc10c76bc66bfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -319,7 +341,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939442,
     "wof:name":"Vinitsa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

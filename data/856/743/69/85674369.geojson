@@ -60,6 +60,12 @@
     "name:ceb_x_preferred":[
         "Negotino"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Negotino"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Negotino"
+    ],
     "name:dan_x_preferred":[
         "Negotino Municipality"
     ],
@@ -74,6 +80,12 @@
     ],
     "name:eng_x_preferred":[
         "Negotino Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Negotino"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0646\u0627\u067e\u06cc\u0646\u0648"
     ],
     "name:fin_x_preferred":[
         "Negotinon kunta"
@@ -117,6 +129,9 @@
     "name:kor_x_preferred":[
         "\ub124\uace0\ud2f0\ub178 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub124\uace0\ud2f0\ub178\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Negotino pa\u0161vald\u012bba"
     ],
@@ -139,6 +154,9 @@
         "Negotino Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Negotino"
+    ],
+    "name:nno_x_preferred":[
         "Negotino"
     ],
     "name:nob_x_preferred":[
@@ -200,6 +218,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5167\u6208\u8482\u8afe\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5185\u6208\u8482\u8bfa\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -312,7 +333,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10fb6bcf736eb6a5c1111b9e87c68601",
+    "wof:geomhash":"2134294a423e4c6c553e8fb5015c7ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -328,7 +349,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939446,
     "wof:name":"Negotino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

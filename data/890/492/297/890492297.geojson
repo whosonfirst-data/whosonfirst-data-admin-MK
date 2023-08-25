@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0648\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631\u0648\u0641\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Berovo"
+    ],
     "name:bos_x_preferred":[
         "Berovo"
     ],
@@ -35,6 +41,9 @@
     "name:ces_x_preferred":[
         "Berovo"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u043e\u0432\u043e"
+    ],
     "name:chu_x_preferred":[
         "\u0411\u0454\u0440\u043e\u0432\u043e"
     ],
@@ -45,6 +54,9 @@
         "\u039c\u03c0\u03ad\u03c1\u03bf\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
+        "Berovo"
+    ],
+    "name:epo_x_preferred":[
         "Berovo"
     ],
     "name:fas_x_preferred":[
@@ -94,6 +106,9 @@
     ],
     "name:por_x_preferred":[
         "Berovo"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u0631\u0648\u0641\u0648"
     ],
     "name:ron_x_preferred":[
         "Berovo"
@@ -165,7 +180,7 @@
         }
     ],
     "wof:id":890492297,
-    "wof:lastmodified":1636506006,
+    "wof:lastmodified":1690939586,
     "wof:name":"Berovo",
     "wof:parent_id":85674479,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:mkd_x_preferred":[
         "\u041b\u0435\u043d\u0438\u0448\u0442\u0435"
     ],
+    "name:mkd_x_variant":[
+        "\u041b\u0435\u043d\u0438\u0448\u0442\u0430"
+    ],
     "name:nan_x_preferred":[
         "Lenichta"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890491377,
-    "wof:lastmodified":1566605456,
+    "wof:lastmodified":1690939491,
     "wof:name":"Leni\u0161ta",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

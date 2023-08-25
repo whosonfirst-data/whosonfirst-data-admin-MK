@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0416\u0438\u0432\u043e\u0432\u043e"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03af\u03c7\u03bf\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "\u017divovo"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890492361,
-    "wof:lastmodified":1566605489,
+    "wof:lastmodified":1690939564,
     "wof:name":"\u017divovo",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

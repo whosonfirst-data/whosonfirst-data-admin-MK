@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u044a\u0440\u0437\u0435\u043d \u041e\u0440\u0430\u043e\u0432\u0435\u0446"
     ],
+    "name:ces_x_preferred":[
+        "Mrzen Oraovec"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c1\u03b6\u03b5\u03bd \u039f\u03c1\u03ac\u03bf\u03b2\u03b5\u03c4\u03c2"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890492167,
-    "wof:lastmodified":1566605479,
+    "wof:lastmodified":1690939542,
     "wof:name":"Mrzen Oraovec",
     "wof:parent_id":85674201,
     "wof:placetype":"locality",

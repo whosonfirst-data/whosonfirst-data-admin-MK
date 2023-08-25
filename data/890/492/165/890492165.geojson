@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u064a\u0646\u0633\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u0438\u043d\u0446\u0438"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890492165,
-    "wof:lastmodified":1566605490,
+    "wof:lastmodified":1690939565,
     "wof:name":"Musinci",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

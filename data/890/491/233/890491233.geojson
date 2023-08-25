@@ -19,11 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u0643\u0644\u064a\u0646\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u044a\u0440\u043a\u043b\u0438\u043d\u043e"
     ],
     "name:ceb_x_preferred":[
         "Krklino"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u043a\u043b\u0438\u043d\u043e"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c1\u03ba\u03bb\u03af\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Krklino"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":890491233,
-    "wof:lastmodified":1566605455,
+    "wof:lastmodified":1690939488,
     "wof:name":"Krklino",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

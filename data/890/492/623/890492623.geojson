@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Novaci"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Novaci"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Novaci"
     ],
@@ -34,8 +37,20 @@
     "name:eng_x_preferred":[
         "Novaci Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Novaci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0646\u0648\u0627\u0648\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Novatsi"
+    ],
+    "name:fra_x_variant":[
+        "Novaci"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05e0\u05d5\u05d1\u05d0\u05e6\u05d9"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Novaci"
@@ -55,6 +70,9 @@
     "name:kor_x_preferred":[
         "\ub178\ubc14\uce58 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub178\ubc14\uce58\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u043d\u0438\u043b\u0435\u0448"
     ],
@@ -66,6 +84,9 @@
     ],
     "name:nld_x_preferred":[
         "Novaci"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Nowaci"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u0446\u0438"
@@ -79,6 +100,9 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041d\u043e\u0432\u0430\u0442\u0441\u0438"
     ],
+    "name:tur_x_preferred":[
+        "Novatsi"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430\u0446\u0456"
     ],
@@ -90,6 +114,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8afe\u74e6\u6fdf\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u8bfa\u74e6\u9f50\u5e02\u9547"
     ],
     "qs:name":"Gnile\u0161",
     "qs:photos_9r":0,
@@ -122,7 +149,7 @@
         }
     ],
     "wof:id":890492623,
-    "wof:lastmodified":1566605494,
+    "wof:lastmodified":1690939576,
     "wof:name":"Gnile\u0161",
     "wof:parent_id":85674373,
     "wof:placetype":"locality",

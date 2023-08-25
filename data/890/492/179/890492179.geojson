@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Demir Hisar"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Demir Hisar"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Demir Hisar"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Demir Hisar"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Demir Hisar Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Demir Hisar"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0645\u06cc\u0631 \u0647\u0633\u0627\u0631"
@@ -61,6 +70,9 @@
     "name:kor_x_preferred":[
         "\ub370\ubbf8\ub974\ud788\uc0ac\ub974 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub370\ubbf8\ub974\ud788\uc0ac\ub974\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "Malo Ilino"
     ],
@@ -72,6 +84,9 @@
         "Demir Hisar Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Demir Hisar"
+    ],
+    "name:nno_x_preferred":[
         "Demir Hisar"
     ],
     "name:pol_x_preferred":[
@@ -104,6 +119,9 @@
     "name:zho_x_preferred":[
         "\u5fb7\u7c73\u5c14\u5e0c\u8428\u5c14\u533a"
     ],
+    "name:zho_x_variant":[
+        "\u4ee3\u7c73\u5c14\u5e0c\u8428\u5c14\u5e02\u9547"
+    ],
     "qs:name":"Malo Ilino",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":890492179,
-    "wof:lastmodified":1566605502,
+    "wof:lastmodified":1690939593,
     "wof:name":"Malo Ilino",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

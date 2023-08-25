@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Makedonska Kamenica"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Makedonska Kamenica"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Makedonska Kamenica"
+    ],
     "name:dan_x_preferred":[
         "Makedonska Kamenica Municipality"
     ],
@@ -72,6 +78,9 @@
     "name:eng_x_variant":[
         "Makedonska Kamenica"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Makedonska Kamenica"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u06a9\u062f\u0648\u0646\u0633\u06a9\u0627 \u06a9\u0627\u0645\u0646\u06cc\u06a9\u0627"
     ],
@@ -80,6 +89,9 @@
     ],
     "name:fra_x_preferred":[
         "Makedonska Kamenitsa"
+    ],
+    "name:fra_x_variant":[
+        "Makedonska Kamenica"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a95\u0ac7\u0aa1\u0acb\u0aa8\u0ab8\u0acd\u0a95\u0abe \u0a95\u0ac7\u0aae\u0ac7\u0aa8\u0abf\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -117,6 +129,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ucf00\ub3c8\uc2a4\uce74\uce74\uba54\ub2c8\ucc28 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ucf00\ub3c8\uc2a4\uce74\uce74\uba54\ub2c8\ucc28\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ma\u0137edonijas Kamenicas province"
     ],
@@ -140,6 +155,9 @@
     ],
     "name:nld_x_preferred":[
         "Makedonska Kamenica"
+    ],
+    "name:nno_x_preferred":[
+        "Makedonska Kamenitsa"
     ],
     "name:nob_x_preferred":[
         "Makedonska Kamencia kommune"
@@ -168,6 +186,9 @@
     "name:swe_x_preferred":[
         "Makedonska Kamenica"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0b9f\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbe \u0b95\u0bae\u0bc6\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c15\u0c46\u0c21\u0c4b\u0c28\u0c4d\u0c38\u0c4d\u0c15\u0c3e \u0c15\u0c3e\u0c2e\u0c46\u0c28\u0c3f\u0c15\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
     ],
@@ -194,6 +215,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u5176\u9813\u5361\u6885\u5c3c\u5bdf\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u5176\u987f\u5361\u6885\u5c3c\u5bdf\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -306,7 +330,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5359bccfceee16c28e46b6fa05215cc8",
+    "wof:geomhash":"0ed4013f5caa19e2e77838ca39ab3a10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -322,7 +346,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939441,
     "wof:name":"Makedonska Kamenica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

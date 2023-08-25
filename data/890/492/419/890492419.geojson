@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0632\u0627\u067e\u0648\u0644\u0632\u0627\u0646\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u043f\u043e\u043b\u0436\u0430\u043d\u0438"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890492419,
-    "wof:lastmodified":1566605493,
+    "wof:lastmodified":1690939570,
     "wof:name":"Zapol\u017eani",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

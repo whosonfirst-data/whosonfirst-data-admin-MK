@@ -31,6 +31,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Sopi\u0161te"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Sopi\u0161t\u011b"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Sopi\u0161te"
+    ],
     "name:dan_x_preferred":[
         "Sopi\u0161te Municipality"
     ],
@@ -43,11 +49,20 @@
     "name:eng_x_preferred":[
         "Sopi\u0161te Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Sopi\u0161te"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0633\u0648\u067e\u06cc\u0634\u062a"
+    ],
     "name:fin_x_preferred":[
         "Sopi\u0161ten kunta"
     ],
     "name:fra_x_preferred":[
         "Sopicht\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Sopi\u0161te"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aaa\u0abf\u0ab8\u0acd\u0aa4\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -76,6 +91,9 @@
     "name:kor_x_preferred":[
         "\uc18c\ud53c\uc288\ud14c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc18c\ud53c\uc288\ud14c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Sopi\u0161tes pa\u0161vald\u012bba"
     ],
@@ -99,6 +117,9 @@
     ],
     "name:nld_x_preferred":[
         "Sopi\u0161te"
+    ],
+    "name:nno_x_preferred":[
+        "Sopisjte"
     ],
     "name:nob_x_preferred":[
         "Sopiste kommune"
@@ -151,6 +172,9 @@
     "name:zho_x_preferred":[
         "\u8607\u76ae\u4ec0\u7279\u5340"
     ],
+    "name:zho_x_variant":[
+        "\u7d22\u76ae\u4ec0\u6cf0\u5e02\u9547"
+    ],
     "qs:name":"Pati\u0161ka Reka",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -182,7 +206,7 @@
         }
     ],
     "wof:id":890492159,
-    "wof:lastmodified":1566605477,
+    "wof:lastmodified":1690939539,
     "wof:name":"Pati\u0161ka Reka",
     "wof:parent_id":85674209,
     "wof:placetype":"locality",

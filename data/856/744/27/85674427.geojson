@@ -60,6 +60,12 @@
     "name:ceb_x_preferred":[
         "Brvenica"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Brvenica"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Brvenica"
+    ],
     "name:dan_x_preferred":[
         "Brvenica Municipality"
     ],
@@ -78,11 +84,20 @@
     "name:eng_x_variant":[
         "Brvenica"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Brvenica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0628\u0631\u0648\u0648\u0646\u06cc\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Brvenican kunta"
     ],
     "name:fra_x_preferred":[
         "Brvenitsa"
+    ],
+    "name:fra_x_variant":[
+        "Brvenica"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0ab5\u0ac7\u0aa8\u0abf\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -117,6 +132,9 @@
     "name:kor_x_preferred":[
         "\ube0c\ub974\ubca0\ub2c8\ucc28 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ube0c\ub974\ubca0\ub2c8\ucc28\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Brvenicas pa\u0161vald\u012bba"
     ],
@@ -140,6 +158,9 @@
     ],
     "name:nld_x_preferred":[
         "Brvenica"
+    ],
+    "name:nno_x_preferred":[
+        "Brvenitsa"
     ],
     "name:nob_x_preferred":[
         "Brvenica Kommune"
@@ -200,6 +221,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5c14\u97e6\u5c3c\u5bdf\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u5c14\u97e6\u5c3c\u5bdf\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -312,7 +336,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76ef7909bf0e1a89a9511ff5e1b73664",
+    "wof:geomhash":"76f57f95de629ab0df7e6bf639dabc49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -328,7 +352,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939440,
     "wof:name":"Brvenica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

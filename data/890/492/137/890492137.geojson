@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0645\u064a\u0631 \u0647\u064a\u0633\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0645\u064a\u0631 \u0647\u064a\u0633\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Demir Hisar"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09ae\u09bf\u09b0 \u09b9\u09bf\u09b8\u09be\u09b0"
     ],
@@ -44,6 +50,12 @@
     "name:eng_x_preferred":[
         "Demir Hisar"
     ],
+    "name:epo_x_preferred":[
+        "Demir Hisar"
+    ],
+    "name:fin_x_preferred":[
+        "Demir Hisar"
+    ],
     "name:fra_x_preferred":[
         "Demir Hisar"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:hrv_x_preferred":[
         "Demir Hisar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0574\u056b\u0580 \u0540\u056b\u057d\u0561\u0580"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d4\u10db\u10d8\u10e0-\u10f0\u10d8\u10e1\u10d0\u10e0\u10d8"
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Murgasjevo"
+    ],
+    "name:swe_x_variant":[
+        "Demir Hisar"
     ],
     "name:tat_x_preferred":[
         "\u0422\u0438\u043c\u0435\u0440 \u0425\u0438\u0441\u0430\u0440"
@@ -149,7 +167,7 @@
         }
     ],
     "wof:id":890492137,
-    "wof:lastmodified":1636506004,
+    "wof:lastmodified":1690939570,
     "wof:name":"Demir Hisar",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

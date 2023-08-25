@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Podvis"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062f\u0648\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
         "Podvis"
     ],
@@ -35,6 +38,9 @@
         "Podvis"
     ],
     "name:nld_x_preferred":[
+        "Podvis"
+    ],
+    "name:pol_x_preferred":[
         "Podvis"
     ],
     "name:por_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890491065,
-    "wof:lastmodified":1566605452,
+    "wof:lastmodified":1690939479,
     "wof:name":"Podvis",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

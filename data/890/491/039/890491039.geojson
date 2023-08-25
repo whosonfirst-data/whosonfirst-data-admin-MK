@@ -22,8 +22,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062e\u0631\u064a\u062f"
     ],
+    "name:arg_x_preferred":[
+        "Agrida"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u062e\u0631\u064a\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Ohrid"
+    ],
     "name:aze_x_preferred":[
         "Ohrid"
+    ],
+    "name:aze_x_variant":[
+        "Oxrid"
     ],
     "name:bak_x_preferred":[
         "\u041e\u0445\u0440\u0438\u0434"
@@ -45,6 +57,9 @@
     ],
     "name:cat_x_preferred":[
         "Ohrid"
+    ],
+    "name:cat_x_variant":[
+        "Okhrida"
     ],
     "name:ceb_x_preferred":[
         "Ohrid"
@@ -148,6 +163,9 @@
     "name:kor_x_preferred":[
         "\uc624\ud750\ub9ac\ub4dc"
     ],
+    "name:lat_x_preferred":[
+        "Achrida"
+    ],
     "name:lav_x_preferred":[
         "Ohrida"
     ],
@@ -165,6 +183,9 @@
     ],
     "name:mkd_x_variant":[
         "Ohrid"
+    ],
+    "name:mlt_x_preferred":[
+        "O\u0127rid"
     ],
     "name:msa_x_preferred":[
         "Ohrid"
@@ -187,6 +208,9 @@
     "name:nob_x_preferred":[
         "Ohrid"
     ],
+    "name:oss_x_preferred":[
+        "\u041e\u0445\u0440\u0438\u0434"
+    ],
     "name:pih_x_preferred":[
         "Okhrid"
     ],
@@ -195,6 +219,9 @@
     ],
     "name:por_x_preferred":[
         "Ohrid"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0648\u0647\u0631\u06cc\u062f"
     ],
     "name:ron_x_preferred":[
         "Ohrida"
@@ -259,6 +286,9 @@
     "name:vol_x_preferred":[
         "Ohrid"
     ],
+    "name:wuu_x_preferred":[
+        "\u5965\u8d6b\u91cc\u5fb7"
+    ],
     "name:zho_x_preferred":[
         "\u5965\u8d6b\u91cc\u5fb7"
     ],
@@ -299,7 +329,7 @@
         }
     ],
     "wof:id":890491039,
-    "wof:lastmodified":1636506000,
+    "wof:lastmodified":1690939489,
     "wof:name":"Ohrid",
     "wof:parent_id":85674165,
     "wof:placetype":"locality",

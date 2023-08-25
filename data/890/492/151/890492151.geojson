@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0449\u0430\u043b\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Pe\u0161talevo"
+    ],
     "name:eng_x_preferred":[
         "Pe\u0161talevo"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u0448\u0442\u0430\u0459\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pesjtalevo"
     ],
     "name:und_x_variant":[
         "Pe\u0161taljevo"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890492151,
-    "wof:lastmodified":1566605479,
+    "wof:lastmodified":1690939543,
     "wof:name":"Pe\u0161talevo",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

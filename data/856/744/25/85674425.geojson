@@ -60,6 +60,12 @@
     "name:ceb_x_preferred":[
         "Bogovinje"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Bogovinje"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Bogovinje"
+    ],
     "name:dan_x_preferred":[
         "Bogovinje Municipality"
     ],
@@ -72,11 +78,20 @@
     "name:eng_x_preferred":[
         "Bogovinje Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Bogovinje"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0628\u0648\u06af\u0648\u0648\u06cc\u0646\u0698"
+    ],
     "name:fin_x_preferred":[
         "Bogovinjen kunta"
     ],
     "name:fra_x_preferred":[
         "Bogoviny\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Bogovinje"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a97\u0acb\u0ab5\u0abf\u0aa8\u0acd\u0a9c\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -114,6 +129,9 @@
     "name:kor_x_preferred":[
         "\ubcf4\uace0\ube44\ub124 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubcf4\uace0\ube44\ub124\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Bogovinjes pa\u0161vald\u012bba"
     ],
@@ -136,6 +154,9 @@
         "Bogovinje Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Bogovinje"
+    ],
+    "name:nno_x_preferred":[
         "Bogovinje"
     ],
     "name:nob_x_preferred":[
@@ -206,6 +227,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u6208\u7ef4\u6d85\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u6208\u7ef4\u6d85\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -317,7 +341,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97dcc17493da2ea80b79575897c91668",
+    "wof:geomhash":"b1f08f893090382d27629ed792f94f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,7 +357,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939445,
     "wof:name":"Bogovinje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

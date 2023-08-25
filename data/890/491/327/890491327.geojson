@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Senokos"
     ],
+    "name:ceb_x_preferred":[
+        "Senokos"
+    ],
     "name:eng_x_preferred":[
         "Senokos"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043d\u043e\u043a\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Senokos"
     ],
     "qs:name":"Senokos",
     "qs:photos_9r":0,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890491327,
-    "wof:lastmodified":1566605472,
+    "wof:lastmodified":1690939527,
     "wof:name":"Senokos",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

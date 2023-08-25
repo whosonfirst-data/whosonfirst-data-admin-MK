@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Ko\u010dani"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Ko\u010dani"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Ko\u010dani"
+    ],
     "name:dan_x_preferred":[
         "Kocani"
     ],
@@ -75,6 +81,9 @@
     "name:eng_x_variant":[
         "Ko\u010dani Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Ko\u010dani"
+    ],
     "name:fin_x_preferred":[
         "Ko\u010danin kunta"
     ],
@@ -82,7 +91,8 @@
         "municipalit\u00e9 de Kotchani"
     ],
     "name:fra_x_variant":[
-        "Kotchani"
+        "Kotchani",
+        "Ko\u010dani"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a95\u0aa8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -110,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ucc28\ub2c8 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ucc28\ub2c8\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Ko\u010danu pa\u0161vald\u012bba"
@@ -198,6 +211,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u67e5\u5c3c\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u67e5\u5c3c\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -310,7 +326,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a2e1534aa699b9a1e2a0e819b0bb283a",
+    "wof:geomhash":"f6c3dda69d04601212adfe3642ed104f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -326,7 +342,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939450,
     "wof:name":"Kocani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

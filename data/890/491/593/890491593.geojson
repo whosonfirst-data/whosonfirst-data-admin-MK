@@ -22,6 +22,12 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u041b\u0435\u0448\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dolna Le\u0161nica"
+    ],
+    "name:ces_x_preferred":[
+        "Dolna Le\u0161nica"
+    ],
     "name:eng_x_preferred":[
         "Dolna Lechnitsa"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0430 \u041b\u0435\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dolna Lesjnica"
     ],
     "qs:name":"Dolna Le\u0161nica",
     "qs:photos_9r":0,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":890491593,
-    "wof:lastmodified":1566605443,
+    "wof:lastmodified":1690939461,
     "wof:name":"Dolna Le\u0161nica",
     "wof:parent_id":85674251,
     "wof:placetype":"locality",

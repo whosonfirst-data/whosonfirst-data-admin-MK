@@ -46,10 +46,16 @@
     "name:kor_x_preferred":[
         "\ub370\ubbf8\ub974\ud788\uc0ac\ub974 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub370\ubbf8\ub974\ud788\uc0ac\ub974\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0441\u0442\u043e\u0458\u0446\u0430"
     ],
     "name:nld_x_preferred":[
+        "Demir Hisar"
+    ],
+    "name:nno_x_preferred":[
         "Demir Hisar"
     ],
     "name:rus_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u7c73\u5c14\u5e0c\u8428\u5c14\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u4ee3\u7c73\u5c14\u5e0c\u8428\u5c14\u5e02\u9547"
     ],
     "qs:name":"Rastojca",
     "qs:photos_9r":0,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":890491201,
-    "wof:lastmodified":1566605470,
+    "wof:lastmodified":1690939523,
     "wof:name":"Rastojca",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

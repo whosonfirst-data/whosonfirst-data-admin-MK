@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0633\u06a4\u064a\u0646\u064a\u0633\u062a\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0438\u043d\u0438\u0449\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Svini\u0161te"
     ],
     "name:eng_x_preferred":[
         "Svini\u0161te"
@@ -33,6 +39,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0432\u0438\u043d\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0432\u0438\u045a\u0438\u0448\u0442\u0435"
     ],
     "name:nan_x_preferred":[
         "Svinicht\u00e9"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890492457,
-    "wof:lastmodified":1566605499,
+    "wof:lastmodified":1690939585,
     "wof:name":"Svini\u0161te",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

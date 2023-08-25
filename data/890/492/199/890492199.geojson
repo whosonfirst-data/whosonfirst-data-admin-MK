@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Sopi\u0161te"
     ],
+    "name:epo_x_preferred":[
+        "Sopi\u0161te"
+    ],
     "name:fra_x_preferred":[
         "Sopicht\u00e9"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:pol_x_preferred":[
         "Sopiszte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043f\u0438\u0448\u0442\u0435"
     ],
     "name:sqi_x_preferred":[
         "Sopishte"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":890492199,
-    "wof:lastmodified":1566605492,
+    "wof:lastmodified":1690939568,
     "wof:name":"Sopishte",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

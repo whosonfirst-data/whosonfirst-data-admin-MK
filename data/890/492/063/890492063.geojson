@@ -20,20 +20,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
+    "name:aka_x_preferred":[
+        "Bitola"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0648\u0644\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u062a\u0644\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a\u0648\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bitola"
     ],
     "name:aze_x_preferred":[
         "Monast\u0131r"
     ],
+    "name:aze_x_variant":[
+        "Bitola"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0456\u0442\u0430\u043b\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0456\u0442\u0430\u043b\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09a4\u09cb\u09b2\u09be"
     ],
     "name:bos_x_preferred":[
         "Bitola"
+    ],
+    "name:bos_x_variant":[
+        "Bitolj"
     ],
     "name:bre_x_preferred":[
         "Bitola"
@@ -49,6 +70,9 @@
     ],
     "name:ces_x_preferred":[
         "Bitola"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0438\u0442\u043e\u043b\u0430"
     ],
     "name:chu_x_preferred":[
         "\u041e\u0431\u0438\u0442\u0463\u043b\u044c"
@@ -130,8 +154,14 @@
     "name:ind_x_preferred":[
         "Manastir"
     ],
+    "name:ind_x_variant":[
+        "Bitola"
+    ],
     "name:ita_x_preferred":[
         "Monastir"
+    ],
+    "name:ita_x_variant":[
+        "Bitola"
     ],
     "name:jav_x_preferred":[
         "Bitola"
@@ -163,6 +193,9 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u091f\u094b\u0932\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0438\u0442\u043e\u043b\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u0442\u043e\u043b\u0430"
     ],
@@ -187,11 +220,17 @@
     "name:nor_x_preferred":[
         "Bitola"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0438\u0442\u043e\u043b\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Bitola"
     ],
     "name:por_x_preferred":[
         "Bitola"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u06cc\u062a\u0648\u0644\u0627"
     ],
     "name:ron_x_preferred":[
         "Bitola"
@@ -226,11 +265,17 @@
     "name:swe_x_preferred":[
         "Bitola"
     ],
+    "name:szl_x_preferred":[
+        "Bitola"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc0\u0b9f\u0bcb\u0bb2\u0bbe"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0441\u0442\u044b\u0440"
+    ],
+    "name:tat_x_variant":[
+        "\u0411\u0438\u0442\u043e\u043b\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3f\u0c1f\u0c4b\u0c32\u0c3e"
@@ -252,6 +297,9 @@
     ],
     "name:vol_x_preferred":[
         "Bitola"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u6258\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u6258\u62c9"
@@ -389,7 +437,7 @@
         }
     ],
     "wof:id":890492063,
-    "wof:lastmodified":1566605485,
+    "wof:lastmodified":1690939557,
     "wof:name":"Bitola",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

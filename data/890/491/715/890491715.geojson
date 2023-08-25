@@ -22,6 +22,12 @@
     "name:bul_x_preferred":[
         "\u0421\u044a\u0440\u0431\u0438\u0446\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Srbica"
+    ],
+    "name:ceb_x_preferred":[
+        "Srbica"
+    ],
     "name:deu_x_preferred":[
         "Srbica"
     ],
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":890491715,
-    "wof:lastmodified":1636506000,
+    "wof:lastmodified":1690939493,
     "wof:name":"Srbica",
     "wof:parent_id":85674407,
     "wof:placetype":"locality",

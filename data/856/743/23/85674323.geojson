@@ -51,6 +51,9 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Karpo\u0161"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Karpo\u0161"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Karpo\u0161"
     ],
@@ -63,8 +66,20 @@
     "name:eng_x_variant":[
         "Karpo\u0161 Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Karpo\u0161"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06a9\u0627\u0631\u067e\u0648\u0686"
+    ],
     "name:fra_x_preferred":[
         "Karpoch"
+    ],
+    "name:fra_x_variant":[
+        "Karpo\u0161"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e4\u05d5\u05e1"
     ],
     "name:hrv_x_preferred":[
         "Op\u0107ina Karpo\u0161"
@@ -81,6 +96,9 @@
     "name:kor_x_preferred":[
         "\uce74\ub974\ud3ec\uc2dc \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ub974\ud3ec\uc2dc\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u0440\u043f\u043e\u0448"
     ],
@@ -89,6 +107,9 @@
     ],
     "name:nld_x_preferred":[
         "Karpo\u0161"
+    ],
+    "name:nno_x_preferred":[
+        "Karposj"
     ],
     "name:pol_x_preferred":[
         "Opsztina Karposz"
@@ -114,6 +135,9 @@
     "name:tur_x_preferred":[
         "Karpo\u015f"
     ],
+    "name:tur_x_variant":[
+        "Karpo\u015f Belediyesi"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043f\u043e\u0448"
     ],
@@ -129,6 +153,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u723e\u6ce2\u4ec0\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u5c14\u6ce2\u4ec0\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -240,7 +267,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e2c335203b0da85534b70b722ba52ea4",
+    "wof:geomhash":"133abe51d41008040827a74ba35d5304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,7 +283,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939451,
     "wof:name":"Karpo\u0161",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

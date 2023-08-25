@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Berovtsi"
     ],
+    "name:hun_x_preferred":[
+        "Berovci"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u0440\u043e\u0432\u0446\u0438"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890491277,
-    "wof:lastmodified":1566605464,
+    "wof:lastmodified":1690939510,
     "wof:name":"Berovci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

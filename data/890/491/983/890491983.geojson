@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u043e\u043a\u043e\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Samokov"
+    ],
     "name:eng_x_preferred":[
         "Samokov"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043c\u043e\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Samokov"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u043e\u043a\u043e\u0432"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890491983,
-    "wof:lastmodified":1566605456,
+    "wof:lastmodified":1690939489,
     "wof:name":"Samokov",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

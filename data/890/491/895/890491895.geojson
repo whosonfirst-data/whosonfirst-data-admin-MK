@@ -23,6 +23,15 @@
     "name:bul_x_preferred":[
         "\u0424\u043e\u0440\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Forino"
+    ],
+    "name:ces_x_preferred":[
+        "Forino"
+    ],
+    "name:deu_x_preferred":[
+        "Forino"
+    ],
     "name:eng_x_preferred":[
         "Forino"
     ],
@@ -41,11 +50,20 @@
     "name:nan_x_preferred":[
         "Forino"
     ],
+    "name:nno_x_preferred":[
+        "Forino"
+    ],
+    "name:slk_x_preferred":[
+        "Forino"
+    ],
     "name:sqi_x_preferred":[
         "Forina"
     ],
     "name:srp_x_preferred":[
         "\u0424\u043e\u0440\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Forino"
     ],
     "qs:name":"Forino",
     "qs:name_adm0":"Macedonia",
@@ -83,7 +101,7 @@
         }
     ],
     "wof:id":890491895,
-    "wof:lastmodified":1566605453,
+    "wof:lastmodified":1690939480,
     "wof:name":"Forino",
     "wof:parent_id":85674433,
     "wof:placetype":"locality",

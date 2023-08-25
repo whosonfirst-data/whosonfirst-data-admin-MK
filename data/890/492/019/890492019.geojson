@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Dobro\u0161te"
     ],
+    "name:ces_x_preferred":[
+        "Dobro\u0161te"
+    ],
     "name:eng_x_preferred":[
         "Dobro\u0161te"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:nld_x_preferred":[
         "Dobro\u0161te"
+    ],
+    "name:nno_x_preferred":[
+        "Dobrosjte"
     ],
     "name:sqi_x_preferred":[
         "Dobroshti"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890492019,
-    "wof:lastmodified":1566605496,
+    "wof:lastmodified":1690939578,
     "wof:name":"Dobro\u0161te",
     "wof:parent_id":85674413,
     "wof:placetype":"locality",

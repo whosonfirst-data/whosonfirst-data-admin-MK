@@ -25,13 +25,22 @@
     "name:ceb_x_preferred":[
         "Rostusha"
     ],
+    "name:ces_x_preferred":[
+        "Rostu\u0161a"
+    ],
     "name:deu_x_preferred":[
         "Rostu\u0161a"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03c3\u03c4\u03bf\u03c5\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Rostusa"
     ],
     "name:eng_x_variant":[
+        "Rostu\u0161a"
+    ],
+    "name:epo_x_preferred":[
         "Rostu\u0161a"
     ],
     "name:fra_x_preferred":[
@@ -46,10 +55,22 @@
     "name:mkd_x_preferred":[
         "\u0420\u043e\u0441\u0442\u0443\u0448\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u0420\u043e\u0441\u0442\u0443\u0448\u0435"
+    ],
     "name:nan_x_preferred":[
         "Rostoucha"
     ],
     "name:nld_x_preferred":[
+        "Rostu\u0161a"
+    ],
+    "name:nno_x_preferred":[
+        "Rostusja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0442\u0443\u0448\u0430"
+    ],
+    "name:slk_x_preferred":[
         "Rostu\u0161a"
     ],
     "name:sqi_x_preferred":[
@@ -93,7 +114,7 @@
         }
     ],
     "wof:id":890491835,
-    "wof:lastmodified":1566605454,
+    "wof:lastmodified":1690939483,
     "wof:name":"\u0420\u043e\u0441\u0442\u0443\u0448\u0430",
     "wof:parent_id":85674403,
     "wof:placetype":"locality",

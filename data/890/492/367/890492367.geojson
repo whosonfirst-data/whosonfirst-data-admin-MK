@@ -43,6 +43,9 @@
     "name:ita_x_preferred":[
         "Trestenico"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30b9\u30c6\u30cb\u30af"
+    ],
     "name:mkd_x_preferred":[
         "Trstenik"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:nld_x_preferred":[
         "Trstenik"
+    ],
+    "name:pol_x_preferred":[
+        "Trystenik"
     ],
     "name:ron_x_preferred":[
         "Tr\u0103stenik"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":890492367,
-    "wof:lastmodified":1566605492,
+    "wof:lastmodified":1690939568,
     "wof:name":"Trstenik",
     "wof:parent_id":85674201,
     "wof:placetype":"locality",

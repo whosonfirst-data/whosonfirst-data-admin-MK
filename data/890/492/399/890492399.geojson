@@ -23,7 +23,13 @@
     "name:bul_x_preferred":[
         "\u0414\u0436\u0443\u043c\u0430\u0439\u043b\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Lozovo"
+    ],
     "name:eng_x_preferred":[
+        "Lozovo"
+    ],
+    "name:epo_x_preferred":[
         "Lozovo"
     ],
     "name:fra_x_preferred":[
@@ -50,6 +56,9 @@
     "name:nld_x_preferred":[
         "Lozovo"
     ],
+    "name:pol_x_preferred":[
+        "\u0141ozowo"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0437\u043e\u0432\u043e"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Lozovo"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0437\u043e\u0432\u043e"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":890492399,
-    "wof:lastmodified":1636506002,
+    "wof:lastmodified":1690939542,
     "wof:name":"Lozovo",
     "wof:parent_id":85674307,
     "wof:placetype":"locality",

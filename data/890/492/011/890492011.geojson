@@ -26,11 +26,17 @@
     "name:ara_x_variant":[
         "\u062f\u0648\u0628\u0631\u0648\u0633\u064a\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0633\u064a\u06a4\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0443\u0448\u0435\u0432\u043e"
     ],
     "name:ceb_x_preferred":[
         "Dobru\u0161evo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03bf\u03b2\u03c1\u03bf\u03cd\u03c3\u03bf\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Dobrusevo"
@@ -49,6 +55,12 @@
     ],
     "name:nld_x_preferred":[
         "Dobrusevo"
+    ],
+    "name:nno_x_preferred":[
+        "Dobrusjevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0443\u0448\u0435\u0432\u043e"
     ],
     "name:sqi_x_preferred":[
         "Dobrusheva"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":890492011,
-    "wof:lastmodified":1566605494,
+    "wof:lastmodified":1690939575,
     "wof:name":"Dobru\u0161evo",
     "wof:parent_id":85674365,
     "wof:placetype":"locality",

@@ -60,6 +60,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Ara\u010dinovo"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Ara\u010dinovo"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Ara\u010dinovo"
+    ],
     "name:dan_x_preferred":[
         "Ara\u010dinovo Municipality"
     ],
@@ -75,11 +81,20 @@
     "name:eng_x_variant":[
         "Ara\u010dinovo Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Ara\u010dinovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0622\u0631\u0627\u0686\u06cc\u0646\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ara\u010dinovon kunta"
     ],
     "name:fra_x_preferred":[
         "Aratchinovo"
+    ],
+    "name:fra_x_variant":[
+        "Ara\u010dinovo"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0abe\u0a95\u0abf\u0aa8\u0acb\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -111,6 +126,9 @@
     "name:kor_x_preferred":[
         "\uc544\ub77c\uce58\ub178\ubcf4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub77c\uce58\ub178\ubcf4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ara\u010dinovo pa\u0161vald\u012bba"
     ],
@@ -134,6 +152,9 @@
     ],
     "name:nld_x_preferred":[
         "Ara\u010dinovo"
+    ],
+    "name:nno_x_preferred":[
+        "Aratsjinovo"
     ],
     "name:nob_x_preferred":[
         "Aracinovo Kommune"
@@ -198,6 +219,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u6d25\u8bfa\u6c83\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u62c9\u5951\u8bfa\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -310,7 +334,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d26faad598a990c0b72f72e386f6f347",
+    "wof:geomhash":"80cfc4c4bbc814ee199f12f84404d7ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -326,7 +350,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939456,
     "wof:name":"Aracinovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

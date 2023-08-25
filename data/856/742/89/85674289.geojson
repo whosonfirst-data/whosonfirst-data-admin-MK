@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Demir Kapija"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Demir Kapija"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Demir Kapija"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Demir Kapija"
     ],
@@ -65,6 +71,12 @@
     ],
     "name:eng_x_preferred":[
         "Demir Kapija Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Demir Kapija"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u062f\u0645\u06cc\u0631 \u06a9\u0627\u067e\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Demir Kapija"
@@ -84,6 +96,9 @@
     "name:hye_x_preferred":[
         "\u0534\u0565\u0574\u056b\u0580 \u053f\u0561\u057a\u056b\u0561\u0575\u056b \u0570\u0561\u0574\u0561\u0575\u0576\u0584"
     ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Demir Kapija"
+    ],
     "name:ita_x_preferred":[
         "Demir Kapija"
     ],
@@ -96,6 +111,9 @@
     "name:kor_x_preferred":[
         "\ub370\ubbf8\ub974\uce74\ud53c\uc57c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub370\ubbf8\ub974\uce74\ud53c\uc57c\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u0458\u0430"
     ],
@@ -106,6 +124,9 @@
         "Demir Kapija Chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Demir Kapija"
+    ],
+    "name:nno_x_preferred":[
         "Demir Kapija"
     ],
     "name:pol_x_preferred":[
@@ -149,6 +170,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u7c73\u5c14\u5361\u76ae\u96c5\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u4ee3\u7c73\u5c14\u5361\u76ae\u4e9a\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -260,7 +284,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a838a50b5dcec4e59f62ceb23c9e7bc",
+    "wof:geomhash":"4af1fda5566d9986b958f3c47d3a7ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -276,7 +300,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939454,
     "wof:name":"Demir Kapija",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

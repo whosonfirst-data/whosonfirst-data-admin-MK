@@ -160,6 +160,9 @@
     "name:kor_x_preferred":[
         "\ube0c\ub808\uc2a4\ud2b8"
     ],
+    "name:lat_x_preferred":[
+        "Brestia"
+    ],
     "name:lav_x_preferred":[
         "Bresta"
     ],
@@ -298,6 +301,12 @@
     "name:wol_x_preferred":[
         "Brest"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u96f7\u65af\u7279"
+    ],
+    "name:yue_x_preferred":[
+        "\u6bd4\u65af\u7279"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u96f7\u65af\u7279"
     ],
@@ -335,7 +344,7 @@
         }
     ],
     "wof:id":890491609,
-    "wof:lastmodified":1566605472,
+    "wof:lastmodified":1690939526,
     "wof:name":"Brest",
     "wof:parent_id":85674361,
     "wof:placetype":"locality",

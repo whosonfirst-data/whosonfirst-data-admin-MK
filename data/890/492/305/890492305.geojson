@@ -22,14 +22,23 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0441"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Veles"
+    ],
     "name:deu_x_preferred":[
         "Op\u0161tina Veles"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03b5\u03bb\u03b5\u03c3\u03ac"
     ],
+    "name:ell_x_variant":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03b5\u03bb\u03b5\u03c3\u03ce\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Veles Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Veles"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0644\u0633 \u0645\u0648\u0646\u06cc\u06a9\u06cc\u067e\u0644\u06cc\u062a\u06cc"
@@ -55,6 +64,9 @@
     "name:kor_x_preferred":[
         "\ubca8\ub808\uc2a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubca8\ub808\uc2a4\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0443\u045a\u0438\u0448\u0442\u0435"
     ],
@@ -67,6 +79,9 @@
     "name:nld_x_preferred":[
         "Veles"
     ],
+    "name:pol_x_preferred":[
+        "Gmina We\u0142es"
+    ],
     "name:ron_x_preferred":[
         "Veles"
     ],
@@ -75,6 +90,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0412\u0435\u043b\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Veles"
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0435\u043b\u0435\u0441"
@@ -90,6 +108,9 @@
     ],
     "name:zho_x_preferred":[
         "\u97cb\u840a\u65af\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u97e6\u83b1\u65af\u5e02\u9547"
     ],
     "qs:name":"Karabunji\u0161te",
     "qs:photos_9r":0,
@@ -122,7 +143,7 @@
         }
     ],
     "wof:id":890492305,
-    "wof:lastmodified":1566605493,
+    "wof:lastmodified":1690939570,
     "wof:name":"Karabunji\u0161te",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

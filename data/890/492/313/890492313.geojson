@@ -22,7 +22,13 @@
     "name:ast_x_preferred":[
         "Badar"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09a6\u09b0"
+    ],
     "name:eng_x_preferred":[
+        "Badar"
+    ],
+    "name:hau_x_preferred":[
         "Badar"
     ],
     "name:ita_x_preferred":[
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890492313,
-    "wof:lastmodified":1566605489,
+    "wof:lastmodified":1690939563,
     "wof:name":"Badar",
     "wof:parent_id":85674173,
     "wof:placetype":"locality",

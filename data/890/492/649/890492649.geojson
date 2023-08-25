@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0644\u062c\u0627\u064a\u0643"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u0433\u0430\u0435\u0446"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890492649,
-    "wof:lastmodified":1566605493,
+    "wof:lastmodified":1690939573,
     "wof:name":"Dolgaec",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

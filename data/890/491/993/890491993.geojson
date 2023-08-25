@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "D\u017eep\u010di\u0161te"
     ],
+    "name:ces_x_preferred":[
+        "D\u017eepi\u0161te"
+    ],
     "name:deu_x_preferred":[
         "D\u017eep\u010di\u0161te"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890491993,
-    "wof:lastmodified":1566605461,
+    "wof:lastmodified":1690939503,
     "wof:name":"D\u017eep\u010di\u0161te",
     "wof:parent_id":85674417,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_variant":[
         "\u062c\u064a\u062a\u0648\u0634\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u064a\u062a\u0648\u0633\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0438\u0442\u043e\u0448\u0435"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Zitose"
+    ],
+    "name:eng_x_variant":[
+        "\u017dito\u0161e"
     ],
     "name:fra_x_preferred":[
         "Jitoch\u00e9"
@@ -48,6 +54,9 @@
     ],
     "name:nld_x_preferred":[
         "Zitose"
+    ],
+    "name:nno_x_preferred":[
+        "Zjitosje"
     ],
     "name:sqi_x_preferred":[
         "Zhitoshi"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":890491703,
-    "wof:lastmodified":1566605462,
+    "wof:lastmodified":1690939504,
     "wof:name":"\u017dito\u0161e",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Gorno Nerezi"
     ],
+    "name:ces_x_preferred":[
+        "Gorno Nerezi"
+    ],
     "name:deu_x_preferred":[
         "Gorno Nerezi"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890492097,
-    "wof:lastmodified":1566605486,
+    "wof:lastmodified":1690939557,
     "wof:name":"Rakotnici",
     "wof:parent_id":85674323,
     "wof:placetype":"locality",

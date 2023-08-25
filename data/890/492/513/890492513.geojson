@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Presil"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30b7\u30eb"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0438\u043b"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890492513,
-    "wof:lastmodified":1566605501,
+    "wof:lastmodified":1690939591,
     "wof:name":"Presil",
     "wof:parent_id":85674353,
     "wof:placetype":"locality",

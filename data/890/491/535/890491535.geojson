@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u06a4\u0633\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0432\u0446\u0438"
     ],
     "name:ceb_x_preferred":[
         "Lavci"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u0432\u0446\u0438"
     ],
     "name:deu_x_preferred":[
         "Lavci"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890491535,
-    "wof:lastmodified":1566605447,
+    "wof:lastmodified":1690939470,
     "wof:name":"Lavci",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

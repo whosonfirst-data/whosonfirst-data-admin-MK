@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Slivnik"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u043a"
+    ],
     "name:eng_x_preferred":[
         "Slivnik"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890491159,
-    "wof:lastmodified":1566605444,
+    "wof:lastmodified":1690939463,
     "wof:name":"Slivnik",
     "wof:parent_id":85674237,
     "wof:placetype":"locality",

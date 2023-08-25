@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":8.0,
+    "name:aka_x_preferred":[
+        "Prilep"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0644\u064a\u0628"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0631\u064a\u0644\u064a\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Prilep"
     ],
     "name:aze_x_preferred":[
         "Pirlepe"
@@ -52,6 +58,9 @@
     "name:chu_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0463\u043f\u044a"
     ],
+    "name:cym_x_preferred":[
+        "Prilep"
+    ],
     "name:dan_x_preferred":[
         "Prilep"
     ],
@@ -65,6 +74,9 @@
         "Prilep"
     ],
     "name:epo_x_preferred":[
+        "Prilep"
+    ],
+    "name:est_x_preferred":[
         "Prilep"
     ],
     "name:fas_x_preferred":[
@@ -124,6 +136,9 @@
     "name:kor_x_preferred":[
         "\ud504\ub9b4\ub808\ud504"
     ],
+    "name:lat_x_preferred":[
+        "Prilapum"
+    ],
     "name:lav_x_preferred":[
         "Prilepa"
     ],
@@ -132,6 +147,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u093f\u0932\u0947\u092a"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u044d\u043f"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0435\u043f"
@@ -151,6 +169,9 @@
     "name:nob_x_preferred":[
         "Prilep"
     ],
+    "name:oss_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
     "name:pol_x_preferred":[
         "Prilep"
     ],
@@ -159,6 +180,9 @@
     ],
     "name:por_x_preferred":[
         "Prilep"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u0631\u06cc\u0644\u067e"
     ],
     "name:ron_x_preferred":[
         "Prilep"
@@ -220,6 +244,9 @@
     "name:vol_x_preferred":[
         "Prilep"
     ],
+    "name:wuu_x_preferred":[
+        "\u666e\u91cc\u83b1\u666e"
+    ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u83b1\u666e"
     ],
@@ -256,7 +283,7 @@
         }
     ],
     "wof:id":890491793,
-    "wof:lastmodified":1566605461,
+    "wof:lastmodified":1690939502,
     "wof:name":"Prilep",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

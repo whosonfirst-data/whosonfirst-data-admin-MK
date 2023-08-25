@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "\u010cani\u0161te"
     ],
+    "name:ell_x_preferred":[
+        "\u03a8\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "\u010cani\u0161te"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890491463,
-    "wof:lastmodified":1566605453,
+    "wof:lastmodified":1690939482,
     "wof:name":"\u010cani\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

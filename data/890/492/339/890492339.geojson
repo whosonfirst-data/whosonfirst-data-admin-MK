@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Pol\u010di\u0161te"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03bb\u03c4\u03c3\u03b9\u03c3\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Pol\u010di\u0161te"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890492339,
-    "wof:lastmodified":1566605479,
+    "wof:lastmodified":1690939542,
     "wof:name":"Pol\u010di\u0161te",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

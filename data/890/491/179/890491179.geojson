@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Magarevo"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0433\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03b3\u03ac\u03c1\u03bf\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Magarevo"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Magarevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0433\u0430\u0440\u0435\u0432\u043e"
     ],
     "qs:name":"Magarevo",
     "qs:photos_9r":0,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890491179,
-    "wof:lastmodified":1566605474,
+    "wof:lastmodified":1690939531,
     "wof:name":"Magarevo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

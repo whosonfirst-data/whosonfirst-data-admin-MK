@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043f\u043e\u0442\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Sopotnica"
+    ],
     "name:ces_x_preferred":[
         "Sopotnica"
     ],
@@ -30,6 +33,9 @@
         "Sopotnica"
     ],
     "name:eng_x_preferred":[
+        "Sopotnica"
+    ],
+    "name:epo_x_preferred":[
         "Sopotnica"
     ],
     "name:fra_x_preferred":[
@@ -49,6 +55,9 @@
     ],
     "name:nld_x_preferred":[
         "Sopotnica"
+    ],
+    "name:nno_x_preferred":[
+        "Sopotnitsa"
     ],
     "name:pol_x_preferred":[
         "Sopotnica"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":890491979,
-    "wof:lastmodified":1566605456,
+    "wof:lastmodified":1690939490,
     "wof:name":"Sopotnica",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

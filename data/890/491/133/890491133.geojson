@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Novoselani"
+    ],
     "name:eng_x_preferred":[
         "Novoselani"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u0459\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Novoselani"
     ],
     "name:und_x_variant":[
         "Novosljani"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890491133,
-    "wof:lastmodified":1566605446,
+    "wof:lastmodified":1690939466,
     "wof:name":"Novoselani",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

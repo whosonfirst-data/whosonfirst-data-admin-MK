@@ -20,11 +20,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u06a4\u0644\u0627\u062f\u064a\u0645\u064a\u0631\u0648\u06a4\u0648"
+    ],
+    "name:bos_x_preferred":[
+        "Vladimirovo"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Vladimirovo"
+    ],
     "name:ceb_x_preferred":[
         "Vladimirovo"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
     ],
     "name:eng_x_preferred":[
         "Vladimirovo"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":890492029,
-    "wof:lastmodified":1566605494,
+    "wof:lastmodified":1690939575,
     "wof:name":"Vladimirovo",
     "wof:parent_id":85674479,
     "wof:placetype":"locality",

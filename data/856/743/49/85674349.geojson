@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Krivoga\u0161tani"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Krivoga\u0161tani"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Krivoga\u0161tani"
+    ],
     "name:dan_x_preferred":[
         "Krivoga\u0161tani Municipality"
     ],
@@ -75,11 +81,17 @@
     "name:eng_x_variant":[
         "Krivoga\u0161tani Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Krivoga\u0161tani"
+    ],
     "name:fin_x_preferred":[
         "Krivoga\u0161tanin kunta"
     ],
     "name:fra_x_preferred":[
         "Krivogachtani"
+    ],
+    "name:fra_x_variant":[
+        "Krivoga\u0161tani"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0ac0\u0ab5\u0acb\u0a97\u0abe\u0ab8\u0acd\u0aa4\u0abe\u0aa8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -108,6 +120,9 @@
     "name:kor_x_preferred":[
         "\ud06c\ub9ac\ubcf4\uac00\uc288\ud0c0\ub2c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud06c\ub9ac\ubcf4\uac00\uc288\ud0c0\ub2c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Krivoga\u0161tanu pa\u0161vald\u012bba"
     ],
@@ -131,6 +146,9 @@
     ],
     "name:nld_x_preferred":[
         "Krivoga\u0161tani"
+    ],
+    "name:nno_x_preferred":[
+        "Krivogasjtani"
     ],
     "name:nob_x_preferred":[
         "Krivogasjtani kommune"
@@ -195,6 +213,9 @@
     ],
     "name:zho_x_preferred":[
         "\u514b\u91cc\u6c83\u52a0\u4ec0\u5854\u5c3c\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u91cc\u6c83\u52a0\u4ec0\u5854\u5c3c\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -307,7 +328,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aab7885fbc8385155b49d212a85495b9",
+    "wof:geomhash":"d463a079e3a1c553a1a34d5248e2b546",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -323,7 +344,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354003,
+    "wof:lastmodified":1690939452,
     "wof:name":"Krivoga\u0161tani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

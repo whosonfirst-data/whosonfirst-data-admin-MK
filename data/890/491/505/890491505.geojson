@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u044a\u043d"
     ],
     "name:ceb_x_preferred":[
         "Trn"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u043d"
     ],
     "name:eng_x_preferred":[
         "Trn"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890491505,
-    "wof:lastmodified":1566605445,
+    "wof:lastmodified":1690939465,
     "wof:name":"Trn",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

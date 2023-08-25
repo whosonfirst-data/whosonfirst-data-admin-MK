@@ -57,6 +57,9 @@
     "name:fra_x_preferred":[
         "Staro Nagoritchan\u00e9"
     ],
+    "name:fra_x_variant":[
+        "Staro Nagori\u010dane"
+    ],
     "name:hbs_x_preferred":[
         "Op\u0107ina Staro Nagori\u010dane"
     ],
@@ -72,6 +75,9 @@
     "name:kor_x_preferred":[
         "\uc2a4\ud0c0\ub85c\ub098\uace0\ub9ac\ucc28\ub124 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud0c0\ub85c\ub098\uace0\ub9ac\ucc28\ub124\uc2dc"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0442\u0430\u0440\u043e \u041d\u0430\u0433\u043e\u0440\u0438\u0447\u0430\u043d\u0435"
     ],
@@ -80,6 +86,9 @@
     ],
     "name:nld_x_preferred":[
         "Staro Nagori\u010dane"
+    ],
+    "name:nno_x_preferred":[
+        "Staro Nagoritsjane"
     ],
     "name:ron_x_preferred":[
         "Staro Nagori\u010dane"
@@ -108,6 +117,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u5854\u7f85\u7d0d\u6208\u91cc\u67e5\u5167\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u65e7\u7eb3\u6208\u91cc\u67e5\u5185\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -219,7 +231,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4d4919a6205133b6c5a32f79432a79e9",
+    "wof:geomhash":"0d65d133ef3dbe044faa208a7df3b9a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -235,7 +247,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939458,
     "wof:name":"Northeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

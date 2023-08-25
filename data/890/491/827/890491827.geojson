@@ -37,6 +37,9 @@
     "name:mkd_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
     ],
+    "name:pol_x_preferred":[
+        "S\u0142atino"
+    ],
     "name:ron_x_preferred":[
         "Slatino"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890491827,
-    "wof:lastmodified":1566605448,
+    "wof:lastmodified":1690939471,
     "wof:name":"Slatino",
     "wof:parent_id":85674413,
     "wof:placetype":"locality",

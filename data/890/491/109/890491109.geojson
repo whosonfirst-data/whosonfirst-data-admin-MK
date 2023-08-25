@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e \u0417\u043c\u0438\u0440\u043d\u043e\u0432\u043e"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e \u0417\u043c\u0438\u0440\u043d\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Staro Zmirnovo"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890491109,
-    "wof:lastmodified":1566605461,
+    "wof:lastmodified":1690939503,
     "wof:name":"Staro Zmirnovo",
     "wof:parent_id":85674157,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0431\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Babino"
+    ],
     "name:eng_x_preferred":[
         "Babino"
     ],
@@ -40,6 +43,9 @@
     "name:nan_x_preferred":[
         "Babino"
     ],
+    "name:nld_x_preferred":[
+        "Babino"
+    ],
     "name:pol_x_preferred":[
         "Babino"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0431\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Babino"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890491103,
-    "wof:lastmodified":1566605443,
+    "wof:lastmodified":1690939462,
     "wof:name":"Babino",
     "wof:parent_id":85674161,
     "wof:placetype":"locality",

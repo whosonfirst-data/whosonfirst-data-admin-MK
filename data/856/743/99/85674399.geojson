@@ -48,6 +48,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Ki\u010devo"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Ki\u010devo"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Ki\u010devo"
+    ],
     "name:dan_x_preferred":[
         "Ki\u010devo Municipality"
     ],
@@ -66,11 +72,20 @@
     "name:eng_x_variant":[
         "Ki\u010devo Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Ki\u010devo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06a9\u06cc\u0634\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ki\u010devon kunta"
     ],
     "name:fra_x_preferred":[
         "Kitchevo"
+    ],
+    "name:fra_x_variant":[
+        "Ki\u010devo"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab8\u0ac7\u0ab5\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -102,6 +117,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\uccb4\ubcf4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud0a4\uccb4\ubcf4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ki\u010devo pasvald\u012bba"
     ],
@@ -125,6 +143,9 @@
     ],
     "name:nld_x_preferred":[
         "Ki\u010devo"
+    ],
+    "name:nno_x_preferred":[
+        "Kitsjevo"
     ],
     "name:nob_x_preferred":[
         "Kicevo kommune"
@@ -189,6 +210,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u5207\u6c83\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u57fa\u5207\u6c83\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -315,7 +339,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1614895071,
+    "wof:lastmodified":1690939450,
     "wof:name":"Kicevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina Probi\u0161tip"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Probi\u0161tip"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Probi\u0161tip"
+    ],
     "name:dan_x_preferred":[
         "Probi\u0161tip Municipality"
     ],
@@ -75,11 +81,20 @@
     "name:eng_x_variant":[
         "Probi\u0161tip Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Probi\u0161tip"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u067e\u0631\u0648\u0628\u06cc\u0633\u062a\u06cc\u067e"
+    ],
     "name:fin_x_preferred":[
         "Probi\u0161tipin kunta"
     ],
     "name:fra_x_preferred":[
         "Probichtip"
+    ],
+    "name:fra_x_variant":[
+        "Probi\u0161tip"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0acb\u0aac\u0abf\u0ab8\u0acd\u0a9f\u0abf\u0aaa \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -108,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ud504\ub85c\ube44\uc288\ud2f0\ud504 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud504\ub85c\ube44\uc288\ud2f0\ud504\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Probi\u0161tipas pa\u0161vald\u012bba"
     ],
@@ -131,6 +149,9 @@
     ],
     "name:nld_x_preferred":[
         "Probi\u0161tip"
+    ],
+    "name:nno_x_preferred":[
+        "Probisjtip"
     ],
     "name:nob_x_preferred":[
         "Probistip kommune"
@@ -158,6 +179,9 @@
     ],
     "name:swe_x_preferred":[
         "Probistip kommun"
+    ],
+    "name:swe_x_variant":[
+        "Probistip"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcd\u0bb0\u0bcb\u0baa\u0bbf\u0bb8\u0bcd\u0b9f\u0bbf\u0baa\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
@@ -195,6 +219,9 @@
     ],
     "name:zho_x_preferred":[
         "\u666e\u7f85\u6bd4\u4ec0\u8482\u666e\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u7f57\u6bd4\u4ec0\u8482\u666e\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -307,7 +334,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75274e1245d48940b7e24cbbfe0101d2",
+    "wof:geomhash":"6fc085d0da3b57862305b01fea0f32c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -323,7 +350,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939437,
     "wof:name":"Probistip",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

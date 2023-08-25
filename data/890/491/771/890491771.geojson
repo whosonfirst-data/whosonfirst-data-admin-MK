@@ -19,7 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0644\u0648\u067e\u064a\u0643"
+    ],
     "name:bul_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Celopek"
+    ],
+    "name:ces_x_preferred":[
+        "\u010celopek"
+    ],
+    "name:che_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
     ],
     "name:eng_x_preferred":[
@@ -40,6 +52,9 @@
     "name:nld_x_preferred":[
         "\u010celopek"
     ],
+    "name:nno_x_preferred":[
+        "Tsjelopek"
+    ],
     "name:pol_x_preferred":[
         "Cze\u0142opek"
     ],
@@ -51,6 +66,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Celopek"
     ],
     "qs:name":"\u010celopek",
     "qs:photos_9r":0,
@@ -83,7 +101,7 @@
         }
     ],
     "wof:id":890491771,
-    "wof:lastmodified":1566605457,
+    "wof:lastmodified":1690939492,
     "wof:name":"\u010celopek",
     "wof:parent_id":85674427,
     "wof:placetype":"locality",

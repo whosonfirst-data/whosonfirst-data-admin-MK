@@ -25,6 +25,9 @@
     "name:arg_x_preferred":[
         "Slivnica"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u064a\u06a4\u0646\u064a\u0643\u0627"
+    ],
     "name:ast_x_preferred":[
         "Slivnica"
     ],
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":890491161,
-    "wof:lastmodified":1566605445,
+    "wof:lastmodified":1690939464,
     "wof:name":"Slivnica",
     "wof:parent_id":85674147,
     "wof:placetype":"locality",

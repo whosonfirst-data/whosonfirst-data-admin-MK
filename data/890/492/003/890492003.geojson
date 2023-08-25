@@ -32,8 +32,14 @@
     "name:eng_x_preferred":[
         "Bu\u010din"
     ],
+    "name:epo_x_preferred":[
+        "Bu\u0109in"
+    ],
     "name:fra_x_preferred":[
         "Boutchin"
+    ],
+    "name:ind_x_preferred":[
+        "Bu\u010din"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0447\u0438\u043d"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890492003,
-    "wof:lastmodified":1566605496,
+    "wof:lastmodified":1690939579,
     "wof:name":"Bu\u010din",
     "wof:parent_id":85674353,
     "wof:placetype":"locality",

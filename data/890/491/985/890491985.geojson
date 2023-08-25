@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0647\u062a\u0634\u064a\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0647\u062a\u0634\u064a\u0641\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Peh\u010devo"
+    ],
     "name:bos_x_preferred":[
         "Peh\u010devo"
     ],
@@ -30,6 +36,9 @@
         "\u041f\u0435\u0445\u0447\u0435\u0432\u043e"
     ],
     "name:ceb_x_preferred":[
+        "Peh\u010devo"
+    ],
+    "name:ces_x_preferred":[
         "Peh\u010devo"
     ],
     "name:chu_x_preferred":[
@@ -44,8 +53,14 @@
     "name:eng_x_preferred":[
         "Peh\u010devo"
     ],
+    "name:epo_x_preferred":[
+        "Peh\u010devo"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0647\u0686\u0641\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Peh\u010devo"
     ],
     "name:hrv_x_preferred":[
         "Peh\u010devo"
@@ -70,6 +85,9 @@
     ],
     "name:pol_x_preferred":[
         "Pehczewo"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u0647\u0686\u0641\u0648"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0445\u0447\u0435\u0432\u043e"
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":890491985,
-    "wof:lastmodified":1566605458,
+    "wof:lastmodified":1690939495,
     "wof:name":"Peh\u010devo",
     "wof:parent_id":85674495,
     "wof:placetype":"locality",

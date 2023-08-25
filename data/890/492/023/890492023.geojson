@@ -26,6 +26,12 @@
     "name:ceb_x_preferred":[
         "Pirok"
     ],
+    "name:ces_x_preferred":[
+        "Pirok"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u043a"
+    ],
     "name:eng_x_preferred":[
         "Pirok"
     ],
@@ -42,6 +48,12 @@
         "Pirok"
     ],
     "name:nld_x_preferred":[
+        "Pirok"
+    ],
+    "name:nno_x_preferred":[
+        "Pirok"
+    ],
+    "name:pol_x_preferred":[
         "Pirok"
     ],
     "name:slv_x_preferred":[
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":890492023,
-    "wof:lastmodified":1566605480,
+    "wof:lastmodified":1690939544,
     "wof:name":"Pirok",
     "wof:parent_id":85674425,
     "wof:placetype":"locality",

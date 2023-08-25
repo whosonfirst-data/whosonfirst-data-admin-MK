@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0440\u0435\u043a\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Erekovci"
+    ],
     "name:eng_x_preferred":[
         "Erekovci"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0415\u0440\u0435\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Jerekovci"
     ],
     "qs:name":"Erekovci",
     "qs:photos_9r":0,
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":890491571,
-    "wof:lastmodified":1566605472,
+    "wof:lastmodified":1690939527,
     "wof:name":"Erekovci",
     "wof:parent_id":85674183,
     "wof:placetype":"locality",

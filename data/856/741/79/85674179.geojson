@@ -57,6 +57,12 @@
     "name:ceb_x_preferred":[
         "Plasnica"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina Plasnica"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Plasnica"
+    ],
     "name:dan_x_preferred":[
         "Plasnica Municipality"
     ],
@@ -75,11 +81,20 @@
     "name:eng_x_variant":[
         "Plasnica"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina Plasnica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u067e\u0644\u0627\u0633\u0646\u06cc\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Plasnican kunta"
     ],
     "name:fra_x_preferred":[
         "Plasnitsa"
+    ],
+    "name:fra_x_variant":[
+        "Plasnica"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab2\u0abe\u0ab8\u0acd\u0aa8\u0abf\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -114,6 +129,9 @@
     "name:kor_x_preferred":[
         "\ud50c\ub77c\uc2a4\ub2c8\ucc28 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud50c\ub77c\uc2a4\ub2c8\ucc28\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Plasnicas pa\u0161vald\u012bba"
     ],
@@ -137,6 +155,9 @@
     ],
     "name:nld_x_preferred":[
         "Plasnica"
+    ],
+    "name:nno_x_preferred":[
+        "Plasnitsa"
     ],
     "name:nob_x_preferred":[
         "Plasnica Kommune"
@@ -197,6 +218,9 @@
     ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u65af\u5c3c\u5bdf\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u62c9\u65af\u5c3c\u5bdf\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MKD",
@@ -308,7 +332,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"803545af3f453336d7d39ad45ae4b2a3",
+    "wof:geomhash":"ec10d2fe31f293dd62565808bf4a06a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -324,7 +348,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1684354002,
+    "wof:lastmodified":1690939438,
     "wof:name":"Plasnica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

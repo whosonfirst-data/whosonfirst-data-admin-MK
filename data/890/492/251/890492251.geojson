@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Drenovci"
+    ],
     "name:deu_x_preferred":[
         "Drenovci"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Drenovci"
     ],
     "name:und_x_variant":[
         "Drenoec"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890492251,
-    "wof:lastmodified":1636506003,
+    "wof:lastmodified":1690939556,
     "wof:name":"Zrnovci",
     "wof:parent_id":85674293,
     "wof:placetype":"locality",

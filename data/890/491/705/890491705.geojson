@@ -31,6 +31,12 @@
     "name:ceb_x_preferred":[
         "Op\u0161tina \u017delino"
     ],
+    "name:ces_x_preferred":[
+        "Op\u0161tina \u017delino"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref \u017delino"
+    ],
     "name:dan_x_preferred":[
         "\u017delino Municipality"
     ],
@@ -46,11 +52,17 @@
     "name:eng_x_variant":[
         "\u017delino Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Op\u0161tina \u017delino"
+    ],
     "name:fin_x_preferred":[
         "\u017delinon kunta"
     ],
     "name:fra_x_preferred":[
         "Jelino"
+    ],
+    "name:fra_x_variant":[
+        "\u017delino"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac7\u0ab2\u0abf\u0aa8\u0acb \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -79,6 +91,9 @@
     "name:kor_x_preferred":[
         "\uc824\ub9ac\ub178 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc824\ub9ac\ub178\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "\u017delino pa\u0161vald\u012bba"
     ],
@@ -103,6 +118,9 @@
     "name:nld_x_preferred":[
         "\u017delino"
     ],
+    "name:nno_x_preferred":[
+        "Zjelino"
+    ],
     "name:nob_x_preferred":[
         "Zelino kommune"
     ],
@@ -120,6 +138,9 @@
     ],
     "name:swe_x_preferred":[
         "\u017delino"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bbf\u0bb2\u0bbf\u0ba9\u0bcb \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c46\u0c32\u0c3f\u0c28\u0c4b \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -144,6 +165,9 @@
     ],
     "name:zho_x_preferred":[
         "\u71b1\u5229\u8afe\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u70ed\u5229\u8bfa\u5e02\u9547"
     ],
     "qs:name":"\u0416\u0435\u043b\u0438\u043d\u043e",
     "qs:photos_9r":0,
@@ -176,7 +200,7 @@
         }
     ],
     "wof:id":890491705,
-    "wof:lastmodified":1566605459,
+    "wof:lastmodified":1690939499,
     "wof:name":"\u0416\u0435\u043b\u0438\u043d\u043e",
     "wof:parent_id":85674251,
     "wof:placetype":"locality",

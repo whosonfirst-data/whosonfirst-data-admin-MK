@@ -37,6 +37,9 @@
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0434\u0438\u0432\u0458\u0435"
     ],
+    "name:mkd_x_variant":[
+        "\u0413\u043e\u0434\u0438\u0432\u043b\u0435"
+    ],
     "name:nan_x_preferred":[
         "Godivy\u00e9"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890492621,
-    "wof:lastmodified":1566605481,
+    "wof:lastmodified":1690939546,
     "wof:name":"Godivje",
     "wof:parent_id":85674349,
     "wof:placetype":"locality",

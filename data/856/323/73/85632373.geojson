@@ -29,6 +29,9 @@
     "itu:country_code":[
         "389"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "MKD"
     ],
@@ -1548,7 +1551,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"902c90fae2ed85478bb25644b93b8216",
+    "wof:geomhash":"15e83cba4df3d6456d97f2592b744aec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1563,7 +1566,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939435,
+    "wof:lastmodified":1694492263,
     "wof:name":"North Macedonia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

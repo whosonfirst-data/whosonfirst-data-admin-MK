@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013006,
-    "geom:area_square_m":120269917.68623,
+    "geom:area_square_m":120270092.75585,
     "geom:bbox":"20.966552,41.514318,21.106119,41.665145",
     "geom:latitude":41.594796,
     "geom:longitude":21.032883,
@@ -293,16 +293,18 @@
         "gn:id":863885,
         "gp:id":24550795,
         "hasc:id":"MK.OS",
+        "iso:code":"MK-57",
         "iso:id":"MK-57",
         "qs_pg:id":59738,
         "unlc:id":"MK-57",
         "wd:id":"Q2001785"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b8173af2bc5dd52658c0bfa3a11345a",
+    "wof:geomhash":"e9cdf8c859744ed36ddbcd7010bedb0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +320,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939442,
+    "wof:lastmodified":1695884966,
     "wof:name":"Oslomej",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

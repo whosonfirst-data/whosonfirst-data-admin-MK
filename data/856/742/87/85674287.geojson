@@ -326,17 +326,19 @@
         "gn:id":863842,
         "gp:id":24550830,
         "hasc:id":"MK.CS",
+        "iso:code":"MK-82",
         "iso:id":"MK-82",
         "qs_pg:id":1311349,
         "unlc:id":"MK-82",
         "wd:id":"Q629720",
         "wk:page":"\u010cu\u010der-Sandevo Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6555f4d0824f6c8e57c47d74f4439f55",
+    "wof:geomhash":"14051b26efec48e468eab12b0503f31a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -352,7 +354,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939454,
+    "wof:lastmodified":1695885333,
     "wof:name":"Cucer Sandevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

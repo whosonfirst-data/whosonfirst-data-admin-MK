@@ -320,17 +320,19 @@
         "gn:id":863906,
         "gp:id":24550861,
         "hasc:id":"MK.TR",
+        "iso:code":"MK-75",
         "iso:id":"MK-75",
         "qs_pg:id":1193249,
         "unlc:id":"MK-75",
         "wd:id":"Q2282274",
         "wk:page":"Tearce Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64943154a23ae9fc19d1e9016f5a694d",
+    "wof:geomhash":"e089116ce4ab48577b66288f7088115f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -346,7 +348,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939445,
+    "wof:lastmodified":1695885334,
     "wof:name":"Tearce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

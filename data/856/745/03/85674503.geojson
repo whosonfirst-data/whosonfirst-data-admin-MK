@@ -316,17 +316,19 @@
         "gn:id":863891,
         "gp:id":24550844,
         "hasc:id":"MK.RN",
+        "iso:code":"MK-65",
         "iso:id":"MK-65",
         "qs_pg:id":1193222,
         "unlc:id":"MK-65",
         "wd:id":"Q1475001",
         "wk:page":"Rankovce Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08725ebbfc36463997034519c0df955b",
+    "wof:geomhash":"005d9eb6345476d589fb325d02f654a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -342,7 +344,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939458,
+    "wof:lastmodified":1695885334,
     "wof:name":"Rankovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

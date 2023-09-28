@@ -250,16 +250,18 @@
         "gn:id":863836,
         "gp:id":24550752,
         "hasc:id":"MK.CI",
+        "iso:code":"MK-79",
         "iso:id":"MK-79",
         "qs_pg:id":1191262,
         "unlc:id":"MK-79",
         "wd:id":"Q1419314"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64eda2483b6a85916ca8df90b783dd6e",
+    "wof:geomhash":"f24c419f00416692d5f3199deb55c726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,7 +277,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939453,
+    "wof:lastmodified":1695885333,
     "wof:name":"Cair",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

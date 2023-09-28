@@ -324,17 +324,19 @@
         "gn:id":863889,
         "gp:id":24550800,
         "hasc:id":"MK.PT",
+        "iso:code":"MK-63",
         "iso:id":"MK-63",
         "qs_pg:id":1103579,
         "unlc:id":"MK-63",
         "wd:id":"Q2270414",
         "wk:page":"Probi\u0161tip Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6fc085d0da3b57862305b01fea0f32c1",
+    "wof:geomhash":"75274e1245d48940b7e24cbbfe0101d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -350,7 +352,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939437,
+    "wof:lastmodified":1695885332,
     "wof:name":"Probistip",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -254,16 +254,18 @@
         "gn:id":863468,
         "gp:id":24550791,
         "hasc:id":"MK.NV",
+        "iso:code":"MK-55",
         "iso:id":"MK-55",
         "qs_pg:id":1197779,
         "unlc:id":"MK-55",
         "wd:id":"Q2088022"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94c177b7c52ae00e46e186014db5130a",
+    "wof:geomhash":"c11084ff5524cc264fcf56725cf94e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,7 +281,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939447,
+    "wof:lastmodified":1695885334,
     "wof:name":"Novatsi",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

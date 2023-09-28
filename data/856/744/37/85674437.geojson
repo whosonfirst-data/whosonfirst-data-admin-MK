@@ -325,17 +325,19 @@
         "gn:id":863858,
         "gp:id":24550771,
         "hasc:id":"MK.JG",
+        "iso:code":"MK-35",
         "iso:id":"MK-35",
         "qs_pg:id":1322885,
         "unlc:id":"MK-35",
         "wd:id":"Q431908",
         "wk:page":"Jegunovce Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f8a0b8b785f71b14de7108e94a933ed",
+    "wof:geomhash":"581053b3a4961821a72c30ef3c531329",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -351,7 +353,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939443,
+    "wof:lastmodified":1695885334,
     "wof:name":"Jegunovce",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

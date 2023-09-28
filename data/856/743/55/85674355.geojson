@@ -324,17 +324,19 @@
         "gn:id":863873,
         "gp:id":24550832,
         "hasc:id":"MK.UM",
+        "iso:code":"MK-47",
         "iso:id":"MK-47",
         "qs_pg:id":1103577,
         "unlc:id":"MK-47",
         "wd:id":"Q2352376",
         "wk:page":"Kumanovo Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5270c960ab95fd8189af653b4ed16b78",
+    "wof:geomhash":"537eb5e427d53141d01b921622d89173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -350,7 +352,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939450,
+    "wof:lastmodified":1695885334,
     "wof:name":"Kumanovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

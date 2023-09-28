@@ -325,17 +325,19 @@
         "gn:id":863838,
         "gp:id":24550754,
         "hasc:id":"MK.CA",
+        "iso:code":"MK-80",
         "iso:id":"MK-80",
         "qs_pg:id":1193160,
         "unlc:id":"MK-80",
         "wd:id":"Q1994547",
         "wk:page":"\u010ca\u0161ka Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a7c9eaed083e4870e3c5e403bcb5d32",
+    "wof:geomhash":"d8b96b4b32c885b7cd4e966ee77c6901",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -351,7 +353,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939456,
+    "wof:lastmodified":1695885333,
     "wof:name":"Ca\u0161ka",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

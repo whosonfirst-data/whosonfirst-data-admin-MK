@@ -285,16 +285,18 @@
         "gn:id":7056266,
         "gp:id":55848400,
         "hasc:id":"MK.AD",
+        "iso:code":"MK-01",
         "iso:id":"MK-01",
         "qs_pg:id":46448,
         "unlc:id":"MK-01",
         "wd:id":"Q1992708"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cd270fd8a7903d181b64c23204276581",
+    "wof:geomhash":"88c3c6125c99c90d06b60c09d973c250",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,7 +312,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939448,
+    "wof:lastmodified":1695885333,
     "wof:name":"Aerodrom",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

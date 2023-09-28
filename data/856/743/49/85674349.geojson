@@ -318,17 +318,19 @@
         "gn:id":863870,
         "gp:id":24550781,
         "hasc:id":"MK.KG",
+        "iso:code":"MK-45",
         "iso:id":"MK-45",
         "qs_pg:id":59736,
         "unlc:id":"MK-45",
         "wd:id":"Q2018930",
         "wk:page":"Krivoga\u0161tani Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d463a079e3a1c553a1a34d5248e2b546",
+    "wof:geomhash":"aab7885fbc8385155b49d212a85495b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -344,7 +346,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939452,
+    "wof:lastmodified":1695885334,
     "wof:name":"Krivoga\u0161tani",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

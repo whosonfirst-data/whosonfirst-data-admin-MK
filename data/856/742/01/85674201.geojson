@@ -256,17 +256,19 @@
         "gn:id":862973,
         "gp:id":24550801,
         "hasc:id":"MK.RM",
+        "iso:code":"MK-67",
         "iso:id":"MK-67",
         "qs_pg:id":1103584,
         "unlc:id":"MK-67",
         "wd:id":"Q2088585",
         "wk:page":"Rosoman Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12dadaaf3d1a0519569483661036c842",
+    "wof:geomhash":"4ae9360888df2866e1898d75bf72cc2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,7 +284,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939456,
+    "wof:lastmodified":1695885333,
     "wof:name":"Vardar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

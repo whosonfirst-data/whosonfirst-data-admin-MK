@@ -272,16 +272,18 @@
         "gn:id":863853,
         "gp:id":24550766,
         "hasc:id":"MK.GB",
+        "iso:code":"MK-17",
         "iso:id":"MK-17",
         "qs_pg:id":1191272,
         "unlc:id":"MK-17",
         "wd:id":"Q2019836"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"383d0f79a394653e041b79b25f38ecff",
+    "wof:geomhash":"5dcd95743973f26f075e5fdd09e189db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +299,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939457,
+    "wof:lastmodified":1695885333,
     "wof:name":"Gazi Baba",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

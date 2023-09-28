@@ -323,16 +323,18 @@
         "gn:id":863485,
         "gp:id":24550826,
         "hasc:id":"MK.BR",
+        "iso:code":"MK-03",
         "iso:id":"MK-03",
         "qs_pg:id":1118949,
         "unlc:id":"MK-03",
         "wd:id":"Q793727"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a1f52483f17cc2984e2c1b62c86defad",
+    "wof:geomhash":"1ce1dadb69f3cf9a66bfbca266e65aac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -348,7 +350,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939444,
+    "wof:lastmodified":1695885334,
     "wof:name":"Berovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

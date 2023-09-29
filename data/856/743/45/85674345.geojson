@@ -367,17 +367,19 @@
         "gn:id":789090,
         "gp:id":24550780,
         "hasc:id":"MK.KY",
+        "iso:code":"MK-43",
         "iso:id":"MK-43",
         "qs_pg:id":503446,
         "unlc:id":"MK-43",
         "wd:id":"Q1992716",
         "wk:page":"Kratovo, Macedonia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6df10625caf89cb027089ee42992031a",
+    "wof:geomhash":"98f71fca6938f6ce193e3cdd2d0aaae6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -393,7 +395,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939447,
+    "wof:lastmodified":1695885333,
     "wof:name":"Kratovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

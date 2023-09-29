@@ -256,17 +256,19 @@
         "gn:id":863854,
         "gp:id":24550840,
         "hasc:id":"MK.GV",
+        "iso:code":"MK-18",
         "iso:id":"MK-18",
         "qs_pg:id":1020085,
         "unlc:id":"MK-18",
         "wd:id":"Q2018974",
         "wk:page":"Gevgelija Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33cd2faddc4e880234a72a8cd6866860",
+    "wof:geomhash":"792dcb6de3436bdb06db1a3589673d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,7 +284,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939439,
+    "wof:lastmodified":1695885334,
     "wof:name":"Southeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

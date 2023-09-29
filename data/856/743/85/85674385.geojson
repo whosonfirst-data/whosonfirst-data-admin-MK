@@ -321,17 +321,19 @@
         "gn:id":863841,
         "gp:id":24550829,
         "hasc:id":"MK.CZ",
+        "iso:code":"MK-78",
         "iso:id":"MK-78",
         "qs_pg:id":1103589,
         "unlc:id":"MK-78",
         "wd:id":"Q1779085",
         "wk:page":"Centar \u017dupa Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"475db21e216a15320e0070f5b04386f5",
+    "wof:geomhash":"2cd0330f8a9b3ae00450f994a62e1502",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -347,7 +349,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939451,
+    "wof:lastmodified":1695885334,
     "wof:name":"Centar \u017eupa",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

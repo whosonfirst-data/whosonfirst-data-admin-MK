@@ -330,16 +330,18 @@
         "gn:id":862977,
         "gp:id":24550757,
         "hasc:id":"MK.CH",
+        "iso:code":"MK-81",
         "iso:id":"MK-81",
         "qs_pg:id":1191263,
         "unlc:id":"MK-81",
         "wd:id":"Q281898"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"15a755bd4d2d9691fdc3f9ebe9d9cf87",
+    "wof:geomhash":"53387316fad0cd26922ade0443b11edb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -355,7 +357,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939457,
+    "wof:lastmodified":1695885333,
     "wof:name":"Ce\u0161inovo-Oble\u0161evo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

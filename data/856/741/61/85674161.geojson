@@ -272,17 +272,19 @@
         "gn:id":863846,
         "gp:id":24550759,
         "hasc:id":"MK.DM",
+        "iso:code":"MK-25",
         "iso:id":"MK-25",
         "qs_pg:id":1322884,
         "unlc:id":"MK-25",
         "wd:id":"Q856278",
         "wk:page":"Demir Hisar Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f464fe4d67b72415d2a3b6eea355a35c",
+    "wof:geomhash":"65e3622900898890df35ca2481ff6acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -298,7 +300,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939435,
+    "wof:lastmodified":1695885332,
     "wof:name":"Demir Hisar",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

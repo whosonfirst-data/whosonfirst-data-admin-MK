@@ -253,17 +253,19 @@
         "gn:id":863488,
         "gp:id":24550789,
         "hasc:id":"MK.MG",
+        "iso:code":"MK-53",
         "iso:id":"MK-53",
         "qs_pg:id":911157,
         "unlc:id":"MK-53",
         "wd:id":"Q1839369",
         "wk:page":"Mogila Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"561a76122ec9f89280dcdeacc6eec86d",
+    "wof:geomhash":"cb05294943a6c2ed26aa40bafd29eb8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,7 +281,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939448,
+    "wof:lastmodified":1695885334,
     "wof:name":"Pelagonia",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

@@ -317,17 +317,19 @@
         "gn:id":863861,
         "gp:id":24550774,
         "hasc:id":"MK.AV",
+        "iso:code":"MK-36",
         "iso:id":"MK-36",
         "qs_pg:id":989456,
         "unlc:id":"MK-36",
         "wd:id":"Q1155055",
         "wk:page":"Kavadarci Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5bc84bac52a96b580cb6e1a2c62a55d1",
+    "wof:geomhash":"bdb572ed56076ff48368a3d3cb2796f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -343,7 +345,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939446,
+    "wof:lastmodified":1695885333,
     "wof:name":"Kavadartsi",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

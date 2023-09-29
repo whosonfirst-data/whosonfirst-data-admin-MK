@@ -318,17 +318,19 @@
         "gn:id":863919,
         "gp:id":24550821,
         "hasc:id":"MK.ZE",
+        "iso:code":"MK-30",
         "iso:id":"MK-30",
         "qs_pg:id":1016988,
         "unlc:id":"MK-30",
         "wd:id":"Q1996410",
         "wk:page":"\u017delino Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7f047fdc65c37525f367aefc60db7b0",
+    "wof:geomhash":"1f7a5dda6728c86bd099fbcff541ce8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -344,7 +346,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939452,
+    "wof:lastmodified":1695885333,
     "wof:name":"\u017delino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

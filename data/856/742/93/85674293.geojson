@@ -324,17 +324,19 @@
         "gn:id":863849,
         "gp:id":24550763,
         "hasc:id":"MK.DE",
+        "iso:code":"MK-27",
         "iso:id":"MK-27",
         "qs_pg:id":503081,
         "unlc:id":"MK-27",
         "wd:id":"Q1992691",
         "wk:page":"Dolneni Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f481179f1172300200796c86acb835d",
+    "wof:geomhash":"59db397e1d6da3ea3e4e0f78d837b1fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -350,7 +352,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939453,
+    "wof:lastmodified":1695885333,
     "wof:name":"Dolneni",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

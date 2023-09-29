@@ -273,16 +273,18 @@
         "gn:id":863894,
         "gp:id":24550803,
         "hasc:id":"MK.AJ",
+        "iso:code":"MK-68",
         "iso:id":"MK-68",
         "qs_pg:id":1191297,
         "unlc:id":"MK-68",
         "wd:id":"Q1309481"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"843ce9029b9fa3e8f06147915669aabf",
+    "wof:geomhash":"885ecb50a86757169a5febdfa1c6e0c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -298,7 +300,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939453,
+    "wof:lastmodified":1695885333,
     "wof:name":"Saraj",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

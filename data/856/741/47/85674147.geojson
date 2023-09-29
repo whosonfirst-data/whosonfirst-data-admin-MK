@@ -330,17 +330,19 @@
         "gn:id":786339,
         "gp:id":24550855,
         "hasc:id":"MK.RE",
+        "iso:code":"MK-66",
         "iso:id":"MK-66",
         "qs_pg:id":1193220,
         "unlc:id":"MK-66",
         "wd:id":"Q740591",
         "wk:page":"Resen Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"571e1bf65757af04f062758fd678801b",
+    "wof:geomhash":"3926a63deb22f5f665cbd58887b516cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -356,7 +358,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939438,
+    "wof:lastmodified":1695885332,
     "wof:name":"Resen",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

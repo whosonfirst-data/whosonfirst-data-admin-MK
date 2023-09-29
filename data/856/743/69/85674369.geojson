@@ -323,17 +323,19 @@
         "gn:id":863881,
         "gp:id":24550790,
         "hasc:id":"MK.NG",
+        "iso:code":"MK-54",
         "iso:id":"MK-54",
         "qs_pg:id":503463,
         "unlc:id":"MK-54",
         "wd:id":"Q3246545",
         "wk:page":"Negotino Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2134294a423e4c6c553e8fb5015c7ac4",
+    "wof:geomhash":"10fb6bcf736eb6a5c1111b9e87c68601",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -349,7 +351,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939446,
+    "wof:lastmodified":1695885334,
     "wof:name":"Negotino",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

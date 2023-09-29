@@ -325,17 +325,19 @@
         "gn:id":863907,
         "gp:id":24550862,
         "hasc:id":"MK.ET",
+        "iso:code":"MK-76",
         "iso:id":"MK-76",
         "qs_pg:id":241657,
         "unlc:id":"MK-76",
         "wd:id":"Q3245456",
         "wk:page":"Tetovo Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9f400ea7a6d135fd671e22cb8f07164",
+    "wof:geomhash":"4f913b8166a3b815fec6990b6c940e47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -351,7 +353,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939441,
+    "wof:lastmodified":1695885334,
     "wof:name":"Tetovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

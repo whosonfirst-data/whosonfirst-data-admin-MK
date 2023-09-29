@@ -321,17 +321,19 @@
         "gn:id":862938,
         "gp:id":24550854,
         "hasc:id":"MK.PH",
+        "iso:code":"MK-60",
         "iso:id":"MK-60",
         "qs_pg:id":999055,
         "unlc:id":"MK-60",
         "wd:id":"Q426114",
         "wk:page":"Peh\u010devo Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed53ce6c5f5087af046b0d8ff083a0e2",
+    "wof:geomhash":"d6fac54ce2a7dcaeccec717e3f944e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -347,7 +349,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939439,
+    "wof:lastmodified":1695885334,
     "wof:name":"Phecevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

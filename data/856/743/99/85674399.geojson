@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005297,
-    "geom:area_square_m":49039392.532096,
+    "geom:area_square_m":49039382.045541,
     "geom:bbox":"20.888344,41.479246,21.002014,41.564259",
     "geom:latitude":41.524102,
     "geom:longitude":20.950121,
@@ -313,17 +313,19 @@
         "gn:id":863862,
         "gp:id":24550775,
         "hasc:id":"MK.KH",
+        "iso:code":"MK-40",
         "iso:id":"MK-40",
         "qs_pg:id":503416,
         "unlc:id":"MK-40",
         "wd:id":"Q2018957",
         "wk:page":"Ki\u010devo Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"061872c866d891d9ea1f4ffe977aee8b",
+    "wof:geomhash":"b23db787c029dca078c5508b6462760a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -339,7 +341,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939450,
+    "wof:lastmodified":1695884521,
     "wof:name":"Kicevo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

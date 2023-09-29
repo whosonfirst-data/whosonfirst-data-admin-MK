@@ -319,17 +319,19 @@
         "gn:id":862946,
         "gp:id":24550750,
         "hasc:id":"MK.BS",
+        "iso:code":"MK-07",
         "iso:id":"MK-07",
         "qs_pg:id":934358,
         "unlc:id":"MK-07",
         "wd:id":"Q1779775",
         "wk:page":"Bosilovo Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1335246f32e4122795dc31c794d7592c",
+    "wof:geomhash":"f01cb7228e33d1a7b9d889eec0730dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -345,7 +347,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939439,
+    "wof:lastmodified":1695885334,
     "wof:name":"Bosilovo",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

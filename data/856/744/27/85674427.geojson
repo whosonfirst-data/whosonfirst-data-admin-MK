@@ -326,17 +326,19 @@
         "gn:id":863835,
         "gp:id":24550751,
         "hasc:id":"MK.BN",
+        "iso:code":"MK-08",
         "iso:id":"MK-08",
         "qs_pg:id":1025876,
         "unlc:id":"MK-08",
         "wd:id":"Q1057563",
         "wk:page":"Brvenica Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76f57f95de629ab0df7e6bf639dabc49",
+    "wof:geomhash":"76ef7909bf0e1a89a9511ff5e1b73664",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -352,7 +354,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939440,
+    "wof:lastmodified":1695885334,
     "wof:name":"Brvenica",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

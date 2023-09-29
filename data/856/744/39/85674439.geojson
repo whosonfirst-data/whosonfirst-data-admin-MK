@@ -320,17 +320,19 @@
         "gn:id":863902,
         "gp:id":24550808,
         "hasc:id":"MK.RU",
+        "iso:code":"MK-73",
         "iso:id":"MK-73",
         "qs_pg:id":1103585,
         "unlc:id":"MK-73",
         "wd:id":"Q2308287",
         "wk:page":"Strumica Municipality"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"35842d73fbfbbb82480dd265557cf21a",
+    "wof:geomhash":"822013034525725e3235f7aae5a4309e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -346,7 +348,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939443,
+    "wof:lastmodified":1695885334,
     "wof:name":"Southeastern",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

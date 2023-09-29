@@ -332,16 +332,18 @@
         "gn:id":863834,
         "gp:id":24550828,
         "hasc:id":"MK.VJ",
+        "iso:code":"MK-06",
         "iso:id":"MK-06",
         "qs_pg:id":1103588,
         "unlc:id":"MK-06",
         "wd:id":"Q9035785"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1f08f893090382d27629ed792f94f8a",
+    "wof:geomhash":"97dcc17493da2ea80b79575897c91668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -357,7 +359,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939445,
+    "wof:lastmodified":1695885334,
     "wof:name":"Bogovinje",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

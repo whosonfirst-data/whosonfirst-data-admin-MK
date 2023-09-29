@@ -286,16 +286,18 @@
         "gn:id":7056269,
         "gp:id":55848399,
         "hasc:id":"MK.BU",
+        "iso:code":"MK-09",
         "iso:id":"MK-09",
         "qs_pg:id":46447,
         "unlc:id":"MK-09",
         "wd:id":"Q935620"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5a474c57f9b59ff3f0e8f296b4d2c47",
+    "wof:geomhash":"ec2dcba2256abc9132b2b89447dbf7d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +313,7 @@
         "mkd",
         "sqi"
     ],
-    "wof:lastmodified":1690939452,
+    "wof:lastmodified":1695885333,
     "wof:name":"Butel",
     "wof:parent_id":85632373,
     "wof:placetype":"region",

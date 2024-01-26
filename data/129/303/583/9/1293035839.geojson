@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":791358
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            833343
+        ]
+    },
     "wof:country":"MK",
     "wof:geomhash":"be70f5b61b87709cb025f8d208d598ef",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293035839,
-    "wof:lastmodified":1566605377,
+    "wof:lastmodified":1706240352,
     "wof:name":"Dolni Stubol",
     "wof:parent_id":85674187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327149237
+    ],
     "wof:tags":[]
 },
   "bbox": [

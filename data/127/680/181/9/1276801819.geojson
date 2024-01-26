@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":10306843
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10306845
+        ]
+    },
     "wof:country":"MK",
     "wof:geomhash":"30263d63bf57e4c4275392983a89f8a4",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1276801819,
-    "wof:lastmodified":1566605386,
+    "wof:lastmodified":1706240352,
     "wof:name":"Palancani",
     "wof:parent_id":85674215,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293236789
+    ],
     "wof:tags":[]
 },
   "bbox": [
